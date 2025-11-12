@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "uid": "0fcc82",
+      "name": "SAT combined",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3924:3dd007",
+      "x": [
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3924:2dde08",
+      "y": [
+        "1035",
+        "1054",
+        "1057",
+        "1069",
+        "1062",
+        "1082",
+        "1091",
+        "1068",
+        "1063",
+        "1055",
+        "1058",
+        "1060",
+        "1065",
+        "1071",
+        "1062",
+        "1057",
+        "1054",
+        "1058",
+        "1074",
+        "1070"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(188, 189, 34)"
+      },
+      "opacity": 0.75,
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "6f1ab8",
+      "line": {
+        "width": 8
+      },
+      "name": "ACT composite",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3924:3dd007",
+      "x": [
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3924:d26168",
+      "y": [
+        " 22.4 ",
+        " 22.8 ",
+        " 23.0 ",
+        " 22.9 ",
+        " 22.5 ",
+        " 22.6 ",
+        " 22.9 ",
+        " 22.4 ",
+        " 22.4 ",
+        " 22.5 ",
+        " 22.8 ",
+        " 22.5 ",
+        " 22.8 ",
+        " 23.1 ",
+        " 22.7 ",
+        " 23.1 ",
+        " 22.7 ",
+        " 22.7 ",
+        " 23.4 ",
+        " 23.6 "
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 10
+      },
+      "autobinx": true,
+      "autobiny": true
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "WCSD graduates attending NSHE cohort college entrance exams**",
+    "width": 1066,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        1996.5,
+        2016.5
+      ],
+      "tick0": 1,
+      "title": "WCSD grad year",
+      "showline": true,
+      "tickmode": "linear",
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        20,
+        25
+      ],
+      "title": "ACT composite (UNR scores)",
+      "tickfont": {
+        "color": "rgb(255, 127, 14)"
+      },
+      "autorange": false,
+      "titlefont": {
+        "color": "rgb(255, 127, 14)"
+      }
+    },
+    "height": 621,
+    "legend": {
+      "xanchor": "center",
+      "yanchor": "middle"
+    },
+    "yaxis2": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        0,
+        1148.421052631579
+      ],
+      "title": "SAT combined (UNR score)",
+      "anchor": "x",
+      "autorange": true,
+      "overlaying": "y"
+    },
+    "autosize": true,
+    "titlefont": {
+      "size": 14,
+      "color": "rgb(152, 0, 0)"
+    },
+    "breakpoints": []
+  }
+}

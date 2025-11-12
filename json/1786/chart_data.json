@@ -1,0 +1,462 @@
+{
+  "data": [
+    {
+      "uid": "bba3f9",
+      "name": "Drove alone (car, truck or van), y; % Drove alone, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3825:0f0c0b",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3825:d57c8f",
+      "y": [
+        "80.0%",
+        "78.9%",
+        "75.7%",
+        "77.4%",
+        "76.6%",
+        "79.6%",
+        "76.8%",
+        "78.7%",
+        "77.6%",
+        "78.0%",
+        "78.9%",
+        "76.2%",
+        "77.9%",
+        "78.0%"
+      ],
+      "marker": {
+        "color": "rgb(204, 65, 37)"
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "53f51f",
+      "name": "Carpooled, y; % Carpooled, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3825:0f0c0b",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3825:2f20b6",
+      "y": [
+        "11.6%",
+        "12.5%",
+        "11.9%",
+        "10.2%",
+        "10.5%",
+        "9.9%",
+        "11.4%",
+        "10.5%",
+        "10.3%",
+        "10.3%",
+        "10.7%",
+        "13.8%",
+        "10.2%",
+        "11.2%"
+      ],
+      "marker": {
+        "color": "rgb(61, 133, 198)"
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "1212a1",
+      "name": "Public transit, y; % Public transit, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3825:0f0c0b",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3825:82f859",
+      "y": [
+        "3.4%",
+        "3.4%",
+        "3.5%",
+        "3.0%",
+        "3.2%",
+        "3.0%",
+        "1.8%",
+        "2.0%",
+        "3.2%",
+        "2.4%",
+        "1.9%",
+        "1.4%",
+        "2.3%",
+        "1.7%"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "d04ec5",
+      "line": {
+        "color": "rgb(188, 189, 34)",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Commuters mean travel time, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3825:0f0c0b",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3825:db20f0",
+      "y": [
+        "21.3",
+        "21.3",
+        "21.4",
+        "21.1",
+        "20.6",
+        "21.0",
+        "20.7",
+        "21.6",
+        "22.3",
+        "21.6",
+        "20.8",
+        "20.8",
+        "21.2",
+        "22.5"
+      ],
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "f0c32b",
+      "line": {
+        "color": "rgb(204, 65, 37)",
+        "shape": "spline",
+        "width": 4
+      },
+      "name": "Drove alone (car, truck or van), y; % Drove alone, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3825:0f0c0b",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3825:d57c8f",
+      "y": [
+        "80.0%",
+        "78.9%",
+        "75.7%",
+        "77.4%",
+        "76.6%",
+        "79.6%",
+        "76.8%",
+        "78.7%",
+        "77.6%",
+        "78.0%",
+        "78.9%",
+        "76.2%",
+        "77.9%",
+        "78.0%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(204, 65, 37)"
+      },
+      "autobinx": true,
+      "autobiny": true,
+      "showlegend": false
+    },
+    {
+      "uid": "1a92a2",
+      "line": {
+        "color": "rgb(60, 120, 216)",
+        "shape": "spline",
+        "width": 4
+      },
+      "name": "Carpooled, y; % Carpooled, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3825:0f0c0b",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3825:2f20b6",
+      "y": [
+        "11.6%",
+        "12.5%",
+        "11.9%",
+        "10.2%",
+        "10.5%",
+        "9.9%",
+        "11.4%",
+        "10.5%",
+        "10.3%",
+        "10.3%",
+        "10.7%",
+        "13.8%",
+        "10.2%",
+        "11.2%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(61, 133, 198)"
+      },
+      "autobinx": true,
+      "autobiny": true,
+      "showlegend": false
+    },
+    {
+      "uid": "2526b3",
+      "line": {
+        "color": "rgb(44, 160, 44)",
+        "shape": "spline",
+        "width": 4
+      },
+      "name": "Public transit, y; % Public transit, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3825:0f0c0b",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3825:82f859",
+      "y": [
+        "3.4%",
+        "3.4%",
+        "3.5%",
+        "3.0%",
+        "3.2%",
+        "3.0%",
+        "1.8%",
+        "2.0%",
+        "3.2%",
+        "2.4%",
+        "1.9%",
+        "1.4%",
+        "2.3%",
+        "1.7%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(44, 160, 44)"
+      },
+      "autobinx": true,
+      "autobiny": true,
+      "showlegend": false
+    },
+    {
+      "uid": "00c435",
+      "line": {
+        "dash": "solid",
+        "color": "rgb(180, 167, 214)",
+        "shape": "linear",
+        "width": 3
+      },
+      "mode": "lines+markers",
+      "name": "% Walked, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3825:0f0c0b",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3825:bac69e",
+      "y": [
+        "",
+        "2.7%",
+        "2.4%",
+        "3.2%",
+        "3.2%",
+        "2.2%",
+        "2.0%",
+        "2.3%",
+        "2.2%",
+        "3.5%",
+        "2.8%",
+        "2.7%",
+        "3.1%",
+        "2.3%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 2
+        }
+      },
+      "autobinx": true,
+      "autobiny": true
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "Washoe County commuters time and transportation to work",
+    "width": 943,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2003.1738160356988,
+        2017.8261839643012
+      ],
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "-",
+      "range": [
+        0,
+        84.21052631578948
+      ],
+      "title": "Minutes",
+      "domain": [
+        0,
+        0.45
+      ],
+      "autorange": true
+    },
+    "height": 660,
+    "legend": {
+      "x": 0.30735930735930733,
+      "y": 0.22251308900523561
+    },
+    "xaxis2": {
+      "type": "linear",
+      "range": [
+        2003.20008605852,
+        2017.79991394148
+      ],
+      "anchor": "y2",
+      "domain": [
+        0,
+        1
+      ],
+      "showline": false,
+      "autorange": true,
+      "showticklabels": false
+    },
+    "yaxis2": {
+      "range": [
+        -3.952793076317861,
+        84.41856805664831
+      ],
+      "title": "%",
+      "anchor": "x2",
+      "domain": [
+        0.55,
+        1
+      ],
+      "autorange": true
+    },
+    "autosize": true,
+    "titlefont": {
+      "size": 14,
+      "color": "rgb(152, 0, 0)"
+    },
+    "showlegend": true
+  }
+}

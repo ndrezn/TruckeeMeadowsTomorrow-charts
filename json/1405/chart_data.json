@@ -1,0 +1,222 @@
+{
+  "data": [
+    {
+      "uid": "67ada1",
+      "meta": {
+        "columnNames": {
+          "x": "WCSD, x; WCSD %, x; WCSD grads, x; Grads %, x; Nevada %, x",
+          "y": "WCSD, y"
+        }
+      },
+      "name": "WCSD",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3805:2bcac8",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3805:0db042",
+      "y": [
+        "7,572",
+        "7,969",
+        "8,444",
+        "8,498",
+        "8,423",
+        "8,223",
+        "8,169",
+        "8,125",
+        "8,092",
+        "8,379",
+        "",
+        "8,317",
+        "8,702",
+        "8,888",
+        "9,008",
+        "9,122"
+      ],
+      "yaxis": "y2",
+      "opacity": 0.82
+    },
+    {
+      "uid": "5b61c8",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(31, 119, 180)",
+        "shape": "spline",
+        "width": 8
+      },
+      "meta": {
+        "columnNames": {
+          "x": "WCSD, x; WCSD %, x; WCSD grads, x; Grads %, x; Nevada %, x",
+          "y": "WCSD %, y"
+        }
+      },
+      "mode": "lines",
+      "name": "WCSD %",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3805:2bcac8",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3805:1cf9ba",
+      "y": [
+        "12.6%",
+        "12.9%",
+        "13.2%",
+        "13.1%",
+        "13.2%",
+        "13.0%",
+        "13.1%",
+        "13.0%",
+        "13.0%",
+        "13.4%",
+        "",
+        "13.8%",
+        "13.7%",
+        "13.9%",
+        "14.0%",
+        "13.6%"
+      ]
+    },
+    {
+      "uid": "a0be60",
+      "line": {
+        "color": "rgb(44, 160, 44)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "WCSD, x; WCSD %, x; WCSD grads, x; Grads %, x; Nevada %, x",
+          "y": "Nevada %, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Nevada %",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3805:2bcac8",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3805:14990d",
+      "y": [
+        "11.1%",
+        "11.5%",
+        "11.1%",
+        "11.2%",
+        "11.0%",
+        "10.8%",
+        "10.4%",
+        "10.8%",
+        "10.8%",
+        "11.0%",
+        "",
+        "11.8%",
+        "11.8%",
+        "12.3%",
+        "12.2%",
+        "12.9%"
+      ]
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "Students receiving services with an individualized education plan (IEP)"
+    },
+    "width": 885,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2003.0697674418604,
+        2019.9302325581396
+      ],
+      "title": {
+        "text": "School year-ending"
+      },
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "-",
+      "range": [
+        10.15948827292111,
+        14.202132196162047
+      ],
+      "title": {
+        "text": "% of students receiving services"
+      },
+      "autorange": true
+    },
+    "height": 575,
+    "legend": {
+      "x": 0.3383473128300714,
+      "y": 0.5556962025316455
+    },
+    "yaxis2": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        0,
+        9602.105263157895
+      ],
+      "title": {
+        "text": "Student enrollment"
+      },
+      "anchor": "x",
+      "showgrid": false,
+      "autorange": true,
+      "overlaying": "y"
+    },
+    "barmode": "overlay",
+    "autosize": true,
+    "showlegend": true
+  }
+}

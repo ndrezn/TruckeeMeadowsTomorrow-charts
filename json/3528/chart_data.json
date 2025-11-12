@@ -1,0 +1,190 @@
+{
+  "data": [
+    {
+      "uid": "06ce4b",
+      "fill": "tonexty",
+      "line": {
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Enrollment, x; Primary government\u2013cost per pupil, x",
+          "y": "Enrollment"
+        }
+      },
+      "mode": "lines",
+      "name": "Enrollment",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3538:a386ba",
+      "x": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3538:7cd6b5",
+      "y": [
+        " 55,561 ",
+        " 57,583 ",
+        " 58,903 ",
+        " 60,408 ",
+        " 62,097 ",
+        " 62,372 ",
+        " 63,025 ",
+        " 63,628 ",
+        " 63,287 ",
+        " 62,455 ",
+        " 62,323 ",
+        " 62,217 ",
+        " 62,368 ",
+        " 62,963 ",
+        " 63,070 ",
+        "63,670",
+        "\u00a0\t63,919\u00a0",
+        "\u00a0\t63,914\u00a0",
+        "\u00a0\t63,876\u00a0"
+      ]
+    },
+    {
+      "uid": "9d82c3",
+      "meta": {
+        "columnNames": {
+          "x": "Enrollment, x; Primary government\u2013cost per pupil, x",
+          "y": "Primary government\u2013cost per pupil"
+        }
+      },
+      "name": "Primary government\u2013cost per pupil",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3538:a386ba",
+      "x": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3538:e48eba",
+      "y": [
+        "",
+        " $6,651 ",
+        " $6,607 ",
+        " $6,902 ",
+        " $7,165 ",
+        " $7,395 ",
+        " $7,967 ",
+        " $8,434 ",
+        " $8,910 ",
+        " $9,087 ",
+        " $9,169 ",
+        " $9,087 ",
+        " $8,986 ",
+        " $8,897 ",
+        " $9,511 ",
+        " $9,563 ",
+        "\u00a0$\t10,176\u00a0",
+        "\u00a0$\t10,256\u00a0",
+        "\u00a0$\t10,505\u00a0"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(44, 160, 44)"
+      },
+      "opacity": 0.9
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "\n\n\n\n\n\n\n\nWashoe County School District operating statistics"
+    },
+    "width": 993,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2000.5,
+        2019.5
+      ],
+      "title": {
+        "text": "FY-ending June 30th"
+      },
+      "showline": true,
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "-",
+      "dtick": 2,
+      "range": [
+        0,
+        67283.15789473684
+      ],
+      "tick0": 1,
+      "title": {
+        "text": "Enrollment"
+      },
+      "showline": false,
+      "tickmode": "auto",
+      "autorange": true,
+      "gridwidth": 1
+    },
+    "height": 613,
+    "legend": {
+      "x": 0.35805136497277923,
+      "y": 0.6059113300492611
+    },
+    "yaxis2": {
+      "side": "right",
+      "range": [
+        0,
+        11057.894736842105
+      ],
+      "title": {
+        "font": {
+          "size": 14,
+          "color": "rgb(44, 160, 44)"
+        },
+        "text": "Primary government cost per pupil ($)"
+      },
+      "anchor": "x",
+      "tickfont": {
+        "color": "rgb(44, 160, 44)"
+      },
+      "autorange": true,
+      "gridcolor": "rgb(44, 160, 44)",
+      "overlaying": "y"
+    },
+    "autosize": true
+  }
+}

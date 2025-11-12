@@ -1,0 +1,117 @@
+{
+  "data": [
+    {
+      "uid": "7b36ec",
+      "name": "Total",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3787:bb69b3",
+      "x": [
+        " 3,300 ",
+        " 3,290 "
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3787:1af297",
+      "y": [
+        "2007",
+        "2008"
+      ],
+      "orientation": "h"
+    },
+    {
+      "uid": "30e586",
+      "name": " Hydroelectric conventional ",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3787:daddd7",
+      "x": [
+        " 2,003 ",
+        " 1,751 "
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3787:1af297",
+      "y": [
+        "2007",
+        "2008"
+      ],
+      "orientation": "h"
+    },
+    {
+      "uid": "deaf06",
+      "name": " Non-hydroelectric total ",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3787:1674d9",
+      "x": [
+        " 1,297 ",
+        " 1,539 "
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3787:1af297",
+      "y": [
+        "2007",
+        "2008"
+      ],
+      "orientation": "h"
+    },
+    {
+      "uid": "ba5140",
+      "name": "Geothermal",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3787:53395b",
+      "x": [
+        " 1,253 ",
+        " 1,383 "
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3787:1af297",
+      "y": [
+        "2007",
+        "2008"
+      ],
+      "orientation": "h"
+    },
+    {
+      "uid": "e77885",
+      "name": "Solar thermal/PV",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3787:da6067",
+      "x": [
+        " 44 ",
+        " 156 "
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3787:1af297",
+      "y": [
+        "2007",
+        "2008"
+      ],
+      "orientation": "h"
+    }
+  ],
+  "layout": {
+    "font": {
+      "size": 14
+    },
+    "width": 984,
+    "xaxis": {
+      "range": [
+        -10.820121861317773,
+        3497.7751953784204
+      ],
+      "ticks": "inside",
+      "title": "Renewable electric generation (MWH)",
+      "autorange": false
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        2006.4891889172914,
+        2008.509289251459
+      ],
+      "ticks": "inside",
+      "autotick": false,
+      "autorange": false
+    },
+    "height": 1085,
+    "legend": {
+      "x": 0.6492718446601942,
+      "y": 0.7182320441988951
+    },
+    "barmode": "overlay",
+    "autosize": true,
+    "showlegend": true
+  }
+}

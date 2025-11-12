@@ -1,0 +1,223 @@
+{
+  "data": [
+    {
+      "uid": "01c451",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Population served by TMWA"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Population served by TMWA",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3930:3043fa",
+      "x": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3930:084480",
+      "y": [
+        "\u00a0\t311,154\u00a0",
+        "\u00a0\t329,631\u00a0",
+        "\u00a0\t344,724\u00a0",
+        "\u00a0\t358,520\u00a0",
+        "\u00a0\t366,897\u00a0",
+        "\u00a0\t368,462\u00a0",
+        "\u00a0\t369,788\u00a0",
+        "\u00a0\t372,769\u00a0",
+        "\u00a0\t375,870\u00a0",
+        "\u00a0\t377,971\u00a0",
+        "\u00a0\t379,853\u00a0",
+        "\u00a0\t383,426\u00a0",
+        "\u00a0\t392,611\u00a0",
+        "\u00a0\t399,223\u00a0",
+        "\u00a0\t405,983\u00a0",
+        "\u00a0\t414,554\u00a0",
+        "\u00a0\t422,815\u00a0",
+        "\u00a0\t433,605\u00a0",
+        "\u00a0\t449,624\u00a0",
+        "\u00a0\t457,136\u00a0",
+        "\u00a0\t465,174\u00a0",
+        "\u00a0\t475,453\u00a0"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 8,
+        "color": "rgb(60, 147, 255)"
+      },
+      "opacity": 1,
+      "orientation": "v"
+    },
+    {
+      "uid": "e9c0cc",
+      "line": {
+        "shape": "spline",
+        "width": 7
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Average RMWS use (gallons)"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Residential per capita daily water use (gallons)",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3930:3043fa",
+      "x": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3930:1b3b9e",
+      "y": [
+        "142",
+        "140",
+        "133",
+        "131",
+        "144",
+        "138",
+        "129",
+        "129",
+        "127",
+        "143",
+        "138",
+        "136",
+        "117",
+        "127",
+        "126",
+        "128",
+        "121",
+        "129",
+        "124",
+        "119",
+        "108",
+        "117"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 5,
+        "color": "rgb(2, 222, 17)",
+        "symbol": "circle-open"
+      }
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(10, 0, 0)"
+      },
+      "text": "<b>Truckee Meadows Water Authority (TMWA) per capita use &amp; population growth</b><br><br>\n<b>Source:</b> &nbsp;Truckee Meadows Water Authority, <a href=\"https://tmwa.com/wp-content/uploads/2020/11/TMWA-WRP-2020-Final.pdf\">Water Resources Plan</a>"
+    },
+    "width": 1184,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 5,
+      "range": [
+        2002.25,
+        2024.25
+      ],
+      "tick0": 0,
+      "title": {
+        "text": "<br>"
+      },
+      "anchor": "y",
+      "showline": false,
+      "tickmode": "linear",
+      "autorange": false
+    },
+    "yaxis": {
+      "range": [
+        0,
+        500476.84210526315
+      ],
+      "title": {
+        "text": "TMWA population"
+      },
+      "showgrid": false,
+      "autorange": true
+    },
+    "bargap": 0.5,
+    "height": 657,
+    "legend": {
+      "x": 0.4870038770261844,
+      "y": 0.9727463312368972,
+      "font": {
+        "size": 10
+      },
+      "xanchor": "left"
+    },
+    "yaxis2": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        105.70452665169601,
+        146.29547334830397
+      ],
+      "title": {
+        "font": {
+          "color": "rgb(2, 222, 17)"
+        },
+        "text": "<b>Per capita daily water use (average </b><br><b>gallons)</b>"
+      },
+      "showgrid": false,
+      "showline": false,
+      "autorange": true,
+      "linewidth": 1,
+      "overlaying": "y"
+    },
+    "autosize": true,
+    "bargroupgap": 0
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "data": [
+    {
+      "uid": "ad3f0e",
+      "line": {
+        "shape": "spline"
+      },
+      "mode": "lines",
+      "name": "SNAP households",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3517:554f0a",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3517:40e6d5",
+      "y": [
+        "",
+        " 38,595 ",
+        " 36,060 ",
+        " 37,815 ",
+        " 50,005 ",
+        " 65,473 ",
+        " 97,141 ",
+        " 105,596 ",
+        " 126,482 ",
+        " 118,435 ",
+        " 125,987 ",
+        " 136,603 ",
+        "\u00a0138,304\u00a0",
+        "\u00a0133,137\u00a0"
+      ],
+      "marker": {
+        "color": "rgb(44, 160, 44)"
+      },
+      "stackgroup": 1
+    },
+    {
+      "uid": "938cdc",
+      "line": {
+        "color": "rgb(214, 39, 40)",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Households \u2265 2 workers past 12 months",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3517:554f0a",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3517:160504",
+      "y": [
+        "",
+        "26.2%",
+        "29.5%",
+        "31.7%",
+        "31.9%",
+        "30.1%",
+        "29.5%",
+        "28.7%",
+        "28.2%",
+        "29.6%",
+        "30.6%",
+        "31.5%",
+        "34.3%",
+        "34.4%"
+      ],
+      "yaxis": "y2"
+    },
+    {
+      "uid": "f1fff7",
+      "line": {
+        "color": "rgb(31, 119, 180)",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Households with cash public assistance income",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3517:554f0a",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3517:d5a42a",
+      "y": [
+        "",
+        "",
+        "",
+        "1.7%",
+        "2.2%",
+        "2.7%",
+        "3.0%",
+        "3.3%",
+        "3.2%",
+        "3.1%",
+        "3.1%",
+        "3.4%",
+        "3.0%",
+        "2.6%"
+      ],
+      "yaxis": "y2"
+    },
+    {
+      "uid": "c05a32",
+      "line": {
+        "color": "rgb(255, 127, 14)",
+        "shape": "hvh",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Households with SNAP/Food Stamp benefits in past 12-mo.",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3517:554f0a",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3517:0482e7",
+      "y": [
+        "",
+        "",
+        "",
+        "4.0%",
+        "5.2%",
+        "6.8%",
+        "9.8%",
+        "10.7%",
+        "12.6%",
+        "11.8%",
+        "12.3%",
+        "13.1%",
+        "13.1%",
+        "12.2%"
+      ],
+      "yaxis": "y2"
+    },
+    {
+      "uid": "1ad825",
+      "line": {
+        "color": "rgb(39, 78, 19)",
+        "shape": "hvh",
+        "width": 4
+      },
+      "mode": "lines+markers",
+      "name": "Benefit per households",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3517:554f0a",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3517:9c7b30",
+      "y": [
+        " $185.99 ",
+        " $192.50 ",
+        " $190.52 ",
+        " $193.28 ",
+        " $204.86 ",
+        " $256.39 ",
+        " $267.87 ",
+        " $264.88 ",
+        " $258.81 ",
+        " $255.40 ",
+        " $236.97 ",
+        " $240.56 ",
+        "\u00a0$236.04\u00a0"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y3",
+      "marker": {
+        "line": {
+          "width": 1
+        }
+      }
+    },
+    {
+      "uid": "4dda6f",
+      "line": {
+        "color": "rgb(0, 255, 0)",
+        "shape": "hvh",
+        "width": 4
+      },
+      "mode": "lines+markers",
+      "name": "Benefits per person",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3517:554f0a",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3517:b56123",
+      "y": [
+        " $82.56 ",
+        " $86.33 ",
+        " $87.64 ",
+        " $90.06 ",
+        " $95.69 ",
+        " $119.04 ",
+        " $124.23 ",
+        " $124.36 ",
+        " $123.35 ",
+        " $123.57 ",
+        " $116.59 ",
+        " $120.04 ",
+        "\u00a0$119.29\u00a0"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y3",
+      "marker": {
+        "line": {
+          "width": 1
+        }
+      }
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "Nevada SNAP participants"
+    },
+    "width": 888,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2003.0892670703695,
+        2017.9107329296305
+      ],
+      "domain": [
+        0,
+        0.45
+      ],
+      "showline": true,
+      "zeroline": true,
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "-",
+      "range": [
+        0,
+        145583.15789473685
+      ],
+      "title": {
+        "text": "Estimated # SNAP households"
+      },
+      "zeroline": false,
+      "autorange": true
+    },
+    "height": 616,
+    "legend": {
+      "x": 0.5205354814676849,
+      "y": 0.40596330275229353,
+      "font": {
+        "size": 10
+      }
+    },
+    "xaxis2": {
+      "type": "linear",
+      "range": [
+        2003.159323449572,
+        2016.840676550428
+      ],
+      "anchor": "y3",
+      "domain": [
+        0.55,
+        1
+      ],
+      "showline": true,
+      "autorange": true
+    },
+    "yaxis2": {
+      "side": "right",
+      "range": [
+        -0.4706547155105223,
+        36.57065471551052
+      ],
+      "title": {
+        "text": "% households"
+      },
+      "anchor": "x",
+      "zeroline": false,
+      "autorange": true,
+      "overlaying": "y"
+    },
+    "yaxis3": {
+      "side": "right",
+      "range": [
+        70.2589594699922,
+        280.1710405300078
+      ],
+      "title": {
+        "font": {
+          "color": "rgb(44, 160, 44)"
+        },
+        "text": "Average monthly SNAP benefit ($)"
+      },
+      "anchor": "x2",
+      "domain": [
+        0,
+        1
+      ],
+      "tickfont": {
+        "color": "rgb(44, 160, 44)"
+      },
+      "autorange": true
+    },
+    "autosize": true
+  }
+}

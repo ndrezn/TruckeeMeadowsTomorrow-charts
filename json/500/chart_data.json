@@ -1,0 +1,257 @@
+{
+  "data": [
+    {
+      "uid": "030baa",
+      "line": {
+        "shape": "vhv",
+        "width": 10
+      },
+      "mode": "lines",
+      "name": "Maintenance FTE",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3784:1056b5",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3784:f9d1e1",
+      "y": [
+        "",
+        "19.2",
+        "23.2",
+        "25.0",
+        "26.5",
+        "",
+        "",
+        "26.75"
+      ],
+      "opacity": 0.78,
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "d45b48",
+      "line": {
+        "shape": "vhv",
+        "width": 10
+      },
+      "mode": "lines",
+      "name": "Parks acres maintained per FTE",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3784:1056b5",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3784:13d066",
+      "y": [
+        "",
+        "50.9",
+        "42.4",
+        "41.2",
+        "52.8",
+        "",
+        "",
+        "44.9"
+      ]
+    },
+    {
+      "uid": "7d6062",
+      "line": {
+        "dash": "dot",
+        "shape": "spline",
+        "width": 10
+      },
+      "mode": "lines",
+      "name": "Park expenditure per acre in inventory",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3784:1056b5",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3784:fadb61",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        " $873 ",
+        " $875 ",
+        " $614 ",
+        " $511 "
+      ],
+      "yaxis": "y2"
+    },
+    {
+      "uid": "7ebfdb",
+      "line": {
+        "shape": "vhv",
+        "width": 10
+      },
+      "mode": "lines",
+      "name": "Acres managed & maintained per FTE",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3784:1056b5",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3784:003e71",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "168",
+        "175",
+        "175"
+      ],
+      "opacity": 0.61,
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "8fc4ad",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines",
+      "name": "# Active adopted parks, trails, open space & garden agreements",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3784:1056b5",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3784:014cfb",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "34",
+        "38",
+        "32",
+        "50"
+      ]
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "font": {
+      "size": 12
+    },
+    "title": "Washoe County regional park maintenance & management",
+    "width": 891,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2004.5,
+        2013
+      ],
+      "title": "Fiscal year",
+      "tickfont": {
+        "size": 12
+      },
+      "tickmode": "linear",
+      "autorange": true,
+      "titlefont": {
+        "size": 14
+      }
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        184.21052631578948
+      ],
+      "title": "# / acres /\u00a0FTE",
+      "tickfont": {
+        "size": 12
+      },
+      "autorange": true,
+      "titlefont": {
+        "size": 14
+      }
+    },
+    "height": 579,
+    "legend": {
+      "x": 0.014013452914798207,
+      "y": 0.9527991218441273,
+      "font": {
+        "size": 12
+      },
+      "bgcolor": "rgba(0, 0, 0, 0)"
+    },
+    "yaxis2": {
+      "side": "right",
+      "range": [
+        490.77777777777777,
+        895.2222222222222
+      ],
+      "title": "Expenditure $",
+      "anchor": "x",
+      "showgrid": false,
+      "tickfont": {
+        "size": 12,
+        "color": "rgb(44, 160, 44)"
+      },
+      "autorange": true,
+      "titlefont": {
+        "size": 14,
+        "color": "rgb(44, 160, 44)"
+      },
+      "overlaying": "y"
+    },
+    "barmode": "overlay",
+    "autosize": true,
+    "dragmode": "zoom",
+    "titlefont": {
+      "size": 14,
+      "color": "rgb(152, 0, 0)"
+    },
+    "showlegend": true,
+    "breakpoints": []
+  }
+}

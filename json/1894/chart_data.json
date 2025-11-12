@@ -1,0 +1,520 @@
+{
+  "data": [
+    {
+      "uid": "3c87d9",
+      "line": {
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "PIT count year",
+          "y": "Persons in emergency, transitional, or permanent supportive housing*, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Persons in emergency, transitional, or permanent supportive housing*",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3828:fc98f5",
+      "x": [
+        "2002",
+        "2005",
+        "2006",
+        "2007",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3828:202a27",
+      "y": [
+        " 758 ",
+        " 2,584 ",
+        " 869 ",
+        " 923 ",
+        "",
+        "",
+        " 704 ",
+        " 705 ",
+        " 751 ",
+        " 672 ",
+        " 794 ",
+        " 844 ",
+        " 1,026 ",
+        "1,008",
+        "1020",
+        "772",
+        "928"
+      ],
+      "marker": {
+        "line": {
+          "width": 2
+        }
+      },
+      "connectgaps": true
+    },
+    {
+      "uid": "01bb14",
+      "line": {
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "PIT count year",
+          "y": "Persons in emergency housing, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Persons in emergency housing",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3828:fc98f5",
+      "x": [
+        "2002",
+        "2005",
+        "2006",
+        "2007",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3828:7cfd3c",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        " 713 ",
+        " 464 ",
+        " 483 ",
+        " 407 ",
+        " 446 ",
+        " 349 ",
+        " 454 ",
+        " 452 ",
+        " 550 ",
+        "621",
+        "630",
+        "514",
+        "697"
+      ],
+      "marker": {
+        "line": {
+          "width": 2
+        }
+      }
+    },
+    {
+      "uid": "bb64bd",
+      "line": {
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "PIT count year",
+          "y": "Persons in transitional housing, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Persons in transitional housing",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3828:fc98f5",
+      "x": [
+        "2002",
+        "2005",
+        "2006",
+        "2007",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3828:5a2ddb",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        " 146 ",
+        " 231 ",
+        " 292 ",
+        " 298 ",
+        " 305 ",
+        " 323 ",
+        " 340 ",
+        " 392 ",
+        " 476 ",
+        "387",
+        "400",
+        "258",
+        "231"
+      ],
+      "marker": {
+        "line": {
+          "width": 2
+        }
+      }
+    },
+    {
+      "uid": "96f1fa",
+      "meta": {
+        "columnNames": {
+          "x": "PIT count year",
+          "y": "Men in emergency shelters [4], y"
+        }
+      },
+      "name": "Men in emergency shelters [4]",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3828:fc98f5",
+      "x": [
+        "2002",
+        "2005",
+        "2006",
+        "2007",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3828:77761c",
+      "y": [
+        " 124 ",
+        " 216 ",
+        " 205 ",
+        " 306 ",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "450"
+      ]
+    },
+    {
+      "uid": "18fdab",
+      "meta": {
+        "columnNames": {
+          "x": "PIT count year",
+          "y": "Individuals &amp;amp;amp;amp;amp;amp; family members in emergency shelters, y"
+        }
+      },
+      "name": "Individuals &amp; family members in emergency shelters",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3828:fc98f5",
+      "x": [
+        "2002",
+        "2005",
+        "2006",
+        "2007",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3828:2aa1c0",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        " 401 ",
+        " 391 ",
+        " 412 ",
+        " 407 ",
+        " 446 ",
+        " 349 ",
+        " 454 ",
+        " 452 ",
+        " 550 ",
+        "621",
+        "630",
+        "414"
+      ]
+    },
+    {
+      "uid": "b52f0e",
+      "meta": {
+        "columnNames": {
+          "x": "PIT count year",
+          "y": "Veterans\u2013sheltered, y"
+        }
+      },
+      "mode": "markers",
+      "name": "Veterans\u2013sheltered",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3828:fc98f5",
+      "x": [
+        "2002",
+        "2005",
+        "2006",
+        "2007",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3828:4efec1",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "38",
+        "92",
+        "",
+        "104",
+        "",
+        "103",
+        "121",
+        "99"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 12
+      },
+      "opacity": 1
+    },
+    {
+      "uid": "e09309",
+      "meta": {
+        "columnNames": {
+          "x": "PIT count year",
+          "y": "Veterans\u2013unsheltered, y"
+        }
+      },
+      "mode": "markers",
+      "name": "Veterans\u2013unsheltered",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3828:fc98f5",
+      "x": [
+        "2002",
+        "2005",
+        "2006",
+        "2007",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3828:5d7804",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "27",
+        "20",
+        "",
+        "15",
+        null,
+        "8",
+        "4",
+        "20",
+        "16",
+        "38"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 4
+        },
+        "size": 12,
+        "color": "rgb(255, 255, 0)"
+      },
+      "opacity": 0.55
+    },
+    {
+      "uid": "5f8f6b",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "PIT count year",
+          "y": "Veterans, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Veterans",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3828:fc98f5",
+      "x": [
+        "2002",
+        "2005",
+        "2006",
+        "2007",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3828:3b5899",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "65",
+        "212",
+        "",
+        "119",
+        "",
+        "111",
+        "125",
+        "119"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 2
+        }
+      },
+      "connectgaps": true
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": ""
+    },
+    "width": 782,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2000.6630206909124,
+        2022.207091422842
+      ],
+      "title": {
+        "text": "January [2021 = February 4th]"
+      },
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        -19.017467248908304,
+        2749.0174672489084
+      ],
+      "title": {
+        "text": "Persons sheltered or housed"
+      },
+      "autorange": true
+    },
+    "height": 570,
+    "legend": {
+      "x": 0.028938906752411574,
+      "y": 0.8307692307692307
+    },
+    "yaxis2": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        -12.529801324503314,
+        226.23399558498897
+      ],
+      "title": {
+        "text": "Homeless Veterans"
+      },
+      "anchor": "x",
+      "autorange": true,
+      "gridwidth": 1.5,
+      "overlaying": "y",
+      "zerolinewidth": 2
+    },
+    "autosize": true,
+    "showlegend": true
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": [
+    {
+      "uid": "275778",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Bicycle",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:2026:629cc3",
+      "x": [
+        "2000",
+        "",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:2026:d492f5",
+      "y": [
+        "0.7%",
+        "",
+        "0.9%",
+        "0.6%",
+        "0.5%",
+        "0.6%",
+        "0.9%",
+        "0.7%",
+        "0.7%",
+        "0.5%",
+        "0.4%",
+        "0.7%",
+        "0.6%"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        }
+      }
+    },
+    {
+      "uid": "aa61fc",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Walk",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:2026:629cc3",
+      "x": [
+        "2000",
+        "",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:2026:43f163",
+      "y": [
+        "3.2%",
+        "",
+        "2.4%",
+        "3.2%",
+        "3.2%",
+        "2.2%",
+        "2.0%",
+        "2.3%",
+        "2.2%",
+        "3.5%",
+        "2.8%",
+        "2.7%",
+        "2.7%"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "color": "rgb(12, 237, 82)"
+      }
+    },
+    {
+      "uid": "7869e8",
+      "transforms": [
+        {
+          "rms": "",
+          "type": "fit",
+          "inputUid": "275778",
+          "regressor": "x",
+          "parameters": [
+            {
+              "hold": false,
+              "name": "m",
+              "error": 0.009505432740056581,
+              "value": -0.0052524666277541715
+            },
+            {
+              "hold": false,
+              "name": "b",
+              "error": 19.111817503905453,
+              "value": 11.222228670479886
+            }
+          ],
+          "regressand": "y",
+          "correlation": "",
+          "fitfunction": "m*x + b",
+          "inputxrange": [],
+          "outputxrange": [],
+          "interpolation": 50
+        }
+      ]
+    },
+    {
+      "uid": "67061a",
+      "transforms": [
+        {
+          "rms": "",
+          "type": "fit",
+          "inputUid": "aa61fc",
+          "regressor": "x",
+          "parameters": [
+            {
+              "hold": false,
+              "name": "m",
+              "error": 0.02989124857336168,
+              "value": -0.026233313988535973
+            },
+            {
+              "hold": false,
+              "name": "b",
+              "error": 60.099955816897925,
+              "value": 55.414335464027175
+            }
+          ],
+          "regressand": "y",
+          "correlation": "",
+          "fitfunction": "m*x + b",
+          "inputxrange": [],
+          "outputxrange": [],
+          "interpolation": 50
+        }
+      ]
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "Washoe County workers \u226516 commuting by bicycle or walking"
+    },
+    "width": 1368.67,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        1998.9900055524708,
+        2018.0099944475292
+      ],
+      "showline": true,
+      "autorange": true,
+      "gridwidth": 1.5,
+      "linewidth": 1.5
+    },
+    "yaxis": {
+      "type": "-",
+      "range": [
+        0.20306161500191347,
+        3.6969383849980866
+      ],
+      "title": {
+        "text": "Percentage"
+      },
+      "autorange": true
+    },
+    "height": 768.708,
+    "legend": {
+      "x": 0.14891041162227603,
+      "y": 0.6078886310904872
+    },
+    "autosize": true,
+    "showlegend": true
+  }
+}

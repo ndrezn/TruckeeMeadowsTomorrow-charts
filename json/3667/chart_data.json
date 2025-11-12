@@ -1,0 +1,292 @@
+{
+  "data": [
+    {
+      "uid": "945a3d",
+      "line": {
+        "color": "rgb(102, 102, 102)",
+        "width": 4
+      },
+      "mode": "lines+markers",
+      "name": "Natural resources and mining",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3961:d6fedd",
+      "x": [
+        "5-Year \u0394",
+        "1-Year \u0394"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3961:0a0261",
+      "y": [
+        "36.40%",
+        "4.08%"
+      ],
+      "marker": {
+        "size": 4
+      },
+      "textsrc": "TruckeeMeadowsTomorrow:3961:d59ab1"
+    },
+    {
+      "uid": "4f242e",
+      "line": {
+        "dash": "dot",
+        "width": 4
+      },
+      "mode": "lines+markers",
+      "name": "Construction",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3961:d6fedd",
+      "x": [
+        "5-Year \u0394",
+        "1-Year \u0394"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3961:062d0b",
+      "y": [
+        "31.49%",
+        "5.28%"
+      ],
+      "marker": {
+        "size": 4
+      },
+      "textsrc": "TruckeeMeadowsTomorrow:3961:d59ab1"
+    },
+    {
+      "uid": "f8e565",
+      "line": {
+        "width": 4
+      },
+      "mode": "lines+markers",
+      "name": "Manufacturing",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3961:d6fedd",
+      "x": [
+        "5-Year \u0394",
+        "1-Year \u0394"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3961:d127f6",
+      "y": [
+        "10.43%",
+        "1.60%"
+      ],
+      "marker": {
+        "size": 4
+      },
+      "textsrc": "TruckeeMeadowsTomorrow:3961:d59ab1"
+    },
+    {
+      "uid": "fdad98",
+      "line": {
+        "color": "rgb(140, 86, 75)",
+        "width": 4
+      },
+      "mode": "lines+markers",
+      "name": "Trade, transportation and utilities",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3961:d6fedd",
+      "x": [
+        "5-Year \u0394",
+        "1-Year \u0394"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3961:f3859e",
+      "y": [
+        "14.71%",
+        "2.56%"
+      ],
+      "marker": {
+        "size": 4
+      },
+      "textsrc": "TruckeeMeadowsTomorrow:3961:d59ab1"
+    },
+    {
+      "uid": "5e3294",
+      "line": {
+        "color": "rgb(214, 39, 40)",
+        "width": 4
+      },
+      "mode": "lines+markers",
+      "name": "Information",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3961:d6fedd",
+      "x": [
+        "5-Year \u0394",
+        "1-Year \u0394"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3961:528769",
+      "y": [
+        "21.01%",
+        "3.79%"
+      ],
+      "marker": {
+        "size": 4
+      },
+      "textsrc": "TruckeeMeadowsTomorrow:3961:d59ab1"
+    },
+    {
+      "uid": "db5429",
+      "line": {
+        "color": "rgb(0, 255, 0)",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Financial activities",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3961:d6fedd",
+      "x": [
+        "5-Year \u0394",
+        "1-Year \u0394"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3961:1e4783",
+      "y": [
+        "11.67%",
+        "5.31%"
+      ],
+      "marker": {
+        "size": 4
+      },
+      "textsrc": "TruckeeMeadowsTomorrow:3961:d59ab1"
+    },
+    {
+      "uid": "3a138d",
+      "line": {
+        "width": 4
+      },
+      "mode": "lines+markers",
+      "name": "Professional and business services",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3961:d6fedd",
+      "x": [
+        "5-Year \u0394",
+        "1-Year \u0394"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3961:c67b70",
+      "y": [
+        "9.36%",
+        "0.25%"
+      ],
+      "marker": {
+        "size": 4
+      },
+      "textsrc": "TruckeeMeadowsTomorrow:3961:d59ab1"
+    },
+    {
+      "uid": "d2f906",
+      "line": {
+        "width": 4
+      },
+      "mode": "lines+markers",
+      "name": "Education and health services",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3961:d6fedd",
+      "x": [
+        "5-Year \u0394",
+        "1-Year \u0394"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3961:8fbc31",
+      "y": [
+        "6.22%",
+        "1.86%"
+      ],
+      "marker": {
+        "size": 4
+      },
+      "textsrc": "TruckeeMeadowsTomorrow:3961:d59ab1"
+    },
+    {
+      "uid": "1afee8",
+      "line": {
+        "width": 4
+      },
+      "mode": "lines+markers",
+      "name": "Leisure and hospitality",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3961:d6fedd",
+      "x": [
+        "5-Year \u0394",
+        "1-Year \u0394"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3961:befb5b",
+      "y": [
+        "50.45%",
+        "2.16%"
+      ],
+      "marker": {
+        "size": 4
+      },
+      "textsrc": "TruckeeMeadowsTomorrow:3961:d59ab1"
+    },
+    {
+      "uid": "43e051",
+      "line": {
+        "width": 4
+      },
+      "mode": "lines+markers",
+      "name": "Other services",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3961:d6fedd",
+      "x": [
+        "5-Year \u0394",
+        "1-Year \u0394"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3961:d51b5b",
+      "y": [
+        "2.07%",
+        "2.50%"
+      ],
+      "marker": {
+        "size": 4
+      },
+      "textsrc": "TruckeeMeadowsTomorrow:3961:d59ab1"
+    },
+    {
+      "uid": "809995",
+      "line": {
+        "dash": "dash",
+        "width": 4
+      },
+      "mode": "lines+markers",
+      "name": "Public administration",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3961:d6fedd",
+      "x": [
+        "5-Year \u0394",
+        "1-Year \u0394"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3961:507689",
+      "marker": {
+        "size": 4
+      },
+      "textsrc": "TruckeeMeadowsTomorrow:3961:d59ab1"
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "Washoe County average weekly employment wages by industry percentage change"
+    },
+    "width": 1051,
+    "xaxis": {
+      "type": "category",
+      "range": [
+        -0.06085160470289163,
+        1.0608516047028915
+      ],
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "-",
+      "range": [
+        -25.380639253628196,
+        32.170639253628195
+      ],
+      "title": {
+        "text": "% change"
+      },
+      "autorange": true,
+      "zerolinewidth": 1.5
+    },
+    "height": 669,
+    "autosize": true
+  }
+}

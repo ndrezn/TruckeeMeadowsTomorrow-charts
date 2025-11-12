@@ -1,0 +1,293 @@
+{
+  "data": [
+    {
+      "uid": "495ff7",
+      "name": "English",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3817:e41488",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3817:1a9cb0",
+      "y": [
+        "36%",
+        "38%",
+        "35%",
+        "33%",
+        "33%",
+        "31%",
+        "12%",
+        "17%",
+        "13%",
+        "14%"
+      ]
+    },
+    {
+      "uid": "9d14d0",
+      "name": "Math",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3817:e41488",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3817:ffa62f",
+      "y": [
+        "36%",
+        "39%",
+        "33%",
+        "32%",
+        "31%",
+        "29%",
+        "30%",
+        "39%",
+        "30%",
+        "36%"
+      ]
+    },
+    {
+      "uid": "4c2d2d",
+      "line": {
+        "shape": "hvh",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Below cut",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3817:e41488",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3817:169eed",
+      "y": [
+        "",
+        "49%",
+        "47%",
+        "46%",
+        "46%",
+        "42%",
+        "33%",
+        "37%",
+        "33%",
+        "38%",
+        "34%"
+      ]
+    },
+    {
+      "uid": "9e4429",
+      "name": "Col6",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3817:e41488",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3817:43e728",
+      "y": [
+        "84%",
+        "79%",
+        "79%",
+        "81%",
+        "82%",
+        "84%",
+        "80%",
+        "70%",
+        "66%",
+        "50%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(31, 119, 180)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "07b13f",
+      "name": "Col7",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3817:e41488",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3817:60bb36",
+      "y": [
+        "74%",
+        "77%",
+        "75%",
+        "76%",
+        "75%",
+        "92%",
+        "86%",
+        "88%",
+        "83%",
+        "77%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(255, 127, 14)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "8645f9",
+      "line": {
+        "color": "rgb(44, 160, 44)",
+        "shape": "hvh",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Col5",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3817:e41488",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3817:cc2955",
+      "y": [
+        "",
+        "87%",
+        "88%",
+        "89%",
+        "90%",
+        "95%",
+        "89%",
+        "90%",
+        "89%",
+        "82%",
+        "77%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "showlegend": false
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "\n\n\n\n\n\n\n\nWCSD graduates with placement scores below cut-off for college-level work, needing remediation",
+    "width": 1189,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2003.3990855649902,
+        2014.6009144350098
+      ],
+      "tick0": 1,
+      "tickmode": "linear",
+      "autorange": true
+    },
+    "yaxis": {
+      "range": [
+        0,
+        52.72372159090909
+      ],
+      "title": "% UNR",
+      "domain": [
+        0,
+        0.45
+      ],
+      "autorange": true
+    },
+    "height": 584,
+    "legend": {
+      "x": 0.07111111111111111,
+      "y": 0.7775175644028103
+    },
+    "xaxis2": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2003.3990855649902,
+        2014.6009144350098
+      ],
+      "tick0": 1,
+      "anchor": "y2",
+      "domain": [
+        0,
+        1
+      ],
+      "tickmode": "linear",
+      "autorange": true,
+      "showticklabels": false
+    },
+    "yaxis2": {
+      "range": [
+        0,
+        102.21946022727273
+      ],
+      "title": "%\u00a0TMCC",
+      "anchor": "x2",
+      "domain": [
+        0.55,
+        1
+      ],
+      "autorange": true
+    },
+    "autosize": true,
+    "titlefont": {
+      "size": 14,
+      "color": "rgb(152, 0, 0)"
+    },
+    "showlegend": true
+  }
+}

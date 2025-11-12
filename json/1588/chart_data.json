@@ -1,0 +1,281 @@
+{
+  "data": [
+    {
+      "uid": "683c4d",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Washoe",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3815:18ebb1",
+      "x": [
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3815:d50f33",
+      "y": [
+        "19.6",
+        "18.1",
+        "20.0",
+        "22.2",
+        "19.0",
+        "21.6",
+        "22.4",
+        "16.1",
+        "14.8",
+        "20.0",
+        "21.1",
+        "19.2",
+        "17.4",
+        "21.5",
+        "20.1",
+        "21.3",
+        "26.8",
+        "\u00a020.5\u00a0"
+      ],
+      "marker": {
+        "size": 8
+      }
+    },
+    {
+      "uid": "c3fe36",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Clark",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3815:18ebb1",
+      "x": [
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3815:c3b7c6",
+      "y": [
+        "18.5",
+        "18.2",
+        "17.9",
+        "17.0",
+        "16.2",
+        "16.8",
+        "16.4",
+        "16.9",
+        "15.2",
+        "17.5",
+        "19.0",
+        "16.5",
+        "17.7",
+        "16.9",
+        "17.6",
+        "17.0",
+        "18.9",
+        "19.2"
+      ],
+      "marker": {
+        "size": 8,
+        "color": "rgb(188, 189, 34)"
+      }
+    },
+    {
+      "uid": "eba979",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Nevada",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3815:18ebb1",
+      "x": [
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3815:4e5ee1",
+      "y": [
+        "19.5",
+        "18.2",
+        "19.0",
+        "19.0",
+        "18.2",
+        "18.5",
+        "18.4",
+        "17.1",
+        "16.3",
+        "19.1",
+        "18.4",
+        "18.4",
+        "17.9",
+        "19.1",
+        "19.6",
+        "18.4",
+        "21.4",
+        "20.3"
+      ],
+      "marker": {
+        "size": 8,
+        "color": "rgb(127, 127, 127)"
+      }
+    },
+    {
+      "uid": "1d90b2",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "US",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3815:18ebb1",
+      "x": [
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3815:814f2d",
+      "y": [
+        "10.4",
+        "10.7",
+        "10.9",
+        "10.8",
+        "11.0",
+        "10.9",
+        "11.0",
+        "11.3",
+        "11.6",
+        "11.8",
+        "12.1",
+        "12.3",
+        "12.6",
+        "12.6",
+        "13.0",
+        "13.3",
+        "13.5",
+        "14.0"
+      ],
+      "marker": {
+        "size": 8
+      }
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "Washoe County age-adjusted suicide rate per 100,000 population",
+    "width": 880,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        1998.9075235109717,
+        2018.0924764890283
+      ],
+      "showline": true,
+      "zeroline": false,
+      "autorange": true,
+      "linewidth": 1.2,
+      "zerolinewidth": 1.5,
+      "showticklabels": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        9.225866050808314,
+        27.974133949191685
+      ],
+      "title": "Age-adjusted rate per 100,000 population",
+      "autorange": true
+    },
+    "height": 576,
+    "legend": {
+      "x": 0.09583333333333334,
+      "y": 0.13383838383838384,
+      "font": {
+        "size": 11
+      }
+    },
+    "yaxis2": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        0,
+        33.05263157894737
+      ],
+      "title": "",
+      "anchor": "x",
+      "autorange": true,
+      "overlaying": "y",
+      "showticklabels": false
+    },
+    "barmode": "stack",
+    "autosize": "initial",
+    "titlefont": {
+      "size": 14,
+      "color": "rgb(152, 0, 0)"
+    },
+    "showlegend": true
+  }
+}

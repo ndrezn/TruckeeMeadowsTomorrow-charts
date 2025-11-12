@@ -1,0 +1,262 @@
+{
+  "data": [
+    {
+      "uid": "7a488b",
+      "fill": "tozeroy",
+      "meta": {
+        "columnNames": {
+          "x": "Eligible population aged 18 and older (est.), x; Voter registration, x; Voter turnout, x",
+          "y": "Eligible population aged 18 and older (est.), y"
+        }
+      },
+      "name": "Eligible population aged 18 and older (estimated)",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3770:c33105",
+      "x": [
+        1980,
+        1982,
+        1984,
+        1986,
+        1988,
+        1990,
+        1992,
+        1994,
+        1996,
+        1998,
+        2000,
+        2002,
+        2004,
+        2006,
+        2008,
+        2010,
+        2012,
+        2014,
+        "2016",
+        "2018",
+        "2020",
+        "2022",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3770:7fbe5c",
+      "y": [
+        149288,
+        154407,
+        163810,
+        173786,
+        184370,
+        195788,
+        205900,
+        216690,
+        224561,
+        228620,
+        252578,
+        269927,
+        287423,
+        299400,
+        310655,
+        "\u00a0\t323,077\u00a0",
+        "\u00a0\t331,066\u00a0",
+        "\u00a0\t341,901\u00a0",
+        "\u00a0\t353,948\u00a0",
+        "\u00a0\t364,960\u00a0",
+        "\u00a0\t370,990\u00a0",
+        "\u00a0\t394,411\u00a0",
+        "405,490"
+      ],
+      "marker": {
+        "color": "rgb(56, 136, 191)"
+      }
+    },
+    {
+      "uid": "523058",
+      "meta": {
+        "columnNames": {
+          "x": "Eligible population aged 18 and older (est.), x; Voter registration, x; Voter turnout, x",
+          "y": "Voter registration, y"
+        }
+      },
+      "name": "Voter registration",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3770:c33105",
+      "x": [
+        1980,
+        1982,
+        1984,
+        1986,
+        1988,
+        1990,
+        1992,
+        1994,
+        1996,
+        1998,
+        2000,
+        2002,
+        2004,
+        2006,
+        2008,
+        2010,
+        2012,
+        2014,
+        "2016",
+        "2018",
+        "2020",
+        "2022",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3770:452bac",
+      "y": [
+        76270,
+        80365,
+        91001,
+        97162,
+        110563,
+        119987,
+        140701,
+        147931,
+        173300,
+        187607,
+        181795,
+        185404,
+        233811,
+        192674,
+        231437,
+        220808,
+        241459,
+        225345,
+        "264801",
+        "269,236",
+        "304,224",
+        "308,612",
+        "334118"
+      ],
+      "marker": {
+        "color": "rgb(228, 212, 125)"
+      }
+    },
+    {
+      "uid": "d64810",
+      "meta": {
+        "columnNames": {
+          "x": "Eligible population aged 18 and older (est.), x; Voter registration, x; Voter turnout, x",
+          "y": "Voter turnout, y"
+        }
+      },
+      "name": "Voter turnout",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3770:c33105",
+      "x": [
+        1980,
+        1982,
+        1984,
+        1986,
+        1988,
+        1990,
+        1992,
+        1994,
+        1996,
+        1998,
+        2000,
+        2002,
+        2004,
+        2006,
+        2008,
+        2010,
+        2012,
+        2014,
+        "2016",
+        "2018",
+        "2020",
+        "2022",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3770:651d98",
+      "y": [
+        65561,
+        59557,
+        75326,
+        70379,
+        89348,
+        78943,
+        115511,
+        86012,
+        106339,
+        96205,
+        122493,
+        106952,
+        159511,
+        120620,
+        180676,
+        141585,
+        187250,
+        116335,
+        "210287",
+        "188,813",
+        "252,563",
+        "194754",
+        "264,333"
+      ],
+      "marker": {
+        "color": "rgb(72, 169, 72)",
+        "opacity": 1
+      }
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "font": {
+      "family": ""
+    },
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(68, 68, 68)",
+        "family": ""
+      },
+      "text": "<b>Washoe County voter turnout even-numbered year general elections (</b><i><b>presidential years starting 1980</b></i><b>)</b><br><br>\n<b>Source:</b> &nbsp;Washoe County, <a href=\"https://www.washoecounty.us/voters/index.php\">Register of Voters</a>; Nevada Secretary of State, <a href=\"https://www.nvsos.gov/sos/elections\">Voter Turnout</a>"
+    },
+    "width": 1587,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 4,
+      "range": [
+        1979,
+        2025
+      ],
+      "title": {
+        "font": {
+          "size": 14
+        },
+        "text": "<br>"
+      },
+      "tickmode": "linear",
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        426831.5789473684
+      ],
+      "title": {
+        "font": {
+          "size": 14
+        },
+        "text": "Population \u2265 18 years of age"
+      },
+      "autorange": true
+    },
+    "height": 821,
+    "legend": {
+      "x": 0.05563352063248685,
+      "y": 0.7461673660744879,
+      "font": {
+        "size": 14
+      },
+      "yanchor": "middle"
+    },
+    "barmode": "overlay",
+    "autosize": true,
+    "showlegend": true,
+    "plot_bgcolor": "rgb(255, 255, 255)"
+  }
+}

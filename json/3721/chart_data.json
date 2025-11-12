@@ -1,0 +1,349 @@
+{
+  "data": [
+    {
+      "uid": "d6c61d",
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Median Family Income"
+        }
+      },
+      "name": "Median Family Income",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3967:fe125c",
+      "x": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3967:7a1995",
+      "y": [
+        "$71,400",
+        "$65,200",
+        "$63,000",
+        "$63,500",
+        "$67,000",
+        "$68,100",
+        "$73,500",
+        "$78,100",
+        "$73,900",
+        "$83,800",
+        "$96,500",
+        "$104,400"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(44, 160, 44)"
+      },
+      "opacity": 0.8
+    },
+    {
+      "uid": "9e0e36",
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Median Sales Price"
+        }
+      },
+      "name": "Median Sales Price",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3967:fe125c",
+      "x": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3967:77dbbe",
+      "y": [
+        "$160,750",
+        "$195,750",
+        "$240,750",
+        "$267,000",
+        "$302,000",
+        "$340,000",
+        "$356,500",
+        "$379,250",
+        "$401,750",
+        "$472,250",
+        "$547,750",
+        "$517,000"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(44, 160, 44)"
+      },
+      "opacity": 0.5
+    },
+    {
+      "uid": "e6eaf3",
+      "line": {
+        "color": "rgb(26, 108, 224)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Share of Homes Affordable for Median Income (HOI)"
+        }
+      },
+      "mode": "lines",
+      "name": "Share of Homes Affordable for Median Income (HOI)",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3967:fe125c",
+      "x": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3967:cd29ea",
+      "y": [
+        "85.5",
+        "70.1",
+        "58.8",
+        "56.2",
+        "53.9",
+        "44.2",
+        "40.3",
+        "47.0",
+        "43.6",
+        "42.3",
+        "23.3",
+        "20.1"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        }
+      },
+      "opacity": 1,
+      "connectgaps": true
+    },
+    {
+      "uid": "259d50",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(77, 76, 76)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "National Affordability Ranking"
+        }
+      },
+      "mode": "lines",
+      "name": "National Affordability Ranking",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3967:fe125c",
+      "x": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3967:0806ee",
+      "y": [
+        "85",
+        "159",
+        "183",
+        "190",
+        "188",
+        "199",
+        "205",
+        "204",
+        "208",
+        "194",
+        "209",
+        "202"
+      ],
+      "opacity": 1,
+      "connectgaps": true
+    },
+    {
+      "uid": "bc6ad3",
+      "line": {
+        "dash": "dash",
+        "color": "rgb(116, 117, 21)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Regional Affordability Ranking"
+        }
+      },
+      "mode": "lines",
+      "name": "Regional Affordability Ranking",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3967:fe125c",
+      "x": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3967:3f913b",
+      "y": [
+        "\u00a0\t20\u00a0",
+        "\u00a0\t35\u00a0",
+        "\u00a0\t39\u00a0",
+        "\u00a0\t42\u00a0",
+        "\u00a0\t39\u00a0",
+        "\u00a0\t43\u00a0",
+        "\u00a0\t42\u00a0",
+        "\u00a0\t43\u00a0",
+        "\u00a0\t41\u00a0",
+        "\u00a0\t35\u00a0",
+        "\u00a0\t42\u00a0",
+        "\u00a0\t38\u00a0"
+      ],
+      "opacity": 1,
+      "connectgaps": true
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(68, 68, 68)"
+      },
+      "text": "<b>Reno-Sparks MSA Housing Opportunity Index (HOI) ranking</b><br><br>\n<b>Source:</b> &nbsp;National Association of Home Builders (NAHB)/Wells Fargo<a href=\"https://www.nahb.org/News%20and%20Economics/Housing%20Economics/Indices/Housing%20Opportunity%20\"> </a><a href=\"https://www.nahb.org/News%20and%20Economics/Housing%20Economics/Indices/Housing%20Opportunity%20Index\">HOI</a>"
+    },
+    "width": 1549,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 0,
+      "range": [
+        2011.5,
+        2023.5
+      ],
+      "title": {
+        "text": "<br>"
+      },
+      "showgrid": true,
+      "showline": false,
+      "tickfont": {
+        "size": 13
+      },
+      "tickmode": "auto",
+      "zeroline": true,
+      "autorange": false,
+      "linewidth": 1.5,
+      "zerolinewidth": 0.1,
+      "showticklabels": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        9.352990227768876,
+        222.29318567239136
+      ],
+      "title": {
+        "text": "HOI / ranking"
+      },
+      "anchor": "x",
+      "domain": [
+        0,
+        1
+      ],
+      "position": 0,
+      "showgrid": true,
+      "showline": false,
+      "zeroline": true,
+      "autorange": true
+    },
+    "height": 821,
+    "legend": {
+      "x": 0.018276975341972642,
+      "y": 0.8632476944647407,
+      "font": {
+        "size": 11
+      }
+    },
+    "yaxis2": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        0,
+        576578.947368421
+      ],
+      "title": {
+        "font": {
+          "color": "rgb(44, 160, 44)"
+        },
+        "text": "Dollars<br><br>"
+      },
+      "anchor": "x",
+      "showgrid": false,
+      "tickfont": {
+        "color": "rgb(44, 160, 44)"
+      },
+      "autorange": true,
+      "overlaying": "y"
+    },
+    "barmode": "group",
+    "autosize": true,
+    "showlegend": true,
+    "annotations": [
+      {
+        "x": 2016.2793124550035,
+        "y": 216.97798578609812,
+        "font": {
+          "size": 11,
+          "color": "rgb(152, 0, 0)"
+        },
+        "text": "<i>Due to a change in interest rate series used to calculate the HOI starting Q2-2019, to preserve historical data,</i><br><i> NAHB revised the HOI, both at the national and metro area level, back to the first quarter of 2012, consistently using the new Freddie Mac interest rate series.</i>",
+        "align": "center",
+        "showarrow": false
+      }
+    ],
+    "hidesources": true
+  }
+}

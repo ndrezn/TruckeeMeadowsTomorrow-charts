@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "mode": "markers",
+      "name": "Nevada",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:4052:5d479f",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4052:1df377",
+      "y": [
+        "\u00a0$34,903\u00a0",
+        "\u00a0$32,539\u00a0",
+        "\u00a0$34,519\u00a0",
+        "\u00a0$34,327\u00a0",
+        "\u00a0$33,861\u00a0",
+        "\u00a0$34,734\u00a0",
+        "\u00a0$35,412\u00a0",
+        "\u00a0$38,579\u00a0"
+      ],
+      "marker": {
+        "color": "rgb(140, 153, 161)"
+      },
+      "orientation": "v"
+    },
+    {
+      "name": "US",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:4052:5d479f",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4052:32581d",
+      "y": [
+        "\u00a0$30,440\u00a0",
+        "\u00a0$30,500\u00a0",
+        "\u00a0$31,231\u00a0",
+        "\u00a0$31,705\u00a0",
+        "\u00a0$32,220\u00a0",
+        "\u00a0$33,617\u00a0",
+        "\u00a0$34,963\u00a0",
+        "\u00a0$35,980\u00a0"
+      ],
+      "marker": {
+        "color": "rgb(58, 173, 11)"
+      },
+      "orientation": "v"
+    },
+    {
+      "line": {
+        "color": "rgb(44, 124, 160)",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "markers+lines",
+      "name": "Washoe",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4052:5d479f",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4052:2f4ba3",
+      "y": [
+        "\u00a0$33,642\u00a0",
+        "\u00a0$32,638\u00a0",
+        "\u00a0$30,847\u00a0",
+        "\u00a0$31,840\u00a0",
+        "\u00a0$31,156\u00a0",
+        "\u00a0$35,874\u00a0",
+        "\u00a0$34,483\u00a0",
+        "\u00a0$41,637\u00a0"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        }
+      },
+      "orientation": "v"
+    },
+    {
+      "line": {
+        "color": "rgb(214, 194, 39)",
+        "width": 6
+      },
+      "mode": "markers+lines",
+      "name": "Clark",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4052:5d479f",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4052:a0710d",
+      "y": [
+        "\u00a0$36,129\u00a0",
+        "\u00a0$32,232\u00a0",
+        "\u00a0$35,135\u00a0",
+        "\u00a0$35,298\u00a0",
+        "\u00a0$34,430\u00a0",
+        "\u00a0$34,384\u00a0",
+        "\u00a0$36,144\u00a0",
+        "\u00a0$37,391\u00a0"
+      ],
+      "marker": {
+        "line": {
+          "width": 2
+        }
+      },
+      "stackgroup": null
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "Median non-family income in the past 12-months",
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2009.5,
+        2017.5
+      ],
+      "autorange": true
+    },
+    "yaxis": {
+      "range": [
+        0,
+        44212.835925622734
+      ],
+      "title": "Inflation-adjusted $",
+      "autorange": true
+    },
+    "autosize": true,
+    "titlefont": {
+      "size": 14,
+      "color": "rgb(152, 0, 0)"
+    }
+  }
+}

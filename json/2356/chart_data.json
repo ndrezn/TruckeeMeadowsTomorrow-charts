@@ -1,0 +1,164 @@
+{
+  "data": [
+    {
+      "uid": "23da5e",
+      "line": {
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Total Coliform "
+        }
+      },
+      "mode": "lines",
+      "name": "Total Coliform (% positive samples/month)",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4139:7895a5",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4139:9cc138",
+      "y": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0.56",
+        "0"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "410227",
+      "line": {
+        "color": "rgb(184, 199, 112)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Turbidity "
+        }
+      },
+      "mode": "lines",
+      "name": "Turbidity (NTU) highest single measure",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4139:7895a5",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4139:9ab53c",
+      "y": [
+        "0.078",
+        "0.084",
+        "0.093",
+        "0.067",
+        "0.06",
+        "0.08",
+        "0.066",
+        "0.079",
+        "0.071",
+        "0.058",
+        "0.046"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(68, 68, 68)"
+      },
+      "text": "<b>Microbiological contaminants</b><br><br>\n<b>Source: </b>&nbsp;Truckee Meadows Water Authority (TMWA), <a href=\"http://quality.tmwa.com/\">water quality reports</a>"
+    },
+    "width": 991,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2010,
+        2020
+      ],
+      "tick0": 1,
+      "title": {
+        "text": "<br>"
+      },
+      "tickmode": "auto",
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        -0.031111111111111114,
+        0.5911111111111111
+      ],
+      "title": {
+        "text": "Measure / %"
+      },
+      "autorange": true
+    },
+    "height": 668,
+    "legend": {
+      "x": 0.1111111111111111,
+      "y": 0.5402843601895735
+    },
+    "autosize": true,
+    "showlegend": true,
+    "annotations": [
+      {
+        "x": 0.7103590052146009,
+        "y": 0.856692381870781,
+        "font": {
+          "color": "rgb(152, 0, 0)"
+        },
+        "text": "<b>TT = treatment technique (required process to reduce level of contaminant)</b><br><br>\n<i>Coliform max level/month (naturally present &nbsp;in the environment)<br>\nTurbidity Nephelometric Turbidity Units &gt;1 = violation&nbsp;(soil runoff)</i>",
+        "xref": "paper",
+        "yref": "paper",
+        "align": "left",
+        "xanchor": "right",
+        "yanchor": "top",
+        "showarrow": false
+      }
+    ]
+  }
+}

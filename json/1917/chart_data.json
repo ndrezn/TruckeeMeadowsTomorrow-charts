@@ -1,0 +1,320 @@
+{
+  "data": [
+    {
+      "uid": "96683e",
+      "name": "Emergency shelters",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3830:84f518",
+      "x": [
+        "2005",
+        "2009",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3830:e1dbf7",
+      "y": [
+        "201",
+        "246",
+        "523",
+        "530",
+        "",
+        "331",
+        "228"
+      ]
+    },
+    {
+      "uid": "595191",
+      "name": "Transitional housing",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3830:84f518",
+      "x": [
+        "2005",
+        "2009",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3830:025375",
+      "y": [
+        "91",
+        "173",
+        "386",
+        "187",
+        "",
+        "299",
+        "476"
+      ]
+    },
+    {
+      "uid": "d55e91",
+      "name": "Permanent supportive housing",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3830:84f518",
+      "x": [
+        "2005",
+        "2009",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3830:9be9b4",
+      "y": [
+        "266",
+        "296",
+        "380",
+        "166",
+        null,
+        "428",
+        "568"
+      ]
+    },
+    {
+      "uid": "7f08a8",
+      "line": {
+        "shape": "hvh",
+        "width": 6
+      },
+      "mode": "markers",
+      "name": "Individual beds",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3830:84f518",
+      "x": [
+        "2005",
+        "2009",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3830:884c18",
+      "y": [
+        " 558 ",
+        " 715 ",
+        " 1,289 ",
+        "883",
+        null,
+        "1,058",
+        "1,272"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "0c9631",
+      "name": "Col6",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3830:84f518",
+      "x": [
+        "2005",
+        "2009",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3830:bb96fb",
+      "y": [
+        "106",
+        "132",
+        "112",
+        "132",
+        null,
+        "129"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(31, 119, 180)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "37db7c",
+      "name": "Col7",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3830:84f518",
+      "x": [
+        "2005",
+        "2009",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3830:7ab967",
+      "y": [
+        "0",
+        "45",
+        "151",
+        "153"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(255, 127, 14)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "947440",
+      "name": "Col8",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3830:84f518",
+      "x": [
+        "2005",
+        "2009",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3830:266c1f",
+      "y": [
+        "65",
+        "60",
+        "610",
+        "70",
+        null,
+        "114"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(44, 160, 44)"
+      },
+      "showlegend": false
+    },
+    {
+      "line": {
+        "color": "rgb(148, 103, 189)",
+        "shape": "hvh",
+        "width": 6
+      },
+      "mode": "markers",
+      "name": "Family beds",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3830:84f518",
+      "x": [
+        "2005",
+        "2009",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3830:8e7def",
+      "y": [
+        " 171 ",
+        " 237 ",
+        " 873 ",
+        " 355 ",
+        null,
+        " 243 "
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "Washoe County homeless resources",
+    "width": 782,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 5,
+      "range": [
+        2003.9792278119962,
+        2019.0207721880038
+      ],
+      "domain": [
+        0,
+        0.45
+      ],
+      "showgrid": true,
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        1375.403556771546
+      ],
+      "title": "Individual beds",
+      "showgrid": true,
+      "tickfont": {
+        "color": "rgb(214, 39, 40)"
+      },
+      "autorange": true,
+      "titlefont": {
+        "color": "rgb(214, 39, 40)"
+      }
+    },
+    "height": 570,
+    "legend": {
+      "x": -0.09807073954983923,
+      "y": 1.1897435897435897
+    },
+    "xaxis2": {
+      "type": "linear",
+      "range": [
+        2004.057748749535,
+        2017.942251250465
+      ],
+      "anchor": "y2",
+      "domain": [
+        0.55,
+        1
+      ],
+      "autorange": true
+    },
+    "yaxis2": {
+      "type": "linear",
+      "range": [
+        0,
+        931.5184678522571
+      ],
+      "title": "Family beds",
+      "anchor": "x2",
+      "domain": [
+        0,
+        1
+      ],
+      "tickfont": {
+        "color": "rgb(148, 103, 189)"
+      },
+      "autorange": true,
+      "titlefont": {
+        "color": "rgb(148, 103, 189)"
+      }
+    },
+    "barmode": "stack",
+    "autosize": true,
+    "titlefont": {
+      "size": 14,
+      "color": "rgb(152, 0, 0)"
+    },
+    "showlegend": true
+  }
+}

@@ -1,0 +1,536 @@
+{
+  "data": [
+    {
+      "uid": "648823",
+      "line": {
+        "color": "rgb(180, 41, 31)",
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Chlamydia"
+        }
+      },
+      "mode": "lines",
+      "name": "Chlamydia",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:340:e10a8d",
+      "x": [
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:340:ab7c1b",
+      "y": [
+        "285.1",
+        "299.2",
+        "273.8",
+        "265.5",
+        "305.0",
+        "309.0",
+        "323.0",
+        "374.0",
+        "327.0",
+        "301.0",
+        "342.0",
+        "351.0",
+        "378.0",
+        "394.0",
+        "401.0",
+        "458.0",
+        "493.0",
+        "551.9",
+        "594.5",
+        "573.9",
+        "533.0",
+        "505.2",
+        "493.4",
+        "454.7",
+        "439.2"
+      ],
+      "opacity": 0.8
+    },
+    {
+      "uid": "16965c",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(252, 138, 37)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Gonorrhea"
+        }
+      },
+      "mode": "lines",
+      "name": "Gonorrhea",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:340:e10a8d",
+      "x": [
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:340:e99434",
+      "y": [
+        "\u00a0\t57\u00a0",
+        "\u00a0\t58\u00a0",
+        "\u00a0\t51\u00a0",
+        "\u00a0\t54\u00a0",
+        "\u00a0\t93\u00a0",
+        "\u00a0\t82\u00a0",
+        "\u00a0\t59\u00a0",
+        "\u00a0\t50\u00a0",
+        "\u00a0\t52\u00a0",
+        "\u00a0\t32\u00a0",
+        "\u00a0\t23\u00a0",
+        "\u00a0\t51\u00a0",
+        "\u00a0\t54\u00a0",
+        "\u00a0\t84\u00a0",
+        "\u00a0\t113\u00a0",
+        "\u00a0\t124\u00a0",
+        "\u00a0\t134\u00a0",
+        "\u00a0\t164\u00a0",
+        "\u00a0\t201\u00a0",
+        "\u00a0\t186\u00a0",
+        "\u00a0\t238\u00a0",
+        "217.3",
+        "166.1",
+        "120.0",
+        "119.2"
+      ],
+      "opacity": 0.8
+    },
+    {
+      "uid": "f93ea4",
+      "line": {
+        "dash": "solid",
+        "color": "rgb(19, 252, 3)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Syphilis"
+        }
+      },
+      "mode": "lines",
+      "name": "Syphilis (primary &amp; secondary)",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:340:e10a8d",
+      "x": [
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:340:dc2761",
+      "y": [
+        "\u00a0\t0.3\u00a0",
+        "\u00a0\t0.3\u00a0",
+        "\u00a0\t1.1\u00a0",
+        "\u00a0\t1.1\u00a0",
+        "\u00a0\t0.5\u00a0",
+        "\u00a0\t1.3\u00a0",
+        "\u00a0\t1.3\u00a0",
+        "\u00a0\t1.0\u00a0",
+        "\u00a0\t1.0\u00a0",
+        "\u00a0\t0.5\u00a0",
+        "\u00a0\t0.5\u00a0",
+        "\u00a0\t1.9\u00a0",
+        "\u00a0\t3.7\u00a0",
+        "\u00a0\t7.6\u00a0",
+        "\u00a0\t8.2\u00a0",
+        "\u00a0\t6.1\u00a0",
+        "\u00a0\t7.4\u00a0",
+        "\u00a0\t12.6\u00a0",
+        "\u00a0\t24.3\u00a0",
+        "\u00a0\t34.5\u00a0",
+        "\u00a0\t27.9\u00a0",
+        "32.8",
+        "30.8",
+        "28.9",
+        "16.3"
+      ],
+      "opacity": 1
+    },
+    {
+      "uid": "a980a0",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(39, 68, 214)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "HIV"
+        }
+      },
+      "mode": "lines",
+      "name": "HIV",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:340:e10a8d",
+      "x": [
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:340:80e2d6",
+      "y": [
+        "\u00a0\t17.1\u00a0",
+        "\u00a0\t18.1\u00a0",
+        "\u00a0\t13.1\u00a0",
+        "\u00a0\t11.5\u00a0",
+        "\u00a0\t13.7\u00a0",
+        "\u00a0\t10.0\u00a0",
+        "\u00a0\t9.9\u00a0",
+        "\u00a0\t10.9\u00a0",
+        "\u00a0\t8.3\u00a0",
+        "\u00a0\t7.8\u00a0",
+        "\u00a0\t6.0\u00a0",
+        "\u00a0\t6.4\u00a0",
+        "\u00a0\t6.1\u00a0",
+        "\u00a0\t8.6\u00a0",
+        "\u00a0\t9.4\u00a0",
+        "\u00a0\t9.1\u00a0",
+        "\u00a0\t7.8\u00a0",
+        "\u00a0\t4.9\u00a0",
+        "\u00a0\t5.9\u00a0",
+        "\u00a0\t8.0\u00a0",
+        "\u00a0\t6.6\u00a0",
+        "4.9",
+        "4.8",
+        "7.5",
+        "7.0"
+      ],
+      "opacity": 0.8
+    },
+    {
+      "uid": "80c3bc",
+      "line": {
+        "color": "rgb(15, 15, 8)",
+        "shape": "spline",
+        "width": 5
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "AIDS"
+        }
+      },
+      "mode": "lines",
+      "name": "Stage 3 HIV (formerly known as AIDS)",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:340:e10a8d",
+      "x": [
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:340:7eebd8",
+      "y": [
+        "\u00a0\t9.0\u00a0",
+        "\u00a0\t8.5\u00a0",
+        "\u00a0\t8.3\u00a0",
+        "\u00a0\t7.8\u00a0",
+        "\u00a0\t8.7\u00a0",
+        "\u00a0\t9.5\u00a0",
+        "\u00a0\t5.8\u00a0",
+        "\u00a0\t7.7\u00a0",
+        "\u00a0\t5.6\u00a0",
+        "\u00a0\t6.1\u00a0",
+        "\u00a0\t2.2\u00a0",
+        "\u00a0\t3.6\u00a0",
+        "\u00a0\t4.9\u00a0",
+        "\u00a0\t5.1\u00a0",
+        "\u00a0\t4.8\u00a0",
+        "\u00a0\t2.5\u00a0",
+        "\u00a0\t3.1\u00a0",
+        "\u00a0\t2.9\u00a0",
+        "\u00a0\t3.0\u00a0",
+        "\u00a0\t2.6\u00a0",
+        "\u00a0\t2.3\u00a0",
+        "2.9",
+        "2.8",
+        "2.3",
+        "1.7"
+      ],
+      "opacity": 1
+    },
+    {
+      "uid": "8d222d",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(178, 56, 255)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "TB"
+        }
+      },
+      "mode": "lines",
+      "name": "TB",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:340:e10a8d",
+      "x": [
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:340:9c9263",
+      "y": [
+        "\u00a0\t4.2\u00a0",
+        "\u00a0\t7.1\u00a0",
+        "\u00a0\t3.6\u00a0",
+        "\u00a0\t8.0\u00a0",
+        "\u00a0\t5.0\u00a0",
+        "\u00a0\t4.1\u00a0",
+        "\u00a0\t2.8\u00a0",
+        "\u00a0\t1.7\u00a0",
+        "\u00a0\t2.4\u00a0",
+        "\u00a0\t3.4\u00a0",
+        "\u00a0\t2.9\u00a0",
+        "\u00a0\t1.9\u00a0",
+        "\u00a0\t1.9\u00a0",
+        "\u00a0\t2.1\u00a0",
+        "\u00a0\t1.6\u00a0",
+        "\u00a0\t2.5\u00a0",
+        "\u00a0\t1.3\u00a0",
+        "\u00a0\t3.8\u00a0",
+        "\u00a0\t2.0\u00a0",
+        "\u00a0\t1.7\u00a0",
+        "\u00a0\t0.9\u00a0",
+        "1.4",
+        "\u00a0\t1.2\u00a0",
+        "\u00a0\t1.8\u00a0",
+        "\u00a0\t1.9\u00a0"
+      ],
+      "opacity": 0.8
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "font": {
+      "size": 14
+    },
+    "title": {
+      "x": 0.25,
+      "font": {
+        "size": 14,
+        "color": "rgb(68, 68, 68)"
+      },
+      "text": "<b>Washoe County rates of communicable disease per 100,000 population</b><br><br>\n<b>Source:</b> <a href=\"https://www.nnph.org/programs-and-services/ephp/statistics-surveillance-reports/annual-communicable-disease-summary-reports.php\">Washoe County &nbsp;Annual Communicable Disease Reports</a>"
+    },
+    "width": 1403,
+    "xaxis": {
+      "side": "bottom",
+      "type": "linear",
+      "dtick": 5,
+      "range": [
+        2000,
+        2024
+      ],
+      "ticks": "",
+      "title": {
+        "font": {
+          "size": 14
+        },
+        "text": "<br>"
+      },
+      "domain": [
+        0,
+        1
+      ],
+      "tickmode": "auto",
+      "zeroline": false,
+      "autorange": true,
+      "gridwidth": 2,
+      "rangeslider": {
+        "range": [
+          2005,
+          2020
+        ],
+        "visible": false,
+        "autorange": true
+      }
+    },
+    "yaxis": {
+      "side": "left",
+      "type": "linear",
+      "range": [
+        -32.711111111111116,
+        627.5111111111111
+      ],
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": "Rate of reported cases per 100,000 population"
+      },
+      "anchor": "free",
+      "domain": [
+        0,
+        1
+      ],
+      "zeroline": false,
+      "autorange": true,
+      "tickangle": 0,
+      "zerolinecolor": "rgb(176, 175, 175)",
+      "zerolinewidth": 0
+    },
+    "height": 813,
+    "legend": {
+      "x": 0.1705135493457239,
+      "y": 0.9189752073568099,
+      "font": {
+        "size": 12
+      }
+    },
+    "margin": {
+      "pad": 0
+    },
+    "autosize": true,
+    "showlegend": true
+  }
+}

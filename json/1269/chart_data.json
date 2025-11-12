@@ -1,0 +1,653 @@
+{
+  "data": [
+    {
+      "uid": "e21b1c",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Washoe County renters, x; Nevada renters, x; US renters, x; Washoe, x; Nevada, x; US, x; Renters median housing cost, x; Mortgaged median housing cost, x; Non-mortgaged median housing cost, x",
+          "y": "Washoe County renters, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Washoe County renters, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3801:69f423",
+      "x": [
+        "1970",
+        "1980",
+        "1990",
+        "2000",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3801:c61d79",
+      "y": [
+        "27%",
+        "46%",
+        "39%",
+        "43%",
+        "40%",
+        "47%",
+        "46%",
+        "44%",
+        "50%",
+        "55%",
+        "54%",
+        "52%",
+        "57%",
+        "49%",
+        "49.6%",
+        "45.9%",
+        "48.7%",
+        "45.7%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "showlegend": false
+    },
+    {
+      "uid": "f25979",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Washoe County renters, x; Nevada renters, x; US renters, x; Washoe, x; Nevada, x; US, x; Renters median housing cost, x; Mortgaged median housing cost, x; Non-mortgaged median housing cost, x",
+          "y": "Nevada renters, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Nevada renters, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3801:69f423",
+      "x": [
+        "1970",
+        "1980",
+        "1990",
+        "2000",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3801:34f0dc",
+      "y": [
+        "",
+        "44%",
+        "40%",
+        "45%",
+        "44%",
+        "47%",
+        "48%",
+        "48%",
+        "50%",
+        "52%",
+        "53%",
+        "52%",
+        "51%",
+        "49%",
+        "49.5%",
+        "49.4%",
+        "49.7%",
+        "47.9%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "showlegend": false
+    },
+    {
+      "uid": "036c99",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Washoe County renters, x; Nevada renters, x; US renters, x; Washoe, x; Nevada, x; US, x; Renters median housing cost, x; Mortgaged median housing cost, x; Non-mortgaged median housing cost, x",
+          "y": "US renters, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "US renters, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3801:69f423",
+      "x": [
+        "1970",
+        "1980",
+        "1990",
+        "2000",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3801:955b35",
+      "y": [
+        "",
+        "36%",
+        "39%",
+        "44%",
+        "44%",
+        "46%",
+        "46%",
+        "46%",
+        "50%",
+        "52%",
+        "53%",
+        "53%",
+        "52%",
+        "52%",
+        "51.8%",
+        "50.6%",
+        "50.6%",
+        "49.5%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "showlegend": false
+    },
+    {
+      "uid": "8533cf",
+      "line": {
+        "color": "rgb(31, 119, 180)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Washoe County renters, x; Nevada renters, x; US renters, x; Washoe, x; Nevada, x; US, x; Renters median housing cost, x; Mortgaged median housing cost, x; Non-mortgaged median housing cost, x",
+          "y": "Washoe, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Washoe, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3801:69f423",
+      "x": [
+        "1970",
+        "1980",
+        "1990",
+        "2000",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3801:2bd427",
+      "y": [
+        "",
+        "34%",
+        "38%",
+        "38%",
+        "40%",
+        "38%",
+        "45%",
+        "38%",
+        "49%",
+        "45%",
+        "45%",
+        "41%",
+        "40%",
+        "33%",
+        "33.3%",
+        "29.9%",
+        "29.3%",
+        "27.4%"
+      ]
+    },
+    {
+      "uid": "2a327d",
+      "line": {
+        "color": "rgb(255, 127, 14)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Washoe County renters, x; Nevada renters, x; US renters, x; Washoe, x; Nevada, x; US, x; Renters median housing cost, x; Mortgaged median housing cost, x; Non-mortgaged median housing cost, x",
+          "y": "Nevada, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Nevada, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3801:69f423",
+      "x": [
+        "1970",
+        "1980",
+        "1990",
+        "2000",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3801:abe755",
+      "y": [
+        "",
+        "42%",
+        "35%",
+        "37%",
+        "39%",
+        "42%",
+        "45%",
+        "38%",
+        "49%",
+        "47%",
+        "45%",
+        "43%",
+        "39%",
+        "36%",
+        "32.1%",
+        "30.0%",
+        "31.5%",
+        "30.0%"
+      ]
+    },
+    {
+      "uid": "9465c0",
+      "line": {
+        "color": "rgb(44, 160, 44)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Washoe County renters, x; Nevada renters, x; US renters, x; Washoe, x; Nevada, x; US, x; Renters median housing cost, x; Mortgaged median housing cost, x; Non-mortgaged median housing cost, x",
+          "y": "US, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "US, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3801:69f423",
+      "x": [
+        "1970",
+        "1980",
+        "1990",
+        "2000",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3801:a95c9d",
+      "y": [
+        "23%",
+        "31%",
+        "29%",
+        "27%",
+        "32%",
+        "35%",
+        "37%",
+        "26%",
+        "38%",
+        "38%",
+        "38%",
+        "37%",
+        "34%",
+        "32%",
+        "30.8%",
+        "29.6%",
+        "28.3%",
+        "27.5%"
+      ]
+    },
+    {
+      "uid": "6331d8",
+      "meta": {
+        "columnNames": {
+          "x": "Washoe County renters, x; Nevada renters, x; US renters, x; Washoe, x; Nevada, x; US, x; Renters median housing cost, x; Mortgaged median housing cost, x; Non-mortgaged median housing cost, x",
+          "y": "Renters median housing cost, y"
+        }
+      },
+      "name": "Renters median housing cost, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3801:69f423",
+      "x": [
+        "1970",
+        "1980",
+        "1990",
+        "2000",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3801:413d0c",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        " $873 ",
+        " $920 ",
+        " $902 ",
+        " $873 ",
+        " $868 ",
+        " $871 ",
+        " $871 ",
+        "$879",
+        " $921 ",
+        "$956",
+        " $974 "
+      ],
+      "xaxis": "x2",
+      "yaxis": "y3",
+      "opacity": 0.5
+    },
+    {
+      "uid": "758b5f",
+      "meta": {
+        "columnNames": {
+          "x": "Washoe County renters, x; Nevada renters, x; US renters, x; Washoe, x; Nevada, x; US, x; Renters median housing cost, x; Mortgaged median housing cost, x; Non-mortgaged median housing cost, x",
+          "y": "Mortgaged median housing cost, y"
+        }
+      },
+      "name": "Mortgaged median housing cost, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3801:69f423",
+      "x": [
+        "1970",
+        "1980",
+        "1990",
+        "2000",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3801:ca192e",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        " $1,837 ",
+        " $1,964 ",
+        " $1,818 ",
+        " $1,753 ",
+        " $1,628 ",
+        " $1,564 ",
+        " $1,457 ",
+        "$1.409",
+        " $1,538 ",
+        "$1,516",
+        " $1,534 "
+      ],
+      "yaxis": "y4",
+      "opacity": 0.65
+    },
+    {
+      "uid": "dcef1b",
+      "meta": {
+        "columnNames": {
+          "x": "Washoe County renters, x; Nevada renters, x; US renters, x; Washoe, x; Nevada, x; US, x; Renters median housing cost, x; Mortgaged median housing cost, x; Non-mortgaged median housing cost, x",
+          "y": "Non-mortgaged median housing cost, y"
+        }
+      },
+      "name": "Non-mortgaged median housing cost, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3801:69f423",
+      "x": [
+        "1970",
+        "1980",
+        "1990",
+        "2000",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3801:419b60",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        " $489 ",
+        " $488 ",
+        " $514 ",
+        " $501 ",
+        " $447 ",
+        " $442 ",
+        " $432 ",
+        "$464",
+        "$432",
+        "$434",
+        " $419 "
+      ],
+      "yaxis": "y4",
+      "opacity": 0.9
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "font": {
+      "size": 12,
+      "color": "rgb(0, 0, 0)"
+    },
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "Renters overpaying \u2265 30% for rent & utilities"
+    },
+    "width": 1410,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 5,
+      "range": [
+        1967.2136465324386,
+        2019.7863534675614
+      ],
+      "showgrid": true,
+      "showline": true,
+      "tickmode": "linear",
+      "zeroline": true,
+      "autorange": true,
+      "gridwidth": 2
+    },
+    "yaxis": {
+      "type": "-",
+      "range": [
+        21.072269807280513,
+        50.92773019271949
+      ],
+      "title": {
+        "text": "As %\u00a0household income"
+      },
+      "domain": [
+        0,
+        0.45
+      ],
+      "zeroline": false,
+      "autorange": true
+    },
+    "height": 752,
+    "legend": {
+      "x": 0,
+      "y": 1.1272727272727274,
+      "font": {
+        "size": 10
+      }
+    },
+    "xaxis2": {
+      "type": "linear",
+      "dtick": 5,
+      "range": [
+        1967.2136465324386,
+        2019.7863534675614
+      ],
+      "title": {
+        "font": {
+          "color": "rgb(152, 0, 0)"
+        },
+        "text": "Owners overpaying \u2265 30% for housing & utilities"
+      },
+      "anchor": "y2",
+      "domain": [
+        0,
+        1
+      ],
+      "showgrid": true,
+      "showline": true,
+      "tickmode": "linear",
+      "zeroline": true,
+      "autorange": true,
+      "gridwidth": 2
+    },
+    "yaxis2": {
+      "range": [
+        24.775695931477514,
+        59.224304068522486
+      ],
+      "title": {
+        "text": "As % houshold income"
+      },
+      "anchor": "x2",
+      "domain": [
+        0.55,
+        1
+      ],
+      "zeroline": false,
+      "autorange": true
+    },
+    "yaxis3": {
+      "side": "right",
+      "range": [
+        0,
+        1025.2631578947369
+      ],
+      "title": {
+        "text": "Rental cost $"
+      },
+      "anchor": "x2",
+      "autorange": true,
+      "overlaying": "y2"
+    },
+    "yaxis4": {
+      "side": "right",
+      "range": [
+        0,
+        2067.3684210526317
+      ],
+      "title": {
+        "text": "Monthly housing cost $"
+      },
+      "anchor": "x",
+      "autorange": true,
+      "overlaying": "y"
+    },
+    "barmode": "group",
+    "autosize": true,
+    "showlegend": true
+  }
+}

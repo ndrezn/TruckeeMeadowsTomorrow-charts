@@ -1,0 +1,325 @@
+{
+  "data": [
+    {
+      "uid": "cb2435",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Mainstreet entrepreneurship rank",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3968:a40a43",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3968:c5ddeb",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "21",
+        "25",
+        "25"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "8df098",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Startup activity rank",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3968:a40a43",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3968:9cb591",
+      "y": [
+        "7",
+        "5",
+        "6",
+        "4",
+        "6",
+        "3",
+        "1",
+        "2",
+        "8",
+        "2",
+        "2"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "d80d83",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Growth entrepreneurship rank",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3968:a40a43",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3968:f44aae",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "15",
+        "8"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "8bc15c",
+      "name": "% new entrepreneurs in a given month",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3968:a40a43",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3968:283fc3",
+      "y": [
+        "0.32%",
+        "0.32%",
+        "0.33%",
+        "0.35%",
+        "0.42%",
+        "0.43%",
+        "0.43%",
+        "0.34%",
+        "0.37%",
+        "0.38%"
+      ],
+      "marker": {
+        "line": {
+          "width": 0.5
+        }
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "bc28d5",
+      "name": "% survival rate (5 year)",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3968:a40a43",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3968:0fee14",
+      "y": [
+        "44.03%",
+        "42.55%",
+        "41.64%",
+        "39.51%",
+        "37.15%",
+        "36.45%",
+        "35.53%",
+        "40.47%",
+        "43.41%"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "31b7c7",
+      "name": "% share of new entrepreneurs (unemployed previously)",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3968:a40a43",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3968:8dbdc8",
+      "y": [
+        "83.0%",
+        "79.0%",
+        "78.0%",
+        "76.0%",
+        "70.0%",
+        "73.0%",
+        "69.0%",
+        "71.9%",
+        "79.3%",
+        "87.4%"
+      ],
+      "marker": {
+        "color": "rgb(188, 189, 34)"
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "201f96",
+      "line": {
+        "dash": "dot",
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Startup density per 100 firms",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3968:a40a43",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3968:740b01",
+      "y": [
+        "152.2",
+        "138.2",
+        "127.4",
+        "108.1",
+        "104.8",
+        "106.8",
+        "104.7",
+        "106.6",
+        "106.8",
+        "104.6"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "size": 8,
+        "color": "rgb(127, 127, 127)"
+      },
+      "autobinx": true,
+      "autobiny": true
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "Kauffman Index \u2014 Nevada",
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2005.3856783246747,
+        2016.600931926517
+      ],
+      "title": "Index year",
+      "showline": false,
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        -4.6659323965058865,
+        92.24557538928978
+      ],
+      "title": "Nevada state ranks & percentage share",
+      "autorange": true
+    },
+    "legend": {
+      "font": {
+        "size": 10
+      },
+      "xanchor": "right",
+      "yanchor": "bottom"
+    },
+    "yaxis2": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        101.27522510933882,
+        155.52477489066118
+      ],
+      "title": "Startup density/100 firms",
+      "anchor": "x",
+      "autorange": true,
+      "overlaying": "y"
+    },
+    "autosize": true,
+    "titlefont": {
+      "size": 14,
+      "color": "rgb(152, 0, 0)"
+    },
+    "breakpoints": []
+  }
+}

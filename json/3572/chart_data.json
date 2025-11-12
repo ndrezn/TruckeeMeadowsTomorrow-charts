@@ -1,0 +1,223 @@
+{
+  "data": [
+    {
+      "uid": "872f08",
+      "name": "Ever in a physical fight (last 12 months)***, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3933:835d8c",
+      "x": [
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3933:60dd96",
+      "y": [
+        "44.9"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "2d5a2d",
+      "name": "Injuried in a physical fight, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3933:835d8c",
+      "x": [
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3933:a9aab6",
+      "y": [
+        "6.7"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "49f018",
+      "name": "In a physical fight on school property past 12 months, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3933:835d8c",
+      "x": [
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3933:699669",
+      "y": [
+        "11.7"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "c5427d",
+      "name": "Carried a weapon on school property, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3933:835d8c",
+      "x": [
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3933:4bc655",
+      "y": [
+        "4.2"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "412c68",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Ever bullied at school (last 12 months)***, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3933:24ee74",
+      "x": [
+        "2011",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3933:4cefc4",
+      "y": [
+        "41.9",
+        "46.1"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 10
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "dfb27f",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Ever bullied electronically (last 12 months)***, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3933:24ee74",
+      "x": [
+        "2011",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3933:836079",
+      "y": [
+        "23.2",
+        "24.7"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 10
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "0e2e52",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Teasing victim due to race/ethnicity past 12 mo., y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3933:24ee74",
+      "x": [
+        "2011",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3933:69bcc9",
+      "y": [
+        "21.7"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 10
+      },
+      "autobinx": true,
+      "autobiny": true
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "WCSD middle school violence and bullying behaviors",
+    "width": 1444,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2014.5,
+        2015.5
+      ],
+      "domain": [
+        0,
+        0.45
+      ],
+      "showline": true,
+      "zeroline": false,
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        47.26315789473684
+      ],
+      "title": "Violence %",
+      "autorange": true
+    },
+    "height": 817,
+    "legend": {
+      "x": 0.16510903426791276,
+      "y": 1.0392464678178963,
+      "font": {
+        "size": 10
+      },
+      "xanchor": "auto",
+      "yanchor": "auto"
+    },
+    "xaxis2": {
+      "type": "linear",
+      "range": [
+        2010.7230453972256,
+        2015.2769546027744
+      ],
+      "anchor": "y2",
+      "domain": [
+        0.55,
+        1
+      ],
+      "showline": true,
+      "zeroline": false,
+      "autorange": true
+    },
+    "yaxis2": {
+      "type": "linear",
+      "range": [
+        20.042296718972896,
+        47.757703281027105
+      ],
+      "title": "Bullying %",
+      "anchor": "x2",
+      "domain": [
+        0,
+        1
+      ],
+      "autorange": true
+    },
+    "autosize": true,
+    "titlefont": {
+      "size": 14,
+      "color": "rgb(152, 0, 0)"
+    },
+    "breakpoints": []
+  }
+}

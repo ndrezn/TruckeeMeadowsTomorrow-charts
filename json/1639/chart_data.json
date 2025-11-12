@@ -1,0 +1,688 @@
+{
+  "data": [
+    {
+      "uid": "0e3178",
+      "line": {
+        "shape": "hvh",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Online database subscription usage, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Online database subscription usage",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3819:b939bf",
+      "x": [
+        "2002",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3819:12381f",
+      "y": [
+        "",
+        " 38,000 ",
+        "83,333",
+        "116,678",
+        "49,737",
+        " 101,955 "
+      ]
+    },
+    {
+      "uid": "0939cc",
+      "line": {
+        "shape": "hvh",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Public computer uses, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Public computer uses",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3819:b939bf",
+      "x": [
+        "2002",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3819:bdbe92",
+      "y": [
+        "",
+        "194,300",
+        "297,944",
+        "385,082",
+        "408,841",
+        " 452,208 "
+      ]
+    },
+    {
+      "uid": "dae395",
+      "line": {
+        "dash": "dot",
+        "shape": "hvh",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Registered borrowers, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Registered borrowers",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3819:b939bf",
+      "x": [
+        "2002",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3819:585e21",
+      "y": [
+        " 136,151 ",
+        "148,455",
+        "150,194",
+        "153,169",
+        "171,775",
+        " 167,785 "
+      ]
+    },
+    {
+      "uid": "00edb9",
+      "line": {
+        "shape": "hvh",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Library website branch hits, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Library website branch hits",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3819:b939bf",
+      "x": [
+        "2002",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3819:14a032",
+      "y": [
+        "",
+        "403,479",
+        "527,124",
+        "729,787",
+        "738,716",
+        " New baseline "
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        }
+      }
+    },
+    {
+      "uid": "aa2c63",
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Visits per open hour, y"
+        }
+      },
+      "name": "Visits per open hour",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3819:b939bf",
+      "x": [
+        "2002",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3819:36745d",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "62.3",
+        " 70.7 ",
+        " 73.5 ",
+        " 73.4 ",
+        " 69.0 ",
+        " 69.6 ",
+        " 70.0 "
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "uid": "bf8de7",
+      "line": {
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Website visits per hour (24/7), y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Website visits per hour (24/7)",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3819:b939bf",
+      "x": [
+        "2002",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3819:4ed8c2",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        " 56.3 ",
+        " 84.4 ",
+        " 105.4 ",
+        " 105.5 ",
+        " 109.8 ",
+        " 107.1 "
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "6f1141",
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Computer uses per open hour, y"
+        }
+      },
+      "name": "Computer uses per open hour",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3819:b939bf",
+      "x": [
+        "2002",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3819:2478b5",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        " 15.3 ",
+        " 16.7 ",
+        " 13.8 ",
+        " 13.8 ",
+        " 14.0 ",
+        " 14.1 ",
+        " 15.3 "
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "uid": "af4182",
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Items borrowed per open hour, y"
+        }
+      },
+      "name": "Items borrowed per open hour",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3819:b939bf",
+      "x": [
+        "2002",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3819:41f65e",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        " 84.1 ",
+        " 89.9 ",
+        " 121.8 ",
+        " 124.3 ",
+        " 130.8 ",
+        " 129.1 ",
+        " 125.2 "
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "uid": "d9e7fc",
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Checkouts per registered borrower, y"
+        }
+      },
+      "name": "Checkouts per registered borrower",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3819:b939bf",
+      "x": [
+        "2002",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3819:bcf8e4",
+      "y": [
+        "",
+        "13.4",
+        "14.6",
+        "14.6",
+        "13.1",
+        " 14.0 "
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "uid": "4ff8b6",
+      "line": {
+        "shape": "linear",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "% Population registered (owning library card), y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "% Population registered (owning library card)",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3819:b939bf",
+      "x": [
+        "2002",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3819:7e9dec",
+      "y": [
+        "39.5",
+        "38.5",
+        "38.4",
+        "38.6",
+        "42.0",
+        " 40.4 "
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 0.5
+        }
+      }
+    },
+    {
+      "uid": "203a9c",
+      "line": {
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Average attendance per program, x; Patron visits, x; Checkouts, x",
+          "y": "Average attendance per program, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Average attendance per program",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3819:cb6e81",
+      "x": [
+        "2002",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3819:eee5eb",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "28.6",
+        " 31.2 ",
+        " 26.5 ",
+        " 29.1 ",
+        " 28.6 ",
+        " 26.8 ",
+        " 24.6 ",
+        "25.1"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 2
+        }
+      }
+    },
+    {
+      "uid": "a0de66",
+      "fill": "tonexty",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Average attendance per program, x; Patron visits, x; Checkouts, x",
+          "y": "Patron visits, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Patron visits",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3819:cb6e81",
+      "x": [
+        "2002",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3819:b5c020",
+      "y": [
+        "1,562,000",
+        "1,259,000",
+        "1,453,000",
+        "1,659,000",
+        "1,668,000",
+        "1,757,000",
+        "1,404,000",
+        "1,214,000",
+        "1,265,000",
+        "1,228,000",
+        "1,172,000",
+        "1,093,000",
+        "1,071 ,000",
+        "1,094,000",
+        "466,000",
+        "1,188,000"
+      ]
+    },
+    {
+      "uid": "2187a1",
+      "fill": "tonexty",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Average attendance per program, x; Patron visits, x; Checkouts, x",
+          "y": "Checkouts, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Checkouts",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3819:cb6e81",
+      "x": [
+        "2002",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3819:0009f5",
+      "y": [
+        "1,835,000",
+        "1,982,000",
+        "2,186,000",
+        "2,232,000",
+        "2,254,000",
+        "2,357,000",
+        "2,258,000",
+        "2,123,000",
+        "2,341,000",
+        "2,283,000",
+        "2,203,000",
+        "2,045,000",
+        "1,674,000",
+        "1,966,000",
+        "1,958,000",
+        "2,016,000"
+      ]
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "Washoe County Library System resources"
+    },
+    "width": 890,
+    "xaxis": {
+      "side": "bottom",
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2001.0079739035882,
+        2019
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": {
+        "text": "Fiscal year"
+      },
+      "tickmode": "linear",
+      "autorange": true,
+      "gridwidth": 1.5,
+      "zerolinewidth": 1,
+      "showticklabels": true
+    },
+    "yaxis": {
+      "range": [
+        -153316.31611190527,
+        2489121.911374311
+      ],
+      "title": {
+        "text": "Millions"
+      },
+      "domain": [
+        0,
+        0.45
+      ],
+      "autorange": true
+    },
+    "height": 607,
+    "legend": {
+      "x": -0.09315068493150686,
+      "y": 1.3835978835978837,
+      "font": {
+        "size": 10
+      }
+    },
+    "margin": {
+      "pad": 0
+    },
+    "xaxis2": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2001.1677593521017,
+        2015.8071731585037
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "anchor": "y2",
+      "domain": [
+        0,
+        1
+      ],
+      "mirror": true,
+      "showgrid": true,
+      "showline": false,
+      "tickmode": "linear",
+      "zeroline": true,
+      "autorange": true,
+      "gridcolor": "rgb(242, 239, 239)",
+      "gridwidth": 0,
+      "zerolinewidth": 1,
+      "showticklabels": true
+    },
+    "yaxis2": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        0,
+        137.6842105263158
+      ],
+      "title": {
+        "text": "# or\u00a0%"
+      },
+      "anchor": "x2",
+      "domain": [
+        0.55,
+        1
+      ],
+      "autorange": true
+    },
+    "autosize": "initial",
+    "showlegend": true,
+    "annotations": []
+  }
+}

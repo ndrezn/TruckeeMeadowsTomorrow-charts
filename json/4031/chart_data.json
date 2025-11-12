@@ -1,0 +1,348 @@
+{
+  "data": [
+    {
+      "uid": "76b041",
+      "meta": {
+        "columnNames": {
+          "x": "Elementary capacity, x; MS capacity, x; HS capacity, x; Total WCSD capacity, x; WCSD enrollment, x",
+          "y": "Elementary capacity, y"
+        }
+      },
+      "name": "Elementary capacity",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:4030:820f3b",
+      "x": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4030:52b0f6",
+      "y": [
+        " 27,781 ",
+        " 28,441 ",
+        " 28,441 ",
+        " 29,761 ",
+        " 30,080 ",
+        " 30,080 ",
+        " 31,286 ",
+        " 31,286 ",
+        " 32,105 ",
+        " 32,105 ",
+        " 31,179 ",
+        " 32,214 ",
+        " 32,214 ",
+        " 36,857 ",
+        " 36,857 ",
+        " 36,262 ",
+        "36,262",
+        "36,262",
+        "35,933"
+      ]
+    },
+    {
+      "uid": "16285e",
+      "line": {
+        "color": "rgb(188, 189, 34)"
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Elementary capacity, x; MS capacity, x; HS capacity, x; Total WCSD capacity, x; WCSD enrollment, x",
+          "y": "MS capacity, y"
+        }
+      },
+      "name": "MS capacity",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:4030:820f3b",
+      "x": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4030:42f50f",
+      "y": [
+        " 8,300 ",
+        " 8,300 ",
+        " 8,300 ",
+        " 8,300 ",
+        " 8,300 ",
+        " 9,233 ",
+        " 10,279 ",
+        " 10,279 ",
+        " 11,544 ",
+        " 12,954 ",
+        " 12,544 ",
+        " 12,893 ",
+        " 12,893 ",
+        " 13,410 ",
+        " 13,410 ",
+        " 13,459 ",
+        " 13,459 ",
+        "13,459",
+        "14,245"
+      ],
+      "marker": {
+        "color": "rgb(188, 189, 34)"
+      }
+    },
+    {
+      "uid": "60cd8a",
+      "meta": {
+        "columnNames": {
+          "x": "Elementary capacity, x; MS capacity, x; HS capacity, x; Total WCSD capacity, x; WCSD enrollment, x",
+          "y": "HS capacity, y"
+        }
+      },
+      "name": "HS capacity",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:4030:820f3b",
+      "x": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4030:157ca7",
+      "y": [
+        " 11,656 ",
+        " 11,656 ",
+        " 15,236 ",
+        " 15,236 ",
+        " 16,244 ",
+        " 16,244 ",
+        " 16,244 ",
+        " 16,244 ",
+        " 20,016 ",
+        " 20,016 ",
+        " 20,175 ",
+        " 19,939 ",
+        " 19,939 ",
+        " 19,643 ",
+        " 19,643 ",
+        " 20,139 ",
+        " 20,139 ",
+        "20,139",
+        "22,286"
+      ]
+    },
+    {
+      "uid": "862938",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Elementary capacity, x; MS capacity, x; HS capacity, x; Total WCSD capacity, x; WCSD enrollment, x",
+          "y": "Total WCSD capacity, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Total WCSD capacity",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4030:820f3b",
+      "x": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4030:87633f",
+      "y": [
+        " 47,737 ",
+        " 48,397 ",
+        " 51,977 ",
+        " 53,297 ",
+        " 54,624 ",
+        " 55,557 ",
+        " 57,809 ",
+        " 57,809 ",
+        " 63,665 ",
+        " 65,075 ",
+        " 63,898 ",
+        " 65,046 ",
+        " 65,046 ",
+        " 69,910 ",
+        " 69,910 ",
+        " 69,860 ",
+        "\u00a069,860\u00a0",
+        "\u00a068,860\u00a0",
+        "72,464"
+      ],
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "4eddef",
+      "line": {
+        "color": "rgb(127, 127, 127)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Elementary capacity, x; MS capacity, x; HS capacity, x; Total WCSD capacity, x; WCSD enrollment, x",
+          "y": "WCSD enrollment, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "WCSD enrollment",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4030:820f3b",
+      "x": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4030:dfd774",
+      "y": [
+        " 55,561 ",
+        " 57,583 ",
+        " 58,903 ",
+        " 60,408 ",
+        " 62,097 ",
+        " 62,372 ",
+        " 63,025 ",
+        " 63,628 ",
+        " 63,287 ",
+        " 62,455 ",
+        " 62,323 ",
+        " 62,217 ",
+        " 62,368 ",
+        " 62,963 ",
+        " 63,070 ",
+        " 63,670 ",
+        " 63,919 ",
+        "\u00a063,914\u00a0",
+        "63,876"
+      ],
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "size": 8,
+        "symbol": "square"
+      }
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "WCSD school base capacity"
+    },
+    "width": 1469,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        1999.906068006763,
+        2020.093931993237
+      ],
+      "tick0": 1,
+      "title": {
+        "text": "FY-ending June 30th"
+      },
+      "tickmode": "linear",
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        76969.19340221134
+      ],
+      "title": {
+        "text": "Capacity"
+      },
+      "autorange": true
+    },
+    "height": 766,
+    "barmode": "stack",
+    "autosize": "initial"
+  }
+}

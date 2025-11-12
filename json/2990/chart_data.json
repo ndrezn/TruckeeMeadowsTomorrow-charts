@@ -1,0 +1,318 @@
+{
+  "data": [
+    {
+      "uid": "61a993",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "SO2\u2013NV Energy, x; SO2\u2013National, x; NOx\u2013NV Energy, x; NOx\u2013National, x; PM10\u2013NV Energy, x",
+          "y": "SO2\u2013NV Energy, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "SO2\u2013NV Energy",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3853:9c19c0",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3853:9c157a",
+      "y": [
+        "2.01",
+        "1.07",
+        "0.88",
+        "0.81",
+        "0.63",
+        "0.67",
+        "0.51",
+        "2.14",
+        "2.44",
+        "1.61",
+        "1.56",
+        "0.92",
+        "0.36",
+        "0.37"
+      ]
+    },
+    {
+      "uid": "157e93",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(31, 119, 180)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "SO2\u2013NV Energy, x; SO2\u2013National, x; NOx\u2013NV Energy, x; NOx\u2013National, x; PM10\u2013NV Energy, x",
+          "y": "SO2\u2013National, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "SO2\u2013National",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3853:9c19c0",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3853:51b022",
+      "y": [
+        "5.10",
+        "4.69",
+        "4.35",
+        "3.60",
+        "3.30",
+        "2.62",
+        "2.35",
+        null,
+        null,
+        null,
+        null,
+        "\u00a0",
+        "\u00a0",
+        "\u00a0"
+      ]
+    },
+    {
+      "uid": "1136aa",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "SO2\u2013NV Energy, x; SO2\u2013National, x; NOx\u2013NV Energy, x; NOx\u2013National, x; PM10\u2013NV Energy, x",
+          "y": "NOx\u2013NV Energy, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "NOx\u2013NV Energy",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3853:9c19c0",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3853:3c538e",
+      "y": [
+        "4.21",
+        "2.50",
+        "1.99",
+        "1.50",
+        "0.99",
+        "0.91",
+        "0.72",
+        "1.29",
+        "1.54",
+        "1.27",
+        "1.04",
+        "0.69",
+        "0.52",
+        "0.49"
+      ]
+    },
+    {
+      "uid": "cc1318",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(44, 160, 44)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "SO2\u2013NV Energy, x; SO2\u2013National, x; NOx\u2013NV Energy, x; NOx\u2013National, x; PM10\u2013NV Energy, x",
+          "y": "NOx\u2013National, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "NOx\u2013National",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3853:9c19c0",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3853:9176cd",
+      "y": [
+        "1.95",
+        "1.87",
+        "1.76",
+        "1.62",
+        "1.34",
+        "1.21",
+        "1.17",
+        null,
+        null,
+        null,
+        null,
+        "\u00a0",
+        "\u00a0",
+        "\u00a0"
+      ]
+    },
+    {
+      "uid": "a4ad5e",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "SO2\u2013NV Energy, x; SO2\u2013National, x; NOx\u2013NV Energy, x; NOx\u2013National, x; PM10\u2013NV Energy, x",
+          "y": "PM10\u2013NV Energy, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "PM10\u2013NV Energy",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3853:9c19c0",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3853:096d6b",
+      "y": [
+        "0.20",
+        "0.13",
+        "0.09",
+        "0.07",
+        "0.05",
+        "0.05",
+        "0.05",
+        "0.07",
+        "0.05",
+        "0.05",
+        "0.11",
+        "0.07",
+        "0.04",
+        "0.03"
+      ]
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "Toxic and polluting emissions average reductions (lbs/MWh)"
+    },
+    "width": 765,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2004.1769087523278,
+        2018.8230912476722
+      ],
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": "12-month period ending March 31"
+      },
+      "anchor": "y",
+      "domain": [
+        0,
+        1
+      ],
+      "mirror": false,
+      "showline": true,
+      "tickmode": "linear",
+      "zeroline": false,
+      "autorange": true,
+      "linewidth": 0.1
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        -0.3130052264808363,
+        5.443005226480836
+      ],
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": "Pounds per Megawatt-hour"
+      },
+      "showline": false,
+      "zeroline": false,
+      "autorange": true,
+      "gridwidth": 2
+    },
+    "height": 571,
+    "legend": {
+      "x": 0.4232902033271719,
+      "y": 1.0281329923273657
+    },
+    "autosize": true,
+    "showlegend": true
+  }
+}

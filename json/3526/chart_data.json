@@ -1,0 +1,153 @@
+{
+  "data": [
+    {
+      "uid": "ad38c7",
+      "name": "Finding a good volunteer opportunity for me",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3525:b2a2f3",
+      "x": [
+        "Of definite interest",
+        "Possible interest",
+        "Not interested"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3525:4eb6cb",
+      "y": [
+        "27",
+        "21",
+        "18"
+      ],
+      "textsrc": "TruckeeMeadowsTomorrow:3525:b2a2f3",
+      "text": [
+        "Of definite interest",
+        "Possible interest",
+        "Not interested"
+      ]
+    },
+    {
+      "uid": "f94ff2",
+      "name": "Offering my experience or professional skills as a volunteer--what, how, why",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3525:b2a2f3",
+      "x": [
+        "Of definite interest",
+        "Possible interest",
+        "Not interested"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3525:105ac2",
+      "y": [
+        "25",
+        "31",
+        "11"
+      ],
+      "textsrc": "TruckeeMeadowsTomorrow:3525:b2a2f3",
+      "text": [
+        "Of definite interest",
+        "Possible interest",
+        "Not interested"
+      ]
+    },
+    {
+      "uid": "4cda77",
+      "name": "Benefits of volunteering as a young person or student",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3525:b2a2f3",
+      "x": [
+        "Of definite interest",
+        "Possible interest",
+        "Not interested"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3525:0f7380",
+      "y": [
+        "16",
+        "23",
+        "27"
+      ],
+      "textsrc": "TruckeeMeadowsTomorrow:3525:b2a2f3",
+      "text": [
+        "Of definite interest",
+        "Possible interest",
+        "Not interested"
+      ]
+    },
+    {
+      "uid": "951a43",
+      "name": "Benefits of volunteering as an older adult",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3525:b2a2f3",
+      "x": [
+        "Of definite interest",
+        "Possible interest",
+        "Not interested"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3525:27056c",
+      "y": [
+        "29",
+        "24",
+        "16"
+      ],
+      "textsrc": "TruckeeMeadowsTomorrow:3525:b2a2f3",
+      "text": [
+        "Of definite interest",
+        "Possible interest",
+        "Not interested"
+      ]
+    },
+    {
+      "uid": "d1ed62",
+      "name": "Nominating volunteers for Governor's Points of Light awards or Governor's Certificate of Service",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3525:b2a2f3",
+      "x": [
+        "Of definite interest",
+        "Possible interest",
+        "Not interested"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3525:99345f",
+      "y": [
+        "28",
+        "28",
+        "12"
+      ],
+      "textsrc": "TruckeeMeadowsTomorrow:3525:b2a2f3",
+      "text": [
+        "Of definite interest",
+        "Possible interest",
+        "Not interested"
+      ]
+    }
+  ],
+  "layout": {
+    "title": "Engaging and managing volunteers",
+    "width": 1006,
+    "xaxis": {
+      "type": "category",
+      "range": [
+        -0.5,
+        2.5
+      ],
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        32.63157894736842
+      ],
+      "title": "Count",
+      "autorange": true
+    },
+    "height": 628,
+    "legend": {
+      "x": 0.6611929792820327,
+      "y": 1.0626847635027163,
+      "font": {
+        "size": 10
+      }
+    },
+    "barmode": "group",
+    "autosize": true,
+    "titlefont": {
+      "size": 14
+    }
+  }
+}

@@ -1,0 +1,379 @@
+{
+  "data": [
+    {
+      "uid": "10f30c",
+      "fill": "tonexty",
+      "line": {
+        "color": "rgb(221, 126, 107)",
+        "shape": "spline"
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Passengers"
+        }
+      },
+      "mode": "lines",
+      "name": "Passengers",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:1801:138ae9",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:1801:b2cd48",
+      "y": [
+        "\u00a0\t5,000,663\u00a0",
+        "\u00a0\t5,044,087\u00a0",
+        "\u00a0\t4,434,638\u00a0",
+        "\u00a0\t3,755,935\u00a0",
+        "\u00a0\t3,823,393\u00a0",
+        "\u00a0\t3,754,155\u00a0",
+        "\u00a0\t3,479,290\u00a0",
+        "\u00a0\t3,432,311\u00a0",
+        "\u00a0\t3,305,090\u00a0",
+        "\u00a0\t3,432,330\u00a0",
+        "\u00a0\t3,650,830\u00a0",
+        "\u00a0\t4,015,381\u00a0",
+        "\u00a0\t4,210,095\u00a0",
+        "\u00a0\t4,450,673\u00a0",
+        "\u00a0\t2,006,420\u00a0",
+        "\u00a0\t3,623,458\u00a0",
+        "\u00a0\t4,155,405\u00a0",
+        "\u00a0\t4,573,384\u00a0"
+      ],
+      "opacity": 0.5,
+      "fillcolor": "rgba(221, 126, 107, 0.5)"
+    },
+    {
+      "uid": "f3b712",
+      "line": {
+        "color": "rgb(204, 65, 37)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "% \u2206 Passengers"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "% \u2206 Passengers",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:1801:138ae9",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:1801:7e5d51",
+      "y": [
+        "\n",
+        "0.87%",
+        "-12.08%",
+        "-15.30%",
+        "1.80%",
+        "-1.81%",
+        "-7.32%",
+        "-1.35%",
+        "-3.71%",
+        "3.85%",
+        "6.37%",
+        "9.99%",
+        "4.85%",
+        "5.71%",
+        "-54.92%",
+        "80.59%",
+        "14.68%",
+        "6.09%"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "size": 8
+      },
+      "opacity": 0.75
+    },
+    {
+      "uid": "93f7d9",
+      "fill": "tonexty",
+      "line": {
+        "color": "rgb(118, 165, 175)",
+        "shape": "spline"
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Cargo pounds"
+        }
+      },
+      "mode": "lines",
+      "name": "Cargo pounds",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:1801:138ae9",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:1801:aa2308",
+      "y": [
+        "\u00a0\t122,490,191\u00a0",
+        "\u00a0\t129,249,404\u00a0",
+        "\u00a0\t120,232,329\u00a0",
+        "\u00a0\t102,358,767\u00a0",
+        "\u00a0\t113,016,942\u00a0",
+        "\u00a0\t114,454,111\u00a0",
+        "\u00a0\t115,800,350\u00a0",
+        "\u00a0\t121,032,995\u00a0",
+        "\u00a0\t129,089,243\u00a0",
+        "\u00a0\t138,451,725\u00a0",
+        "\u00a0\t156,410,910\u00a0",
+        "\u00a0\t152,272,944\u00a0",
+        "\u00a0\t148,862,677\u00a0",
+        "\u00a0\t146,899,694\u00a0",
+        "\u00a0\t147,893,687\u00a0",
+        "\u00a0\t151,162,508\u00a0",
+        "\u00a0\t147,276,696\u00a0",
+        "\u00a0\t114,337,660\u00a0"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y3",
+      "opacity": 0.5
+    },
+    {
+      "uid": "f25c6d",
+      "line": {
+        "color": "rgb(28, 69, 135)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "% \u2206 Cargo"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "% \u2206 Cargo",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:1801:138ae9",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:1801:77da9c",
+      "y": [
+        "\n",
+        "5.52%",
+        "-6.98%",
+        "-14.87%",
+        "10.41%",
+        "1.27%",
+        "1.18%",
+        "4.52%",
+        "6.66%",
+        "7.25%",
+        "12.97%",
+        "-2.65%",
+        "-2.24%",
+        "-1.32%",
+        "0.68%",
+        "2.21%",
+        "-2.57%",
+        "-17.98%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y4",
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "size": 8,
+        "color": "rgb(201, 218, 248)"
+      },
+      "opacity": 0.75
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(68, 68, 68)"
+      },
+      "text": "<b>Total Reno-Tahoe International Airport air traffic</b><br><br>\n<b>Source:</b><a href=\"https://www.renoairport.com/airport-authority/about/\"> RTIA Statistics</a>"
+    },
+    "width": 795,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2005.8873552983082,
+        2023.1126447016918
+      ],
+      "tick0": 0,
+      "title": {
+        "text": "<br>"
+      },
+      "showgrid": true,
+      "showline": false,
+      "tickmode": "linear",
+      "zeroline": true,
+      "autorange": false,
+      "gridwidth": 0.5,
+      "zerolinewidth": 0.5,
+      "showticklabels": true
+    },
+    "yaxis": {
+      "type": "-",
+      "range": [
+        0,
+        5309565.263157895
+      ],
+      "title": {
+        "text": "Passengers millions"
+      },
+      "domain": [
+        0,
+        0.45
+      ],
+      "autorange": true,
+      "gridwidth": 1.5
+    },
+    "height": 563,
+    "legend": {
+      "x": 0.4031496062992126,
+      "y": 0.556135770234987
+    },
+    "xaxis2": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2005.8873552983082,
+        2023.1126447016918
+      ],
+      "anchor": "y3",
+      "domain": [
+        0,
+        1
+      ],
+      "showline": false,
+      "tickmode": "linear",
+      "autorange": false,
+      "showticklabels": false
+    },
+    "yaxis2": {
+      "side": "right",
+      "range": [
+        -67.63617286290184,
+        93.30617286290185
+      ],
+      "title": {
+        "text": "% \u2206"
+      },
+      "anchor": "x",
+      "autorange": true,
+      "gridwidth": 0.5,
+      "overlaying": "y",
+      "zerolinewidth": 2
+    },
+    "yaxis3": {
+      "range": [
+        0,
+        164643063.15789473
+      ],
+      "title": {
+        "text": "Cargo pounds"
+      },
+      "anchor": "x2",
+      "domain": [
+        0.55,
+        1
+      ],
+      "autorange": true
+    },
+    "yaxis4": {
+      "side": "right",
+      "range": [
+        -20.884328463632293,
+        15.874328463632292
+      ],
+      "title": {
+        "text": "% \u2206"
+      },
+      "anchor": "x2",
+      "autorange": true,
+      "gridwidth": 0.5,
+      "overlaying": "y3",
+      "zerolinewidth": 2
+    },
+    "autosize": true,
+    "showlegend": true
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "data": [
+    {
+      "uid": "ae16c1",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Been in a physical fight in the last 12-months, x; Been in a fight &amp;amp;amp; injured, x; Been in a fight at school/on school property, x; Ever been in a physical fight, x; Ever been in a physical fight at school past 12 months, x; Boyfriend or girlfriend hit, slapped or physically hurt them on purpose in the past year, x; Ever seen adults in their home slap, hit, kick, punch, or beat each other up , x; Ever been hit, beaten, kicked, or physically hurt in anyway by an adult , x; Experienced dating violence, x; Experienced sexual dating violence, x",
+          "y": "Been in a physical fight in the last 12-months, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Been in a physical fight in the last 12-months, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3931:f938fc",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3931:6a9118",
+      "y": [
+        "31.1",
+        "32.2",
+        "34.8",
+        "35.1",
+        "36.8",
+        "29.3",
+        "28.8",
+        "22.2",
+        "20.1"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "4bef90",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Been in a physical fight in the last 12-months, x; Been in a fight &amp;amp;amp; injured, x; Been in a fight at school/on school property, x; Ever been in a physical fight, x; Ever been in a physical fight at school past 12 months, x; Boyfriend or girlfriend hit, slapped or physically hurt them on purpose in the past year, x; Ever seen adults in their home slap, hit, kick, punch, or beat each other up , x; Ever been hit, beaten, kicked, or physically hurt in anyway by an adult , x; Experienced dating violence, x; Experienced sexual dating violence, x",
+          "y": "Been in a fight &amp;amp;amp; injured, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Been in a fight &amp;amp; injured, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3931:f938fc",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3931:67714c",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "5.0",
+        "3.4"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "eb9cbd",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Been in a physical fight in the last 12-months, x; Been in a fight &amp;amp;amp; injured, x; Been in a fight at school/on school property, x; Ever been in a physical fight, x; Ever been in a physical fight at school past 12 months, x; Boyfriend or girlfriend hit, slapped or physically hurt them on purpose in the past year, x; Ever seen adults in their home slap, hit, kick, punch, or beat each other up , x; Ever been hit, beaten, kicked, or physically hurt in anyway by an adult , x; Experienced dating violence, x; Experienced sexual dating violence, x",
+          "y": "Been in a fight at school/on school property, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Been in a fight at school/on school property, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3931:f938fc",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3931:babf61",
+      "y": [
+        "12.6",
+        "15.0",
+        "14.4",
+        "14.5",
+        "15.0",
+        "12.7",
+        "9.8",
+        "6.5",
+        "6.7"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "75233d",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Been in a physical fight in the last 12-months, x; Been in a fight &amp;amp;amp; injured, x; Been in a fight at school/on school property, x; Ever been in a physical fight, x; Ever been in a physical fight at school past 12 months, x; Boyfriend or girlfriend hit, slapped or physically hurt them on purpose in the past year, x; Ever seen adults in their home slap, hit, kick, punch, or beat each other up , x; Ever been hit, beaten, kicked, or physically hurt in anyway by an adult , x; Experienced dating violence, x; Experienced sexual dating violence, x",
+          "y": "Ever been in a physical fight, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Ever been in a physical fight, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3931:f938fc",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3931:c1171b",
+      "y": [
+        "",
+        "",
+        "",
+        "55.8",
+        "57.9",
+        "48.7"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "cfe174",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Been in a physical fight in the last 12-months, x; Been in a fight &amp;amp;amp; injured, x; Been in a fight at school/on school property, x; Ever been in a physical fight, x; Ever been in a physical fight at school past 12 months, x; Boyfriend or girlfriend hit, slapped or physically hurt them on purpose in the past year, x; Ever seen adults in their home slap, hit, kick, punch, or beat each other up , x; Ever been hit, beaten, kicked, or physically hurt in anyway by an adult , x; Experienced dating violence, x; Experienced sexual dating violence, x",
+          "y": "Ever been in a physical fight at school past 12 months, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Ever been in a physical fight at school past 12 months, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3931:f938fc",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3931:c169d0",
+      "y": [
+        "24.7",
+        "24.8",
+        "19.1",
+        "",
+        "16.5",
+        "16.1"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "07c24c",
+      "meta": {
+        "columnNames": {
+          "x": "Been in a physical fight in the last 12-months, x; Been in a fight &amp;amp;amp; injured, x; Been in a fight at school/on school property, x; Ever been in a physical fight, x; Ever been in a physical fight at school past 12 months, x; Boyfriend or girlfriend hit, slapped or physically hurt them on purpose in the past year, x; Ever seen adults in their home slap, hit, kick, punch, or beat each other up , x; Ever been hit, beaten, kicked, or physically hurt in anyway by an adult , x; Experienced dating violence, x; Experienced sexual dating violence, x",
+          "y": "Boyfriend or girlfriend hit, slapped or physically hurt them on purpose in the past year, y"
+        }
+      },
+      "name": "Boyfriend or girlfriend hit, slapped or physically hurt them on purpose in the past year, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3931:f938fc",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3931:54b92f",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "10.0"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "uid": "3a72fc",
+      "meta": {
+        "columnNames": {
+          "x": "Been in a physical fight in the last 12-months, x; Been in a fight &amp;amp;amp; injured, x; Been in a fight at school/on school property, x; Ever been in a physical fight, x; Ever been in a physical fight at school past 12 months, x; Boyfriend or girlfriend hit, slapped or physically hurt them on purpose in the past year, x; Ever seen adults in their home slap, hit, kick, punch, or beat each other up , x; Ever been hit, beaten, kicked, or physically hurt in anyway by an adult , x; Experienced dating violence, x; Experienced sexual dating violence, x",
+          "y": "Ever seen adults in their home slap, hit, kick, punch, or beat each other up , y"
+        }
+      },
+      "name": "Ever seen adults in their home slap, hit, kick, punch, or beat each other up , y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3931:f938fc",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3931:2f97aa",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "16.6",
+        "16.3"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "uid": "b74568",
+      "meta": {
+        "columnNames": {
+          "x": "Been in a physical fight in the last 12-months, x; Been in a fight &amp;amp;amp; injured, x; Been in a fight at school/on school property, x; Ever been in a physical fight, x; Ever been in a physical fight at school past 12 months, x; Boyfriend or girlfriend hit, slapped or physically hurt them on purpose in the past year, x; Ever seen adults in their home slap, hit, kick, punch, or beat each other up , x; Ever been hit, beaten, kicked, or physically hurt in anyway by an adult , x; Experienced dating violence, x; Experienced sexual dating violence, x",
+          "y": "Ever been hit, beaten, kicked, or physically hurt in anyway by an adult , y"
+        }
+      },
+      "name": "Ever been hit, beaten, kicked, or physically hurt in anyway by an adult , y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3931:f938fc",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3931:00f36d",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "17.7",
+        "17.4"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "uid": "5032cb",
+      "meta": {
+        "columnNames": {
+          "x": "Been in a physical fight in the last 12-months, x; Been in a fight &amp;amp;amp; injured, x; Been in a fight at school/on school property, x; Ever been in a physical fight, x; Ever been in a physical fight at school past 12 months, x; Boyfriend or girlfriend hit, slapped or physically hurt them on purpose in the past year, x; Ever seen adults in their home slap, hit, kick, punch, or beat each other up , x; Ever been hit, beaten, kicked, or physically hurt in anyway by an adult , x; Experienced dating violence, x; Experienced sexual dating violence, x",
+          "y": "Experienced physical dating violence (past 12 months)***, y"
+        }
+      },
+      "name": "Experienced physical dating violence (past 12 months)***, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3931:f938fc",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3931:3d7918",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "12.8",
+        "10.8",
+        "7.8"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2"
+    },
+    {
+      "uid": "21b278",
+      "meta": {
+        "columnNames": {
+          "x": "Been in a physical fight in the last 12-months, x; Been in a fight &amp;amp;amp; injured, x; Been in a fight at school/on school property, x; Ever been in a physical fight, x; Ever been in a physical fight at school past 12 months, x; Boyfriend or girlfriend hit, slapped or physically hurt them on purpose in the past year, x; Ever seen adults in their home slap, hit, kick, punch, or beat each other up , x; Ever been hit, beaten, kicked, or physically hurt in anyway by an adult , x; Experienced dating violence, x; Experienced sexual dating violence, x",
+          "y": "Experienced sexual dating violence (past 12 months)***"
+        }
+      },
+      "name": "Experienced sexual dating violence (past 12 months)***",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3931:f938fc",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3931:963724",
+      "y": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "12.1",
+        "7.8"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2"
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "WCSD high school youth violence-related behaviors"
+    },
+    "width": 1184,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        1999.891480529749,
+        2018.108519470251
+      ],
+      "tick0": 1,
+      "domain": [
+        0,
+        0.45
+      ],
+      "tickmode": "linear",
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        -0.34988075363701476,
+        61.649880753637014
+      ],
+      "title": {
+        "text": "YRBS %"
+      },
+      "autorange": true
+    },
+    "height": 657,
+    "legend": {
+      "x": 0.3037109375,
+      "y": 1.0452411697988673,
+      "font": {
+        "size": 8
+      },
+      "xanchor": "left",
+      "yanchor": "auto",
+      "orientation": "v"
+    },
+    "xaxis2": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2000,
+        2018
+      ],
+      "tick0": 1,
+      "anchor": "y2",
+      "domain": [
+        0.55,
+        1
+      ],
+      "showline": true,
+      "tickmode": "linear",
+      "zeroline": true,
+      "autorange": true
+    },
+    "yaxis2": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        0,
+        18.63157894736842
+      ],
+      "title": {
+        "text": "YRBS %"
+      },
+      "anchor": "x2",
+      "domain": [
+        0,
+        1
+      ],
+      "autorange": true
+    },
+    "autosize": true
+  }
+}

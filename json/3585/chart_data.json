@@ -1,0 +1,549 @@
+{
+  "data": [
+    {
+      "uid": "aa224a",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Alcohol, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3937:96fc6e",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3937:de5f3c",
+      "y": [
+        "82.5",
+        "78.5",
+        "78.9",
+        "72.4",
+        "77.1",
+        "70.8",
+        "70.2",
+        "65.6",
+        " 60.2 "
+      ],
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "cd064c",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Marijuana, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3937:96fc6e",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3937:af12cc",
+      "y": [
+        "50.5",
+        "48.1",
+        "45.2",
+        "38.9",
+        "47.0",
+        "46.1",
+        "49.2",
+        "45.2",
+        "41.9"
+      ],
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "0198b4",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Synthetic marijuana, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3937:96fc6e",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3937:a399ae",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "21.5",
+        "11.1",
+        "9.7"
+      ],
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "deb471",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Cocaine in any form, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3937:96fc6e",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3937:17078a",
+      "y": [
+        "11.8",
+        "11.6",
+        "12.4",
+        "9.9",
+        "11.9",
+        "8.6",
+        "11.3",
+        "9.2",
+        "7.2"
+      ],
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "32cd2f",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Heroin, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3937:96fc6e",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3937:112321",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "4.6",
+        "3.5",
+        "3.2"
+      ],
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "c73766",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Methamphetamines, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3937:96fc6e",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3937:ee8e53",
+      "y": [
+        "14.5",
+        "12.4",
+        "10.2",
+        "4.9",
+        "7.3",
+        "4.9",
+        "6.7",
+        "4.8",
+        "3.3"
+      ],
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "593a57",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Inhalants, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3937:96fc6e",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3937:3a7e1b",
+      "y": [
+        "12.3",
+        "12.1",
+        "15.3",
+        "13.1",
+        "14.4",
+        "11.5",
+        "11.5",
+        "8.0",
+        "4.8"
+      ],
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "7fa16a",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Ecstay, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3937:96fc6e",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3937:c15533",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "16.2",
+        "10.5",
+        "8.3"
+      ],
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "39a112",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Cigarettes, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3937:96fc6e",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3937:8210c3",
+      "y": [
+        "62.5",
+        "57.6",
+        "52.2",
+        "43.4",
+        "52.0",
+        "40.3",
+        "40.9",
+        "36.2",
+        "26.5"
+      ],
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "11630f",
+      "line": {
+        "dash": "dot",
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Offered, sold or given drugs at school in the past year, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3937:96fc6e",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3937:c9908f",
+      "y": [
+        "33.8",
+        "27.9",
+        "28.4",
+        "29.0",
+        "35.7",
+        "31.8",
+        "33.2",
+        "27.9",
+        "28.3"
+      ],
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "1865a1",
+      "name": "Steroids without a prescription from a doctor, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3937:96fc6e",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3937:25d2e7",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "4.8",
+        "5.0",
+        "3.8"
+      ],
+      "opacity": 1,
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "e2269a",
+      "name": "Ever used prescription drugs without prescription from a doctor***, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3937:96fc6e",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3937:7ac4a8",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "23.1",
+        "21.9",
+        "18.3",
+        "14.8"
+      ],
+      "opacity": 1,
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "e64fb3",
+      "name": "OTC drugs, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3937:96fc6e",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3937:cb6179",
+      "y": [
+        "14.4",
+        "15.2",
+        "16.4",
+        "11.3",
+        "17.8",
+        "13.6"
+      ],
+      "opacity": 1,
+      "autobinx": true,
+      "autobiny": true
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "WCSD high school YRBS substance abuse usage (one or more times during lifetime)",
+    "width": 1444,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2000,
+        2018
+      ],
+      "tick0": 1,
+      "tickmode": "linear",
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        -1.9876531155689685,
+        87.68765311556896
+      ],
+      "title": "YRBS drug use %",
+      "autorange": true
+    },
+    "height": 817,
+    "legend": {
+      "x": 0.3333333333333333,
+      "y": 1.021978021978022,
+      "font": {
+        "size": 9,
+        "color": "rgb(0, 0, 0)"
+      },
+      "xanchor": "auto"
+    },
+    "autosize": true,
+    "titlefont": {
+      "size": 14,
+      "color": "rgb(152, 0, 0)"
+    },
+    "breakpoints": []
+  }
+}

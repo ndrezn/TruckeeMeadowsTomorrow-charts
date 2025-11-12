@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "line": {
+        "color": "rgb(163, 174, 180)",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines",
+      "name": "Nevada",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4067:38e7d1",
+      "x": [
+        "Col1",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4067:edf40f",
+      "y": [
+        " Nevada ",
+        " 28,321 ",
+        " 29,178 ",
+        " 22,888 ",
+        " 21,623 ",
+        " 21,201 ",
+        " 21,248 ",
+        " 21,073 ",
+        " 32,825 ",
+        " 21,500 ",
+        " 24,216 ",
+        null,
+        "\u00a027,159\u00a0"
+      ],
+      "stackgaps": "interpolate",
+      "orientation": "v"
+    },
+    {
+      "mode": "lines",
+      "name": "Washoe",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:4067:38e7d1",
+      "x": [
+        "Col1",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4067:17d675",
+      "y": [
+        " Washoe  ",
+        " 4,516 ",
+        " 4,830 ",
+        " 4,000 ",
+        " 3,658 ",
+        " 3,525 ",
+        " 3,487 ",
+        " 3,576 ",
+        "5,778",
+        " 3,867 ",
+        " 4,238 ",
+        null,
+        "4,392"
+      ],
+      "marker": {
+        "color": "rgb(31, 119, 180)"
+      },
+      "stackgroup": 1,
+      "orientation": "v"
+    },
+    {
+      "name": "Carson",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:4067:38e7d1",
+      "x": [
+        "Col1",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4067:b421ab",
+      "y": [
+        " Carson ",
+        " 997 ",
+        " 916 ",
+        " 754 ",
+        " 749 ",
+        " 708 ",
+        " 663 ",
+        " 719 ",
+        "1,117",
+        " 676 ",
+        " 702 ",
+        null,
+        "704"
+      ],
+      "orientation": "v"
+    },
+    {
+      "name": "Clark",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:4067:38e7d1",
+      "x": [
+        "Col1",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4067:bdeef4",
+      "y": [
+        " Clark ",
+        " 19,950 ",
+        " 20,861 ",
+        " 16,232 ",
+        " 15,229 ",
+        " 15,133 ",
+        " 15,307 ",
+        " 15,143 ",
+        "23,233",
+        " 15,251 ",
+        " 17,299 ",
+        null,
+        "19,930"
+      ],
+      "marker": {
+        "color": "rgb(245, 138, 8)"
+      },
+      "orientation": "v"
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "font": {
+      "size": 12,
+      "color": "rgb(214, 39, 40)"
+    },
+    "title": {
+      "font": {
+        "size": 14
+      },
+      "text": "Children enrolled in Nevada Check Up as of January 1st"
+    },
+    "width": 1041,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2006.5,
+        2018.5
+      ],
+      "autorange": true
+    },
+    "yaxis": {
+      "range": [
+        0,
+        34552.63157894737
+      ],
+      "title": {
+        "text": "Nevada Check Up enrollment"
+      },
+      "autorange": true
+    },
+    "bargap": 0.4,
+    "height": 636,
+    "legend": {
+      "x": 0.3421817493894679,
+      "y": 1.0079744816586922,
+      "font": {
+        "size": 14
+      }
+    },
+    "barmode": "stack",
+    "autosize": true,
+    "showlegend": true
+  }
+}

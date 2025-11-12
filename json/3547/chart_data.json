@@ -1,0 +1,391 @@
+{
+  "data": [
+    {
+      "uid": "79e135",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "SAT participation",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3923:7c8d20",
+      "x": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3923:4df358",
+      "y": [
+        "32%",
+        "36%",
+        "37%",
+        "37%",
+        "41%",
+        "43%",
+        "50%",
+        "45%",
+        "41%",
+        "44%",
+        "49%",
+        "50%",
+        "47%",
+        "49%",
+        "50%",
+        "34%"
+      ],
+      "yaxis": "y2",
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "b41312",
+      "name": "SAT math scores",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3923:7c8d20",
+      "x": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3923:671cde",
+      "y": [
+        "535",
+        "544",
+        "550",
+        "536",
+        "534",
+        "526",
+        "524",
+        "520",
+        "528",
+        "517",
+        "517",
+        "509",
+        "511",
+        "507",
+        "504",
+        "520"
+      ],
+      "marker": {
+        "color": "rgb(0, 255, 255)"
+      },
+      "opacity": 1,
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "0ba404",
+      "name": "SAT verbal scores",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3923:7c8d20",
+      "x": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3923:8e1bf2",
+      "y": [
+        "529",
+        "533",
+        "539",
+        "530",
+        "530",
+        "518",
+        "521",
+        "514",
+        "519",
+        "513",
+        "518",
+        "509",
+        "509",
+        "506",
+        "502",
+        "518"
+      ],
+      "marker": {
+        "color": "rgb(44, 160, 44)"
+      },
+      "opacity": 1,
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "eebea8",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "ACT participation",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3923:7c8d20",
+      "x": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3923:edc985",
+      "y": [
+        "51%",
+        "45%",
+        "48%",
+        "40%",
+        "41%",
+        "36%",
+        "40%",
+        "37%",
+        "39%",
+        "37%",
+        "36%",
+        "42%",
+        "37%",
+        "45%",
+        "38%",
+        "45%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y4",
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "e0473d",
+      "name": "ACT math scores",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3923:7c8d20",
+      "x": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3923:8e1a36",
+      "y": [
+        "21.9",
+        "22.2",
+        "22.1",
+        "21.9",
+        "21.9",
+        "22.1",
+        "22.2",
+        "22.2",
+        "22.1",
+        "22.4",
+        "22.1",
+        "21.9",
+        "22.1",
+        "21.9",
+        "22.1",
+        "21.8"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y3",
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "d69d04",
+      "name": "ACT English scores",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3923:7c8d20",
+      "x": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3923:957e67",
+      "y": [
+        "21.2",
+        "21.4",
+        "21.2",
+        "21.2",
+        "21.5",
+        "21.5",
+        "21.6",
+        "21.3",
+        "21.2",
+        "21.3",
+        "21.0",
+        "20.9",
+        "21.1",
+        "20.9",
+        "21.1",
+        "20.3"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y3",
+      "marker": {
+        "color": "rgb(255, 127, 14)"
+      },
+      "autobinx": true,
+      "autobiny": true
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "\n\n\n\n\n\n\n\nWCSD seniors who took college entrance exams*",
+    "width": 1066,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        1999.9927802353727,
+        2017.0072197646273
+      ],
+      "title": "Graduation year",
+      "domain": [
+        0,
+        0.45
+      ],
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        578.9473684210526
+      ],
+      "title": "SAT performance scores",
+      "autorange": true
+    },
+    "height": 621,
+    "legend": {
+      "x": 0.8410596026490066,
+      "y": 0.7845804988662132,
+      "xanchor": "right",
+      "yanchor": "auto"
+    },
+    "xaxis2": {
+      "type": "linear",
+      "range": [
+        1999.9927802353727,
+        2017.0072197646273
+      ],
+      "anchor": "y3",
+      "domain": [
+        0.55,
+        1
+      ],
+      "autorange": true
+    },
+    "yaxis2": {
+      "side": "right",
+      "range": [
+        30.80739599383667,
+        51.19260400616333
+      ],
+      "title": "",
+      "anchor": "x",
+      "autorange": true,
+      "overlaying": "y"
+    },
+    "yaxis3": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        0,
+        23.57894736842105
+      ],
+      "title": "ACT performance scores",
+      "anchor": "x2",
+      "domain": [
+        0,
+        1
+      ],
+      "autorange": true
+    },
+    "yaxis4": {
+      "side": "left",
+      "range": [
+        35.006163328197225,
+        51.993836671802775
+      ],
+      "title": "% \u00a0seniors participating",
+      "anchor": "x2",
+      "autorange": true,
+      "overlaying": "y3"
+    },
+    "barmode": "overlay",
+    "autosize": true,
+    "titlefont": {
+      "size": 14,
+      "color": "rgb(152, 0, 0)"
+    },
+    "breakpoints": []
+  }
+}

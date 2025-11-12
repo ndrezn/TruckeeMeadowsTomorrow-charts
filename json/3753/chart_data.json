@@ -1,0 +1,247 @@
+{
+  "data": [
+    {
+      "uid": "830f18",
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Nevada, y"
+        }
+      },
+      "name": "Nevada",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3976:1b5c23",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3976:ac6134",
+      "y": [
+        "13.9%",
+        "14.4%",
+        "14.3%",
+        "13.5%",
+        "13.8%",
+        "13.9%",
+        "13.2%",
+        "13.0%",
+        "12.6%",
+        "10.1%",
+        "10.0%",
+        "10.3%",
+        "10.6%",
+        "10.0%",
+        "10.6%",
+        "10.6%",
+        "11.2%",
+        "10.8%",
+        "11.0%"
+      ],
+      "opacity": 0.9
+    },
+    {
+      "uid": "e4a675",
+      "line": {
+        "color": "rgb(20, 97, 255)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Washoe, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Washoe",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3976:1b5c23",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3976:08a1f2",
+      "y": [
+        "",
+        "",
+        "12.5%",
+        "11.4%",
+        "11.6%",
+        "11.9%",
+        "12.2%",
+        "11.7%",
+        "11.25%",
+        "10.4%",
+        "9.98%",
+        "9.3%",
+        "9.5%",
+        "9.6%",
+        "10.0%",
+        "10.8%",
+        "9.5%",
+        "10.2%",
+        "9.5%"
+      ],
+      "marker": {
+        "size": 8
+      }
+    },
+    {
+      "uid": "758461",
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "US, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "US",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3976:1b5c23",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3976:a1b354",
+      "y": [
+        "12.7%",
+        "12.8%",
+        "12.7%",
+        "12.3%",
+        "12.2%",
+        "12.0%",
+        "11.7%",
+        "11.5%",
+        "11.4%",
+        "9.6%",
+        "9.6%",
+        "9.8%",
+        "9.9%",
+        "10.0%",
+        "10.2%",
+        "10.1%",
+        "10.5%",
+        "10.4%",
+        "10.4%"
+      ],
+      "marker": {
+        "color": "rgb(86, 250, 68)"
+      },
+      "opacity": 0.8,
+      "orientation": "v"
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 13,
+        "color": "rgb(68, 68, 68)"
+      },
+      "text": "<b>Percent of preterm live births</b><br><b>(less than 37 completed weeks of gestation among females age 15-44)</b><br>\n<br>\n<b>Source\u2013Washoe County &amp; NV:</b> Washoe County Health District Vital Statistics;<br>\n<b>Source\u2013US:</b> <a href=\"https://www.cdc.gov/nchs/nvss/index.htm\">Department of Health and Human Services, National Vital Statistics Reports</a>"
+    },
+    "xaxis": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2003.5029748461905,
+        2023.5
+      ],
+      "tick0": 1,
+      "title": {
+        "font": {
+          "size": 13
+        }
+      },
+      "showline": true,
+      "tickmode": "linear",
+      "autorange": true,
+      "linecolor": "rgb(232, 231, 231)",
+      "linewidth": 1
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        15.157894736842106
+      ],
+      "title": {
+        "font": {
+          "size": 13
+        },
+        "text": "% of live preterm births"
+      },
+      "autorange": true
+    },
+    "bargap": 0.25,
+    "legend": {
+      "x": 0.48334239130434786,
+      "y": 0.551829268292683
+    },
+    "barmode": "overlay",
+    "autosize": true,
+    "annotations": [
+      {
+        "x": 2010.942884386174,
+        "y": 1.802305169451819,
+        "font": {
+          "size": 14,
+          "color": "rgb(152, 0, 0)"
+        },
+        "text": "<i>Note: preterm births prior to 2016 may include females of all ages</i>",
+        "showarrow": false
+      }
+    ]
+  }
+}

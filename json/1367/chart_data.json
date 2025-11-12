@@ -1,0 +1,314 @@
+{
+  "data": [
+    {
+      "uid": "46e7be",
+      "mode": "lines",
+      "name": "Visitors",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3803:7ed683",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3803:77a20b",
+      "y": [
+        "\u00a01,205,987\u00a0",
+        "\u00a01,129,361\u00a0",
+        "\u00a01,157,546\u00a0",
+        "\u00a01,031,843\u00a0",
+        "\u00a01,011,954\u00a0",
+        "\u00a0960,043\u00a0",
+        "\u00a0973,361\u00a0",
+        "\u00a0991,376\u00a0",
+        "\u00a01,035,164\u00a0",
+        "\u00a01,066,762\u00a0",
+        "\u00a01,133,836\u00a0",
+        "\u00a01,143,035\u00a0",
+        "\u00a01,198,998\u00a0",
+        "\u00a01,134,144\u00a0"
+      ],
+      "marker": {
+        "opacity": 0.8
+      }
+    },
+    {
+      "uid": "98baf4",
+      "mode": "lines",
+      "name": "Convention attendance",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3803:7ed683",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3803:1c80fb",
+      "y": [
+        " 39,705 ",
+        " 31,497 ",
+        " 44,231 ",
+        " 28,641 ",
+        " 29,480 ",
+        " 18,073 ",
+        " 24,864 ",
+        " 16,240 ",
+        " 17,304 ",
+        "\u00a039,705\u00a0",
+        "\u00a031,497\u00a0",
+        "\u00a044,231\u00a0",
+        "\u00a028,641\u00a0",
+        "\u00a029,480\u00a0",
+        "\u00a018,073\u00a0",
+        "\u00a024,864\u00a0",
+        "\u00a016,240\u00a0",
+        "\u00a017,304\u00a0",
+        "\u00a019,700\u00a0",
+        "\u00a040,050\u00a0",
+        "\u00a030,731\u00a0",
+        "\u00a014,765\u00a0",
+        "\u00a021,009\u00a0"
+      ],
+      "marker": {
+        "opacity": 0.8
+      }
+    },
+    {
+      "uid": "811c2b",
+      "line": {
+        "dash": "solid",
+        "color": "rgb(59, 136, 59)",
+        "shape": "linear",
+        "width": 8
+      },
+      "mode": "lines",
+      "name": "Visitors %\u2206",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3803:7ed683",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3803:a068f8",
+      "y": [
+        "",
+        "-6.4%",
+        "2.5%",
+        "-10.9%",
+        "-1.9%",
+        "-5.1%",
+        "1.4%",
+        "1.9%",
+        "4.4%",
+        "3.1%",
+        "6.3%",
+        "0.8%",
+        "4.9%",
+        "-5.4%"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "size": 12
+      }
+    },
+    {
+      "uid": "a87d5f",
+      "line": {
+        "dash": "solid",
+        "color": "rgb(240, 76, 77)",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines",
+      "name": "Convention attendance %\u2206",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3803:7ed683",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3803:88ea9a",
+      "y": [
+        "",
+        "-20.7%",
+        "40.4%",
+        "-35.2%",
+        "2.9%",
+        "-38.7%",
+        "37.6%",
+        "-34.7%",
+        "6.6%",
+        "13.8%",
+        "103.3%",
+        "-23.3%",
+        "-52.0%",
+        "42.3%"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "size": 12
+      }
+    },
+    {
+      "uid": "6a2e77",
+      "line": {
+        "dash": "solid",
+        "shape": "linear",
+        "width": 6
+      },
+      "mode": "lines",
+      "name": "Occupancy % level",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3803:7ed683",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3803:4cafda",
+      "y": [
+        "63.1%",
+        "61.8%",
+        "63.9%",
+        "55.6%",
+        "55.6%",
+        "54.2%",
+        "53.7%",
+        "53.1%",
+        "54.2%",
+        "57.7%",
+        "61.2%",
+        "60.9%",
+        "63.5%",
+        "59.6%"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "size": 12
+      }
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "Washoe County tourism (NCOT)"
+    },
+    "width": 885,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2004.5,
+        2018.5
+      ],
+      "showline": false,
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "-",
+      "range": [
+        0,
+        1269460
+      ],
+      "title": {
+        "text": "#"
+      },
+      "zeroline": true,
+      "autorange": true
+    },
+    "height": 580,
+    "legend": {
+      "x": 0.3393103448275862,
+      "y": 1.0937500000000002
+    },
+    "yaxis2": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        -60.62777777777778,
+        111.92777777777778
+      ],
+      "title": {
+        "font": {
+          "color": "rgb(214, 39, 40)"
+        },
+        "text": "%"
+      },
+      "anchor": "x",
+      "showline": false,
+      "tickfont": {
+        "color": "rgb(214, 39, 40)"
+      },
+      "tickmode": "auto",
+      "zeroline": true,
+      "autorange": true,
+      "gridcolor": "rgb(238, 238, 238)",
+      "overlaying": "y",
+      "zerolinecolor": "rgb(254, 66, 4)",
+      "zerolinewidth": 1.5
+    },
+    "barmode": "overlay",
+    "autosize": "initial",
+    "showlegend": true
+  }
+}

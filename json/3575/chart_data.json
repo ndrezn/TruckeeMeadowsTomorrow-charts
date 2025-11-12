@@ -1,0 +1,496 @@
+{
+  "data": [
+    {
+      "uid": "585b76",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Report having ever had sexual intercourse",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3934:faf3d2",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3934:494a10",
+      "y": [
+        "48.0",
+        "48.6",
+        "48.0",
+        "44.3",
+        "52.4",
+        "46.2",
+        "47.0",
+        "40.8",
+        "35.9"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "de7020",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Sexual intercourse before age 15",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3934:faf3d2",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3934:0e24e8",
+      "y": [
+        "21.5",
+        "20.0",
+        "22.7",
+        "23.1",
+        "24.5",
+        "21.5",
+        "23.2"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "f87ec4",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Sexual intercourse before age 13",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3934:faf3d2",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3934:be1cf8",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "6.5",
+        "3.6",
+        "4.3"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "6cb517",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Sexual intercourse with 4+ persons during their life",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3934:faf3d2",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3934:cc24de",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "13.3",
+        "13.4",
+        "8.2"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "6c096c",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Sexual intercourse with at least 1 person in prior 3 months",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3934:faf3d2",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3934:93ef98",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "29.1",
+        "29.8",
+        "24.7"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "d4d001",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Use of alcohol or drugs before sexual intercourse the last time",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3934:faf3d2",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3934:30f9b0",
+      "y": [
+        "23.5",
+        "22.2",
+        "23.2",
+        "21.9",
+        "23.1",
+        "18.1",
+        "25.3",
+        "23.6",
+        "20.9"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "66d704",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Not having used a condom the last time",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3934:faf3d2",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3934:0f1023",
+      "y": [
+        "38.1",
+        "37.0",
+        "35.4",
+        "35.1",
+        "38.2",
+        "38.0",
+        "46.8",
+        "46.4",
+        "47.1"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "dab653",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Not using any birth control/method to prevent pregnancy before last time",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3934:faf3d2",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3934:55ff84",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "18.7",
+        "12.2",
+        "16.7"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "c5bbda",
+      "name": "Report having ever been pregnant or gotten someone else pregnant",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3934:faf3d2",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3934:1ddacb",
+      "y": [
+        "8.5",
+        "7.5",
+        "6.5",
+        "5.6",
+        "7.0",
+        "6.2",
+        "6.1",
+        null,
+        "3.2"
+      ]
+    },
+    {
+      "uid": "3139e9",
+      "name": "Report having been physically forced to have sex when they did not want to",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3934:faf3d2",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3934:f672c6",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "9.2",
+        "10.8",
+        "9.1",
+        "7.6"
+      ]
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "x": 0.1,
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "WCSD high school YRBS sexual behaviors"
+    },
+    "width": 1444,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        1999.9368260068234,
+        2018.0631739931766
+      ],
+      "tick0": 1,
+      "title": {
+        "font": {
+          "size": 12
+        }
+      },
+      "anchor": "y",
+      "domain": [
+        0,
+        0.45
+      ],
+      "showgrid": true,
+      "tickmode": "linear",
+      "zeroline": true,
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        55.64519833907589
+      ],
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": "YRBS %"
+      },
+      "showgrid": true,
+      "autorange": true
+    },
+    "height": 817,
+    "legend": {
+      "x": 0.5699322242760321,
+      "y": 1.2055219409034836,
+      "font": {
+        "size": 8
+      },
+      "valign": "middle",
+      "xanchor": "auto",
+      "yanchor": "auto",
+      "orientation": "v"
+    },
+    "margin": {
+      "b": 80,
+      "t": 100
+    },
+    "xaxis2": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        1999.9368260068234,
+        2018.0631739931766
+      ],
+      "tick0": 1,
+      "title": {
+        "text": ""
+      },
+      "anchor": "y2",
+      "domain": [
+        0.55,
+        1
+      ],
+      "showgrid": true,
+      "showline": true,
+      "tickmode": "linear",
+      "autorange": true
+    },
+    "yaxis2": {
+      "type": "linear",
+      "range": [
+        9.895903183273685,
+        49.404096816726316
+      ],
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": "YBBS % (sexually active)"
+      },
+      "anchor": "x2",
+      "domain": [
+        0,
+        1
+      ],
+      "showgrid": true,
+      "autorange": true
+    },
+    "autosize": true
+  }
+}

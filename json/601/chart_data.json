@@ -1,0 +1,422 @@
+{
+  "data": [
+    {
+      "uid": "18907c",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(255, 114, 255)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Female Offenders Arrested, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Female offenders arrested",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3790:1d1538",
+      "x": [
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3790:c60dc4",
+      "y": [
+        "\u00a0\t1,201\u00a0",
+        "\u00a0\t1,252\u00a0",
+        "\u00a0\t1,231\u00a0",
+        "\u00a0\t1,338\u00a0",
+        "\u00a0\t1,434\u00a0",
+        "\u00a0\t1,396\u00a0"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "opacity": 1
+    },
+    {
+      "uid": "3208b0",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(79, 183, 255)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Male Offenders Arrested, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Male offenders arrested",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3790:1d1538",
+      "x": [
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3790:e338f9",
+      "y": [
+        "\u00a0\t2,533\u00a0",
+        "\u00a0\t2,925\u00a0",
+        "\u00a0\t2,859\u00a0",
+        "\u00a0\t2,791\u00a0",
+        "\u00a0\t2,839\u00a0",
+        "\u00a0\t2,798\u00a0"
+      ],
+      "marker": {
+        "size": 8
+      }
+    },
+    {
+      "uid": "d247a7",
+      "line": {
+        "dash": "solid",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Children Present, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Children present",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3790:1d1538",
+      "x": [
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3790:13cbab",
+      "y": [
+        "2,029",
+        "2,522",
+        "2,436",
+        "2,587",
+        "2,738",
+        "2,668"
+      ],
+      "marker": {
+        "color": "rgb(91, 250, 67)"
+      },
+      "opacity": 0.6
+    },
+    {
+      "uid": "1361f0",
+      "line": {
+        "color": "rgb(255, 114, 255)",
+        "shape": "spline",
+        "width": 5
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Female Victims, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Female victims",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3790:1d1538",
+      "x": [
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3790:7c5123",
+      "y": [
+        "\u00a0\t2,937\u00a0",
+        "\u00a0\t2,983\u00a0",
+        "\u00a0\t2,961\u00a0",
+        "\u00a0\t2,908\u00a0",
+        "\u00a0\t3,050\u00a0",
+        "\u00a0\t2,942\u00a0"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "8d9ca7",
+      "line": {
+        "color": "rgb(79, 183, 255)",
+        "shape": "spline",
+        "width": 5
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Male Victims, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Male victims",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3790:1d1538",
+      "x": [
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3790:dd5fb3",
+      "y": [
+        "\u00a0\t1,405\u00a0",
+        "\u00a0\t1,343\u00a0",
+        "\u00a0\t1,285\u00a0",
+        "\u00a0\t1,406\u00a0",
+        "\u00a0\t1,428\u00a0",
+        "\u00a0\t1,453\u00a0"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "8fa19c",
+      "line": {
+        "color": "rgb(125, 124, 124)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Offenses Reported, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Offenses reported",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3790:1d1538",
+      "x": [
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3790:11007f",
+      "y": [
+        "3,682",
+        "3,698",
+        "3,634",
+        "3,631",
+        "3,693",
+        "3,710"
+      ],
+      "marker": {
+        "size": 12
+      }
+    },
+    {
+      "uid": "c58d9c",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(125, 124, 124)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Rate per 1,000 population, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Rate per 1,000 population",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3790:1d1538",
+      "x": [
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3790:9aa7aa",
+      "y": [
+        "\u00a0\t7.8\u00a0",
+        "\u00a0\t7.8\u00a0",
+        "\u00a0\t7.5\u00a0",
+        "\u00a0\t7.2\u00a0",
+        "\u00a0\t7.3\u00a0",
+        "\u00a0\t7.2\u00a0"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y3",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "font": {
+      "size": 12
+    },
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(68, 68, 68)"
+      },
+      "text": "<b>Washoe County domestic violence incident reports &nbsp;</b><br><br>\n<b>Source: </b>Nevada Dept. of Public Safety, <a href=\"https://rccd.nv.gov/About/UCR/Crime-In-Nevada/\">Crime in Nevada</a>, annual reports <i>[Note: may not include all agencies reporting annually]</i>"
+    },
+    "width": 997,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2018.5,
+        2024.5
+      ],
+      "title": {
+        "font": {
+          "size": 14
+        }
+      },
+      "anchor": "y",
+      "domain": [
+        0,
+        0.45
+      ],
+      "position": 0,
+      "showline": false,
+      "tickfont": {
+        "size": 12
+      },
+      "zeroline": false,
+      "autorange": true,
+      "linewidth": 0.1,
+      "zerolinewidth": 0.1
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        3905.2631578947367
+      ],
+      "title": {
+        "font": {
+          "size": 14,
+          "color": "rgb(68, 68, 68)"
+        },
+        "text": "# of Incidents"
+      },
+      "showline": false,
+      "tickfont": {
+        "size": 12,
+        "color": "rgb(68, 68, 68)"
+      },
+      "zeroline": true,
+      "autorange": true,
+      "gridwidth": 1.1
+    },
+    "height": 620,
+    "legend": {
+      "x": 0.48234647373204736,
+      "y": 0.3659090909090909,
+      "font": {
+        "size": 10
+      }
+    },
+    "xaxis2": {
+      "type": "linear",
+      "range": [
+        2019,
+        2024
+      ],
+      "anchor": "y3",
+      "domain": [
+        0.54,
+        1
+      ],
+      "mirror": false,
+      "showline": true,
+      "autorange": true
+    },
+    "yaxis2": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        4.681853281853281,
+        10.118146718146718
+      ],
+      "title": {
+        "font": {
+          "size": 14,
+          "color": "rgb(102, 102, 102)"
+        },
+        "text": ""
+      },
+      "anchor": "x",
+      "showgrid": false,
+      "showline": false,
+      "tickfont": {
+        "size": 12,
+        "color": "rgb(102, 102, 102)"
+      },
+      "zeroline": true,
+      "autorange": false,
+      "overlaying": "y",
+      "showticklabels": false
+    },
+    "yaxis3": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        7.166666666666667,
+        7.833333333333333
+      ],
+      "title": {
+        "text": "Rate per 1,000 population"
+      },
+      "anchor": "x2",
+      "domain": [
+        0,
+        1
+      ],
+      "autorange": true
+    },
+    "barmode": "overlay",
+    "autosize": true,
+    "showlegend": true,
+    "annotations": [],
+    "hidesources": true
+  }
+}

@@ -1,0 +1,524 @@
+{
+  "data": [
+    {
+      "uid": "bd874b",
+      "name": "Washoe arts & culture establishments",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3912:5e0b88",
+      "x": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3912:dc141b",
+      "y": [
+        " 73.09 ",
+        "",
+        " 66.29 ",
+        " 64.56 ",
+        " 63.17 "
+      ],
+      "marker": {
+        "color": "rgb(31, 119, 180)"
+      }
+    },
+    {
+      "uid": "41eb50",
+      "name": "Average county value",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3912:5e0b88",
+      "x": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3912:e3ecfc",
+      "y": [
+        " 45.00 ",
+        "",
+        " 43.50 ",
+        " 42.10 ",
+        " 41.80 "
+      ],
+      "marker": {
+        "color": "rgb(188, 189, 34)"
+      }
+    },
+    {
+      "uid": "78829b",
+      "name": "Median county value",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3912:5e0b88",
+      "x": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3912:435ca6",
+      "y": [
+        " 35.30 ",
+        "",
+        " 34.00 ",
+        " 32.00 ",
+        " 32.00 "
+      ],
+      "marker": {
+        "color": "rgb(44, 160, 44)"
+      },
+      "visible": false
+    },
+    {
+      "uid": "33a0b3",
+      "line": {
+        "color": "rgb(31, 119, 180)",
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Washoe solo artists",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3912:5e0b88",
+      "x": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3912:fc23e6",
+      "y": [
+        " 234.93 ",
+        "",
+        " 219.58 ",
+        " 233.29 ",
+        " 237.01 "
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "connectgaps": true
+    },
+    {
+      "uid": "b20703",
+      "line": {
+        "color": "rgb(188, 189, 34)",
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Average county value",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3912:5e0b88",
+      "x": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3912:5631e1",
+      "y": [
+        " 147.60 ",
+        "",
+        " 152.65 ",
+        " 157.22 ",
+        " 156.91 "
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "connectgaps": true
+    },
+    {
+      "uid": "04c696",
+      "line": {
+        "color": "rgb(44, 160, 44)",
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Median county value",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3912:5e0b88",
+      "x": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3912:8c4843",
+      "y": [
+        " 113.70 ",
+        "",
+        " 117.04 ",
+        " 121.89 ",
+        " 121.53 "
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "visible": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "bfce9b",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(31, 119, 180)",
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Washoe nonprofit arts organizations",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3912:30acea",
+      "x": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3912:1e3d91",
+      "y": [
+        " 13.05 ",
+        " 13.05 ",
+        "",
+        " 13.98 "
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "connectgaps": true
+    },
+    {
+      "uid": "c64230",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(188, 189, 34)",
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Average county value",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3912:30acea",
+      "x": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3912:928fe1",
+      "y": [
+        " 18.60 ",
+        " 18.50 ",
+        "",
+        " 18.07 "
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "connectgaps": true
+    },
+    {
+      "uid": "7948a0",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(44, 160, 44)",
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Median county value",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3912:30acea",
+      "x": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3912:af00ad",
+      "y": [
+        " 12.70 ",
+        " 12.70 ",
+        "",
+        " 12.51 "
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "visible": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "0045fa",
+      "line": {
+        "shape": "spline"
+      },
+      "mode": "markers",
+      "name": "Washoe nonprofits-public libraries",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3912:30acea",
+      "x": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3912:a11bdb",
+      "y": [
+        "",
+        "",
+        "",
+        " 2.77 "
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 16,
+        "color": "rgb(31, 119, 180)",
+        "symbol": "square-dot"
+      }
+    },
+    {
+      "uid": "73e35d",
+      "line": {
+        "shape": "spline"
+      },
+      "mode": "markers",
+      "name": "Average county value-libraries",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3912:30acea",
+      "x": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3912:92aff3",
+      "y": [
+        "",
+        "",
+        "",
+        " 18.70 "
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 16,
+        "color": "rgb(188, 189, 34)",
+        "symbol": "square-dot"
+      }
+    },
+    {
+      "uid": "0767cf",
+      "line": {
+        "color": "rgb(44, 160, 44)",
+        "shape": "spline"
+      },
+      "mode": "markers",
+      "name": "Median county value-libraries",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3912:30acea",
+      "x": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3912:846e1d",
+      "y": [
+        "",
+        "",
+        "",
+        " 10.60 "
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 16,
+        "symbol": "square-dot"
+      },
+      "visible": false
+    },
+    {
+      "uid": "e2094a",
+      "name": "Washoe-museums",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3912:30acea",
+      "x": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3912:1623bc",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        " 10.61 "
+      ],
+      "marker": {
+        "line": {
+          "color": "rgb(91, 15, 0)",
+          "width": 3
+        },
+        "color": "rgb(31, 119, 180)"
+      }
+    },
+    {
+      "uid": "791fd8",
+      "name": "Average county-museums",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3912:30acea",
+      "x": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3912:21db14",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        " 26.30 "
+      ],
+      "marker": {
+        "line": {
+          "color": "rgb(91, 15, 0)",
+          "width": 3
+        },
+        "color": "rgb(188, 189, 34)"
+      }
+    },
+    {
+      "uid": "7fed92",
+      "name": "Median county-museums",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3912:30acea",
+      "x": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3912:b06e56",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        " 15.80 "
+      ],
+      "marker": {
+        "line": {
+          "color": "rgb(91, 15, 0)",
+          "width": 3
+        },
+        "color": "rgb(44, 160, 44)"
+      },
+      "visible": false
+    }
+  ],
+  "layout": {
+    "title": "Washoe County artists & art businesses per 100,000 population*",
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2008.5,
+        2015.5
+      ],
+      "ticks": "",
+      "showline": false,
+      "tickmode": "auto",
+      "zeroline": false,
+      "autorange": true,
+      "zerolinewidth": 0.1
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        -14.795898815931103,
+        252.47471474703983
+      ],
+      "title": "Number of artists or businesses per 100,000 population",
+      "zeroline": true,
+      "autorange": true,
+      "zerolinewidth": 1.5
+    },
+    "legend": {
+      "x": 0.7889548807694108,
+      "y": 1.082698497062037,
+      "font": {
+        "size": 11
+      },
+      "xanchor": "left",
+      "yanchor": "auto"
+    },
+    "autosize": true,
+    "titlefont": {
+      "size": 14,
+      "color": "rgb(152, 0, 0)"
+    }
+  }
+}

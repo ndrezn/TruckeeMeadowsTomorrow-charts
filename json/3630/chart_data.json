@@ -1,0 +1,937 @@
+{
+  "data": [
+    {
+      "uid": "4fa0c3",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Washoe"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Washoe",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3629:1fd780",
+      "x": [
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3629:187d09",
+      "y": [
+        "",
+        " 77.1 ",
+        " 82.8 ",
+        " 85.3 ",
+        " 72.0 ",
+        " 65.7 ",
+        "\u00a038.7\u00a0"
+      ]
+    },
+    {
+      "uid": "573e37",
+      "line": {
+        "color": "rgb(44, 160, 44)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Carson"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Carson",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3629:1fd780",
+      "x": [
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3629:e1750b",
+      "y": [
+        "",
+        " 111.7 ",
+        " 121.4 ",
+        " 113.5 ",
+        " 91.3 ",
+        " 103.3 ",
+        "\u00a053.7\u00a0"
+      ]
+    },
+    {
+      "uid": "1de36b",
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Nevada"
+        }
+      },
+      "name": "Nevada",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3629:1fd780",
+      "x": [
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3629:7f272e",
+      "y": [
+        "",
+        " 45.0 ",
+        " 49.4 ",
+        " 48.4 ",
+        " 43.4 ",
+        " 42.1 ",
+        "\u00a022.1\u00a0"
+      ],
+      "marker": {
+        "color": "rgb(204, 204, 204)"
+      }
+    },
+    {
+      "uid": "a02299",
+      "line": {
+        "color": "rgb(31, 119, 180)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Clinical professionals\u2013Washoe"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Clinical professionals\u2013Washoe",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3629:1fd780",
+      "x": [
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3629:8d5f12",
+      "y": [
+        "",
+        "",
+        " 1.9 ",
+        " 3.3 ",
+        "",
+        " 4.0 ",
+        "\u00a07.6\u00a0"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "showlegend": false
+    },
+    {
+      "uid": "bd9fe1",
+      "line": {
+        "color": "rgb(44, 160, 44)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Clinical professionals\u2013Carson"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Clinical professionals\u2013Carson",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3629:1fd780",
+      "x": [
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3629:6d4a69",
+      "y": [
+        "",
+        "",
+        "0.0 ",
+        "0.0 ",
+        "",
+        "0.0",
+        "0.0"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "showlegend": false
+    },
+    {
+      "uid": "bc8fa6",
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Clinical professionals\u2013Nevada"
+        }
+      },
+      "name": "Clinical professionals\u2013Nevada",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3629:1fd780",
+      "x": [
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3629:6537dd",
+      "y": [
+        "",
+        "",
+        " 1.0 ",
+        " 1.7 ",
+        "",
+        " 3.4 ",
+        "\u00a07.6\u00a0"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(204, 204, 204)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "1e8b0d",
+      "line": {
+        "color": "rgb(31, 119, 180)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "LCSWs\u2013Washoe"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "LCSWs\u2013Washoe",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3629:1fd780",
+      "x": [
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3629:1094f4",
+      "y": [
+        "",
+        " 35.6 ",
+        " 36.1 ",
+        " 36.4 ",
+        " 35.4 ",
+        " 37.3 ",
+        "\u00a041.4\u00a0"
+      ],
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "showlegend": false
+    },
+    {
+      "uid": "8cee64",
+      "line": {
+        "color": "rgb(44, 160, 44)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "LCSWs \u2013Carson"
+        }
+      },
+      "mode": "lines+markers",
+      "name": " LCSWs \u2013Carson",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3629:1fd780",
+      "x": [
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3629:42648d",
+      "y": [
+        "",
+        " 31.5 ",
+        " 36.2 ",
+        " 39.7 ",
+        " n/a ",
+        " 54.4 ",
+        "\u00a059.0\u00a0"
+      ],
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "showlegend": false
+    },
+    {
+      "uid": "3f6295",
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "LCSWs \u2013Nevada"
+        }
+      },
+      "name": " LCSWs \u2013Nevada",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3629:1fd780",
+      "x": [
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3629:b07797",
+      "y": [
+        "",
+        " 19.5 ",
+        " 20.3 ",
+        " 21.7 ",
+        " 21.3 ",
+        " 24.0 ",
+        "\u00a027.2\u00a0"
+      ],
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "marker": {
+        "color": "rgb(204, 204, 204)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "4b3592",
+      "line": {
+        "color": "rgb(31, 119, 180)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Marriage &amp;amp;amp; family therapists \u2013Washoe"
+        }
+      },
+      "mode": "lines+markers",
+      "name": " Marriage & family therapists \u2013Washoe",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3629:1fd780",
+      "x": [
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3629:a85594",
+      "y": [
+        "",
+        "",
+        " 55.5 ",
+        " 58.6 ",
+        "",
+        " 59.7 ",
+        "\u00a062.5\u00a0"
+      ],
+      "xaxis": "x4",
+      "yaxis": "y4",
+      "showlegend": false
+    },
+    {
+      "uid": "bea01d",
+      "line": {
+        "color": "rgb(44, 160, 44)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Marriage &amp;amp;amp; family therapists \u2013Carson"
+        }
+      },
+      "mode": "lines+markers",
+      "name": " Marriage & family therapists \u2013Carson",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3629:1fd780",
+      "x": [
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3629:42ac37",
+      "y": [
+        "",
+        "",
+        " 36.2 ",
+        " 39.7 ",
+        "",
+        " 36.3 ",
+        "\u00a046.5\u00a0"
+      ],
+      "xaxis": "x4",
+      "yaxis": "y4",
+      "showlegend": false
+    },
+    {
+      "uid": "38b3ef",
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Marriage &amp;amp;amp; family therapists \u2013Nevada"
+        }
+      },
+      "name": " Marriage & family therapists \u2013Nevada",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3629:1fd780",
+      "x": [
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3629:d91514",
+      "y": [
+        "",
+        "",
+        " 23.5 ",
+        " 24.3 ",
+        "",
+        " 25.2 ",
+        "\u00a028.3\u00a0"
+      ],
+      "xaxis": "x4",
+      "yaxis": "y4",
+      "marker": {
+        "color": "rgb(204, 204, 204)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "1b2b01",
+      "line": {
+        "color": "rgb(31, 119, 180)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Psychiatrists\u2013Washoe"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Psychiatrists\u2013Washoe",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3629:1fd780",
+      "x": [
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3629:77c3e7",
+      "y": [
+        " 11.8 ",
+        " 11.5 ",
+        " 11.7 ",
+        " 16.3 ",
+        " 13.0 ",
+        " 11.8 ",
+        "\u00a015.5\u00a0"
+      ],
+      "xaxis": "x5",
+      "yaxis": "y5",
+      "showlegend": true
+    },
+    {
+      "uid": "5fefb7",
+      "line": {
+        "color": "rgb(44, 160, 44)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Psychiatrists\u2013Carson"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Psychiatrists\u2013Carson",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3629:1fd780",
+      "x": [
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3629:d8bf9e",
+      "y": [
+        " 8.8 ",
+        " 8.7 ",
+        " 5.4 ",
+        " 5.4 ",
+        " 5.5 ",
+        " 7.3 ",
+        "\u00a08.9\u00a0"
+      ],
+      "xaxis": "x5",
+      "yaxis": "y5",
+      "showlegend": true
+    },
+    {
+      "uid": "bc4297",
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Psychiatrists\u2013Nevada"
+        }
+      },
+      "name": "Psychiatrists\u2013Nevada",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3629:1fd780",
+      "x": [
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3629:40616a",
+      "y": [
+        " 6.0 ",
+        " 5.8 ",
+        " 5.2 ",
+        " 7.1 ",
+        " 6.4 ",
+        " 6.8 ",
+        "\u00a07.8\u00a0"
+      ],
+      "xaxis": "x5",
+      "yaxis": "y5",
+      "marker": {
+        "color": "rgb(204, 204, 204)"
+      },
+      "showlegend": true
+    },
+    {
+      "uid": "58d0ea",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(31, 119, 180)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Psychologists\u2013Washoe"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Psychologists\u2013Washoe",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3629:1fd780",
+      "x": [
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3629:0c9579",
+      "y": [
+        "",
+        " 28.1 ",
+        " 32.3 ",
+        " 33.8 ",
+        " 32.2 ",
+        " 32.4 ",
+        "\u00a031.8\u00a0"
+      ],
+      "xaxis": "x5",
+      "yaxis": "y6",
+      "showlegend": true
+    },
+    {
+      "uid": "b285f5",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(44, 160, 44)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Psychologists\u2013Carson"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Psychologists\u2013Carson",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3629:1fd780",
+      "x": [
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3629:9f8416",
+      "y": [
+        "",
+        " 41.7 ",
+        " 34.4 ",
+        " 32.4 ",
+        " 32.9 ",
+        " 30.8 ",
+        "\u00a028.6\u00a0"
+      ],
+      "xaxis": "x5",
+      "yaxis": "y6"
+    },
+    {
+      "uid": "3d2980",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Psychologists\u2013Nevada"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Psychologists\u2013Nevada",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3629:1fd780",
+      "x": [
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3629:9867e9",
+      "y": [
+        "",
+        " 11.4 ",
+        " 12.6 ",
+        " 13.4 ",
+        " 13.2 ",
+        " 13.4 ",
+        "\u00a013.4\u00a0"
+      ],
+      "xaxis": "x5",
+      "yaxis": "y6"
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "Licensed mental health professionals per 100,000 population"
+    },
+    "width": 1099,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2008,
+        2018
+      ],
+      "tick0": 2,
+      "ticks": "",
+      "domain": [
+        0,
+        0.2025
+      ],
+      "showline": true,
+      "tickmode": "linear",
+      "autorange": false
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        133.09508961749088
+      ],
+      "title": {
+        "text": ""
+      },
+      "domain": [
+        0,
+        0.2025
+      ],
+      "showline": false,
+      "autorange": true
+    },
+    "height": 669,
+    "legend": {
+      "font": {
+        "size": 10,
+        "color": "rgb(0, 0, 0)"
+      },
+      "xanchor": "right",
+      "yanchor": "auto"
+    },
+    "xaxis2": {
+      "side": "bottom",
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2010,
+        2018
+      ],
+      "tick0": 2,
+      "anchor": "y2",
+      "domain": [
+        0.55,
+        0.65
+      ],
+      "showline": false,
+      "tickmode": "linear",
+      "autorange": false,
+      "linewidth": 0.1,
+      "fixedrange": false
+    },
+    "xaxis3": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2008,
+        2018
+      ],
+      "tick0": 2,
+      "anchor": "y3",
+      "domain": [
+        0.288,
+        0.44
+      ],
+      "showline": true,
+      "tickmode": "linear",
+      "autorange": false,
+      "linewidth": 0.1
+    },
+    "xaxis4": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2010,
+        2018
+      ],
+      "tick0": 2,
+      "anchor": "y4",
+      "domain": [
+        0,
+        0.2025
+      ],
+      "showline": true,
+      "tickmode": "linear",
+      "zeroline": false,
+      "autorange": false,
+      "linewidth": 1
+    },
+    "xaxis5": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2005,
+        2019
+      ],
+      "tick0": 2,
+      "anchor": "y5",
+      "domain": [
+        0,
+        0.2025
+      ],
+      "showline": true,
+      "tickmode": "linear",
+      "autorange": true,
+      "linewidth": 0.1
+    },
+    "yaxis2": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        -0.4954230235783633,
+        8.095423023578363
+      ],
+      "title": {
+        "text": "\n\n\n\n\n\n\n\n\n\n\n \n \n\n  \u00a0Clinical\n  professionals\u00a0\n\n \n"
+      },
+      "anchor": "x2",
+      "domain": [
+        0,
+        1
+      ],
+      "showline": false,
+      "autorange": true
+    },
+    "yaxis3": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        0,
+        62.610677083333336
+      ],
+      "title": {
+        "text": "Licensed clinical social workers"
+      },
+      "anchor": "x3",
+      "domain": [
+        0,
+        1
+      ],
+      "autorange": true
+    },
+    "yaxis4": {
+      "type": "linear",
+      "range": [
+        0,
+        66.99119570379571
+      ],
+      "title": {
+        "text": "\n\n\n\n\n\n\n\n\n\n\n \n \n\n  \u00a0Marriage & family\n  therapists\u00a0\n\n \n"
+      },
+      "anchor": "x4",
+      "domain": [
+        0.55,
+        1
+      ],
+      "autorange": true
+    },
+    "yaxis5": {
+      "type": "linear",
+      "range": [
+        0,
+        17.870263268246305
+      ],
+      "title": {
+        "text": "\n\n\n\n\n\n\n\n\n\n\n \n \n\n  Psychiatrists\n\n \n"
+      },
+      "anchor": "x5",
+      "domain": [
+        0.24750000000000003,
+        0.45
+      ],
+      "showline": true,
+      "autorange": true
+    },
+    "yaxis6": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        8.169869150118995,
+        44.93013084988101
+      ],
+      "title": {
+        "text": "Psychologists"
+      },
+      "anchor": "x5",
+      "showline": true,
+      "autorange": true,
+      "linewidth": 0.1,
+      "overlaying": "y5"
+    },
+    "autosize": "initial",
+    "annotations": [
+      {
+        "x": 2010.3365808122642,
+        "y": 69.23572354827415,
+        "font": {
+          "size": 11,
+          "color": "rgb(0, 0, 0)"
+        },
+        "text": "Alcohol, Drug &\u00a0Gambling Counselors",
+        "bgcolor": "rgb(238, 238, 238)",
+        "showarrow": false
+      },
+      {
+        "x": 2020.1132717576374,
+        "y": 44.663519965277786,
+        "font": {
+          "size": 12,
+          "color": "rgb(0, 0, 0)"
+        },
+        "text": "\n\n\n\n\n\n\n\nLicensed Clinical Social Workers",
+        "xref": "x3",
+        "yref": "y3",
+        "bgcolor": "rgb(238, 238, 238)",
+        "showarrow": false
+      }
+    ]
+  }
+}

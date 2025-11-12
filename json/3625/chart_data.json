@@ -1,0 +1,710 @@
+{
+  "data": [
+    {
+      "uid": "e1aace",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Washoe, x; Carson, x; Nevada, x;  Osteopathic \u2013Washoe, x;  Osteopathic \u2013Carson, x;  Osteopathic \u2013Nevada, x; Primary care\u2013Washoe, x; Primary care\u2013Carson, x; Primary care\u2013Nevada, x;  Physician Ass&#39;t\u2013Washoe, x;  Physician Ass&#39;t\u2013Carson, x;  Physician Ass&#39;t\u2013Nevada, x",
+          "y": "Washoe, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Washoe",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3952:f75479",
+      "x": [
+        "2002",
+        "2004",
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3952:2db0e8",
+      "y": [
+        " 244.6 ",
+        " 235.5 ",
+        " 234.6 ",
+        " 244.0 ",
+        " 268.2 ",
+        " 256.3 ",
+        " 258.7 ",
+        " 268.7 ",
+        "\u00a0279.0\u00a0"
+      ]
+    },
+    {
+      "uid": "bd1ab5",
+      "line": {
+        "color": "rgb(44, 160, 44)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Washoe, x; Carson, x; Nevada, x;  Osteopathic \u2013Washoe, x;  Osteopathic \u2013Carson, x;  Osteopathic \u2013Nevada, x; Primary care\u2013Washoe, x; Primary care\u2013Carson, x; Primary care\u2013Nevada, x;  Physician Ass&#39;t\u2013Washoe, x;  Physician Ass&#39;t\u2013Carson, x;  Physician Ass&#39;t\u2013Nevada, x",
+          "y": "Carson, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Carson",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3952:f75479",
+      "x": [
+        "2002",
+        "2004",
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3952:eef023",
+      "y": [
+        " 249.8 ",
+        " 251.1 ",
+        " 247.2 ",
+        " 239.1 ",
+        " 271.8 ",
+        " 284.8 ",
+        " 328.6 ",
+        " 315.4 ",
+        "\u00a0313.1\u00a0"
+      ]
+    },
+    {
+      "uid": "3d5c8e",
+      "meta": {
+        "columnNames": {
+          "x": "Washoe, x; Carson, x; Nevada, x;  Osteopathic \u2013Washoe, x;  Osteopathic \u2013Carson, x;  Osteopathic \u2013Nevada, x; Primary care\u2013Washoe, x; Primary care\u2013Carson, x; Primary care\u2013Nevada, x;  Physician Ass&#39;t\u2013Washoe, x;  Physician Ass&#39;t\u2013Carson, x;  Physician Ass&#39;t\u2013Nevada, x",
+          "y": "Nevada, y"
+        }
+      },
+      "name": "Nevada",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3952:f75479",
+      "x": [
+        "2002",
+        "2004",
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3952:3e37a2",
+      "y": [
+        " 160.7 ",
+        " 150.0 ",
+        " 154.4 ",
+        " 160.3 ",
+        " 173.8 ",
+        " 171.5 ",
+        " 172.3 ",
+        " 176.8 ",
+        "\u00a0180.4\u00a0"
+      ],
+      "marker": {
+        "color": "rgb(204, 204, 204)"
+      },
+      "opacity": 1
+    },
+    {
+      "uid": "bcabac",
+      "line": {
+        "color": "rgb(31, 119, 180)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Washoe, x; Carson, x; Nevada, x;  Osteopathic \u2013Washoe, x;  Osteopathic \u2013Carson, x;  Osteopathic \u2013Nevada, x; Primary care\u2013Washoe, x; Primary care\u2013Carson, x; Primary care\u2013Nevada, x;  Physician Ass&#39;t\u2013Washoe, x;  Physician Ass&#39;t\u2013Carson, x;  Physician Ass&#39;t\u2013Nevada, x",
+          "y": " Osteopathic \u2013Washoe, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": " Osteopathic \u2013Washoe",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3952:f75479",
+      "x": [
+        "2002",
+        "2004",
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3952:c7876b",
+      "y": [
+        "",
+        "",
+        " 15.6 ",
+        " 14.8 ",
+        " 15.9 ",
+        " 17.3 ",
+        " 16.9 ",
+        " 19.7 ",
+        "\u00a021.6\u00a0"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "showlegend": false
+    },
+    {
+      "uid": "9ef4de",
+      "line": {
+        "color": "rgb(44, 160, 44)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Washoe, x; Carson, x; Nevada, x;  Osteopathic \u2013Washoe, x;  Osteopathic \u2013Carson, x;  Osteopathic \u2013Nevada, x; Primary care\u2013Washoe, x; Primary care\u2013Carson, x; Primary care\u2013Nevada, x;  Physician Ass&#39;t\u2013Washoe, x;  Physician Ass&#39;t\u2013Carson, x;  Physician Ass&#39;t\u2013Nevada, x",
+          "y": " Osteopathic \u2013Carson, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": " Osteopathic \u2013Carson",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3952:f75479",
+      "x": [
+        "2002",
+        "2004",
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3952:0f71df",
+      "y": [
+        "",
+        "",
+        " 34.7 ",
+        " 24.3 ",
+        " 32.6 ",
+        " 32.4 ",
+        " 36.5 ",
+        " 42.2 ",
+        "\u00a037.6\u00a0"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "showlegend": false
+    },
+    {
+      "uid": "9b5c4a",
+      "line": {
+        "color": "rgb(204, 204, 204)"
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Washoe, x; Carson, x; Nevada, x;  Osteopathic \u2013Washoe, x;  Osteopathic \u2013Carson, x;  Osteopathic \u2013Nevada, x; Primary care\u2013Washoe, x; Primary care\u2013Carson, x; Primary care\u2013Nevada, x;  Physician Ass&#39;t\u2013Washoe, x;  Physician Ass&#39;t\u2013Carson, x;  Physician Ass&#39;t\u2013Nevada, x",
+          "y": " Osteopathic \u2013Nevada, y"
+        }
+      },
+      "name": " Osteopathic \u2013Nevada",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3952:f75479",
+      "x": [
+        "2002",
+        "2004",
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3952:b3c66d",
+      "y": [
+        "",
+        "",
+        " 17.1 ",
+        " 17.0 ",
+        " 18.8 ",
+        " 19.5 ",
+        " 21.0 ",
+        " 23.5 ",
+        "\u00a025.6\u00a0"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(204, 204, 204)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "44d0e0",
+      "line": {
+        "color": "rgb(31, 119, 180)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Washoe, x; Carson, x; Nevada, x;  Osteopathic \u2013Washoe, x;  Osteopathic \u2013Carson, x;  Osteopathic \u2013Nevada, x; Primary care\u2013Washoe, x; Primary care\u2013Carson, x; Primary care\u2013Nevada, x;  Physician Ass&#39;t\u2013Washoe, x;  Physician Ass&#39;t\u2013Carson, x;  Physician Ass&#39;t\u2013Nevada, x",
+          "y": "Primary care\u2013Washoe, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Primary care\u2013Washoe",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3952:f75479",
+      "x": [
+        "2002",
+        "2004",
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3952:f562d9",
+      "y": [
+        "",
+        "",
+        " 121.1 ",
+        " 102.6 ",
+        " 90.5 ",
+        " 57.9 ",
+        " 117.2 ",
+        " 85.2 ",
+        "\u00a0115.3\u00a0"
+      ],
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "showlegend": false
+    },
+    {
+      "uid": "5d90d3",
+      "line": {
+        "color": "rgb(44, 160, 44)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Washoe, x; Carson, x; Nevada, x;  Osteopathic \u2013Washoe, x;  Osteopathic \u2013Carson, x;  Osteopathic \u2013Nevada, x; Primary care\u2013Washoe, x; Primary care\u2013Carson, x; Primary care\u2013Nevada, x;  Physician Ass&#39;t\u2013Washoe, x;  Physician Ass&#39;t\u2013Carson, x;  Physician Ass&#39;t\u2013Nevada, x",
+          "y": "Primary care\u2013Carson, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Primary care\u2013Carson",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3952:f75479",
+      "x": [
+        "2002",
+        "2004",
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3952:b98bcb",
+      "y": [
+        "",
+        "",
+        " 110.5 ",
+        " 81.4 ",
+        " 114.2 ",
+        " 90.1 ",
+        " 136.9 ",
+        " 110.6 ",
+        "\u00a0109.2\u00a0"
+      ],
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "showlegend": false
+    },
+    {
+      "uid": "c3af01",
+      "meta": {
+        "columnNames": {
+          "x": "Washoe, x; Carson, x; Nevada, x;  Osteopathic \u2013Washoe, x;  Osteopathic \u2013Carson, x;  Osteopathic \u2013Nevada, x; Primary care\u2013Washoe, x; Primary care\u2013Carson, x; Primary care\u2013Nevada, x;  Physician Ass&#39;t\u2013Washoe, x;  Physician Ass&#39;t\u2013Carson, x;  Physician Ass&#39;t\u2013Nevada, x",
+          "y": "Primary care\u2013Nevada, y"
+        }
+      },
+      "name": "Primary care\u2013Nevada",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3952:f75479",
+      "x": [
+        "2002",
+        "2004",
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3952:1d6d4a",
+      "y": [
+        "",
+        "",
+        " 97.8 ",
+        " 76.3 ",
+        " 76.2 ",
+        " 50.3 ",
+        " 86.3 ",
+        " 70.6 ",
+        "\u00a088.7\u00a0"
+      ],
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "marker": {
+        "color": "rgb(204, 204, 204)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "c6e2c9",
+      "line": {
+        "color": "rgb(31, 119, 180)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Washoe, x; Carson, x; Nevada, x;  Osteopathic \u2013Washoe, x;  Osteopathic \u2013Carson, x;  Osteopathic \u2013Nevada, x; Primary care\u2013Washoe, x; Primary care\u2013Carson, x; Primary care\u2013Nevada, x;  Physician Ass&#39;t\u2013Washoe, x;  Physician Ass&#39;t\u2013Carson, x;  Physician Ass&#39;t\u2013Nevada, x",
+          "y": " Physician Ass&#39;t\u2013Washoe, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": " Physician Ass't\u2013Washoe",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3952:f75479",
+      "x": [
+        "2002",
+        "2004",
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3952:9513d4",
+      "y": [
+        "",
+        " 12.5 ",
+        " 12.1 ",
+        " 19.1 ",
+        " 21.6 ",
+        " 22.7 ",
+        " 24.5 ",
+        " 33.9 ",
+        "\u00a039.2\u00a0"
+      ],
+      "xaxis": "x4",
+      "yaxis": "y4",
+      "showlegend": false
+    },
+    {
+      "uid": "f2dc4c",
+      "line": {
+        "color": "rgb(44, 160, 44)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Washoe, x; Carson, x; Nevada, x;  Osteopathic \u2013Washoe, x;  Osteopathic \u2013Carson, x;  Osteopathic \u2013Nevada, x; Primary care\u2013Washoe, x; Primary care\u2013Carson, x; Primary care\u2013Nevada, x;  Physician Ass&#39;t\u2013Washoe, x;  Physician Ass&#39;t\u2013Carson, x;  Physician Ass&#39;t\u2013Nevada, x",
+          "y": " Physician Ass&#39;t\u2013Carson, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": " Physician Ass't\u2013Carson",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3952:f75479",
+      "x": [
+        "2002",
+        "2004",
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3952:6a8831",
+      "y": [
+        "",
+        " 16.0 ",
+        " 13.7 ",
+        " 29.5 ",
+        " 25.4 ",
+        " 27.0 ",
+        " 45.6 ",
+        " 33.0 ",
+        "\u00a053.7\u00a0"
+      ],
+      "xaxis": "x4",
+      "yaxis": "y4",
+      "showlegend": false
+    },
+    {
+      "uid": "9a255b",
+      "meta": {
+        "columnNames": {
+          "x": "Washoe, x; Carson, x; Nevada, x;  Osteopathic \u2013Washoe, x;  Osteopathic \u2013Carson, x;  Osteopathic \u2013Nevada, x; Primary care\u2013Washoe, x; Primary care\u2013Carson, x; Primary care\u2013Nevada, x;  Physician Ass&#39;t\u2013Washoe, x;  Physician Ass&#39;t\u2013Carson, x;  Physician Ass&#39;t\u2013Nevada, x",
+          "y": " Physician Ass&#39;t\u2013Nevada, y"
+        }
+      },
+      "name": " Physician Ass't\u2013Nevada",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3952:f75479",
+      "x": [
+        "2002",
+        "2004",
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3952:82a333",
+      "y": [
+        "",
+        " 12.5 ",
+        " 11.8 ",
+        " 17.6 ",
+        " 17.5 ",
+        " 18.8 ",
+        " 20.2 ",
+        " 28.2 ",
+        "\u00a032.4\u00a0"
+      ],
+      "xaxis": "x4",
+      "yaxis": "y4",
+      "marker": {
+        "color": "rgb(204, 204, 204)"
+      },
+      "showlegend": false
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "Licensed Physicians per 100,000 population"
+    },
+    "width": 1099,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2000.7036947065915,
+        2019.2963052934085
+      ],
+      "tick0": 2,
+      "domain": [
+        0,
+        0.2025
+      ],
+      "showline": true,
+      "tickmode": "linear",
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        352.21291053227634
+      ],
+      "title": {
+        "text": "Allopathic physicians"
+      },
+      "domain": [
+        0,
+        0.45
+      ],
+      "autorange": true
+    },
+    "height": 669,
+    "legend": {
+      "x": 0.4892232879746873,
+      "y": 0.7402862985685071
+    },
+    "xaxis2": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2006,
+        2018
+      ],
+      "tick0": 2,
+      "anchor": "y2",
+      "domain": [
+        0.55,
+        1
+      ],
+      "showline": true,
+      "tickmode": "linear",
+      "autorange": false
+    },
+    "xaxis3": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2006,
+        2018
+      ],
+      "tick0": 2,
+      "anchor": "y3",
+      "domain": [
+        0,
+        0.45
+      ],
+      "showline": true,
+      "tickmode": "linear",
+      "autorange": false
+    },
+    "xaxis4": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2004,
+        2018
+      ],
+      "tick0": 2,
+      "anchor": "y4",
+      "domain": [
+        0.24750000000000003,
+        0.45
+      ],
+      "showline": true,
+      "tickmode": "linear",
+      "autorange": false
+    },
+    "yaxis2": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        0,
+        44.782552083333336
+      ],
+      "title": {
+        "text": "Osteopathic physicians"
+      },
+      "anchor": "x2",
+      "domain": [
+        0,
+        1
+      ],
+      "autorange": true
+    },
+    "yaxis3": {
+      "type": "linear",
+      "range": [
+        0,
+        146.73751506959414
+      ],
+      "title": {
+        "text": "Primary Care physicians"
+      },
+      "anchor": "x3",
+      "domain": [
+        0.55,
+        1
+      ],
+      "autorange": true
+    },
+    "yaxis4": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        0,
+        57.55883534870128
+      ],
+      "title": {
+        "text": "Physician Assistants"
+      },
+      "anchor": "x4",
+      "domain": [
+        0,
+        0.45
+      ],
+      "autorange": true
+    },
+    "autosize": "initial",
+    "annotations": [
+      {
+        "x": 2008,
+        "y": 195.31370328425822,
+        "font": {
+          "color": "rgb(0, 0, 0)"
+        },
+        "text": "Allopathic",
+        "bgcolor": "rgb(238, 238, 238)",
+        "opacity": 1,
+        "showarrow": false
+      },
+      {
+        "x": 2010.5,
+        "y": 21.18869357638889,
+        "ax": -10,
+        "ay": -1,
+        "font": {
+          "color": "rgb(0, 0, 0)"
+        },
+        "text": "Osteopathic",
+        "xref": "x2",
+        "yref": "y2",
+        "bgcolor": "rgb(238, 238, 238)",
+        "showarrow": false
+      },
+      {
+        "font": {
+          "color": "rgb(0, 0, 0)"
+        },
+        "text": "Primary Care",
+        "xref": "x3",
+        "yref": "y3",
+        "bgcolor": "rgb(238, 238, 238)",
+        "showarrow": false
+      },
+      {
+        "font": {
+          "color": "rgb(0, 0, 0)"
+        },
+        "text": "Physician Assistants",
+        "xref": "x4",
+        "yref": "y4",
+        "bgcolor": "rgb(238, 238, 238)",
+        "showarrow": false
+      }
+    ]
+  }
+}

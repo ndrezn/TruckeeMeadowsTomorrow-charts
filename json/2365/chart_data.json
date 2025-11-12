@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "uid": "033d2c",
+      "line": {
+        "color": "rgb(224, 161, 40)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Copper (ppm), y"
+        }
+      },
+      "mode": "lines",
+      "name": "Copper (ppm)",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3844:7f0827",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3844:f3cf76",
+      "y": [
+        "0.069",
+        "0.069",
+        "0.078",
+        "0.078",
+        "N/A",
+        "0.1",
+        "0.1",
+        "0.1",
+        "0.091",
+        "0.091",
+        "0.148",
+        "0.148",
+        "0.148",
+        "0.106"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "e92108",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(127, 127, 127)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Lead (ppb), y"
+        }
+      },
+      "mode": "lines",
+      "name": "Lead (ppb)",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3844:7f0827",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3844:36eff5",
+      "y": [
+        "1",
+        "1",
+        "1.5",
+        "0",
+        "N/A",
+        "1.96",
+        "1.96",
+        "1.96",
+        "1.54",
+        "1.54"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(68, 68, 68)"
+      },
+      "text": "<b>Inorganic contaminants<br><br>\nSource:</b> Truckee Meadows Water Authority (TMWA), <a href=\"http://quality.tmwa.com/\">water quality reports</a>"
+    },
+    "width": 991,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2005.5,
+        2020.5
+      ],
+      "tickmode": "auto",
+      "autorange": false
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        -0.10888888888888888,
+        2.068888888888889
+      ],
+      "title": {
+        "text": "Parts per million / billion"
+      },
+      "autorange": true
+    },
+    "height": 668,
+    "legend": {
+      "x": 0.20894504612916165,
+      "y": 0.9357039537126326,
+      "font": {
+        "size": 10
+      }
+    },
+    "autosize": true,
+    "showlegend": true,
+    "annotations": [
+      {
+        "x": 0.33732663959085785,
+        "y": 0.4630038572806174,
+        "font": {
+          "color": "rgb(152, 0, 0)"
+        },
+        "text": "<b>MCLG = maximum contaminant level goal</b> (below which no known or expected risk to health);<br><b>AL = action level</b> (triggers treatment if exceeded)<br>\n<br>\n<i>Copper AL at consumer taps = 1.3 (corrosion of household plumbing systems; erosion of natural deposits)</i><br>\n<i>Lead AL at consumer taps = 15 corrosion of household plumbing systems; erosion of natural deposits)<br>\nLead MCLG = 0 corrosion of household plumbing systems; erosion of natural deposits)</i><br>\n<br>\n<i>Lead was not detected in 2009-10, 2019-20; &nbsp;&lt;1.0 in 2016-18</i>",
+        "xref": "paper",
+        "yref": "paper",
+        "align": "left",
+        "xanchor": "left",
+        "yanchor": "bottom",
+        "showarrow": false
+      }
+    ]
+  }
+}

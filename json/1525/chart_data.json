@@ -1,0 +1,750 @@
+{
+  "data": [
+    {
+      "uid": "ed9708",
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Abuse, y"
+        }
+      },
+      "name": "Abuse",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3811:508a76",
+      "x": [
+        "2008",
+        "2009",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3811:f9cc0c",
+      "y": [
+        " 889 ",
+        " 697 ",
+        " 1,108 ",
+        " 1,138 ",
+        " 1,205 ",
+        " 1,285 ",
+        "\u00a01,034\u00a0",
+        null,
+        null,
+        "1445",
+        "4198"
+      ],
+      "opacity": 0.75,
+      "showlegend": false
+    },
+    {
+      "uid": "3013cf",
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Neglect, y"
+        }
+      },
+      "name": "Neglect",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3811:508a76",
+      "x": [
+        "2008",
+        "2009",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3811:6e66b8",
+      "y": [
+        " 992 ",
+        " 869 ",
+        " 1,101 ",
+        " 1,147 ",
+        " 1,161 ",
+        " 1,224 ",
+        "\u00a0993\u00a0",
+        null,
+        null,
+        "1436",
+        "28"
+      ],
+      "opacity": 0.75,
+      "showlegend": false
+    },
+    {
+      "uid": "8d3621",
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Self-neglect, y"
+        }
+      },
+      "name": "Self-neglect",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3811:508a76",
+      "x": [
+        "2008",
+        "2009",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3811:3ff1f5",
+      "y": [
+        " 1,706 ",
+        " 1,371 ",
+        " 1,886 ",
+        " 1,707 ",
+        " 1,871 ",
+        " 2,143 ",
+        "\u00a01,540\u00a0",
+        null,
+        null,
+        "2101",
+        "\n"
+      ],
+      "opacity": 0.75,
+      "showlegend": false
+    },
+    {
+      "uid": "4aaf84",
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Exploitation, y"
+        }
+      },
+      "name": "Exploitation",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3811:508a76",
+      "x": [
+        "2008",
+        "2009",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3811:ce75cc",
+      "y": [
+        " 1,081 ",
+        " 840 ",
+        " 1,148 ",
+        " 1,149 ",
+        " 1,138 ",
+        " 1,305 ",
+        "\u00a01,055\u00a0",
+        null,
+        null,
+        "1794",
+        "9061"
+      ],
+      "opacity": 0.75,
+      "showlegend": false
+    },
+    {
+      "uid": "f3647d",
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Isolation, y"
+        }
+      },
+      "name": "Isolation",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3811:508a76",
+      "x": [
+        "2008",
+        "2009",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3811:e24a17",
+      "y": [
+        " 93 ",
+        " 73 ",
+        " 129 ",
+        " 143 ",
+        " 139 ",
+        " 168 ",
+        "\u00a0152\u00a0",
+        null,
+        null,
+        "211",
+        "5"
+      ],
+      "opacity": 0.75,
+      "showlegend": false
+    },
+    {
+      "uid": "3fdfa0",
+      "line": {
+        "color": "rgb(67, 67, 67)",
+        "shape": "hvh",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Total incidents reported, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Total incidents reported",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3811:508a76",
+      "x": [
+        "2008",
+        "2009",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3811:808d1f",
+      "y": [
+        " 4,761 ",
+        " 3,850 ",
+        " 5,372 ",
+        " 5,284 ",
+        " 5,514 ",
+        " 6,125 ",
+        "\u00a04,774\u00a0",
+        "",
+        "7,100",
+        "\u00a07,016\u00a0",
+        "\u00a0\t13,292\u00a0"
+      ]
+    },
+    {
+      "uid": "a7cedf",
+      "line": {
+        "color": "rgb(31, 119, 180)",
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Abuse (1), y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Abuse",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3811:508a76",
+      "x": [
+        "2008",
+        "2009",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3811:d25723",
+      "y": [
+        " 253 ",
+        " 155 ",
+        " 275 ",
+        " 313 ",
+        " 293 ",
+        " 270 ",
+        "\u00a0281\u00a0",
+        null,
+        "",
+        "\u00a0431\u00a0"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        }
+      }
+    },
+    {
+      "uid": "b0522e",
+      "line": {
+        "color": "rgb(255, 127, 14)",
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Neglect (1), y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Neglect",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3811:508a76",
+      "x": [
+        "2008",
+        "2009",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3811:a85591",
+      "y": [
+        " 214 ",
+        " 194 ",
+        " 237 ",
+        " 284 ",
+        " 271 ",
+        " 265 ",
+        "\u00a0213\u00a0",
+        null,
+        "",
+        "\u00a0273\u00a0"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        }
+      }
+    },
+    {
+      "uid": "009180",
+      "line": {
+        "color": "rgb(44, 160, 44)",
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Self-neglect (1), y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Self-neglect",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3811:508a76",
+      "x": [
+        "2008",
+        "2009",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3811:1e82d5",
+      "y": [
+        " 565 ",
+        " 462 ",
+        " 566 ",
+        " 535 ",
+        " 603 ",
+        " 639 ",
+        "\u00a0659\u00a0",
+        null,
+        "",
+        "\u00a0795\u00a0"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        }
+      }
+    },
+    {
+      "uid": "70749e",
+      "line": {
+        "color": "rgb(214, 39, 40)",
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Exploitation (1), y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Exploitation",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3811:508a76",
+      "x": [
+        "2008",
+        "2009",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3811:c94c20",
+      "y": [
+        " 214 ",
+        " 172 ",
+        " 223 ",
+        " 239 ",
+        " 222 ",
+        " 257 ",
+        "\u00a0218\u00a0",
+        null,
+        "",
+        "\u00a0411\u00a0"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        }
+      }
+    },
+    {
+      "uid": "280fc4",
+      "line": {
+        "color": "rgb(148, 103, 189)",
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Isolation (1), y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Isolation",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3811:508a76",
+      "x": [
+        "2008",
+        "2009",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3811:267dd6",
+      "y": [
+        " 10 ",
+        " 6 ",
+        " 6 ",
+        " 19 ",
+        " 13 ",
+        " 21 ",
+        "\u00a010\u00a0",
+        null,
+        "",
+        "\u00a021\u00a0"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        }
+      }
+    },
+    {
+      "uid": "3fb30b",
+      "line": {
+        "color": "rgb(67, 67, 67)",
+        "shape": "spline",
+        "width": 8
+      },
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Total substantiated, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Total substantiated",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3811:508a76",
+      "x": [
+        "2008",
+        "2009",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3811:bb2f34",
+      "y": [
+        " 1,256 ",
+        " 989 ",
+        " 1,307 ",
+        " 1,390 ",
+        " 1,402 ",
+        " 1,452 ",
+        "\u00a01,381\u00a0",
+        null,
+        "\u00a01,701\u00a0",
+        "\u00a01,939\u00a0",
+        "2386"
+      ],
+      "marker": {
+        "line": {
+          "color": "rgb(67, 67, 67)"
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "b82cb1",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(102, 102, 102)",
+        "shape": "spline",
+        "width": 8
+      },
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "% substantiated, y"
+        }
+      },
+      "mode": "markers+lines",
+      "name": "% substantiated",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3811:508a76",
+      "x": [
+        "2008",
+        "2009",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3811:cc274b",
+      "y": [
+        "26%",
+        "26%",
+        "24%",
+        "26%",
+        "25%",
+        "22%",
+        "22%",
+        "",
+        "",
+        "28%",
+        "18%"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "size": 8
+      }
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Abandonment"
+        }
+      },
+      "mode": "lines",
+      "name": "Abandonment",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3811:508a76",
+      "x": [
+        "2008",
+        "2009",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3811:4bd1d1",
+      "y": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "29"
+      ],
+      "marker": {
+        "color": "rgb(181, 181, 28)"
+      },
+      "showlegend": false,
+      "stackgroup": null,
+      "orientation": "v"
+    },
+    {
+      "line": {
+        "color": "rgb(181, 181, 28)"
+      },
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Abandonment(1)"
+        }
+      },
+      "mode": "markers+lines",
+      "name": "Abandonment",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3811:508a76",
+      "x": [
+        "2008",
+        "2009",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3811:b64978",
+      "y": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "8"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        }
+      },
+      "showlegend": true,
+      "orientation": "v"
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "Nevada incidents & substantiated reports of elder abuse (\u2265 60 years of age)"
+    },
+    "width": 935,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2007.3,
+        2019.7
+      ],
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        -867.4267335649042,
+        14037.2329859771
+      ],
+      "title": {
+        "text": "# Incidents (bars)"
+      },
+      "autorange": true
+    },
+    "height": 616,
+    "legend": {
+      "x": 0.5771594982078853,
+      "y": 1.1,
+      "font": {
+        "size": 9
+      },
+      "valign": "top",
+      "xanchor": "center",
+      "yanchor": "top",
+      "orientation": "v"
+    },
+    "yaxis2": {
+      "side": "right",
+      "range": [
+        17.299163179916317,
+        28.700836820083683
+      ],
+      "title": {
+        "text": "% substantiated"
+      },
+      "anchor": "x",
+      "autorange": true,
+      "overlaying": "y"
+    },
+    "barmode": "stack",
+    "autosize": true,
+    "showlegend": true
+  }
+}

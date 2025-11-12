@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "uid": "0a8792",
+      "name": "Chlorine (ppm)",
+      "type": "scatter"
+    },
+    {
+      "uid": "0653e9",
+      "name": "Haloacetic Acids (ppb)",
+      "type": "scatter"
+    },
+    {
+      "uid": "ba409e",
+      "name": "Total Trihalomethanes (ppb)",
+      "type": "scatter"
+    }
+  ],
+  "layout": {
+    "title": "\n\n\n\n\n\n\n\nDisinfectants & disinfection by-products",
+    "width": 796,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2005.5439686924494,
+        2013.4560313075506
+      ],
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        -2.5772898200376044,
+        53.0772898200376
+      ],
+      "title": "Parts per million/billion",
+      "autorange": true
+    },
+    "height": 602,
+    "legend": {
+      "x": 0.40529531568228105,
+      "y": 0.25829383886255924
+    },
+    "autosize": true,
+    "titlefont": {
+      "size": 14,
+      "color": "rgb(152, 0, 0)"
+    },
+    "showlegend": true
+  }
+}

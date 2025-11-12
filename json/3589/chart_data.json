@@ -1,0 +1,357 @@
+{
+  "data": [
+    {
+      "uid": "d60654",
+      "line": {
+        "color": "rgb(31, 119, 180)",
+        "shape": "spline",
+        "width": 8
+      },
+      "name": "Rode in a vehicle driven by a someone who had been drinking alcohol (past 30 days), y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3939:3ce575",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3939:e31f28",
+      "y": [
+        "",
+        "",
+        "",
+        "35.7",
+        "34.8",
+        "27.9",
+        "20.8",
+        "21.5"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 10,
+        "color": "rgb(109, 158, 235)"
+      },
+      "opacity": 1,
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "45fa45",
+      "line": {
+        "dash": "dot",
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Had first drink of alcohol before age 13, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3939:3ce575",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3939:162099",
+      "y": [
+        "31.1",
+        "37.5",
+        "33.5",
+        "35.7",
+        "34.8",
+        "27.2"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "ea4de0",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Had first drink of alcohol before age 11, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3939:3ce575",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3939:3f05c4",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "10.6",
+        "10.3"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "4c926b",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Had 5 or more drinks (binge drinking) in a row on \u2265 1 days (past 30 days), y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3939:3ce575",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3939:8eafda",
+      "y": [
+        "11.7",
+        "16.5",
+        "13.8",
+        "",
+        "",
+        "",
+        "3.0"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "4ade1a",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Currently drank alcohol (past 30 days), y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3939:3ce575",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3939:c7b16f",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "9.4",
+        "7.5"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "3f5745",
+      "name": "Tried marijuana for the first time before age 13, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3939:3ce575",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3939:3c9bd6",
+      "y": [
+        "9.9",
+        "12.3",
+        "9.6",
+        "13.3",
+        "12.1",
+        "11.1"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "b5014e",
+      "name": "Tried marijuana for the first time before age 11, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3939:3ce575",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3939:f8b40f",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "2.7",
+        "3.2"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "7c9f55",
+      "name": "Currently use marijuana (past 30 days), y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3939:3ce575",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3939:885e14",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "5.9",
+        "5.6"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "d1dd39",
+      "name": "Ever used synthetic marijuana (K2 or spice), y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3939:3ce575",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3939:69c1a9",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "4.4",
+        "3.4"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "WCSD middle school YRBS alcohol & marijuana behavors",
+    "width": 1444,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2000,
+        2018
+      ],
+      "tick0": 1,
+      "showline": false,
+      "tickmode": "linear",
+      "zeroline": true,
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        39.802549362659335
+      ],
+      "title": "YRBS alcohol %",
+      "autorange": true
+    },
+    "height": 817,
+    "legend": {
+      "x": 0.10669781931464174,
+      "y": 0.7912087912087912,
+      "font": {
+        "size": 9,
+        "color": "rgb(0, 0, 0)"
+      },
+      "xanchor": "auto"
+    },
+    "autosize": true,
+    "titlefont": {
+      "size": 14,
+      "color": "rgb(152, 0, 0)"
+    },
+    "breakpoints": []
+  }
+}

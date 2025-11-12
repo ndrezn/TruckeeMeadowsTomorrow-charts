@@ -1,0 +1,367 @@
+{
+  "data": [
+    {
+      "uid": "fa5130",
+      "name": "Told by doctor/nurse they have asthma",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3941:f1a482",
+      "x": [
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3941:8d48e1",
+      "y": [
+        "17.9%"
+      ]
+    },
+    {
+      "uid": "261c5c",
+      "name": "Told by doctor/nurse they have asthma-NV",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3941:f1a482",
+      "x": [
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3941:a78c2f",
+      "y": [
+        "24.0%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(31, 119, 180)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "38bf8e",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Visited a dentist (past year)",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3941:f1a482",
+      "x": [
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3941:070000",
+      "y": [
+        "69.3%",
+        "73.6%",
+        "75.4%"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "visible": "legendonly"
+    },
+    {
+      "uid": "626e2e",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Visited a dentist (past year)-NV",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3941:f1a482",
+      "x": [
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3941:38c868",
+      "y": [
+        "68.1%",
+        "69.7%",
+        "71.7%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8,
+        "color": "rgb(44, 160, 44)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "493fc4",
+      "name": "Had the HPV vaccine",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3941:f1a482",
+      "x": [
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3941:5629a8",
+      "y": [
+        "35.7%"
+      ]
+    },
+    {
+      "uid": "9175e0",
+      "name": "Had the HPV vaccine-NV",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3941:f1a482",
+      "x": [
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3941:24b70b",
+      "y": [
+        "33.8%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(148, 103, 189)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "7903d2",
+      "name": "Never/rarely go hungry because there isn't enough food at home (past month)",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3941:f1a482",
+      "x": [
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3941:4a9c0a",
+      "y": [
+        "",
+        "83.0%",
+        "84.9%"
+      ],
+      "marker": {
+        "color": "rgb(188, 189, 34)"
+      }
+    },
+    {
+      "uid": "28f184",
+      "name": "Never/rarely go hungry because there isn't enough food at home (past month)-NV",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3941:f1a482",
+      "x": [
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3941:035c39",
+      "y": [
+        "",
+        "84.7%",
+        "86.4%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(188, 189, 34)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "2570c5",
+      "line": {
+        "color": "rgb(214, 39, 40)",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Not physically active at least 60-minutes/day (past week)",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3941:f1a482",
+      "x": [
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3941:5b8284",
+      "y": [
+        "15.1%",
+        "11.2%",
+        "16.1%"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "06ead6",
+      "line": {
+        "color": "rgb(214, 39, 40)",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Not physically active at least 60-minutes/day (past week)-NV",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3941:f1a482",
+      "x": [
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3941:e88bb4",
+      "y": [
+        "16.5%",
+        "13.9%",
+        "23.0%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "c72ea3",
+      "name": "\u22658 hours of sleep (average school night)",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3941:f1a482",
+      "x": [
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3941:2c771d",
+      "y": [
+        "",
+        "28.1%",
+        "25.5%"
+      ],
+      "marker": {
+        "color": "rgb(255, 127, 14)"
+      }
+    },
+    {
+      "uid": "96ea6d",
+      "name": "\u22658 hours of sleep (average school night) =NV",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3941:f1a482",
+      "x": [
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3941:bd21f7",
+      "y": [
+        "",
+        "22.5%",
+        "23.1%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "showlegend": false
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "x": 0.9,
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "High school youth disease risk prevalence"
+    },
+    "width": 1403,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2012,
+        2018
+      ],
+      "tick0": 1,
+      "showline": true,
+      "tickmode": "linear",
+      "zeroline": true,
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        89.36842105263159
+      ],
+      "title": {
+        "text": "WCSD YRBS %"
+      },
+      "domain": [
+        0,
+        0.45
+      ],
+      "autorange": true,
+      "gridwidth": 1.5
+    },
+    "height": 813,
+    "legend": {
+      "x": 0.3599999999999999,
+      "y": 1.0972811174856572,
+      "font": {
+        "size": 11,
+        "color": "rgb(0, 0, 0)"
+      },
+      "xanchor": "right",
+      "yanchor": "bottom",
+      "orientation": "v"
+    },
+    "xaxis2": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2012,
+        2018
+      ],
+      "tick0": 1,
+      "anchor": "y2",
+      "domain": [
+        0,
+        1
+      ],
+      "tickmode": "linear",
+      "autorange": true
+    },
+    "yaxis2": {
+      "range": [
+        0,
+        90.94736842105263
+      ],
+      "title": {
+        "text": "Nevada YRBS %"
+      },
+      "anchor": "x2",
+      "domain": [
+        0.55,
+        1
+      ],
+      "autorange": true,
+      "gridwidth": 1.5
+    },
+    "autosize": true
+  }
+}

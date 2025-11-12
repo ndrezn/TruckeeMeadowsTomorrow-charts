@@ -1,0 +1,179 @@
+{
+  "data": [
+    {
+      "uid": "5783bd",
+      "line": {
+        "dash": "dot",
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Tetrachloroethylene, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Tetrachloroethylene (ppb)",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3843:6a49eb",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3843:ab8156",
+      "y": [
+        "4.3",
+        "4.58",
+        "2.82",
+        "2.91",
+        "1.36",
+        "1",
+        "4.21",
+        "1.49",
+        "2",
+        "4.0",
+        "2.4",
+        "2.2",
+        "3",
+        "1.6",
+        "2.02"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "f6cbd4",
+      "line": {
+        "color": "rgb(230, 207, 95)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Trichlorethylene, y"
+        }
+      },
+      "mode": "markers+lines",
+      "name": "Trichlorethylene (ppb)",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3843:6a49eb",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3843:7ccc72",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "1.02",
+        "0.78",
+        "1.71",
+        "1.1",
+        "0.8",
+        "0.6",
+        "0.7",
+        "0.9",
+        null,
+        "1.18"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(68, 68, 68)"
+      },
+      "text": "<b>Volatile organic compounds</b><br><br>\n<b>Source: </b>Truckee Meadows Water Authority (TMWA), <a href=\"http://quality.tmwa.com/\">water quality reports</a>"
+    },
+    "width": 991,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2005.5,
+        2020.5
+      ],
+      "tick0": 1,
+      "showline": true,
+      "tickmode": "auto",
+      "autorange": false,
+      "gridwidth": 1,
+      "linewidth": 1
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0.33051128512206357,
+        4.803657300783049
+      ],
+      "title": {
+        "text": "Parts per billion"
+      },
+      "autorange": true
+    },
+    "height": 668,
+    "legend": {
+      "x": 0.10467289719626169,
+      "y": 0.3886255924170616
+    },
+    "autosize": true,
+    "showlegend": true,
+    "annotations": [
+      {
+        "x": 1.013683313277176,
+        "y": 0.9423240115718419,
+        "font": {
+          "color": "rgb(152, 0, 0)"
+        },
+        "text": "<b>MCL=max contaminant level; TT=treatment technique; or MRDL=max residual disinfection level</b><br><br>\n<i>MCL/TT/MRDL = 5 ppb; Max goal = 0 parts per billion</i><br>\nTetrachloroethylene = 5 (discharge from factories and dry cleaners)<br>\nTrichlorethylene = 5 (discharge from metal degreasing sites and other factories)<i><br>\n</i>",
+        "xref": "paper",
+        "yref": "paper",
+        "align": "left",
+        "showarrow": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": [
+    {
+      "uid": "d49caf",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "markers+lines",
+      "name": "Visited a dentist (past year)",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3942:21a05d",
+      "x": [
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3942:da948e",
+      "y": [
+        "70.0%",
+        "70.5%"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "38a312",
+      "line": {
+        "dash": "solid",
+        "color": "rgb(31, 119, 180)",
+        "shape": "spline",
+        "width": 7
+      },
+      "mode": "markers+lines",
+      "name": "Visited a dentist (past year)-NV",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3942:21a05d",
+      "x": [
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3942:d557ba",
+      "y": [
+        "62.6%",
+        "65.3%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 4
+        },
+        "size": 8,
+        "color": "rgb(31, 119, 180)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "720e22",
+      "name": "Never/rarely go hungry because there isn't enough food at home (past month)",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3942:21a05d",
+      "x": [
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3942:710bca",
+      "y": [
+        "84.0%",
+        "85.6%"
+      ],
+      "opacity": 0.9
+    },
+    {
+      "uid": "39591c",
+      "line": {
+        "color": "rgb(44, 160, 44)"
+      },
+      "name": "Never/rarely go hungry because there isn't enough food at home (past month)-NV",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3942:21a05d",
+      "x": [
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3942:5c8f99",
+      "y": [
+        "83.4%",
+        "85.1%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(44, 160, 44)"
+      },
+      "opacity": 0.9,
+      "showlegend": false
+    },
+    {
+      "uid": "b48aa7",
+      "line": {
+        "dash": "dash",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "markers+lines",
+      "name": "Not physically active at least 60-minutes/day (past week)",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3942:21a05d",
+      "x": [
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3942:6247ce",
+      "y": [
+        "10.9%",
+        "59.3%"
+      ],
+      "marker": {
+        "line": {
+          "width": 4
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "fe900a",
+      "line": {
+        "dash": "dash",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "markers+lines",
+      "name": "Not physically active at least 60-minutes/day (past week)-NV",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3942:21a05d",
+      "x": [
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3942:88454c",
+      "y": [
+        "12.3%",
+        "57.6%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 4
+        },
+        "size": 8,
+        "color": "rgb(148, 103, 189)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "a39e19",
+      "name": "\u22659 hours of sleep (average school night)*",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3942:21a05d",
+      "x": [
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3942:26d2cc",
+      "y": [
+        "59.3%",
+        "26.1%"
+      ],
+      "marker": {
+        "color": "rgb(127, 127, 127)"
+      },
+      "opacity": 0.9
+    },
+    {
+      "uid": "e6378d",
+      "name": "\u22659 hours of sleep (average school night) -NV*",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3942:21a05d",
+      "x": [
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3942:a0d735",
+      "y": [
+        "57.6%",
+        "27.2%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "opacity": 0.9,
+      "showlegend": false
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "Middle school youth disease risk prevalence"
+    },
+    "width": 1403,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2014,
+        2018
+      ],
+      "tick0": 1,
+      "showline": true,
+      "tickmode": "linear",
+      "autorange": true
+    },
+    "yaxis": {
+      "range": [
+        0,
+        90.10526315789473
+      ],
+      "title": {
+        "text": "WCSD YRBS %"
+      },
+      "domain": [
+        0,
+        0.45
+      ],
+      "autorange": true,
+      "gridwidth": 1.5
+    },
+    "bargap": 0.4,
+    "height": 813,
+    "legend": {
+      "x": -0.00815768302493956,
+      "y": 1.1295418641390205,
+      "font": {
+        "size": 11
+      },
+      "xanchor": "auto",
+      "yanchor": "auto",
+      "orientation": "v"
+    },
+    "xaxis2": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2014,
+        2018
+      ],
+      "tick0": 1,
+      "anchor": "y2",
+      "domain": [
+        0,
+        1
+      ],
+      "tickmode": "linear",
+      "autorange": true
+    },
+    "yaxis2": {
+      "range": [
+        0,
+        89.57894736842104
+      ],
+      "title": {
+        "text": "Nevada YRBS %"
+      },
+      "anchor": "x2",
+      "domain": [
+        0.55,
+        1
+      ],
+      "autorange": true,
+      "gridwidth": 1.5
+    },
+    "autosize": true
+  }
+}

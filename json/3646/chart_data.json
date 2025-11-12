@@ -1,0 +1,1197 @@
+{
+  "data": [
+    {
+      "uid": "8efa5b",
+      "fill": "none",
+      "meta": {
+        "columnNames": {
+          "x": "12-months ending March 31st",
+          "y": "Coal, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Coal",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3958:f9b48e",
+      "x": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3958:317a81",
+      "y": [
+        "23.95%",
+        "31.20%",
+        "41.70%",
+        "32.16%",
+        "23.17%",
+        "16.77%",
+        "15.86%",
+        "30.84%",
+        null,
+        "24.64%",
+        "28.87%",
+        "18.42%",
+        "14.16%",
+        "16.13%"
+      ],
+      "marker": {
+        "color": "rgb(102, 102, 102)"
+      }
+    },
+    {
+      "uid": "06ba37",
+      "fill": "none",
+      "meta": {
+        "columnNames": {
+          "x": "12-months ending March 31st",
+          "y": "Natural gas, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Natural gas",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3958:f9b48e",
+      "x": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3958:646723",
+      "y": [
+        "54.22%",
+        "47.70%",
+        "36.08%",
+        "51.38%",
+        "52.50%",
+        "54.61%",
+        "53.87%",
+        "43.16%",
+        null,
+        "44.79%",
+        "46.75%",
+        "45.83%",
+        "47.61%",
+        "48.29%"
+      ],
+      "marker": {
+        "color": "rgb(0, 255, 255)"
+      }
+    },
+    {
+      "uid": "3182d5",
+      "fill": "none",
+      "meta": {
+        "columnNames": {
+          "x": "12-months ending March 31st",
+          "y": "Oil, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Oil",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3958:f9b48e",
+      "x": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3958:402c2d",
+      "y": [
+        "0.05%",
+        "0.02%",
+        "0.02%",
+        "0.01%",
+        "0.02%",
+        "0.02%",
+        "0.02%",
+        "0.02%",
+        null,
+        "0.01%",
+        "0.01%",
+        "0.01%",
+        "0.01%",
+        "0.00%"
+      ],
+      "marker": {
+        "color": "rgb(140, 86, 75)"
+      }
+    },
+    {
+      "uid": "bfd39f",
+      "fill": "none",
+      "meta": {
+        "columnNames": {
+          "x": "12-months ending March 31st",
+          "y": "Hydroelectric, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Hydroelectric",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3958:f9b48e",
+      "x": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3958:0f403b",
+      "y": [
+        "9.23%",
+        "6.98%",
+        "6.39%",
+        "3.97%",
+        "7.37%",
+        "9.08%",
+        "10.37%",
+        "6.67%",
+        null,
+        "5.84%",
+        "3.48%",
+        "3.51%",
+        "3.02%",
+        "1.70%"
+      ],
+      "marker": {
+        "color": "rgb(0, 0, 255)"
+      }
+    },
+    {
+      "uid": "98ce00",
+      "fill": "none",
+      "meta": {
+        "columnNames": {
+          "x": "12-months ending March 31st",
+          "y": "Geothermal, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Geothermal",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3958:f9b48e",
+      "x": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3958:740365",
+      "y": [
+        "8.28%",
+        "9.60%",
+        "10.79%",
+        "9.20%",
+        "8.93%",
+        "9.07%",
+        "8.19%",
+        "8.44%",
+        null,
+        "7.23%",
+        "5.42%",
+        "4.93%",
+        "6.08%",
+        "6.06%"
+      ],
+      "marker": {
+        "color": "rgb(188, 189, 34)"
+      }
+    },
+    {
+      "uid": "b9b9c0",
+      "fill": "none",
+      "meta": {
+        "columnNames": {
+          "x": "12-months ending March 31st",
+          "y": "Solar, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Solar",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3958:f9b48e",
+      "x": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3958:907b42",
+      "y": [
+        "0.39%",
+        "0.59%",
+        "0.74%",
+        "0.74%",
+        "1.81%",
+        "4.13%",
+        "4.96%",
+        "6.22%",
+        null,
+        "12.96%",
+        "12.12%",
+        "24.04%",
+        "26.61%",
+        "26.64%"
+      ],
+      "marker": {
+        "color": "rgb(255, 255, 0)"
+      }
+    },
+    {
+      "uid": "6d1e5e",
+      "fill": "none",
+      "meta": {
+        "columnNames": {
+          "x": "12-months ending March 31st",
+          "y": "Nuclear, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Nuclear",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3958:f9b48e",
+      "x": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3958:2f7073",
+      "y": [
+        "2.93%",
+        "1.93%",
+        "2.01%",
+        "1.23%",
+        "2.93%",
+        "2.87%",
+        "2.90%",
+        "2.10%",
+        null,
+        "1.80%",
+        "1.22%",
+        "1.20%",
+        "0.95%",
+        "0.43%"
+      ],
+      "marker": {
+        "color": "rgb(255, 0, 255)"
+      }
+    },
+    {
+      "uid": "00cffe",
+      "fill": "none",
+      "meta": {
+        "columnNames": {
+          "x": "12-months ending March 31st",
+          "y": "Wind, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Wind",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3958:f9b48e",
+      "x": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3958:ae25c4",
+      "y": [
+        "0.56%",
+        "1.36%",
+        "1.66%",
+        "0.95%",
+        "2.38%",
+        "2.50%",
+        "2.81%",
+        "1.87%",
+        null,
+        "2.11%",
+        "1.71%",
+        "1.72%",
+        "1.30%",
+        "0.64%"
+      ],
+      "marker": {
+        "color": "rgb(0, 255, 0)"
+      }
+    },
+    {
+      "uid": "b669da",
+      "fill": "none",
+      "meta": {
+        "columnNames": {
+          "x": "12-months ending March 31st",
+          "y": "Biofuel, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Biofuel",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3958:f9b48e",
+      "x": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3958:aace74",
+      "y": [
+        "0.27%",
+        "0.20%",
+        "0.23%",
+        "0.14%",
+        "0.34%",
+        "0.29%",
+        "0.33%",
+        "0.21%",
+        null,
+        "0.19%",
+        "0.14%",
+        "0.11%",
+        "0.08%",
+        "0.04%"
+      ],
+      "marker": {
+        "color": "rgb(39, 78, 19)"
+      }
+    },
+    {
+      "uid": "62be02",
+      "fill": "none",
+      "meta": {
+        "columnNames": {
+          "x": "12-months ending March 31st",
+          "y": "Biomass, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Biomass",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3958:f9b48e",
+      "x": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3958:511521",
+      "y": [
+        "0.09%",
+        "0.31%",
+        "0.35%",
+        "0.22%",
+        "0.54%",
+        "0.48%",
+        "0.51%",
+        "0.34%",
+        null,
+        "0.31%",
+        "0.20%",
+        "0.17%",
+        "0.13%",
+        "0.05%"
+      ],
+      "marker": {
+        "color": "rgb(152, 0, 0)"
+      }
+    },
+    {
+      "uid": "cfe05a",
+      "fill": "none",
+      "meta": {
+        "columnNames": {
+          "x": "12-months ending March 31st",
+          "y": "Other, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Other",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3958:f9b48e",
+      "x": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3958:cb9727",
+      "y": [
+        "0.03%",
+        "0.00%",
+        "0.00%",
+        "0.00%",
+        "0.00%",
+        "0.18%",
+        "0.18%",
+        "0.13%",
+        null,
+        "0.12%",
+        "0.08%",
+        "0.06%",
+        "0.05%",
+        "0.02%"
+      ],
+      "marker": {
+        "color": "rgb(241, 194, 50)"
+      }
+    },
+    {
+      "uid": "089342",
+      "meta": {
+        "columnNames": {
+          "x": "12-months ending March 31st",
+          "y": "Coal (1), y"
+        }
+      },
+      "name": "Coal",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3958:f9b48e",
+      "x": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3958:040e97",
+      "y": [
+        "21.22%",
+        "33.77%",
+        "35.83%",
+        "26.57%",
+        null,
+        null,
+        "36.25%",
+        null,
+        "22.06%",
+        "25.14%",
+        "25.37%",
+        "13.36%",
+        "15.58%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(102, 102, 102)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "543242",
+      "meta": {
+        "columnNames": {
+          "x": "12-months ending March 31st",
+          "y": "Natural gas (1), y"
+        }
+      },
+      "name": "Natural gas",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3958:f9b48e",
+      "x": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3958:104d29",
+      "y": [
+        "60.16%",
+        "47.01%",
+        "47.80%",
+        "52.92%",
+        null,
+        null,
+        "40.41%",
+        null,
+        "53.12%",
+        "45.71%",
+        "42.47%",
+        "48.19%",
+        "48.69%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(0, 255, 255)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "cb1306",
+      "meta": {
+        "columnNames": {
+          "x": "12-months ending March 31st",
+          "y": "Oil (1), y"
+        }
+      },
+      "name": "Oil",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3958:f9b48e",
+      "x": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3958:f89511",
+      "y": [
+        "0.02%",
+        "0.02%",
+        "0.01%",
+        "0.02%",
+        null,
+        null,
+        "0.04%",
+        null,
+        "0.01%",
+        "0.01%",
+        "0.01%",
+        "0.01%",
+        "0.00%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(140, 86, 75)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "679aed",
+      "meta": {
+        "columnNames": {
+          "x": "12-months ending March 31st",
+          "y": "Hydroelectric (1), y"
+        }
+      },
+      "name": "Hydroelectric",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3958:f9b48e",
+      "x": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3958:e446d1",
+      "y": [
+        "6.18%",
+        "5.98%",
+        "4.05%",
+        "6.03%",
+        null,
+        null,
+        "7.71%",
+        null,
+        "5.00%",
+        "4.80%",
+        "4.72%",
+        "3.22%",
+        "1.91%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(0, 0, 255)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "f97173",
+      "meta": {
+        "columnNames": {
+          "x": "12-months ending March 31st",
+          "y": "Geothermal (1), y"
+        }
+      },
+      "name": "Geothermal",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3958:f9b48e",
+      "x": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3958:ef1abd",
+      "y": [
+        "8.52%",
+        "8.94%",
+        "8.94%",
+        "8.67%",
+        null,
+        null,
+        "6.55%",
+        null,
+        "6.03%",
+        "6.44%",
+        "5.53%",
+        "5.28%",
+        "5.92%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(188, 189, 34)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "a8743d",
+      "meta": {
+        "columnNames": {
+          "x": "12-months ending March 31st",
+          "y": "Solar (1), y"
+        }
+      },
+      "name": "Solar",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3958:f9b48e",
+      "x": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3958:649e8c",
+      "y": [
+        "0.47%",
+        "0.54%",
+        "0.70%",
+        "1.10%",
+        null,
+        null,
+        "4.24%",
+        null,
+        "9.98%",
+        "13.46%",
+        "17.65%",
+        "27.03%",
+        "26.48%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(255, 255, 0)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "72f22e",
+      "meta": {
+        "columnNames": {
+          "x": "12-months ending March 31st",
+          "y": "Nuclear (1), y"
+        }
+      },
+      "name": "Nuclear",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3958:f9b48e",
+      "x": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3958:22a1b9",
+      "y": [
+        "1.88%",
+        "1.82%",
+        "1.27%",
+        "2.28%",
+        null,
+        null,
+        "2.16%",
+        null,
+        "1.60%",
+        "1.65%",
+        "1.56%",
+        "1.07%",
+        "0.53%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(255, 0, 255)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "12c5de",
+      "meta": {
+        "columnNames": {
+          "x": "12-months ending March 31st",
+          "y": "Wind (1), y"
+        }
+      },
+      "name": "Wind",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3958:f9b48e",
+      "x": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3958:5d755a",
+      "y": [
+        "1.10%",
+        "1.45%",
+        "1.04%",
+        "1.74%",
+        null,
+        null,
+        "1.90%",
+        null,
+        "1.66%",
+        "2.22%",
+        "2.21%",
+        "1.54%",
+        "0.75%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(0, 255, 0)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "a605ff",
+      "meta": {
+        "columnNames": {
+          "x": "12-months ending March 31st",
+          "y": "Biofuel (1), y"
+        }
+      },
+      "name": "Biofuel",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3958:f9b48e",
+      "x": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3958:d11398",
+      "y": [
+        "0.18%",
+        "0.19%",
+        "0.15%",
+        "0.27%",
+        null,
+        null,
+        "0.22%",
+        null,
+        "0.18%",
+        "0.18%",
+        "0.15%",
+        "0.19%",
+        "0.04%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(39, 78, 19)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "72b188",
+      "meta": {
+        "columnNames": {
+          "x": "12-months ending March 31st",
+          "y": "Biomass (1), y"
+        }
+      },
+      "name": "Biomass",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3958:f9b48e",
+      "x": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3958:edb620",
+      "y": [
+        "0.28%",
+        "0.30%",
+        "0.22%",
+        "0.42%",
+        null,
+        null,
+        "0.38%",
+        null,
+        "0.26%",
+        "0.29%",
+        "0.24%",
+        "0.15%",
+        "0.07%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(152, 0, 0)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "9a4c1c",
+      "meta": {
+        "columnNames": {
+          "x": "12-months ending March 31st",
+          "y": "Total"
+        }
+      },
+      "name": "Other",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3958:f9b48e",
+      "x": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3958:e53184",
+      "y": [
+        "0.00%",
+        "0.00%",
+        "0.00%",
+        "0.00%",
+        null,
+        null,
+        "0.14%",
+        null,
+        "0.10%",
+        "0.10%",
+        "0.09%",
+        "0.06%",
+        "0.03%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(241, 194, 50)"
+      },
+      "showlegend": false
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(13, 13, 13)"
+      },
+      "text": "<b>Sierra Pacific (d/b/a Nevada Energy) average fuel mix (power content label)</b><br><br>\n<b>Source:</b> &nbsp;<a href=\"https://www.nvenergy.com/help/bill-inserts\">NV Energy, bill inserts/power content (northern Nevada)</a>"
+    },
+    "width": 1134,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2011.5,
+        2025.5
+      ],
+      "tick0": 1,
+      "title": {
+        "text": "12-months ending March 31"
+      },
+      "showline": true,
+      "tickmode": "auto",
+      "zeroline": true,
+      "autorange": false
+    },
+    "yaxis": {
+      "range": [
+        0,
+        105.26315789473688
+      ],
+      "title": {
+        "text": "Total energy source %"
+      },
+      "domain": [
+        0,
+        0.45
+      ],
+      "autorange": true
+    },
+    "height": 637,
+    "legend": {
+      "font": {
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    "xaxis2": {
+      "side": "bottom",
+      "type": "linear",
+      "range": [
+        2011.5,
+        2024.5
+      ],
+      "title": {
+        "text": "12-months ending September 30<br>"
+      },
+      "anchor": "y2",
+      "domain": [
+        0,
+        1
+      ],
+      "autorange": true,
+      "showticklabels": true
+    },
+    "yaxis2": {
+      "range": [
+        0,
+        105.36842105263159
+      ],
+      "title": {
+        "text": "Total energy source %"
+      },
+      "anchor": "x2",
+      "domain": [
+        0.55,
+        1
+      ],
+      "autorange": true
+    },
+    "barmode": "stack",
+    "autosize": true,
+    "annotations": [
+      {
+        "font": {
+          "size": 11,
+          "color": "rgb(152, 0, 0)"
+        },
+        "text": "<i>Sierra Pacific Power, d/b/a NV Energy, generates ~54% of needed electricity,with the balance purchased from the western grid.<br>Purchased this way, the average fuel mix is from utility generation plus power purchased for the 12-month period.</i>",
+        "align": "right",
+        "showarrow": false
+      }
+    ]
+  }
+}

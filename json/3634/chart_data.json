@@ -1,0 +1,185 @@
+{
+  "data": [
+    {
+      "uid": "5e094e",
+      "meta": {
+        "columnNames": {
+          "x": "Nevada, x; Graduates/1,000 population, x",
+          "y": "Nevada, y"
+        }
+      },
+      "name": "Nevada",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3953:84cc0d",
+      "x": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3953:fc9c76",
+      "y": [
+        "46",
+        "48",
+        "50",
+        "53",
+        "54",
+        "53",
+        "49",
+        "51",
+        "55",
+        "55",
+        "56",
+        "60",
+        "55",
+        "70",
+        "65",
+        "61",
+        "69"
+      ],
+      "marker": {
+        "color": "rgb(204, 204, 204)"
+      }
+    },
+    {
+      "uid": "ef2387",
+      "line": {
+        "color": "rgb(31, 119, 180)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Nevada, x; Graduates/1,000 population, x",
+          "y": "Graduates/1,000 population, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Graduates/1,000 population",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3953:84cc0d",
+      "x": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3953:306d1b",
+      "y": [
+        "47.96",
+        "47.85",
+        "48.22",
+        "47.53",
+        "48.58",
+        "51.29",
+        "55.89",
+        "53.16",
+        "49.54",
+        "49.49",
+        "49.11",
+        "46.68",
+        "51.70",
+        "41.39",
+        "45.44",
+        "48.96",
+        "44.31"
+      ],
+      "yaxis": "y2"
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "Total number of medical school graduates"
+    },
+    "width": 1099,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2001.0272900439431,
+        2018.9727099560569
+      ],
+      "domain": [
+        0,
+        0.95
+      ],
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        73.6842105263158
+      ],
+      "title": {
+        "text": "Total graduates (MDs)"
+      },
+      "autorange": true,
+      "gridcolor": "rgb(226, 228, 230)"
+    },
+    "height": 669,
+    "legend": {
+      "x": 0.33598984771573603,
+      "y": 0.39059304703476483,
+      "font": {
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    "yaxis2": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        40.44478502080444,
+        56.83521497919556
+      ],
+      "title": {
+        "font": {
+          "color": "rgb(31, 119, 180)"
+        },
+        "text": "Grads/1,000 population"
+      },
+      "anchor": "x",
+      "tickfont": {
+        "color": "rgb(31, 119, 180)"
+      },
+      "zeroline": false,
+      "autorange": true,
+      "gridcolor": "rgb(159, 200, 255)",
+      "gridwidth": 0.5,
+      "overlaying": "y",
+      "zerolinecolor": "rgb(21, 22, 22)",
+      "zerolinewidth": 1
+    },
+    "autosize": true
+  }
+}

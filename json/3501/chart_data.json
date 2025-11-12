@@ -1,0 +1,255 @@
+{
+  "data": [
+    {
+      "uid": "1189f0",
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Northwest"
+        }
+      },
+      "name": "<b>Northwest </b>(Verdi, Reno NW, University, USFS, BLM)",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3916:1fa4ec",
+      "x": [
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3916:3bfc18",
+      "y": [
+        "2.0",
+        "1.2",
+        "1.6"
+      ],
+      "marker": {
+        "color": "rgb(235, 207, 83)"
+      },
+      "opacity": 1
+    },
+    {
+      "uid": "242561",
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Northeast"
+        }
+      },
+      "name": "<b>Northeast</b> (Sparks, Lemon Valley, Sun Valley, North Valleys)",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3916:1fa4ec",
+      "x": [
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3916:21029c",
+      "y": [
+        "1.7",
+        "2.0",
+        "2.2"
+      ],
+      "marker": {
+        "color": "rgb(57, 135, 189)"
+      },
+      "opacity": 1
+    },
+    {
+      "uid": "10078d",
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Southwest"
+        }
+      },
+      "name": "<b>Southwest</b> (Reno neighborhoods, commercial)",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3916:1fa4ec",
+      "x": [
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3916:c9da3c",
+      "y": [
+        "1.3",
+        "1.1",
+        "1.4"
+      ],
+      "opacity": 1
+    },
+    {
+      "uid": "4c6f62",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Southeast"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "<b>Southeast </b>(Reno commercial, industrial, recreational, neighborhood, agricultural)",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3916:1fa4ec",
+      "x": [
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3916:452028",
+      "y": [
+        "1.3",
+        "1.6",
+        "1.7"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 8,
+        "color": "rgb(240, 121, 122)"
+      },
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "River Corridor"
+        }
+      },
+      "name": "<b>River Corridor</b> (roadways from industrial Sparks to Mayberry)",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3916:1fa4ec",
+      "x": [
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3916:d89840",
+      "y": [
+        "1.5",
+        "1.2",
+        "2.5"
+      ],
+      "marker": {
+        "color": "rgb(175, 201, 137)"
+      },
+      "orientation": "v"
+    },
+    {
+      "line": {
+        "dash": "dot",
+        "color": "rgb(117, 116, 116)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Overall score"
+        }
+      },
+      "mode": "lines",
+      "name": "<b>Overall Litter Index score</b>",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3916:1fa4ec",
+      "x": [
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3916:4d051a",
+      "y": [
+        "1.6",
+        "1.4",
+        "1.9"
+      ],
+      "marker": {
+        "size": 7
+      },
+      "orientation": "v"
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(68, 68, 68)"
+      },
+      "text": "<b>Truckee Meadows Litter Index Results (1=low to 4=high)</b><br><br>\n<b>Source:</b> Keep Truckee Meadows Beautiful (<a href=\"https://www.ktmb.org\">KTMB</a>)"
+    },
+    "width": 958,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 1,
+      "range": [
+        2018.5,
+        2021.4463823211404
+      ],
+      "tick0": 0,
+      "title": {
+        "text": ""
+      },
+      "domain": [
+        0,
+        1
+      ],
+      "showline": false,
+      "tickmode": "linear",
+      "autorange": false
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        2.6315789473684212
+      ],
+      "title": {
+        "text": "Index score"
+      },
+      "autorange": true
+    },
+    "bargap": 0.25,
+    "height": 678,
+    "legend": {
+      "x": 0.22147058189887325,
+      "y": 0.24297188755020058,
+      "font": {
+        "size": 11
+      },
+      "xanchor": "left",
+      "yanchor": "middle",
+      "orientation": "v"
+    },
+    "barmode": "group",
+    "autosize": true,
+    "annotations": [
+      {
+        "x": 2020.5565600913221,
+        "y": 2.4843056436271405,
+        "font": {
+          "size": 11,
+          "color": "rgb(152, 0, 0)"
+        },
+        "text": "<i>KTMB switched from previous areas, neighborhoods and </i><br><i>open spaces, to indexing by 5 routes beginning 2919.</i>",
+        "align": "left",
+        "showarrow": false
+      },
+      {
+        "x": 2019.3639767708605,
+        "y": 2.254961984476985,
+        "font": {
+          "size": 11
+        },
+        "text": "<i>1 = No litter; virtually no litter observed<br>2 = Slightly littered; upon careful inspection, a small amount of obvious litter<br>\n&nbsp;3 = Littered; visible litter readily seen, likely requiring an organized cleanup<br>\n&nbsp;&nbsp;4 = Extremely littered; major illegal dumpsites, requiring equipment or extra manpower for removal</i>",
+        "align": "center",
+        "showarrow": false
+      }
+    ]
+  }
+}

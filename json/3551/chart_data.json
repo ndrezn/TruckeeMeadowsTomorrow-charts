@@ -1,0 +1,322 @@
+{
+  "data": [
+    {
+      "uid": "622bff",
+      "line": {
+        "shape": "spline",
+        "width": 7.5
+      },
+      "name": "WCSD",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3925:db0f52",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3925:f3de39",
+      "y": [
+        "70%",
+        "71%",
+        "70%",
+        "72%",
+        "70%",
+        "69%",
+        "65%",
+        "63%",
+        "64%",
+        "64%",
+        "61%",
+        "60%"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "04fa2f",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines",
+      "name": "Nevada",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3925:db0f52",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3925:eb0a0b",
+      "y": [
+        "56%",
+        "53%",
+        "45%",
+        "51%",
+        "63%",
+        "63%",
+        "62%",
+        "61%",
+        "60%"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "da8dfc",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "National",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3925:db0f52",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3925:bcd6ba",
+      "y": [
+        "67%",
+        "66%",
+        "69%",
+        "69%",
+        "70%",
+        "68%",
+        "68%",
+        "66%",
+        "66%"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "232909",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "UNR and TMCC",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3925:ac5f09",
+      "x": [
+        "",
+        "",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3925:eb9aa2",
+      "y": [
+        "",
+        "",
+        "53%",
+        "51%",
+        "57%",
+        "59%",
+        "51%",
+        "49%",
+        "51%",
+        "50%",
+        "49%",
+        "47%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "size": 6
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "3e6cd3",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Other Nevada colleges",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3925:ac5f09",
+      "x": [
+        "",
+        "",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3925:ad83f6",
+      "y": [
+        "",
+        "",
+        "2%",
+        "3%",
+        "2%",
+        "2%",
+        "1%",
+        "1%",
+        "1%",
+        "1%",
+        "1%",
+        "1%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "2969b6",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Out-of-state",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3925:ac5f09",
+      "x": [
+        "",
+        "",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3925:796d49",
+      "y": [
+        "",
+        "",
+        "15%",
+        "18%",
+        "11%",
+        "8%",
+        "13%",
+        "13%",
+        "12%",
+        "13%",
+        "11%",
+        "12%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "autobinx": true,
+      "autobiny": true
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "WCSD college-going rate***",
+    "width": 1066,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2004.2613721726066,
+        2016.7386278273934
+      ],
+      "title": "WCSD grad year",
+      "domain": [
+        0,
+        0.45
+      ],
+      "showline": true,
+      "autorange": true,
+      "gridwidth": 2,
+      "linewidth": 2,
+      "zerolinewidth": 2
+    },
+    "yaxis": {
+      "range": [
+        43.484407484407484,
+        73.79625779625779
+      ],
+      "title": "% grads immediately enrolling in post-secondary education",
+      "autorange": true
+    },
+    "height": 621,
+    "legend": {
+      "xanchor": "auto",
+      "yanchor": "bottom"
+    },
+    "xaxis2": {
+      "type": "linear",
+      "range": [
+        2006.3956681412235,
+        2016.6043318587765
+      ],
+      "title": "WCSD fall",
+      "anchor": "y2",
+      "domain": [
+        0.55,
+        1
+      ],
+      "autorange": true
+    },
+    "yaxis2": {
+      "range": [
+        -2.8991596638655466,
+        62.89915966386555
+      ],
+      "title": "% grads enrolling in post-secondary education",
+      "anchor": "x2",
+      "domain": [
+        0,
+        1
+      ],
+      "autorange": true
+    },
+    "autosize": true,
+    "titlefont": {
+      "size": 14,
+      "color": "rgb(152, 0, 0)"
+    },
+    "breakpoints": []
+  }
+}

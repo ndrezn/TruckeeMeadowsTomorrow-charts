@@ -1,0 +1,172 @@
+{
+  "data": [
+    {
+      "uid": "d6b100",
+      "fill": "none",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "x",
+          "y": "Assisted new jobs"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Assisted new jobs",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:2883:698434",
+      "x": [
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:2883:e8678a",
+      "y": [
+        " 856 ",
+        " 966 ",
+        " 667 ",
+        " 871 ",
+        " 1,591 ",
+        " 2,112 ",
+        " 2,500 ",
+        " 3,066 ",
+        " 3,221 ",
+        " 3,323 ",
+        "\u00a0\t2,148\u00a0",
+        "\u00a0\t2,268\u00a0"
+      ],
+      "marker": {
+        "size": 10
+      }
+    },
+    {
+      "line": {
+        "dash": "dot",
+        "color": "rgb(44, 160, 44)",
+        "shape": "spline",
+        "width": 8
+      },
+      "meta": {
+        "columnNames": {
+          "x": "x",
+          "y": " Average salary of jobs cumulative "
+        }
+      },
+      "mode": "lines",
+      "name": " Average salary of jobs cumulative ",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:2883:698434",
+      "x": [
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:2883:01c056",
+      "y": [
+        null,
+        null,
+        null,
+        null,
+        "\u00a0\t2,148\u00a0",
+        "\u00a0\t2,268\u00a0",
+        "\u00a0\t2,148\u00a0",
+        "\u00a0$54,046\u00a0",
+        "\u00a0$36,434\u00a0",
+        "\u00a0$46,157\u00a0",
+        "\u00a0$50,287\u00a0",
+        "$72,800"
+      ],
+      "yaxis": "y2"
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "EDAWN assisted new jobs"
+    },
+    "width": 1427,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2007.3211562333747,
+        2019.6788437666253
+      ],
+      "title": {
+        "font": {
+          "color": "rgb(0, 9, 0)"
+        },
+        "text": "FY ending-June 30th"
+      },
+      "showline": true,
+      "tickfont": {
+        "color": "rgb(0, 9, 0)"
+      },
+      "zeroline": true,
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        482.5260208166533,
+        3507.4739791833467
+      ],
+      "title": {
+        "text": "Assisted new jobs"
+      },
+      "autorange": true
+    },
+    "height": 749,
+    "legend": {
+      "x": 0.2149486977111286,
+      "y": 0.9068541300527241,
+      "xanchor": "auto",
+      "yanchor": "auto",
+      "traceorder": "normal"
+    },
+    "yaxis2": {
+      "side": "right",
+      "range": [
+        -1777.1111111111113,
+        76725.11111111111
+      ],
+      "title": {
+        "font": {
+          "color": "rgb(44, 160, 44)"
+        },
+        "text": "$"
+      },
+      "anchor": "x",
+      "tickfont": {
+        "color": "rgb(44, 160, 44)"
+      },
+      "autorange": true,
+      "overlaying": "y"
+    },
+    "autosize": true,
+    "showlegend": true
+  }
+}

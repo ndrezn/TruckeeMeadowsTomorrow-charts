@@ -1,0 +1,257 @@
+{
+  "data": [
+    {
+      "uid": "122a2e",
+      "line": {
+        "shape": "hvh",
+        "width": 10
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Production, x; Retail Gallons Per Capita / Day, x; Average Residential Use (1,000 Gallons), x",
+          "y": "Production, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Production",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3785:f61be8",
+      "x": [
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3785:e0969d",
+      "y": [
+        " 63,139 ",
+        " 59,199 ",
+        " 58,658 ",
+        " 58,362 ",
+        " 64,536 ",
+        " 59,983 ",
+        " 68,121 ",
+        " 71,410 ",
+        " 67,821 ",
+        " 76,628 ",
+        " 81,946 ",
+        " 86,496 ",
+        " 83,139 ",
+        " 82,480 ",
+        " 85,659 ",
+        " 80,504 ",
+        " 80,890 ",
+        " 83,897 ",
+        " 78,288 "
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "color": "rgb(31, 119, 180)"
+        },
+        "color": "rgb(31, 119, 180)"
+      },
+      "opacity": 0.43
+    },
+    {
+      "uid": "061ade",
+      "line": {
+        "shape": "hvh",
+        "width": 10
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Production, x; Retail Gallons Per Capita / Day, x; Average Residential Use (1,000 Gallons), x",
+          "y": "Retail Gallons Per Capita / Day, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Retail Gallons Per Capita / Day",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3785:f61be8",
+      "x": [
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3785:1f4346",
+      "y": [
+        " 269 ",
+        " 247 ",
+        " 243 ",
+        " 238 ",
+        " 255 ",
+        " 228 ",
+        " 250 ",
+        " 261 ",
+        " 245 ",
+        " 264 ",
+        " 266 ",
+        " 269 ",
+        " 255 ",
+        " 243 ",
+        " 248 ",
+        " 225 ",
+        " 219 ",
+        " 222 ",
+        " 204 "
+      ]
+    },
+    {
+      "uid": "8a7e1b",
+      "line": {
+        "shape": "spline",
+        "width": 10
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Production, x; Retail Gallons Per Capita / Day, x; Average Residential Use (1,000 Gallons), x",
+          "y": "Average Residential Use (1,000 Gallons), y"
+        }
+      },
+      "mode": "lines",
+      "name": "Average Residential Use (1,000 Gallons)",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3785:f61be8",
+      "x": [
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3785:baf49d",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        " 167.82 ",
+        " 179.29 ",
+        " 162.88 ",
+        " 159.20 ",
+        " 168.59 ",
+        " 162.87 "
+      ]
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "TMWA annual water consumption"
+    },
+    "width": 977,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        1989.5,
+        2008.5
+      ],
+      "title": {
+        "font": {
+          "size": 14
+        }
+      },
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        153.1,
+        275.1
+      ],
+      "title": {
+        "font": {
+          "size": 14
+        },
+        "text": "Gallons"
+      },
+      "autorange": true
+    },
+    "height": 665,
+    "legend": {
+      "x": 0.02242152466367713,
+      "y": 0.030735455543358946,
+      "font": {
+        "size": 14
+      }
+    },
+    "yaxis2": {
+      "side": "right",
+      "range": [
+        0,
+        91048.42105263157
+      ],
+      "title": {
+        "font": {
+          "size": 14
+        },
+        "text": "Acre-feet"
+      },
+      "anchor": "x",
+      "autorange": true,
+      "overlaying": "y"
+    },
+    "barmode": "stack",
+    "autosize": true,
+    "showlegend": true
+  }
+}

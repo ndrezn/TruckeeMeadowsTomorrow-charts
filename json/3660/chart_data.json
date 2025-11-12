@@ -1,0 +1,205 @@
+{
+  "data": [
+    {
+      "uid": "abbd67",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Monthly average participants",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3659:1609eb",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3659:3b3f1d",
+      "y": [
+        "51,625",
+        "51,748",
+        "60,972",
+        "67,829",
+        "74,344",
+        "73,977",
+        "74,705",
+        "74,705"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "f095ad",
+      "name": "Women",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3659:1609eb",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3659:29dda0",
+      "y": [
+        "13,940",
+        "14,242",
+        "16,194",
+        "17,024",
+        "17,323",
+        "17,080",
+        "17,107",
+        "17,107"
+      ]
+    },
+    {
+      "uid": "2976c0",
+      "name": "Infants",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3659:1609eb",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3659:4321b6",
+      "y": [
+        "15,096",
+        "14,762",
+        "16,497",
+        "16,931",
+        "17,851",
+        "17,388",
+        "17,654",
+        "17,654"
+      ]
+    },
+    {
+      "uid": "90912a",
+      "name": "Children",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3659:1609eb",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3659:4b80c1",
+      "y": [
+        "22,588",
+        "22,743",
+        "28,280",
+        "33,873",
+        "39,169",
+        "39,509",
+        "39,945",
+        "39,945"
+      ]
+    },
+    {
+      "uid": "a6f0cc",
+      "line": {
+        "color": "rgb(0, 255, 0)",
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "% \u0394 last 10 years",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3659:1609eb",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3659:196c90",
+      "y": [
+        "42.2%",
+        "38.6%",
+        "60.6%",
+        "81.3%",
+        "91.7%",
+        "46.3%",
+        "85.8%",
+        "85.8%"
+      ],
+      "yaxis": "y2"
+    }
+  ],
+  "layout": {
+    "title": "Nevada supplemental nutrition program for women, infants and children (WIC)",
+    "width": 1108,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2005.5,
+        2013.5
+      ],
+      "title": "Federal fiscal year",
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        79483.67434848158
+      ],
+      "title": "Average monthly WIC\u00a0participants",
+      "autorange": true
+    },
+    "height": 674,
+    "legend": {
+      "x": 0.06596273291925468,
+      "y": 1.0161943319838056,
+      "font": {
+        "size": 11,
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    "yaxis2": {
+      "side": "right",
+      "range": [
+        35.14382292381606,
+        95.15617707618394
+      ],
+      "title": "\n\n\n\n\n\n\n\n\n\n\n \n \n\n  % \u0394\n\n \n",
+      "anchor": "x",
+      "autorange": true,
+      "overlaying": "y"
+    },
+    "barmode": "stack",
+    "autosize": true,
+    "titlefont": {
+      "size": 14,
+      "color": "rgb(152, 0, 0)"
+    }
+  }
+}

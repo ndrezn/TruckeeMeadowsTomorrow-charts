@@ -1,0 +1,421 @@
+{
+  "data": [
+    {
+      "uid": "7d1d85",
+      "line": {
+        "shape": "spline",
+        "width": 5
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Good"
+        }
+      },
+      "mode": "lines",
+      "name": "Good (0-50)",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3835:1b4529",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3835:58e083",
+      "y": [
+        "258",
+        "254",
+        "196",
+        "196",
+        "234",
+        "257",
+        "235",
+        "202",
+        "213",
+        "244",
+        "239",
+        "198",
+        "229",
+        "220"
+      ],
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "color": "rgb(3, 250, 43)"
+      },
+      "orientation": "v"
+    },
+    {
+      "uid": "7bb234",
+      "line": {
+        "dash": "solid",
+        "shape": "spline",
+        "width": 2
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Moderate"
+        }
+      },
+      "mode": "lines",
+      "name": "Moderate (51-100)",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3835:1b4529",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3835:012996",
+      "y": [
+        "104",
+        "102",
+        "167",
+        "152",
+        "124",
+        "105",
+        "124",
+        "159",
+        "133",
+        "121",
+        "103",
+        "132",
+        "127",
+        "145"
+      ],
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "color": "rgb(251, 255, 14)"
+      },
+      "orientation": "v"
+    },
+    {
+      "uid": "4a0b2c",
+      "line": {
+        "dash": "dot",
+        "shape": "spline",
+        "width": 7
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Unhealthy for sensitive groups"
+        }
+      },
+      "mode": "lines",
+      "name": "Unhealthy for sensitive groups (101-150)",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3835:1b4529",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3835:c1a406",
+      "y": [
+        "3",
+        "9",
+        "3",
+        "13",
+        "4",
+        "3",
+        "7",
+        "4",
+        "19",
+        "0",
+        "11",
+        "16",
+        "1",
+        "0"
+      ],
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "color": "rgb(255, 120, 31)"
+      },
+      "orientation": "v"
+    },
+    {
+      "uid": "639482",
+      "line": {
+        "dash": "dot",
+        "shape": "spline",
+        "width": 5
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Unhealthy"
+        }
+      },
+      "mode": "lines",
+      "name": "Unhealthy (151-200)",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3835:1b4529",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3835:90c3fe",
+      "y": [
+        "0",
+        "0",
+        "0",
+        "4",
+        "3",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "11",
+        "16",
+        "6",
+        "0"
+      ],
+      "marker": {
+        "line": {
+          "width": 2
+        }
+      },
+      "orientation": "v"
+    },
+    {
+      "uid": "fcefa2",
+      "line": {
+        "dash": "dash",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Very unhealthy"
+        }
+      },
+      "mode": "lines",
+      "name": "Very unhealthy (201-300)",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3835:1b4529",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3835:eb678e",
+      "y": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "2",
+        "3",
+        "2",
+        "0"
+      ],
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "color": "rgb(169, 44, 235)"
+      },
+      "orientation": "v"
+    },
+    {
+      "uid": "24a2fd",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(17, 17, 17)",
+        "shape": "spline",
+        "width": 10
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Hazardous"
+        }
+      },
+      "mode": "lines",
+      "name": "Hazardous (&gt;300)",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3835:1b4529",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3835:36a1f4",
+      "y": [
+        "0",
+        "0",
+        "\n",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "yaxis": "y",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8,
+        "color": "rgb(102, 18, 1)"
+      },
+      "orientation": "v"
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(13, 6, 6)"
+      },
+      "text": "<b>Washoe County Air Quality Index 10-year trend</b><br><br>\nSource: &nbsp;Washoe County, <a href=\"https://www.nnph.org/programs-and-services/air-quality/air-quality-reports-and-data.php\">Air Quality Management reports</a>"
+    },
+    "width": 1109,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2009.5,
+        2023.5
+      ],
+      "title": {
+        "text": "<br>"
+      },
+      "showline": false,
+      "tickmode": "linear",
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        276.8696914700545
+      ],
+      "title": {
+        "text": "Days per year"
+      },
+      "autorange": true
+    },
+    "height": 557,
+    "legend": {
+      "x": -2.1074815595374323e-05,
+      "y": 1.2493368700265253,
+      "font": {
+        "size": 10
+      },
+      "traceorder": "normal"
+    },
+    "barmode": "group",
+    "autosize": true,
+    "showlegend": true,
+    "annotations": [
+      {
+        "x": 2019.5021074815595,
+        "y": 253.80022637238258,
+        "font": {
+          "color": "rgb(152, 0, 0)"
+        },
+        "text": "<i><b>2020-2021 included exceptional events due to wildfires &amp; high winds</b></i>",
+        "showarrow": false
+      },
+      {
+        "x": 2017.7318229715488,
+        "y": 269.79909451046973,
+        "font": {
+          "size": 11,
+          "color": "rgb(152, 0, 0)"
+        },
+        "text": "<i>A NAAQS revision in 2015 results in changes to AQ! category ranges &amp; the number of days per year within those ranges.</i>",
+        "showarrow": false
+      }
+    ]
+  }
+}

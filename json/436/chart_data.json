@@ -1,0 +1,669 @@
+{
+  "data": [
+    {
+      "uid": "91632c",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "rgb(43, 105, 255)",
+        "shape": "spline",
+        "width": 5,
+        "smoothing": 1
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Reno-Sparks*"
+        }
+      },
+      "mode": "lines",
+      "name": "Reno-Sparks",
+      "text": "",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4153:ae187b",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4153:0e87c8",
+      "y": [
+        "3.9%",
+        "3.9%",
+        "4.3%",
+        "6.8%",
+        "11.1%",
+        "13.1%",
+        "12.9%",
+        "11.5%",
+        "9.8%",
+        "7.8%",
+        "6.3%",
+        "5.1%",
+        "4.1%",
+        "3.5%",
+        "3.3%",
+        "8.2%",
+        "4.1%",
+        "3.5%",
+        "4.5%",
+        "4.8%",
+        "4.2%"
+      ],
+      "index": 2,
+      "xaxis": "x",
+      "yaxis": "y",
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 2
+        },
+        "size": 10,
+        "color": "rgb(46, 131, 242)",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "error_x": {
+        "visible": false
+      },
+      "error_y": {
+        "visible": false
+      },
+      "opacity": 1,
+      "visible": true,
+      "hoverinfo": "all",
+      "showlegend": true,
+      "connectgaps": false,
+      "legendgroup": ""
+    },
+    {
+      "uid": "fad0f1",
+      "fill": "none",
+      "line": {
+        "dash": "dashdot",
+        "color": "rgb(68, 68, 68)",
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Carson City"
+        }
+      },
+      "mode": "lines",
+      "name": "Carson City",
+      "text": "",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4153:ae187b",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4153:0db029",
+      "y": [
+        "4.5%",
+        "4.6%",
+        "4.8%",
+        "7.1%",
+        "11.1%",
+        "13.7%",
+        "13.5%",
+        "12.2%",
+        "10.8%",
+        "8.9%",
+        "7.3%",
+        "6.2%",
+        "5.0%",
+        "4.6%",
+        "4.1%",
+        "8.6%",
+        "4.6%",
+        "4.0%",
+        "4.4%",
+        "4.7%",
+        "4.0%"
+      ],
+      "index": 3,
+      "xaxis": "x",
+      "yaxis": "y",
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 6,
+        "color": "rgb(140, 86, 75)",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "error_x": {
+        "visible": false
+      },
+      "error_y": {
+        "visible": false
+      },
+      "opacity": 1,
+      "visible": true,
+      "hoverinfo": "all",
+      "showlegend": true,
+      "connectgaps": false,
+      "legendgroup": ""
+    },
+    {
+      "uid": "33590a",
+      "fill": "none",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(2, 227, 2)",
+        "shape": "spline",
+        "width": 5,
+        "smoothing": 1
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Las Vegas-Paradise"
+        }
+      },
+      "mode": "lines",
+      "name": "Las Vegas-Paradise",
+      "text": "",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4153:ae187b",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4153:31d02e",
+      "y": [
+        "4.1%",
+        "4.0%",
+        "4.5%",
+        "8.6%",
+        "11.5%",
+        "14.0%",
+        "13.5%",
+        "11.7%",
+        "10.0%",
+        "8.2%",
+        "6.9%",
+        "5.9%",
+        "5.2%",
+        "4.6%",
+        "4.2%",
+        "15.5%",
+        "7.9%",
+        "6.0%",
+        "5.4%",
+        "5.8%",
+        "5.6%"
+      ],
+      "index": 4,
+      "xaxis": "x",
+      "yaxis": "y",
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 6,
+        "color": "rgb(31, 119, 180)",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "error_x": {
+        "visible": false
+      },
+      "error_y": {
+        "visible": false
+      },
+      "opacity": 1,
+      "visible": true,
+      "hoverinfo": "all",
+      "showlegend": true,
+      "connectgaps": false,
+      "legendgroup": ""
+    },
+    {
+      "uid": "f59654",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "rgb(113, 138, 176)",
+        "shape": "hv",
+        "width": 3
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Nevada**"
+        }
+      },
+      "mode": "lines",
+      "name": "Nevada",
+      "text": "",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4153:ae187b",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4153:464ecc",
+      "y": [
+        "4.1%",
+        "4.0%",
+        "4.6%",
+        "6.9%",
+        "11.7%",
+        "13.8%",
+        "13.3%",
+        "11.6%",
+        "10.0%",
+        "8.2%",
+        "6.8%",
+        "5.8%",
+        "5.0%",
+        "4.4%",
+        "4.0%",
+        "13.5%",
+        "6.9%",
+        "5.4%",
+        "5.1%",
+        "5.6%",
+        "5.3%"
+      ],
+      "index": 5,
+      "xaxis": "x",
+      "yaxis": "y",
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 0
+        },
+        "size": 6,
+        "color": "rgb(92, 91, 91)",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "error_x": {
+        "visible": false
+      },
+      "error_y": {
+        "visible": false
+      },
+      "opacity": 1,
+      "visible": true,
+      "hoverinfo": "all",
+      "showlegend": true,
+      "connectgaps": false,
+      "legendgroup": ""
+    },
+    {
+      "uid": "4208cb",
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "California**"
+        }
+      },
+      "name": "California",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:4153:ae187b",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4153:b46711",
+      "y": [
+        "5.4%",
+        "4.9%",
+        "5.4%",
+        "7.2%",
+        "11.3%",
+        "12.4%",
+        "11.8%",
+        "10.5%",
+        "8.9%",
+        "7.5%",
+        "6.2%",
+        "5.4%",
+        "4.8%",
+        "4.2%",
+        "4.0%",
+        "10.2%",
+        "7.0%",
+        "4.2%",
+        "4.8%",
+        "5.3%",
+        "5.5%"
+      ],
+      "marker": {
+        "color": "rgb(44, 160, 44)"
+      },
+      "opacity": 0.75
+    },
+    {
+      "uid": "6bf027",
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "US**"
+        }
+      },
+      "name": "US",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:4153:ae187b",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4153:cb4c73",
+      "y": [
+        "5.1%",
+        "4.6%",
+        "4.6%",
+        "5.8%",
+        "9.3%",
+        "9.6%",
+        "8.9%",
+        "8.1%",
+        "7.4%",
+        "6.2%",
+        "5.3%",
+        "4.9%",
+        "4.4%",
+        "3.9%",
+        "3.7%",
+        "8.1%",
+        "5.3%",
+        "3.5%",
+        "3.6%",
+        "4.0%",
+        "4.3%"
+      ],
+      "marker": {
+        "color": "rgb(214, 205, 39)"
+      },
+      "opacity": 1
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "font": {
+      "size": 12,
+      "color": "#444",
+      "family": "\"Open Sans\", verdana, arial, sans-serif"
+    },
+    "smith": false,
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(68, 68, 68)",
+        "family": "\"Open Sans\", verdana, arial, sans-serif"
+      },
+      "text": "<b>Nevada MSA unemployment rates</b><br><br>\n<b>Source: </b>Nevada Department of Employment, Training and Rehabiltation (DETR), <a href=\"https://nevadaworkforce.com/index\">Labor Market Information; &nbsp;Bureau of Labor Statistics</a>"
+    },
+    "width": 1176.67,
+    "xaxis": {
+      "side": "bottom",
+      "type": "linear",
+      "color": "#444",
+      "dtick": 2,
+      "range": [
+        2004.5,
+        2025.5
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": {
+        "font": {
+          "size": 14,
+          "color": "rgb(68, 68, 68)",
+          "family": "\"Open Sans\", verdana, arial, sans-serif"
+        },
+        "text": "2025 = August (preliminary)"
+      },
+      "anchor": "y",
+      "domain": [
+        0,
+        1
+      ],
+      "mirror": false,
+      "nticks": 0,
+      "showgrid": false,
+      "showline": true,
+      "tickfont": {
+        "size": 12,
+        "color": "#444",
+        "family": "\"Open Sans\", verdana, arial, sans-serif"
+      },
+      "tickmode": "auto",
+      "zeroline": false,
+      "autorange": true,
+      "linecolor": "#444",
+      "linewidth": 1,
+      "rangemode": "normal",
+      "tickangle": "auto",
+      "fixedrange": false,
+      "tickformat": "",
+      "tickprefix": "",
+      "ticksuffix": "",
+      "hoverformat": "",
+      "showexponent": "all",
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "yaxis": {
+      "side": "left",
+      "type": "-",
+      "color": "#444",
+      "dtick": 2,
+      "range": [
+        0,
+        17.543540629724024
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": {
+        "font": {
+          "size": 14,
+          "color": "rgb(0, 0, 0)",
+          "family": "\"Open Sans\", verdana, arial, sans-serif"
+        },
+        "text": "Unemployment rate %"
+      },
+      "anchor": "x",
+      "domain": [
+        0,
+        1
+      ],
+      "nticks": 0,
+      "showgrid": false,
+      "showline": false,
+      "tickfont": {
+        "size": 12,
+        "color": "#444",
+        "family": "\"Open Sans\", verdana, arial, sans-serif"
+      },
+      "tickmode": "auto",
+      "zeroline": false,
+      "autorange": true,
+      "rangemode": "normal",
+      "tickangle": "auto",
+      "fixedrange": false,
+      "tickformat": "",
+      "tickprefix": "",
+      "ticksuffix": "",
+      "hoverformat": "",
+      "showexponent": "all",
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "bargap": 0.2,
+    "height": 660.708,
+    "legend": {
+      "x": 0.4363323500491642,
+      "y": 0.08000000000000007,
+      "font": {
+        "size": 11,
+        "color": "rgb(0, 0, 0)",
+        "family": "\"Open Sans\", verdana, arial, sans-serif"
+      },
+      "bgcolor": "#fff",
+      "xanchor": "center",
+      "yanchor": "auto",
+      "traceorder": "normal",
+      "bordercolor": "#444",
+      "borderwidth": 0,
+      "orientation": "v"
+    },
+    "margin": {
+      "b": 80,
+      "l": 80,
+      "r": 80,
+      "t": 100,
+      "pad": 0,
+      "autoexpand": true
+    },
+    "shapes": [],
+    "barmode": "overlay",
+    "autosize": true,
+    "dragmode": "zoom",
+    "hovermode": "closest",
+    "separators": ".,",
+    "showlegend": true,
+    "annotations": [
+      {
+        "x": 2012.3012848914486,
+        "y": 16.887025595763458,
+        "font": {
+          "color": "rgb(152, 0, 0)"
+        },
+        "text": "<i>[Note: &nbsp;Annual average estimates are calculated from the not seasonally adjusted data series;<br>reported state &amp; US monthly numbers throughout the year are typically seasonally adjusted]</i>",
+        "showarrow": false
+      }
+    ],
+    "bargroupgap": 0,
+    "hidesources": true,
+    "plot_bgcolor": "#fff",
+    "paper_bgcolor": "#fff"
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "data": [
+    {
+      "uid": "68ec06",
+      "name": "LPG, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3956:70cf81",
+      "x": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3956:bbeecc",
+      "y": [
+        " 235 ",
+        " 321 ",
+        " 326 ",
+        " 136 ",
+        " 161 ",
+        " 141 ",
+        " 164 ",
+        " 99 ",
+        " 111 ",
+        " 39 ",
+        " 84 ",
+        " 74 ",
+        "120"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "16c790",
+      "name": "LNG, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3956:70cf81",
+      "x": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3956:e95914",
+      "y": [
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "0",
+        "",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "05b0f9",
+      "name": "Hydrogen, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3956:70cf81",
+      "x": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3956:ed16ff",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        " 2 ",
+        "0",
+        "0"
+      ],
+      "marker": {
+        "color": "rgb(227, 119, 194)"
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "fb521e",
+      "name": "E85, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3956:70cf81",
+      "x": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3956:88bbf9",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        " 2,158 ",
+        " 2,494 ",
+        " 2,686 ",
+        " 2,892 ",
+        " 2,857 ",
+        "3,247"
+      ],
+      "marker": {
+        "color": "rgb(0, 255, 0)"
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "9e3400",
+      "name": "Electric, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3956:70cf81",
+      "x": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3956:df7e66",
+      "y": [
+        "0",
+        "",
+        " 1 ",
+        " 2 ",
+        " 3 ",
+        " 3 ",
+        " 2 ",
+        " 22 ",
+        " 27 ",
+        " 40 ",
+        " 50 ",
+        " 53 ",
+        "54"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "37f10e",
+      "name": "CNG, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3956:70cf81",
+      "x": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3956:967509",
+      "y": [
+        " 1,028 ",
+        " 978 ",
+        " 812 ",
+        " 630 ",
+        " 541 ",
+        " 439 ",
+        " 426 ",
+        " 334 ",
+        " 255 ",
+        " 269 ",
+        " 278 ",
+        " 365 ",
+        "464"
+      ],
+      "marker": {
+        "color": "rgb(0, 255, 255)"
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "6f3e75",
+      "fill": "none",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(0, 0, 255)",
+        "width": 6
+      },
+      "mode": "lines",
+      "name": "Total, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3956:70cf81",
+      "x": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3956:e39b2a",
+      "y": [
+        " 1,263 ",
+        " 1,299 ",
+        " 1,139 ",
+        " 768 ",
+        " 705 ",
+        " 583 ",
+        " 592 ",
+        " 2,613 ",
+        " 2,889 ",
+        " 3,034 ",
+        " 3,304 ",
+        " 3,349 ",
+        "3,885"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "0589da",
+      "line": {
+        "color": "rgb(44, 160, 44)",
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "1,000 gasoline-equivalent gallons consumed, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3956:70cf81",
+      "x": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3956:878dd7",
+      "y": [
+        " 1,500 ",
+        " 1,441 ",
+        " 1,519 ",
+        " 1,111 ",
+        " 1,081 ",
+        " 959 ",
+        " 1,514 ",
+        " 1,589 ",
+        " 1,532 ",
+        " 1,646 ",
+        " 2,193 ",
+        " 3,174 "
+      ],
+      "yaxis": "y2",
+      "autobinx": true,
+      "autobiny": true
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "Alternative fuel fleet-vehicles in use in Nevada*",
+    "width": 1134,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2002.2885627475448,
+        2015.5
+      ],
+      "title": "",
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        4089.4736842105262
+      ],
+      "title": "Number of alternative fuel vehicles",
+      "tickfont": {
+        "color": "rgb(0, 0, 255)"
+      },
+      "autorange": true,
+      "titlefont": {
+        "color": "rgb(0, 0, 255)"
+      }
+    },
+    "height": 623,
+    "legend": {
+      "x": 0.062168674698795265,
+      "y": 0.973305954825462,
+      "font": {
+        "size": 12,
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    "yaxis2": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        812.3525051124744,
+        3320.6474948875257
+      ],
+      "title": "Thousand gasoline-equivalent gallons",
+      "anchor": "x",
+      "tickfont": {
+        "color": "rgb(44, 160, 44)"
+      },
+      "autorange": true,
+      "titlefont": {
+        "color": "rgb(44, 160, 44)"
+      },
+      "overlaying": "y"
+    },
+    "barmode": "stack",
+    "autosize": true,
+    "titlefont": {
+      "size": 14,
+      "color": "rgb(152, 0, 0)"
+    },
+    "breakpoints": []
+  }
+}

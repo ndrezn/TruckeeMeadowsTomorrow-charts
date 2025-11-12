@@ -1,0 +1,638 @@
+{
+  "data": [
+    {
+      "uid": "b58ae5",
+      "name": "Ate breakfast 0 times past week",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3944:166a49",
+      "x": [
+        "",
+        "Survey year",
+        "",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3944:c6cb60",
+      "y": [
+        "Ate breakfast (past week)",
+        "0 times",
+        "Washoe",
+        "13.6%",
+        "14.7%",
+        "18.5%"
+      ]
+    },
+    {
+      "uid": "6a458b",
+      "name": "Ate breakfast past 7 days",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3944:166a49",
+      "x": [
+        "",
+        "Survey year",
+        "",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3944:cfb2c9",
+      "y": [
+        "",
+        "7 times",
+        "Washoe",
+        "36.8%",
+        "38.9%",
+        "32.6%"
+      ],
+      "marker": {
+        "color": "rgb(188, 189, 34)"
+      }
+    },
+    {
+      "uid": "667bd3",
+      "line": {
+        "shape": "hvh",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Eat fruit/drink 100% juice 0 times (past week)",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3944:166a49",
+      "x": [
+        "",
+        "Survey year",
+        "",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3944:0ec7d9",
+      "y": [
+        "Eat fruit/drink 100% juice (past week)",
+        "0 times/day",
+        "Washoe",
+        "5.2%",
+        "4.3%",
+        "4.6%"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "2166ab",
+      "line": {
+        "shape": "hvh",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Eat fruit/drink 100% juice \u22653 times/day (past week)",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3944:166a49",
+      "x": [
+        "",
+        "Survey year",
+        "",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3944:3284d2",
+      "y": [
+        "",
+        "\u22653 times/day",
+        "Washoe",
+        "18.4%",
+        "19.6%",
+        "17.7%"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "0b6421",
+      "line": {
+        "dash": "dot",
+        "shape": "linear",
+        "width": 8
+      },
+      "mode": "lines+markers",
+      "name": "Eat vegetables 0 times (past week)",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3944:166a49",
+      "x": [
+        "",
+        "Survey year",
+        "",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3944:160fc4",
+      "y": [
+        "Eat vegetables (past week)",
+        "0 times/day",
+        "Washoe",
+        "6.1%",
+        "5.5%",
+        "12.6%"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 10
+      }
+    },
+    {
+      "uid": "7268e2",
+      "line": {
+        "dash": "dot",
+        "shape": "hvh",
+        "width": 8
+      },
+      "mode": "lines+markers",
+      "name": "Eat vegetables \u22653 times/day (past week)",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3944:166a49",
+      "x": [
+        "",
+        "Survey year",
+        "",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3944:7578d5",
+      "y": [
+        "",
+        "\u22653 times/day",
+        "Washoe",
+        "12.9%",
+        "14.6%",
+        "7.8%"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 10
+      }
+    },
+    {
+      "uid": "2a05c1",
+      "name": "Ate breakfast 0 times past week",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3944:487e00",
+      "x": [
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3944:6809be",
+      "y": [
+        "17.3%",
+        "16.7%",
+        "16.5%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(31, 119, 180)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "181929",
+      "name": "Ate breakfast past 7 days",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3944:487e00",
+      "x": [
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3944:b3ec09",
+      "y": [
+        "34.5%",
+        "34.1%",
+        "32.7%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(188, 189, 34)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "105504",
+      "line": {
+        "color": "rgb(44, 160, 44)",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Eat fruit/drink 100% juice 0 times (past week)",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3944:487e00",
+      "x": [
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3944:84c469",
+      "y": [
+        "5.6%",
+        "5.0%",
+        "6.6%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "2dae9a",
+      "line": {
+        "color": "rgb(214, 39, 40)",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Eat fruit/drink 100% juice \u22653 times/day (past week)",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3944:487e00",
+      "x": [
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3944:c3bef6",
+      "y": [
+        "18.0%",
+        "17.3%",
+        "16.4%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "af2731",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(148, 103, 189)",
+        "shape": "spline",
+        "width": 8
+      },
+      "mode": "lines+markers",
+      "name": "Eat vegetables 0 times (past week)",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3944:487e00",
+      "x": [
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3944:2233fe",
+      "y": [
+        "6.4%",
+        "6.7%",
+        "12.2%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 10
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "2b5a6e",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(140, 86, 75)",
+        "width": 8
+      },
+      "mode": "lines+markers",
+      "name": "Eat vegetables \u22653 times/day (past week)",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3944:487e00",
+      "x": [
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3944:8fdc0d",
+      "y": [
+        "12.1%",
+        "11.5%",
+        "6.9%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 10
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "0947ca",
+      "line": {
+        "color": "rgb(3, 227, 250)",
+        "width": 15
+      },
+      "name": "Ate breakfast 0 times past week\u2013middle school",
+      "type": "box",
+      "xsrc": "TruckeeMeadowsTomorrow:3944:140da8",
+      "x": [
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3944:c86774",
+      "y": [
+        "12.8%",
+        "11.2%"
+      ],
+      "yaxis": "y3",
+      "marker": {
+        "line": {
+          "color": "rgb(0, 0, 0)",
+          "width": 3
+        },
+        "size": 8,
+        "color": "rgb(3, 227, 250)"
+      },
+      "pointpos": 0
+    },
+    {
+      "uid": "e1cbe6",
+      "line": {
+        "color": "rgb(254, 217, 6)",
+        "width": 15
+      },
+      "name": "Ate breakfast past 7 days\u2013middle school",
+      "type": "box",
+      "xsrc": "TruckeeMeadowsTomorrow:3944:140da8",
+      "x": [
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3944:216a45",
+      "y": [
+        "46.8%",
+        "47.3%"
+      ],
+      "yaxis": "y3",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8,
+        "color": "rgb(254, 217, 6)"
+      }
+    },
+    {
+      "uid": "6a9733",
+      "line": {
+        "color": "rgb(3, 227, 250)",
+        "width": 15
+      },
+      "name": "Ate breakfast 0 times past week\u2013middle school",
+      "type": "box",
+      "xsrc": "TruckeeMeadowsTomorrow:3944:140da8",
+      "x": [
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3944:f2c02c",
+      "y": [
+        "14.4%",
+        "11.1%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y4",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "color": "rgb(3, 227, 250)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "f2c666",
+      "line": {
+        "color": "rgb(255, 217, 102)",
+        "width": 15
+      },
+      "name": "Ate breakfast past 7 days\u2013middle school",
+      "type": "box",
+      "xsrc": "TruckeeMeadowsTomorrow:3944:140da8",
+      "x": [
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3944:b87fbc",
+      "y": [
+        "43.3%",
+        "48.6%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y4",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "color": "rgb(254, 217, 6)"
+      },
+      "fillcolor": "rgb(254, 217, 6)",
+      "showlegend": false
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "x": 0.25,
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "Youth diet behaviors"
+    },
+    "width": 1403,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2012,
+        2018
+      ],
+      "tick0": 1,
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": ""
+      },
+      "showline": true,
+      "tickmode": "linear",
+      "zeroline": true,
+      "autorange": true
+    },
+    "yaxis": {
+      "range": [
+        0,
+        40.94736842105263
+      ],
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": "WCSD high school YRBS %"
+      },
+      "domain": [
+        0,
+        0.45
+      ],
+      "zeroline": true,
+      "autorange": true
+    },
+    "bargap": 0.5,
+    "boxgap": 0.5,
+    "height": 813,
+    "legend": {
+      "font": {
+        "size": 11
+      },
+      "yanchor": "bottom"
+    },
+    "xaxis2": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2012,
+        2018
+      ],
+      "tick0": 1,
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": ""
+      },
+      "anchor": "y2",
+      "domain": [
+        0,
+        1
+      ],
+      "showline": true,
+      "tickmode": "linear",
+      "zeroline": true,
+      "autorange": true
+    },
+    "yaxis2": {
+      "range": [
+        0,
+        36.31578947368421
+      ],
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": "Nevada high school YRBS %"
+      },
+      "anchor": "x2",
+      "domain": [
+        0.55,
+        1
+      ],
+      "autorange": true
+    },
+    "yaxis3": {
+      "side": "right",
+      "range": [
+        9.194444444444445,
+        49.30555555555555
+      ],
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": "Middle school %"
+      },
+      "anchor": "x",
+      "autorange": true,
+      "overlaying": "y"
+    },
+    "yaxis4": {
+      "side": "right",
+      "range": [
+        9.016666666666666,
+        50.68333333333334
+      ],
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": "Middle school %"
+      },
+      "anchor": "x2",
+      "autorange": true,
+      "overlaying": "y2"
+    },
+    "autosize": true,
+    "annotations": [
+      {
+        "font": {
+          "size": 14,
+          "color": "rgb(0, 0, 0)"
+        },
+        "text": "Nevada",
+        "xref": "x2",
+        "yref": "y2",
+        "bgcolor": "rgb(238, 238, 238)",
+        "xanchor": "center",
+        "yanchor": "bottom",
+        "showarrow": false
+      },
+      {
+        "font": {
+          "size": 14,
+          "color": "rgb(0, 0, 0)"
+        },
+        "text": "WCSD",
+        "bgcolor": "rgb(238, 238, 238)",
+        "yanchor": "bottom",
+        "showarrow": false
+      }
+    ],
+    "boxgroupgap": 0.3
+  }
+}

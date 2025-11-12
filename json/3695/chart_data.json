@@ -1,0 +1,271 @@
+{
+  "data": [
+    {
+      "uid": "88171d",
+      "name": "Carson City",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3911:fa5f1e",
+      "x": [
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3911:b76aca",
+      "y": [
+        "93%",
+        "97%",
+        "96%",
+        "96%",
+        "92%",
+        "91%"
+      ],
+      "opacity": 0.91
+    },
+    {
+      "uid": "9769b1",
+      "line": {
+        "dash": "dash",
+        "shape": "spline",
+        "width": 4
+      },
+      "mode": "lines+markers",
+      "name": "Churchill",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3911:fa5f1e",
+      "x": [
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3911:0f3db9",
+      "y": [
+        "53%",
+        "82%",
+        "75%",
+        "75%",
+        "88%",
+        "84%"
+      ]
+    },
+    {
+      "uid": "82a728",
+      "name": "Clark",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3911:fa5f1e",
+      "x": [
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3911:38b842",
+      "y": [
+        "91%",
+        "90%",
+        "91%",
+        "91%",
+        "96%",
+        "73%"
+      ],
+      "marker": {
+        "color": "rgb(37, 133, 37)"
+      },
+      "opacity": 0.91
+    },
+    {
+      "uid": "021c8a",
+      "line": {
+        "shape": "spline",
+        "width": 4
+      },
+      "mode": "lines+markers",
+      "name": "Douglas",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3911:fa5f1e",
+      "x": [
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3911:928c0c",
+      "y": [
+        "88%",
+        "89%",
+        "80%",
+        "80%",
+        "94%",
+        "87%"
+      ]
+    },
+    {
+      "uid": "18fda3",
+      "line": {
+        "dash": "longdash",
+        "shape": "spline",
+        "width": 4
+      },
+      "mode": "lines+markers",
+      "name": "Storey",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3911:fa5f1e",
+      "x": [
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3911:a6d42a",
+      "y": [
+        "9%",
+        "1%",
+        "1%",
+        "1%",
+        "24%",
+        "24%"
+      ],
+      "marker": {
+        "color": "rgb(67, 28, 226)"
+      }
+    },
+    {
+      "uid": "2279a2",
+      "name": "Washoe",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3911:fa5f1e",
+      "x": [
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3911:dc7391",
+      "y": [
+        "89%",
+        "92%",
+        "91%",
+        "91%",
+        "91%",
+        "84%"
+      ],
+      "marker": {
+        "color": "rgb(67, 246, 61)"
+      },
+      "opacity": 0.91
+    },
+    {
+      "uid": "f517b7",
+      "name": "Nevada",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3911:fa5f1e",
+      "x": [
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3911:f5e470",
+      "y": [
+        "87%",
+        "87%",
+        "88%",
+        "88%",
+        "92%",
+        "73%"
+      ],
+      "marker": {
+        "color": "rgb(136, 138, 139)"
+      },
+      "opacity": 0.91
+    },
+    {
+      "uid": "6d1809",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(0, 0, 0)",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "US top performers",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3911:fa5f1e",
+      "x": [
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3911:b2c3a6",
+      "y": [
+        "85%",
+        "92%",
+        "91%",
+        "91%",
+        "91%",
+        "91%"
+      ]
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "Adequate access to parks & recreational facilities for physical activity (County Health Rankings)*"
+    },
+    "width": 1443,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 1,
+      "range": [
+        2013.5,
+        2019.5
+      ],
+      "title": {
+        "text": "County Health Rankings year"
+      },
+      "showgrid": false,
+      "showline": false,
+      "tickmode": "linear",
+      "zeroline": false,
+      "autorange": true,
+      "zerolinewidth": 1
+    },
+    "yaxis": {
+      "type": "-",
+      "range": [
+        -5.074290728283125,
+        102.37233109096228
+      ],
+      "title": {
+        "text": "% of population"
+      },
+      "zeroline": false,
+      "autorange": true
+    },
+    "height": 754,
+    "barmode": "group",
+    "autosize": true
+  }
+}

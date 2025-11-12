@@ -1,0 +1,101 @@
+{
+  "data": [
+    {
+      "uid": "bf393e",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Bullied on school property in the past 12 months, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3932:1c3429",
+      "x": [
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3932:d8250e",
+      "y": [
+        "21.6",
+        "20.8",
+        "19.8"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "619b19",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Electronically bullied in the past 12 months, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3932:1c3429",
+      "x": [
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3932:761543",
+      "y": [
+        "16.9",
+        "16.8",
+        "18.4"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "WCSD high school YRBS reported bullying behaviors",
+    "width": 1184,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2012.7534006143046,
+        2017.2465993856954
+      ],
+      "tick0": 1,
+      "showline": true,
+      "tickmode": "linear",
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        16.46973527307417,
+        21.93026472692583
+      ],
+      "title": "YRBS %",
+      "autorange": true
+    },
+    "height": 657,
+    "legend": {
+      "font": {
+        "size": 10
+      },
+      "xanchor": "auto"
+    },
+    "autosize": true,
+    "titlefont": {
+      "size": 14,
+      "color": "rgb(152, 0, 0)"
+    },
+    "breakpoints": []
+  }
+}

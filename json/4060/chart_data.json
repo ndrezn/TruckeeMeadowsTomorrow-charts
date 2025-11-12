@@ -1,0 +1,376 @@
+{
+  "data": [
+    {
+      "meta": {
+        "columnNames": {
+          "x": "CHR year",
+          "y": "Nevada"
+        }
+      },
+      "mode": "lines",
+      "name": "Nevada",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:4059:9fa0b0",
+      "x": [
+        "",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4059:6a3aae",
+      "y": [
+        "Nevada",
+        "12.5",
+        "12.5",
+        "5.9",
+        "5.9",
+        "6.5",
+        "20",
+        "19",
+        "19",
+        "19",
+        "19",
+        "15"
+      ],
+      "header": {
+        "meta": {
+          "columnNames": {
+            "values": "CHR year"
+          }
+        },
+        "valuessrc": "TruckeeMeadowsTomorrow:4059:9fa0b0",
+        "values": [
+          "",
+          "2015",
+          "2016",
+          "2017",
+          "2018",
+          "2019",
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ]
+      },
+      "marker": {
+        "color": "rgb(212, 221, 227)"
+      },
+      "orientation": "v"
+    },
+    {
+      "line": {
+        "dash": "dash",
+        "color": "rgb(255, 129, 17)",
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "CHR year",
+          "y": "Clark"
+        }
+      },
+      "mode": "lines",
+      "name": "Clark",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4059:9fa0b0",
+      "x": [
+        "",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4059:7286c0",
+      "y": [
+        "Clark",
+        "12.0",
+        "12.0",
+        "8.9",
+        "8.9",
+        "9.4",
+        "20",
+        "20",
+        "20",
+        "20",
+        "20",
+        "17"
+      ],
+      "connectgaps": true,
+      "orientation": "v"
+    },
+    {
+      "line": {
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "CHR year",
+          "y": "Douglas"
+        }
+      },
+      "mode": "lines",
+      "name": "Douglas",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4059:9fa0b0",
+      "x": [
+        "",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4059:350e19",
+      "y": [
+        "Douglas",
+        "10.6",
+        "10.6",
+        "6.0",
+        "6.0",
+        "7.5",
+        "16",
+        "15",
+        "16",
+        "15",
+        "15",
+        "13"
+      ],
+      "stackgroup": null
+    },
+    {
+      "line": {
+        "dash": "longdash",
+        "color": "rgb(234, 83, 84)",
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "CHR year",
+          "y": "Storey"
+        }
+      },
+      "mode": "lines",
+      "name": "Storey",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4059:9fa0b0",
+      "x": [
+        "",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4059:4405a1",
+      "y": [
+        "Storey",
+        "11.3",
+        "11.3",
+        "6.3",
+        "6.3",
+        "7.5",
+        "9",
+        "7",
+        "8",
+        "7",
+        "10",
+        "14"
+      ],
+      "stackgroup": null
+    },
+    {
+      "line": {
+        "color": "rgb(77, 138, 222)",
+        "shape": "spline",
+        "width": 5
+      },
+      "meta": {
+        "columnNames": {
+          "x": "CHR year",
+          "y": "Washoe"
+        }
+      },
+      "mode": "markers+lines",
+      "name": "Washoe",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4059:9fa0b0",
+      "x": [
+        "",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4059:33df5a",
+      "y": [
+        "Washoe",
+        "11.6",
+        "11.6",
+        "7.0",
+        "7.0",
+        "8.4",
+        "20",
+        "19",
+        "18",
+        "17",
+        "17",
+        "13"
+      ],
+      "marker": {
+        "line": {
+          "width": 5
+        },
+        "size": 4,
+        "color": "rgb(57, 129, 226)",
+        "maxdisplayed": 0
+      },
+      "stackgroup": null
+    },
+    {
+      "line": {
+        "dash": "dot",
+        "color": "rgb(166, 75, 58)",
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "CHR year",
+          "y": "Carson City"
+        }
+      },
+      "mode": "lines",
+      "name": "Carson City",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4059:9fa0b0",
+      "x": [
+        "",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4059:81d045",
+      "y": [
+        "Carson City",
+        "10.6",
+        "10.6",
+        "6.1",
+        "6.1",
+        "7.2",
+        "18",
+        "18",
+        "17",
+        "18",
+        "17",
+        "12"
+      ],
+      "stackgroup": null
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(68, 68, 68)"
+      },
+      "text": "<b>Severe housing problems (County Health Rankings)</b><br><br>\n<b>Source:</b> <a href=\"https://www.countyhealthrankings.org/app/nevada/2020/measure/factors/136/data\">County Health Rankings</a> (CHR), from Comprehensive Housing Affordability Strategy (CHAS) data"
+    },
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2013.4464309926057,
+        2025.6770522480704
+      ],
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": "CHR report year"
+      },
+      "nticks": 5,
+      "tickmode": "linear",
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        21.532743538097208
+      ],
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": "Percentage"
+      },
+      "autorange": true
+    },
+    "bargap": 0.30000000000000004,
+    "images": [],
+    "legend": {
+      "x": 0.2593086550865899,
+      "y": 0.8988028197008043
+    },
+    "shapes": [],
+    "autosize": true,
+    "annotations": [
+      {
+        "x": 2016.656969072165,
+        "y": 20.855613238157044,
+        "font": {
+          "color": "rgb(152, 0, 0)"
+        },
+        "text": "<i>Rankings use 5-year average CHAS data, lagged 4 years</i>",
+        "showarrow": false
+      }
+    ]
+  }
+}

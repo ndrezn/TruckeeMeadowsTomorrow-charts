@@ -1,0 +1,224 @@
+{
+  "data": [
+    {
+      "uid": "6e265f",
+      "fill": "none",
+      "line": {
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Washoe County population"
+        }
+      },
+      "mode": "lines",
+      "name": "Washoe County population<br>",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3840:7d0926",
+      "x": [
+        "Year",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3840:b7df76",
+      "y": [
+        "Washoe County Population",
+        "\u00a0\t373,233\u00a0",
+        "\u00a0\t383,453\u00a0",
+        "\u00a0\t396,844\u00a0",
+        "\u00a0\t409,085\u00a0",
+        "\u00a0\t418,061\u00a0",
+        "\u00a0\t423,833\u00a0",
+        "\u00a0\t416,632\u00a0",
+        "\u00a0\t417,379\u00a0",
+        "\u00a0\t421,593\u00a0",
+        "\u00a0\t427,704\u00a0",
+        "\u00a0\t432,324\u00a0",
+        "\u00a0\t436,797\u00a0",
+        "\u00a0\t441,946\u00a0",
+        "\u00a0\t448,316\u00a0",
+        "\u00a0\t451,923\u00a0",
+        "\u00a0\t460,237\u00a0",
+        "\u00a0\t469,801\u00a0",
+        "\u00a0\t473,606\u00a0",
+        "\u00a0\t485,113\u00a0",
+        "\u00a0\t501,635\u00a0",
+        "\u00a0\t508,097\u00a0",
+        "\u00a0\t513,854\u00a0"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 8,
+        "color": "rgb(60, 147, 255)"
+      },
+      "orientation": "v"
+    },
+    {
+      "uid": "13484c",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "rgb(2, 222, 17)",
+        "shape": "spline",
+        "width": 7
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "TMWA production (af)"
+        }
+      },
+      "mode": "lines",
+      "name": "TMWA production (af)",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3840:7d0926",
+      "x": [
+        "Year",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3840:1fab97",
+      "y": [
+        "TMWA Production (af)",
+        "\u00a0\t79,817\u00a0",
+        "\u00a0\t83,603\u00a0",
+        "\u00a0\t79,312\u00a0",
+        "\u00a0\t79,421\u00a0",
+        "\u00a0\t82,798\u00a0",
+        "\u00a0\t76,112\u00a0",
+        "\u00a0\t71,910\u00a0",
+        "\u00a0\t69,100\u00a0",
+        "\u00a0\t68,579\u00a0",
+        "\u00a0\t74,837\u00a0",
+        "\u00a0\t73,274\u00a0",
+        "\u00a0\t72,945\u00a0",
+        "\u00a0\t78,840\u00a0",
+        "\u00a0\t79,796\u00a0",
+        "\u00a0\t80,722\u00a0",
+        "\u00a0\t82,988\u00a0",
+        "\u00a0\t81,625\u00a0",
+        "\u00a0\t86,006\u00a0",
+        "\u00a0\t85,421\u00a0",
+        "\u00a0\t87,604\u00a0",
+        "\u00a0\t80,781\u00a0",
+        "\u00a0\t88,440\u00a0"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 6,
+        "color": "rgb(247, 182, 124)"
+      }
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(68, 68, 68)"
+      },
+      "text": "<b>Truckee Meadows Water Authority (TMWA) prodution &amp; population growth</b><br><br>\n<b>Source:</b> Truckee Meadows Water Authority (TMWA),<a href=\"https://tmwa.com/wp-content/uploads/2020/11/TMWA-WRP-2020-Final.pdf\"> Water Resources Plan</a>"
+    },
+    "width": 991,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 0,
+      "range": [
+        2002.5,
+        2024.5
+      ],
+      "tick0": 0,
+      "title": {
+        "text": "<br>"
+      },
+      "tickmode": "auto",
+      "autorange": true,
+      "gridwidth": 1
+    },
+    "yaxis": {
+      "range": [
+        0,
+        540898.947368421
+      ],
+      "title": {
+        "text": "Population"
+      },
+      "autorange": true
+    },
+    "bargap": 0.30000000000000004,
+    "height": 668,
+    "legend": {
+      "x": 0.3576865222623345,
+      "y": 0.7012054001928639,
+      "font": {
+        "size": 12
+      }
+    },
+    "yaxis2": {
+      "side": "right",
+      "range": [
+        67475.61111111111,
+        89543.38888888889
+      ],
+      "title": {
+        "font": {
+          "color": "rgb(2, 222, 17)"
+        },
+        "text": "<b>TMWA production (acre feet)</b>"
+      },
+      "autorange": true,
+      "overlaying": "y"
+    },
+    "barmode": "group",
+    "autosize": true,
+    "showlegend": true,
+    "annotations": []
+  }
+}

@@ -1,0 +1,440 @@
+{
+  "data": [
+    {
+      "uid": "cd5cbd",
+      "line": {
+        "shape": "hvh",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "School year-ending",
+          "y": " Total CIT students, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": " Total CIT students",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3964:e5b70a",
+      "x": [
+        "",
+        "School-year ending June",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3964:96b4a6",
+      "y": [
+        "",
+        " CIT students ",
+        " 1,856 ",
+        " 2,402 ",
+        " 2,885 ",
+        " 3,383 ",
+        "3,532",
+        "3,481",
+        "3,347",
+        "2,814",
+        "2,786",
+        "2,562"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "686b5e",
+      "meta": {
+        "columnNames": {
+          "x": "School year-ending",
+          "y": "CIT-elementary students, y"
+        }
+      },
+      "name": "CIT-elementary students",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3964:e5b70a",
+      "x": [
+        "",
+        "School-year ending June",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3964:da1706",
+      "y": [
+        "",
+        "Sub-total",
+        " 1,262 ",
+        " 1,621 ",
+        " 1,865 ",
+        " 2,227 ",
+        "2,289",
+        "2,240",
+        "2,096",
+        "1,740",
+        "1,768",
+        "1,558"
+      ]
+    },
+    {
+      "uid": "d87c31",
+      "meta": {
+        "columnNames": {
+          "x": "School year-ending",
+          "y": "CIT-middle school students, y"
+        }
+      },
+      "name": "CIT-middle school students",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3964:e5b70a",
+      "x": [
+        "",
+        "School-year ending June",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3964:5caf21",
+      "y": [
+        "",
+        "Sub-total",
+        " 250 ",
+        " 318 ",
+        " 355 ",
+        " 382 ",
+        "\u00a0\t441\u00a0",
+        "\u00a0\t443\u00a0",
+        "\u00a0\t442\u00a0",
+        "\u00a0\t430\u00a0",
+        "\u00a0\t370\u00a0",
+        "348"
+      ]
+    },
+    {
+      "uid": "94f358",
+      "meta": {
+        "columnNames": {
+          "x": "School year-ending",
+          "y": "CIT-high school students, y"
+        }
+      },
+      "name": "CIT-high school students",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3964:e5b70a",
+      "x": [
+        "",
+        "School-year ending June",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3964:0a8799",
+      "y": [
+        "",
+        "Sub-total",
+        " 344 ",
+        " 463 ",
+        " 665 ",
+        " 785 ",
+        "\u00a0\t801\u00a0",
+        "\u00a0\t798\u00a0",
+        "\u00a0\t809\u00a0",
+        "\u00a0\t644\u00a0",
+        "\u00a0\t648\u00a0",
+        "656"
+      ]
+    },
+    {
+      "uid": "bd8054",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(31, 119, 180)",
+        "shape": "spline",
+        "width": 8
+      },
+      "meta": {
+        "columnNames": {
+          "x": "School year-ending",
+          "y": "CIT % of WCSD enrollment, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "CIT % of WCSD enrollment",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3964:e5b70a",
+      "x": [
+        "",
+        "School-year ending June",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3964:77d294",
+      "y": [
+        "",
+        "% CIT",
+        "3.0%",
+        "3.9%",
+        "4.6%",
+        "5.4%",
+        "5.6%",
+        "5.5%",
+        "5.2%",
+        "4.4%",
+        "4.3%",
+        "4.0%"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 6,
+        "symbol": "square"
+      }
+    },
+    {
+      "uid": "36d758",
+      "line": {
+        "color": "rgb(255, 127, 14)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "School year-ending",
+          "y": "CIT-elementary %, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "CIT-elementary %",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3964:e5b70a",
+      "x": [
+        "",
+        "School-year ending June",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3964:b1d45d",
+      "y": [
+        "",
+        "%",
+        "68%",
+        "67%",
+        "65%",
+        "66%",
+        "65%",
+        "64%",
+        "63%",
+        "62%",
+        "63%",
+        "61%"
+      ],
+      "yaxis": "y2"
+    },
+    {
+      "uid": "834a01",
+      "line": {
+        "color": "rgb(44, 160, 44)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "School year-ending",
+          "y": "CIT-middle school %, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "CIT-middle school %",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3964:e5b70a",
+      "x": [
+        "",
+        "School-year ending June",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3964:116acc",
+      "y": [
+        "",
+        "%",
+        "13%",
+        "13%",
+        "12%",
+        "11%",
+        "12%",
+        "13%",
+        "13%",
+        "15%",
+        "13%",
+        "14%"
+      ],
+      "yaxis": "y2"
+    },
+    {
+      "uid": "3ce475",
+      "line": {
+        "color": "rgb(214, 39, 40)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "School year-ending",
+          "y": "CIT-high school %, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "CIT-high school %",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3964:e5b70a",
+      "x": [
+        "",
+        "School-year ending June",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3964:fae2cb",
+      "y": [
+        "",
+        "%",
+        "19%",
+        "19%",
+        "23%",
+        "23%",
+        "23%",
+        "23%",
+        "24%",
+        "23%",
+        "23%",
+        "26"
+      ],
+      "yaxis": "y2"
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "WCSD Children in Transition (CIT) students experiencing homelessness*"
+    },
+    "width": 1107,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2010.4319079395343,
+        2020.5680920604657
+      ],
+      "title": {
+        "text": "School year-ending"
+      },
+      "tickmode": "linear",
+      "autorange": true
+    },
+    "yaxis": {
+      "range": [
+        0,
+        3761.116019530342
+      ],
+      "title": {
+        "text": "CIT student #"
+      },
+      "autorange": true
+    },
+    "height": 673,
+    "legend": {
+      "x": 0.011180414742065754,
+      "y": 0.9147691152694627,
+      "font": {
+        "size": 12,
+        "color": "rgb(0, 0, 0)"
+      },
+      "xanchor": "right",
+      "yanchor": "bottom"
+    },
+    "yaxis2": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        -1.2803311094637992,
+        72.2803311094638
+      ],
+      "title": {
+        "text": "CIT %"
+      },
+      "anchor": "x",
+      "zeroline": false,
+      "autorange": true,
+      "overlaying": "y"
+    },
+    "barmode": "stack",
+    "autosize": true
+  }
+}

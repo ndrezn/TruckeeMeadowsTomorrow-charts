@@ -1,0 +1,227 @@
+{
+  "data": [
+    {
+      "uid": "fd9458",
+      "line": {
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Chlorine (ppm)"
+        }
+      },
+      "mode": "lines",
+      "name": "Chlorine (ppm)",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3839:d5a1a6",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3839:054f73",
+      "y": [
+        "0.79",
+        "1.2",
+        "1.2",
+        "0.8",
+        "0.7",
+        "0.73",
+        "0.88",
+        "0.91",
+        "1.28",
+        "0.96",
+        "0.78",
+        "0.84",
+        "0.88",
+        "0.97",
+        "1.02"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "694da8",
+      "line": {
+        "color": "rgb(188, 189, 34)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Haloacetic Acids (ppb), y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Haloacetic Acids (ppb)",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3839:d5a1a6",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3839:46a0a3",
+      "y": [
+        "32.5",
+        "44.8",
+        "20.4",
+        "28.4",
+        "35.6",
+        "30.4",
+        "22",
+        "47",
+        "37",
+        "26",
+        "41",
+        "27",
+        "25",
+        "29",
+        "24"
+      ]
+    },
+    {
+      "uid": "d9f58f",
+      "line": {
+        "dash": "dot",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Total Trihalomethanes (ppb), y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Total Trihalomethanes (ppb)",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3839:d5a1a6",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3839:b98cb2",
+      "y": [
+        "37.7",
+        "49.8",
+        "39.6",
+        "35.8",
+        "44.4",
+        "30.9",
+        "28",
+        "46.5",
+        "56",
+        "47",
+        "67",
+        "49",
+        "33",
+        "34",
+        "37"
+      ]
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(68, 68, 68)"
+      },
+      "text": "<b>Disinfectants &amp; disinfection by-products necessary to control microbial contaminants</b><br><br>\n<b>Source:</b> Truckee Meadows Water Authority (TMWA), <a href=\"http://quality.tmwa.com/\">water quality data reports</a>"
+    },
+    "width": 1184,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2005.5,
+        2020.5
+      ],
+      "tick0": 0,
+      "title": {
+        "text": "<br>"
+      },
+      "tickmode": "linear",
+      "autorange": false
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        -4.450706604740125,
+        98.56342549006239
+      ],
+      "title": {
+        "text": "Parts per million/billion"
+      },
+      "autorange": true
+    },
+    "height": 657,
+    "legend": {
+      "x": 0.34268663194444443,
+      "y": 0.7323714391416943,
+      "font": {
+        "size": 10
+      }
+    },
+    "autosize": true,
+    "showlegend": true,
+    "annotations": [
+      {
+        "x": 2011.284619140625,
+        "y": 84.09393523775259,
+        "font": {
+          "color": "rgb(152, 0, 0)"
+        },
+        "text": "<b>MCL=max contaminant level; TT=treatment technique; or MRDL=max residual disinfection level</b><br><i>Chlorine=4 (Additive used to control microbes)<br>\nHaloacetic Acids=60 (By-product of chlorination)<br>\nTotal Trihalomethanes=80 (By-product of disinfection)</i>",
+        "xanchor": "auto",
+        "yanchor": "bottom",
+        "showarrow": false
+      }
+    ]
+  }
+}

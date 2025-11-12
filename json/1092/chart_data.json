@@ -1,0 +1,223 @@
+{
+  "data": [
+    {
+      "uid": "32ab3c",
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Artown"
+        }
+      },
+      "name": "Artown",
+      "type": "bar"
+    },
+    {
+      "uid": "e56f19",
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Nevada Humanities"
+        }
+      },
+      "name": "Nevada Humanities",
+      "type": "bar"
+    },
+    {
+      "uid": "9075cc",
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Nevada Museum of Art"
+        }
+      },
+      "name": "Nevada Museum of Art",
+      "type": "bar"
+    },
+    {
+      "uid": "c247be",
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Nevada Opera Association"
+        }
+      },
+      "name": "Nevada Opera Association",
+      "type": "bar"
+    },
+    {
+      "uid": "14d6a0",
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Nevada Shakespeare Company"
+        }
+      },
+      "name": "Nevada Shakespeare Company",
+      "type": "bar"
+    },
+    {
+      "uid": "f0bf6f",
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Reno Chamber Orchestra"
+        }
+      },
+      "name": "Reno Chamber Orchestra",
+      "type": "bar"
+    },
+    {
+      "uid": "ce12e7",
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Sierra Nevada Ballet"
+        }
+      },
+      "name": "Sierra Nevada Ballet",
+      "type": "bar"
+    },
+    {
+      "uid": "ff3ae8",
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Capital City Arts Initiative"
+        }
+      },
+      "name": "Capital City Arts Initiative",
+      "type": "bar"
+    },
+    {
+      "uid": "6783c4",
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Churchill Arts Council"
+        }
+      },
+      "name": "Churchill Arts Council",
+      "type": "bar",
+      "opacity": 0.4
+    },
+    {
+      "uid": "9f8c1a",
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Washoe County"
+        }
+      },
+      "name": "Washoe County",
+      "type": "bar"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "City of Sparks"
+        }
+      },
+      "name": "City of Sparks",
+      "type": "bar",
+      "marker": {
+        "line": {
+          "width": 1.5
+        },
+        "color": "rgb(71, 179, 255)"
+      }
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "City of Reno"
+        }
+      },
+      "name": "City of Reno",
+      "type": "bar",
+      "marker": {
+        "line": {
+          "width": 1.5
+        },
+        "color": "rgb(255, 161, 78)"
+      },
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Carson City Symphony"
+        }
+      },
+      "name": "Carson City Symphony",
+      "type": "bar",
+      "marker": {
+        "color": "rgb(21, 245, 21)"
+      },
+      "orientation": "v"
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(68, 68, 68)"
+      },
+      "text": "<b>National Endowment for the Arts northern Nevada recipients (excluding Nevada Arts Council)<br><br>\nSource:</b> <a href=\"https://www.arts.gov/grants/recent-grants\">National Endowment for the Arts</a>, recent grants search"
+    },
+    "width": 1534,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2001.5,
+        2021.5
+      ],
+      "autorange": true
+    },
+    "yaxis": {
+      "range": [
+        0,
+        536842.1052631579
+      ],
+      "title": {
+        "font": {
+          "color": "rgb(44, 160, 44)"
+        },
+        "text": "Grant dollar awards"
+      },
+      "anchor": "x",
+      "domain": [
+        0,
+        1
+      ],
+      "position": 0,
+      "tickfont": {
+        "color": "rgb(44, 160, 44)"
+      },
+      "autorange": true
+    },
+    "height": 766,
+    "legend": {
+      "x": 0.044880785413744725,
+      "y": 0.8867809407592426
+    },
+    "barmode": "stack",
+    "autosize": true,
+    "showlegend": true,
+    "annotations": [
+      {
+        "x": 2011.005094614265,
+        "y": 514855.3978803664,
+        "font": {
+          "size": 10,
+          "color": "rgb(152, 0, 0)"
+        },
+        "text": "<i>City of Reno 2020 grant from the CARES Act &amp; 2021 from the American Rescue Plan in support of local arts agency recovery from COVID-19 pandemic</i>",
+        "showarrow": false
+      }
+    ]
+  }
+}

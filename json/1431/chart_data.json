@@ -1,0 +1,328 @@
+{
+  "data": [
+    {
+      "uid": "5477a9",
+      "line": {
+        "color": "rgb(69, 160, 224)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Washoe County, x; Nevada, x; Western, x; National, x",
+          "y": "Washoe County, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Washoe County",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3807:add82f",
+      "x": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3807:165c5c",
+      "y": [
+        "",
+        "46.65\u00a0",
+        "46.37\u00a0",
+        "44.54\u00a0",
+        "41.76\u00a0",
+        "42.03\u00a0",
+        "37.91\u00a0",
+        "32.07\u00a0",
+        "28.27\u00a0",
+        "30.19\u00a0",
+        "29.19\u00a0",
+        "27.74\u00a0",
+        "30.13\u00a0",
+        "30.95\u00a0",
+        "29.68\u00a0",
+        "25.46\u00a0",
+        "23.29\u00a0",
+        "25.69\u00a0",
+        "29.00\u00a0",
+        "27.49\u00a0",
+        "26.96",
+        "24.96"
+      ],
+      "marker": {
+        "size": 10
+      }
+    },
+    {
+      "uid": "7c127c",
+      "line": {
+        "color": "rgb(147, 154, 158)",
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Washoe County, x; Nevada, x; Western, x; National, x",
+          "y": "Nevada, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Nevada",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3807:add82f",
+      "x": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3807:d14445",
+      "y": [
+        "",
+        "44.98\u00a0",
+        "46.77\u00a0",
+        "46.26\u00a0",
+        "42.97\u00a0",
+        "39.85\u00a0",
+        "36.42\u00a0",
+        "34.04\u00a0",
+        "31.55\u00a0",
+        "34.18\u00a0",
+        "34.13\u00a0",
+        "32.49\u00a0",
+        "33.94\u00a0",
+        "32.54\u00a0",
+        "31.60\u00a0",
+        "30.02\u00a0",
+        "28.60\u00a0",
+        "24.60\u00a0",
+        "26.74\u00a0",
+        "29.42\u00a0",
+        "29.88",
+        "25.79"
+      ],
+      "marker": {
+        "size": 10
+      }
+    },
+    {
+      "uid": "1e268d",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(124, 191, 124)",
+        "shape": "spline",
+        "width": 5
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Washoe County, x; Nevada, x; Western, x; National, x",
+          "y": "Western, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Western",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3807:add82f",
+      "x": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3807:916bfa",
+      "y": [
+        "44.69 ",
+        "44.04 ",
+        "42.94 ",
+        "39.98 ",
+        "38.34 ",
+        "36.71 ",
+        "34.07 ",
+        "33.06 ",
+        "33.52 ",
+        "33.41 ",
+        "32.57 ",
+        "31.25 ",
+        "30.33 ",
+        "31.99 ",
+        "30.96 ",
+        "30.11",
+        "28.62",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ],
+      "marker": {
+        "size": 10
+      }
+    },
+    {
+      "uid": "bee1ff",
+      "line": {
+        "dash": "dash",
+        "color": "rgb(232, 118, 119)",
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Washoe County, x; Nevada, x; Western, x; National, x",
+          "y": "National, y"
+        }
+      },
+      "mode": "lines",
+      "name": "National",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3807:add82f",
+      "x": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3807:acdaf8",
+      "y": [
+        "",
+        "41.60 ",
+        "39.27 ",
+        "38.35 ",
+        "37.52 ",
+        "37.71 ",
+        "34.86 ",
+        "41.09 ",
+        "33.11 ",
+        "32.65 ",
+        "31.13 ",
+        "30.13 ",
+        "28.89 ",
+        "28.93 ",
+        "27.62\u00a0",
+        "26.18\u00a0",
+        "25.00\u00a0",
+        "23.57",
+        "21.65",
+        "23.75",
+        "23.02",
+        "21.30"
+      ],
+      "marker": {
+        "size": 10
+      }
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(68, 68, 68)"
+      },
+      "text": "<b>Crime Index rates per 1,000 population</b><br><br>\n<b>Source:</b> Nevada Dept. of Public Safety, <a href=\"http://rccd.nv.gov/About/UCR/Crime-In-Nevada/\">Crime in Nevada</a> (annual reports), FBI, <a href=\"https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crime-trend\">Crime Data Explorer</a>"
+    },
+    "width": 885,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2003,
+        2024
+      ],
+      "showline": true,
+      "autorange": true,
+      "gridwidth": 3
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        19.885,
+        48.185
+      ],
+      "title": {
+        "text": "Crime Index rate"
+      },
+      "autorange": true,
+      "gridwidth": 1
+    },
+    "height": 574,
+    "legend": {
+      "x": 0.6662068965517242,
+      "y": 0.9137055837563451
+    },
+    "barmode": "overlay",
+    "autosize": true,
+    "showlegend": true,
+    "annotations": []
+  }
+}

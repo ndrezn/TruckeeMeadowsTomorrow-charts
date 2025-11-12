@@ -1,0 +1,518 @@
+{
+  "data": [
+    {
+      "uid": "e79f43",
+      "line": {
+        "dash": "dash",
+        "color": "rgb(180, 60, 31)",
+        "shape": "spline",
+        "width": 5
+      },
+      "meta": {
+        "columnNames": {
+          "x": "School year ending",
+          "y": "Violence to students, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Violence to students",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3808:e53d1e",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3808:54abab",
+      "y": [
+        "\u00a029.3\u00a0",
+        "\u00a027.4\u00a0",
+        "\u00a027.3\u00a0",
+        "\u00a026.0\u00a0",
+        "\u00a026.4\u00a0",
+        "\u00a030.8\u00a0",
+        "\u00a033.0\u00a0",
+        "\u00a029.2\u00a0",
+        "\u00a024.8\u00a0",
+        "\u00a020.9\u00a0",
+        "\u00a017.7\u00a0",
+        "\u00a022.2\u00a0",
+        "\u00a023.4\u00a0",
+        "\u00a022.7\u00a0",
+        "\u00a031.4\u00a0",
+        "\u00a034.9\u00a0",
+        "\u00a0\t23.4\u00a0",
+        "\u00a0\t8.2\u00a0"
+      ]
+    },
+    {
+      "uid": "64efab",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(180, 60, 31)",
+        "shape": "spline",
+        "width": 5
+      },
+      "meta": {
+        "columnNames": {
+          "x": "School year ending",
+          "y": "Violence to staff, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Violence to staff",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3808:e53d1e",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3808:904723",
+      "y": [
+        "\u00a00.9\u00a0",
+        "\u00a00.6\u00a0",
+        "\u00a01.0\u00a0",
+        "\u00a00.9\u00a0",
+        "\u00a00.5\u00a0",
+        "\u00a00.8\u00a0",
+        "\u00a01.0\u00a0",
+        "\u00a00.6\u00a0",
+        "\u00a00.4\u00a0",
+        "\u00a00.4\u00a0",
+        "\u00a00.4\u00a0",
+        "\u00a01.8\u00a0",
+        "\u00a01.9\u00a0",
+        "\u00a02.0\u00a0",
+        "\u00a02.7\u00a0",
+        "\u00a02.9\u00a0",
+        "\u00a0\t2.2\u00a0",
+        "\u00a0\t1.0\u00a0"
+      ]
+    },
+    {
+      "uid": "681988",
+      "line": {
+        "dash": "solid",
+        "color": "rgb(180, 60, 31)",
+        "shape": "spline",
+        "width": 5
+      },
+      "meta": {
+        "columnNames": {
+          "x": "School year ending",
+          "y": "Weapons possession, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Weapons possession",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3808:e53d1e",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3808:d7a8e0",
+      "y": [
+        "\u00a02.5\u00a0",
+        "\u00a02.6\u00a0",
+        "\u00a02.9\u00a0",
+        "\u00a03.0\u00a0",
+        "\u00a03.3\u00a0",
+        "\u00a01.8\u00a0",
+        "\u00a00.2\u00a0",
+        "\u00a01.3\u00a0",
+        "\u00a01.4\u00a0",
+        "\u00a01.2\u00a0",
+        "\u00a01.5\u00a0",
+        "\u00a01.5\u00a0",
+        "\u00a02.0\u00a0",
+        "\u00a01.5\u00a0",
+        "\u00a01.4\u00a0",
+        "\u00a01.7\u00a0",
+        "\u00a0\t1.1\u00a0",
+        "\u00a0\t0.7\u00a0"
+      ]
+    },
+    {
+      "uid": "634c97",
+      "line": {
+        "dash": "solid",
+        "color": "rgb(56, 128, 21)",
+        "shape": "spline",
+        "width": 5
+      },
+      "meta": {
+        "columnNames": {
+          "x": "School year ending",
+          "y": "Distribution controlled substances, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Distribution controlled substances",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3808:e53d1e",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3808:11bd68",
+      "y": [
+        "\u00a00.2\u00a0",
+        "\u00a00.2\u00a0",
+        "\u00a00.2\u00a0",
+        "\u00a00.3\u00a0",
+        "\u00a00.4\u00a0",
+        "\u00a00.6\u00a0",
+        "\u00a00.6\u00a0",
+        "\u00a00.6\u00a0",
+        "\u00a00.4\u00a0",
+        "\u00a00.3\u00a0",
+        "\u00a00.2\u00a0",
+        "\u00a00.2\u00a0",
+        "\u00a00.2\u00a0",
+        "\u00a00.2\u00a0",
+        "\u00a00.1\u00a0",
+        "\u00a00.2\u00a0",
+        "\u00a0\t2.4\u00a0",
+        "\u00a0\t0.1\u00a0"
+      ]
+    },
+    {
+      "uid": "97c658",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(56, 128, 21)",
+        "shape": "spline",
+        "width": 5
+      },
+      "meta": {
+        "columnNames": {
+          "x": "School year ending",
+          "y": "Possession/use controlled substances, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Possession/use controlled substances",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3808:e53d1e",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3808:31294b",
+      "y": [
+        "\u00a04.2\u00a0",
+        "\u00a03.7\u00a0",
+        "\u00a04.3\u00a0",
+        "\u00a05.9\u00a0",
+        "\u00a04.7\u00a0",
+        "\u00a06.4\u00a0",
+        "\u00a07.1\u00a0",
+        "\u00a08.2\u00a0",
+        "\u00a07.1\u00a0",
+        "\u00a06.3\u00a0",
+        "\u00a07.4\u00a0",
+        "\u00a07.4\u00a0",
+        "\u00a07.5\u00a0",
+        "\u00a05.8\u00a0",
+        "\u00a07.8\u00a0",
+        "\u00a09.3\u00a0",
+        "\u00a0\t8.1\u00a0",
+        "\u00a0\t2.4\u00a0"
+      ]
+    },
+    {
+      "uid": "50c209",
+      "line": {
+        "dash": "dash",
+        "color": "rgb(166, 164, 2)",
+        "shape": "spline",
+        "width": 5
+      },
+      "meta": {
+        "columnNames": {
+          "x": "School year ending",
+          "y": "Possession/use of alcohol, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Possession/use of alcohol",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3808:e53d1e",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3808:424b78",
+      "y": [
+        "\u00a02.6\u00a0",
+        "\u00a02.1\u00a0",
+        "\u00a02.4\u00a0",
+        "\u00a03.5\u00a0",
+        "\u00a02.8\u00a0",
+        "\u00a02.8\u00a0",
+        "\u00a02.8\u00a0",
+        "\u00a02.4\u00a0",
+        "\u00a02.6\u00a0",
+        "\u00a02.1\u00a0",
+        "\u00a02.3\u00a0",
+        "\u00a02.6\u00a0",
+        "\u00a02.5\u00a0",
+        "\u00a02.4\u00a0",
+        "\u00a02.4\u00a0",
+        "\u00a02.8\u00a0",
+        "\u00a0\t2.3\u00a0",
+        "\u00a0\t0.2\u00a0"
+      ]
+    },
+    {
+      "uid": "da0ed6",
+      "meta": {
+        "columnNames": {
+          "x": "School year ending",
+          "y": "Habitual truancy, y"
+        }
+      },
+      "name": "Habitual truancy",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3808:e53d1e",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3808:5a72a6",
+      "y": [
+        "",
+        " 454 ",
+        " 484 ",
+        " 662 ",
+        " 875 ",
+        " 774 ",
+        " 519 ",
+        " 255 ",
+        " 354 ",
+        " 257 ",
+        " 493 ",
+        "316",
+        "\u00a0371\u00a0",
+        "\u00a0437\u00a0",
+        "\u00a0340\u00a0",
+        "355",
+        "267"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(191, 176, 183)",
+        "opacity": 0.9
+      },
+      "opacity": 0.5
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(68, 68, 68)"
+      },
+      "text": "<b>WCSD student discipline \u2013 incidents, suspensions or expulsions &nbsp;</b><br><br>\n<b>Source:&nbsp;</b>WCSD Accountabilty <a href=\"http://nevadareportcard.nv.gov/di/report/reportcard_1?report=reportcard_1&amp;scope=e10.y17&amp;organization=c2589&amp;fields=309%2C310%2C311%2C313%2C318%2C320&amp;hiddenfieldsid=309%2C310%2C311%2C313%2C318%2C320&amp;scores=671%2C672%2C673%2C674%2C675%2C676%2C677%2C678%2C679%2C1030%2C1031%2C1032%2C1033%2C1034%2C1035&amp;num=160&amp;page=1&amp;pagesize=20&amp;domain=students&amp;\">Report Card</a>"
+    },
+    "width": 1049,
+    "xaxis": {
+      "side": "bottom",
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2003.5,
+        2021.5
+      ],
+      "tick0": 1,
+      "title": {
+        "text": "School year-ending"
+      },
+      "anchor": "y2",
+      "domain": [
+        0,
+        1
+      ],
+      "tickmode": "linear",
+      "zeroline": false,
+      "autorange": false,
+      "showspikes": false,
+      "rangeslider": {
+        "range": [
+          2002.5,
+          2019
+        ],
+        "yaxis": {},
+        "yaxis2": {},
+        "visible": false,
+        "autorange": true
+      }
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        -1.833333333333333,
+        36.83333333333333
+      ],
+      "title": {
+        "text": "Rate per 1,000 enrollment"
+      },
+      "anchor": "x",
+      "domain": [
+        0.5,
+        1
+      ],
+      "showgrid": false,
+      "zeroline": false,
+      "autorange": true,
+      "gridwidth": 0.5,
+      "overlaying": "y2"
+    },
+    "bargap": 0.4,
+    "height": 609,
+    "legend": {
+      "x": 0.0993103448275862,
+      "y": 0.46954314720812185,
+      "font": {
+        "size": 10
+      }
+    },
+    "yaxis2": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        0,
+        921.0526315789474
+      ],
+      "title": {
+        "text": "Incidents (habitual truancy)"
+      },
+      "anchor": "x",
+      "domain": [
+        0,
+        1
+      ],
+      "showgrid": false,
+      "zeroline": false,
+      "autorange": true,
+      "gridwidth": 0.1,
+      "overlaying": false,
+      "showspikes": false
+    },
+    "autosize": true,
+    "showlegend": true
+  }
+}

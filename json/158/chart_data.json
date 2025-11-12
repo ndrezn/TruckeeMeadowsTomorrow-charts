@@ -1,0 +1,632 @@
+{
+  "data": [
+    {
+      "uid": "cce5fb",
+      "line": {
+        "shape": "spline",
+        "width": 8
+      },
+      "mode": "lines+markers",
+      "name": "All families",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:2914:c2afbc",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:2914:c6cde4",
+      "y": [
+        "10.6%",
+        "8.3%",
+        "6.5%",
+        "6.2%",
+        "9.0%",
+        "9.4%",
+        "10.8%",
+        "8.9%",
+        "13.9%",
+        "10.5%",
+        "8.9%",
+        "9.1%",
+        "8.0%",
+        "6.3%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 6
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "e068c2",
+      "line": {
+        "dash": "solid",
+        "color": "rgb(188, 189, 34)",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "With related children under  age 18",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:2914:c2afbc",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:2914:2dfccb",
+      "y": [
+        "18.4%",
+        "11.9%",
+        "11.0%",
+        "9.1%",
+        "15.0%",
+        "15.7%",
+        "17.9%",
+        "14.0%",
+        "22.7%",
+        "17.8%",
+        "13.6%",
+        "14.1%",
+        "14.2%",
+        "9.6%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 6
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "eee3dd",
+      "line": {
+        "dash": "dot",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "With related children under age 5 only",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:2914:c2afbc",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:2914:4619d2",
+      "y": [
+        "30.1%",
+        "15.3%",
+        "12.9%",
+        "7.2%",
+        "20.5%",
+        "22.4%",
+        "27.5%",
+        "12.2%",
+        "22.0%",
+        "22.3%",
+        "16.4%",
+        "12.5%",
+        "13.9%",
+        "12.1%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "size": 6
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "82360f",
+      "line": {
+        "color": "rgb(31, 119, 180)",
+        "shape": "spline",
+        "width": 8
+      },
+      "mode": "lines+markers",
+      "name": "Families with female householder, no husband present",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:156:e67a18",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:156:71ff21",
+      "y": [
+        "42.1%",
+        "24.5%",
+        "25.3%",
+        "22.0%",
+        "24.1%",
+        "24.7%",
+        "26.9%",
+        "24.8%",
+        "31.0%",
+        "25.9%",
+        "25.5%",
+        "26.7%",
+        "27.0%",
+        "16.2%"
+      ],
+      "marker": {
+        "size": 6
+      },
+      "autobinx": true,
+      "autobiny": true,
+      "showlegend": false
+    },
+    {
+      "uid": "78afd4",
+      "line": {
+        "color": "rgb(188, 189, 34)",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "With related children under age 18",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:156:e67a18",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:156:57caa3",
+      "y": [
+        "53.1%",
+        "31.0%",
+        "32.6%",
+        "24.7%",
+        "36.2%",
+        "32.8%",
+        "34.1%",
+        "31.1%",
+        "43.5%",
+        "36.5%",
+        "31.2%",
+        "32.1%",
+        "38.0%",
+        "22.6%"
+      ],
+      "marker": {
+        "size": 6
+      },
+      "autobinx": true,
+      "autobiny": true,
+      "showlegend": false
+    },
+    {
+      "uid": "6a1035",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(44, 160, 44)",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "With related children under age 5 only",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:156:e67a18",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:156:b80c0a",
+      "y": [
+        "73.9%",
+        "40.9%",
+        "39.2%",
+        "29.2%",
+        "51.0%",
+        "41.8%",
+        "49.8%",
+        "40.5%",
+        "45.4%",
+        "48.1%",
+        "18.9%",
+        "36.4%",
+        "45.1%",
+        "46.0%"
+      ],
+      "marker": {
+        "size": 6
+      },
+      "autobinx": true,
+      "autobiny": true,
+      "showlegend": false
+    },
+    {
+      "uid": "b343c8",
+      "line": {
+        "color": "rgb(31, 119, 180)",
+        "shape": "spline",
+        "width": 8
+      },
+      "mode": "lines+markers",
+      "name": "All Families",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:151:5fb94e",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:151:cf2ad3",
+      "y": [
+        "3.9%",
+        "4.7%",
+        "2.4%",
+        "2.8%",
+        "5.1%",
+        "5.2%",
+        "6.4%",
+        "5.5%",
+        "7.6%",
+        "6.4%",
+        "4.5%",
+        "3.3%",
+        "3.2%",
+        "3.2%"
+      ],
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "marker": {
+        "size": 6
+      },
+      "autobinx": true,
+      "autobiny": true,
+      "showlegend": false
+    },
+    {
+      "uid": "cd06c2",
+      "line": {
+        "color": "rgb(188, 189, 34)",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "With related children under age 18",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:151:5fb94e",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:151:7781b2",
+      "y": [
+        "7.5%",
+        "4.8%",
+        "4.2%",
+        "3.8%",
+        "8.3%",
+        "8.8%",
+        "11.2%",
+        "7.8%",
+        "11.4%",
+        "10.1%",
+        "6.9%",
+        "4.0%",
+        "4.7%",
+        "4.1%"
+      ],
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "marker": {
+        "size": 6
+      },
+      "autobinx": true,
+      "autobiny": true,
+      "showlegend": false
+    },
+    {
+      "uid": "39ea16",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(44, 160, 44)",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "With related children under age 5 only",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:151:5fb94e",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:151:154dff",
+      "y": [
+        "8.4%",
+        "7.3%",
+        "6.3%",
+        "3.1%",
+        "13.3%",
+        "13.3%",
+        "14.3%",
+        "1.4%",
+        "2.6%",
+        "13.3%",
+        "13.3%",
+        "1.4%",
+        "2.3%",
+        "1.1%"
+      ],
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "marker": {
+        "size": 6
+      },
+      "autobinx": true,
+      "autobiny": true,
+      "showlegend": false
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "Washoe County families whose income in the past 12-months was below poverty level",
+    "width": 1488,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2003.2321714237603,
+        2017.7678285762397
+      ],
+      "tick0": 1,
+      "mirror": false,
+      "showline": true,
+      "tickmode": "linear",
+      "zeroline": false,
+      "autorange": true,
+      "gridwidth": 2,
+      "linewidth": 1,
+      "titlefont": {
+        "size": 14,
+        "color": "rgb(255, 0, 0)"
+      },
+      "showticklabels": true
+    },
+    "yaxis": {
+      "type": "-",
+      "range": [
+        10.537213883821117,
+        79.56278611617888
+      ],
+      "title": "% Female\u00a0head",
+      "domain": [
+        0,
+        0.2025
+      ],
+      "mirror": false,
+      "showline": false,
+      "zeroline": false,
+      "autorange": true,
+      "titlefont": {
+        "size": 14,
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    "height": 758,
+    "legend": {
+      "x": 0.08766716196136701,
+      "y": 1.079625292740047,
+      "font": {
+        "size": 12
+      }
+    },
+    "xaxis2": {
+      "type": "linear",
+      "range": [
+        2003.2321714237603,
+        2017.7678285762397
+      ],
+      "tick0": 1,
+      "title": "",
+      "anchor": "y2",
+      "domain": [
+        0,
+        1
+      ],
+      "mirror": false,
+      "showline": true,
+      "tickmode": "linear",
+      "zeroline": false,
+      "autorange": true,
+      "gridwidth": 2,
+      "linewidth": 1,
+      "titlefont": {
+        "size": 14,
+        "color": "rgb(255, 0, 0)"
+      },
+      "showticklabels": false
+    },
+    "xaxis3": {
+      "type": "linear",
+      "range": [
+        2003.2321714237603,
+        2017.7678285762397
+      ],
+      "tick0": 1,
+      "anchor": "y3",
+      "domain": [
+        0,
+        1
+      ],
+      "mirror": false,
+      "showline": true,
+      "tickmode": "linear",
+      "zeroline": false,
+      "autorange": true,
+      "gridwidth": 2,
+      "linewidth": 1.5,
+      "titlefont": {
+        "size": 14,
+        "color": "rgb(255, 0, 0)"
+      },
+      "showticklabels": false
+    },
+    "yaxis2": {
+      "range": [
+        4.432735336952204,
+        31.8672646630478
+      ],
+      "title": "%\u00a0All families",
+      "anchor": "x2",
+      "domain": [
+        0.55,
+        1
+      ],
+      "mirror": false,
+      "showline": false,
+      "zeroline": false,
+      "autorange": true,
+      "titlefont": {
+        "size": 14,
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    "yaxis3": {
+      "range": [
+        -0.19547273368390394,
+        15.595472733683906
+      ],
+      "title": "% Married",
+      "anchor": "x3",
+      "domain": [
+        0.24750000000000003,
+        0.45
+      ],
+      "mirror": false,
+      "showline": false,
+      "zeroline": false,
+      "autorange": true,
+      "titlefont": {
+        "size": 14,
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    "autosize": true,
+    "titlefont": {
+      "size": 14,
+      "color": "rgb(152, 0, 0)"
+    },
+    "showlegend": true,
+    "hidesources": true
+  }
+}

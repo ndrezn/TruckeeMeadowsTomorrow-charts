@@ -1,0 +1,253 @@
+{
+  "data": [
+    {
+      "line": {
+        "color": "rgb(206, 167, 38)",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines",
+      "name": "Clark",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4054:6d6833",
+      "x": [
+        "",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4054:d8e4ee",
+      "y": [
+        "",
+        "4.2",
+        "4.2",
+        "4.2",
+        "4.2",
+        "4.2"
+      ]
+    },
+    {
+      "line": {
+        "dash": "dash",
+        "shape": "spline",
+        "width": 5
+      },
+      "mode": "lines",
+      "name": "Douglas",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4054:6d6833",
+      "x": [
+        "",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4054:eaa0e6",
+      "y": [
+        "",
+        "4.1",
+        "4.1",
+        "4.0",
+        "4.1",
+        "3.8"
+      ]
+    },
+    {
+      "line": {
+        "dash": "dot",
+        "color": "rgb(160, 44, 84)",
+        "shape": "spline",
+        "width": 5
+      },
+      "mode": "lines",
+      "name": "Storey",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4054:6d6833",
+      "x": [
+        "",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4054:3c5168",
+      "y": [
+        "",
+        "4.1",
+        "4.0",
+        "3.3",
+        "3.5",
+        "2.8"
+      ],
+      "stackgroup": null
+    },
+    {
+      "line": {
+        "color": "rgb(31, 119, 180)",
+        "shape": "spline",
+        "width": 8
+      },
+      "mode": "markers+lines",
+      "name": "Washoe",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4054:6d6833",
+      "x": [
+        "",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4054:6b51a6",
+      "y": [
+        "",
+        "4.8",
+        "4.8",
+        "4.7",
+        "4.7",
+        "4.6"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "stackgroup": null
+    },
+    {
+      "line": {
+        "dash": "longdashdot",
+        "shape": "spline",
+        "width": 5
+      },
+      "mode": "lines",
+      "name": "Carson City",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4054:6d6833",
+      "x": [
+        "",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4054:ef3764",
+      "y": [
+        "",
+        "4.5",
+        "4.4",
+        "4.5",
+        "4.7",
+        "4.6"
+      ],
+      "stackgroup": null
+    },
+    {
+      "mode": "lines",
+      "name": "Nevada",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:4054:6d6833",
+      "x": [
+        "",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4054:ca42ee",
+      "y": [
+        "",
+        "4.3",
+        "4.3",
+        "4.3",
+        "4.3",
+        "4.3"
+      ],
+      "marker": {
+        "size": 5,
+        "color": "rgb(127, 127, 127)"
+      },
+      "stackgroup": null,
+      "orientation": "v"
+    },
+    {
+      "name": "US",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:4054:6d6833",
+      "x": [
+        "",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4054:9269d0",
+      "y": [
+        "",
+        "4.6",
+        "4.7",
+        "5.0",
+        "5.0",
+        "4.9"
+      ],
+      "marker": {
+        "size": 5,
+        "color": "rgb(44, 160, 44)"
+      },
+      "orientation": "v"
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "Income inequality ratio (County Health Rankings)"
+    },
+    "xaxis": {
+      "type": "linear",
+      "dtick": 0,
+      "range": [
+        2014.5,
+        2019.5
+      ],
+      "tick0": 1,
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": "CHR \u00a0reporting year"
+      },
+      "tickmode": "linear",
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        5.2631578947368425
+      ],
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": "Household income ratio"
+      },
+      "autorange": true
+    },
+    "bargap": 0.5,
+    "autosize": true
+  }
+}

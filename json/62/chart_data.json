@@ -1,0 +1,1413 @@
+{
+  "data": [
+    {
+      "uid": "c9d532",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Washoe",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3766:3d2acf",
+      "x": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3766:8d88d3",
+      "y": [
+        "4.9%",
+        "5.7%",
+        "6.0%",
+        "5.6%",
+        "7.6%",
+        "6.5%",
+        "6.3%",
+        "6.6%",
+        "6.7%",
+        "9.8%",
+        "6.5%",
+        "7.8%",
+        "6.6%",
+        "8.1%",
+        "9.9%",
+        "60.0%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "size": 8,
+        "color": "rgb(0, 255, 0)"
+      },
+      "showlegend": true
+    },
+    {
+      "uid": "542ca1",
+      "name": "NV",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3766:3d2acf",
+      "x": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3766:67ec2e",
+      "y": [
+        "",
+        "6.2%",
+        "6.4%",
+        "7.1%",
+        "7.5%",
+        "8.0%",
+        "8.6%",
+        "7.9%",
+        "8.5%",
+        "10.3%",
+        "8.9%",
+        "9.6%",
+        "9.6%",
+        "9.7%",
+        "11.1%",
+        "10.4%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(31, 119, 180)"
+      },
+      "showlegend": true
+    },
+    {
+      "uid": "95025a",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Coronary: Washoe",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3766:3d2acf",
+      "x": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3766:b1e5ea",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "3.8%",
+        "4.0%",
+        "4.0%",
+        "3.2%",
+        "4.7%",
+        "2.9%",
+        "3.7%",
+        "3.1%",
+        "3.2%",
+        "4.1%",
+        "3.6%"
+      ],
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "size": 8,
+        "color": "rgb(0, 255, 0)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "1523e2",
+      "name": "Coronary: NV",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3766:3d2acf",
+      "x": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3766:aa0881",
+      "y": [
+        "",
+        "",
+        "",
+        "4.1%",
+        "5.1%",
+        "4.4%",
+        "4.3%",
+        "3.9%",
+        "4.0%",
+        "4.1%",
+        "4.3%",
+        "3.4%",
+        "4.7%",
+        "3.9%",
+        "4.4%",
+        "4.3%"
+      ],
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "marker": {
+        "color": "rgb(31, 119, 180)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "1e1422",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Blood Pressure: Washoe",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3766:3d2acf",
+      "x": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3766:93a390",
+      "y": [
+        "",
+        "23.1%",
+        "",
+        "22.2%",
+        "",
+        "24.3%",
+        "",
+        "26.0%",
+        "",
+        "30.1%",
+        "",
+        "28.0%",
+        null,
+        "32.6%",
+        "\u00a0",
+        "31.1%"
+      ],
+      "xaxis": "x4",
+      "yaxis": "y4",
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "size": 8,
+        "color": "rgb(0, 255, 0)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "2fd833",
+      "name": "Blood Pressure: NV",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3766:3d2acf",
+      "x": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3766:d3beda",
+      "y": [
+        "",
+        "23.6%",
+        "",
+        "24.1%",
+        "",
+        "27.0%",
+        "",
+        "27.5%",
+        "",
+        "30.8%",
+        "",
+        "30.6%",
+        null,
+        "28.3%",
+        "\u00a0",
+        "32.7%"
+      ],
+      "xaxis": "x4",
+      "yaxis": "y4",
+      "marker": {
+        "color": "rgb(31, 119, 180)"
+      },
+      "showlegend": false,
+      "orientation": "v"
+    },
+    {
+      "uid": "968c65",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "High Cholesterol:Washoe",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3766:3d2acf",
+      "x": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3766:54e1da",
+      "y": [
+        "",
+        "32.7%",
+        "",
+        "35.5%",
+        "",
+        "37.4%",
+        "",
+        "36.9%",
+        "",
+        "36.1%",
+        "",
+        "36.7%",
+        null,
+        "40.5%",
+        "\u00a0",
+        "34.9%"
+      ],
+      "xaxis": "x5",
+      "yaxis": "y5",
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "size": 8,
+        "color": "rgb(0, 255, 0)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "513ff6",
+      "name": "High Cholesterol: NV",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3766:3d2acf",
+      "x": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3766:119579",
+      "y": [
+        "",
+        "36.8%",
+        "",
+        "39.2%",
+        "",
+        "37.1%",
+        "",
+        "38.6%",
+        "",
+        "37.3%",
+        "",
+        "38.6%",
+        null,
+        "36.7%",
+        "\u00a0",
+        "33.1%"
+      ],
+      "xaxis": "x5",
+      "yaxis": "y5",
+      "marker": {
+        "color": "rgb(31, 119, 180)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "918ae2",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Stroke: Washoe",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3766:3d2acf",
+      "x": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3766:e208c9",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "2.3%",
+        "2.9%",
+        "2.5%",
+        "2.0%",
+        "2.8%",
+        "1.3%",
+        "2.4%",
+        "2.7%",
+        "2.9%",
+        "2.8%",
+        "4.0%"
+      ],
+      "xaxis": "x6",
+      "yaxis": "y6",
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "size": 8,
+        "color": "rgb(0, 255, 0)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "81e623",
+      "name": "Stroke: NV",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3766:3d2acf",
+      "x": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3766:11f232",
+      "y": [
+        "",
+        "",
+        "",
+        "2.9%",
+        "2.8%",
+        "2.4%",
+        "2.2%",
+        "2.4%",
+        "3.1%",
+        "3.2%",
+        "3.1%",
+        "2.9%",
+        "3.2%",
+        "2.4%",
+        "3.3%",
+        "3.0%"
+      ],
+      "xaxis": "x6",
+      "yaxis": "y6",
+      "marker": {
+        "color": "rgb(31, 119, 180)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "87b2a0",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Asthma: Washoe",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3766:3d2acf",
+      "x": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3766:af13f9",
+      "y": [
+        "7.8%",
+        "6.6%",
+        "5.8%",
+        "8.0%",
+        "8.7%",
+        "7.0%",
+        "7.3%",
+        "9.3%",
+        "8.1%",
+        "8.7%",
+        "7.8%",
+        "7.7%",
+        "8.3%",
+        "9.4%",
+        "8.5%",
+        "10.6%"
+      ],
+      "xaxis": "x7",
+      "yaxis": "y7",
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "size": 8,
+        "color": "rgb(0, 255, 0)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "e70b81",
+      "name": "Asthma: NV",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3766:3d2acf",
+      "x": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3766:b2d610",
+      "y": [
+        "7.6%",
+        "6.6%",
+        "7.1%",
+        "7.1%",
+        "7.7%",
+        "6.9%",
+        "8.6%",
+        "9.0%",
+        "9.2%",
+        "8.1%",
+        "7.4%",
+        "7.6%",
+        "8.1%",
+        "8.1%",
+        "7.9%",
+        "10.4%"
+      ],
+      "xaxis": "x7",
+      "yaxis": "y7",
+      "marker": {
+        "color": "rgb(31, 119, 180)"
+      },
+      "showlegend": false
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "font": {
+      "size": 12,
+      "color": "#444",
+      "family": "\"Open sans\", verdana, arial, sans-serif"
+    },
+    "smith": false,
+    "title": {
+      "x": 0.4,
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)",
+        "family": "\"Open sans\", verdana, arial, sans-serif"
+      },
+      "text": "Adult disease prevalence \u2013 Behavioral Risk Factor Surveillance System"
+    },
+    "width": 1400,
+    "xaxis": {
+      "side": "bottom",
+      "type": "-",
+      "dtick": 0.02,
+      "range": [
+        2018.658536585366,
+        2018.7391456285543
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": {
+        "font": {
+          "size": 12,
+          "color": "#444",
+          "family": "\"Open sans\", verdana, arial, sans-serif"
+        },
+        "text": "Survey year (Reno MSA for Washoe County starting 2014)"
+      },
+      "anchor": "y",
+      "domain": [
+        0,
+        0.45
+      ],
+      "nticks": 0,
+      "showgrid": false,
+      "showline": false,
+      "tickmode": "auto",
+      "zeroline": true,
+      "autorange": true,
+      "rangemode": "normal",
+      "overlaying": false,
+      "showexponent": "all",
+      "exponentformat": "e",
+      "showticklabels": false
+    },
+    "yaxis": {
+      "side": "left",
+      "type": "-",
+      "dtick": 0.02,
+      "range": [
+        23.113706373581778,
+        23.23967883071491
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": {
+        "font": {
+          "size": 12,
+          "color": "#444",
+          "family": "\"Open sans\", verdana, arial, sans-serif"
+        },
+        "text": "Click to enter Y axis title"
+      },
+      "anchor": "x",
+      "domain": [
+        0,
+        1
+      ],
+      "nticks": 0,
+      "showgrid": false,
+      "showline": false,
+      "tickmode": "auto",
+      "zeroline": true,
+      "autorange": true,
+      "rangemode": "normal",
+      "overlaying": false,
+      "showexponent": "all",
+      "exponentformat": "e",
+      "showticklabels": false
+    },
+    "bargap": 0.2,
+    "height": 833,
+    "legend": {
+      "x": 0.14838709677419354,
+      "y": 1.0719754977029097,
+      "font": {
+        "size": 14,
+        "color": "#444",
+        "family": "\"Open sans\", verdana, arial, sans-serif"
+      },
+      "bgcolor": "#fff",
+      "xanchor": "auto",
+      "yanchor": "auto",
+      "traceorder": "normal",
+      "bordercolor": "#444",
+      "borderwidth": 0
+    },
+    "margin": {
+      "b": 80,
+      "l": 80,
+      "r": 80,
+      "t": 100,
+      "pad": 0,
+      "autoexpand": true
+    },
+    "xaxis2": {
+      "side": "bottom",
+      "type": "linear",
+      "dtick": 5,
+      "range": [
+        2000.8288470893465,
+        2018.1711529106535
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": {
+        "font": {
+          "size": 12,
+          "color": "#444",
+          "family": "\"Open sans\", verdana, arial, sans-serif"
+        },
+        "text": "Diagnosed with Diabetes"
+      },
+      "anchor": "y2",
+      "domain": [
+        0,
+        0.23
+      ],
+      "nticks": 0,
+      "showgrid": false,
+      "showline": false,
+      "tickfont": {
+        "size": 12,
+        "color": "#444",
+        "family": "\"Open sans\", verdana, arial, sans-serif"
+      },
+      "tickmode": "auto",
+      "zeroline": true,
+      "autorange": true,
+      "rangemode": "normal",
+      "tickangle": "auto",
+      "overlaying": false,
+      "showexponent": "all",
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "xaxis3": {
+      "side": "bottom",
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2000.8288470893465,
+        2018.1711529106535
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": {
+        "font": {
+          "size": 12,
+          "color": "#444",
+          "family": "\"Open sans\", verdana, arial, sans-serif"
+        },
+        "text": "Angina/coronary heart disease"
+      },
+      "anchor": "y3",
+      "domain": [
+        0.26,
+        0.49
+      ],
+      "nticks": 0,
+      "showgrid": false,
+      "showline": false,
+      "tickfont": {
+        "size": 12,
+        "color": "#444",
+        "family": "\"Open sans\", verdana, arial, sans-serif"
+      },
+      "tickmode": "auto",
+      "zeroline": true,
+      "autorange": true,
+      "rangemode": "normal",
+      "tickangle": "auto",
+      "overlaying": false,
+      "showexponent": "all",
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "xaxis4": {
+      "side": "bottom",
+      "type": "linear",
+      "dtick": 5,
+      "range": [
+        2000.7952397931895,
+        2018.2047602068105
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": {
+        "font": {
+          "size": 12,
+          "color": "#444",
+          "family": "\"Open sans\", verdana, arial, sans-serif"
+        },
+        "text": "High blood pressure"
+      },
+      "anchor": "y4",
+      "domain": [
+        0.51,
+        0.72
+      ],
+      "nticks": 0,
+      "showgrid": false,
+      "showline": false,
+      "tickfont": {
+        "size": 12,
+        "color": "#444",
+        "family": "\"Open sans\", verdana, arial, sans-serif"
+      },
+      "tickmode": "auto",
+      "zeroline": true,
+      "autorange": true,
+      "rangemode": "normal",
+      "tickangle": "auto",
+      "overlaying": false,
+      "showexponent": "all",
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "xaxis5": {
+      "side": "bottom",
+      "type": "linear",
+      "dtick": 5,
+      "range": [
+        2000.8288470893465,
+        2018.1711529106535
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": {
+        "font": {
+          "size": 12,
+          "color": "#444",
+          "family": "\"Open sans\", verdana, arial, sans-serif"
+        },
+        "text": "Diagnosed with high blood cholesterol"
+      },
+      "anchor": "y5",
+      "domain": [
+        0,
+        0.23
+      ],
+      "nticks": 0,
+      "showgrid": false,
+      "showline": false,
+      "tickfont": {
+        "size": 12,
+        "color": "#444",
+        "family": "\"Open sans\", verdana, arial, sans-serif"
+      },
+      "tickmode": "auto",
+      "zeroline": true,
+      "autorange": true,
+      "rangemode": "normal",
+      "tickangle": "auto",
+      "overlaying": false,
+      "showexponent": "all",
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "xaxis6": {
+      "side": "bottom",
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2000.8288470893465,
+        2018.1711529106535
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": {
+        "font": {
+          "size": 12,
+          "color": "#444",
+          "family": "\"Open sans\", verdana, arial, sans-serif"
+        },
+        "text": "Told you've had a stroke"
+      },
+      "anchor": "y6",
+      "domain": [
+        0.26,
+        0.49
+      ],
+      "nticks": 0,
+      "showgrid": false,
+      "showline": false,
+      "tickfont": {
+        "size": 12,
+        "color": "#444",
+        "family": "\"Open sans\", verdana, arial, sans-serif"
+      },
+      "tickmode": "auto",
+      "zeroline": true,
+      "autorange": true,
+      "rangemode": "normal",
+      "tickangle": "auto",
+      "overlaying": false,
+      "showexponent": "all",
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "xaxis7": {
+      "side": "bottom",
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2000.8288470893465,
+        2018.1711529106535
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": {
+        "font": {
+          "size": 12,
+          "color": "#444",
+          "family": "\"Open sans\", verdana, arial, sans-serif"
+        },
+        "text": "Currently have asthma"
+      },
+      "anchor": "y7",
+      "domain": [
+        0.52,
+        0.75
+      ],
+      "nticks": 0,
+      "showgrid": false,
+      "showline": false,
+      "tickfont": {
+        "size": 12,
+        "color": "#444",
+        "family": "\"Open sans\", verdana, arial, sans-serif"
+      },
+      "tickmode": "auto",
+      "zeroline": true,
+      "autorange": true,
+      "rangemode": "normal",
+      "tickangle": "auto",
+      "overlaying": false,
+      "showexponent": "all",
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "xaxis8": {
+      "side": "bottom",
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2004.5,
+        2013.5
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": {
+        "font": {
+          "size": 12,
+          "color": "#444",
+          "family": "\"Open sans\", verdana, arial, sans-serif"
+        },
+        "text": ""
+      },
+      "anchor": "free",
+      "domain": [
+        0.78,
+        1
+      ],
+      "nticks": 0,
+      "showgrid": false,
+      "showline": false,
+      "tickfont": {
+        "size": 12,
+        "color": "#444",
+        "family": "\"Open sans\", verdana, arial, sans-serif"
+      },
+      "tickmode": "auto",
+      "zeroline": true,
+      "autorange": true,
+      "rangemode": "normal",
+      "tickangle": "auto",
+      "overlaying": false,
+      "showexponent": "all",
+      "exponentformat": "B",
+      "showticklabels": false
+    },
+    "yaxis2": {
+      "side": "left",
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        0,
+        64.64660750274017
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": {
+        "font": {
+          "size": 12,
+          "color": "#444",
+          "family": "\"Open sans\", verdana, arial, sans-serif"
+        },
+        "text": "%"
+      },
+      "anchor": "x2",
+      "domain": [
+        0.6,
+        0.95
+      ],
+      "nticks": 0,
+      "showgrid": false,
+      "showline": false,
+      "tickfont": {
+        "size": 12,
+        "color": "#444",
+        "family": "\"Open sans\", verdana, arial, sans-serif"
+      },
+      "tickmode": "auto",
+      "zeroline": true,
+      "autorange": true,
+      "rangemode": "normal",
+      "tickangle": "auto",
+      "overlaying": false,
+      "showexponent": "all",
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "yaxis3": {
+      "side": "left",
+      "type": "linear",
+      "dtick": 10,
+      "range": [
+        0,
+        5.368421052631579
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": {
+        "font": {
+          "size": 12,
+          "color": "#444",
+          "family": "\"Open sans\", verdana, arial, sans-serif"
+        },
+        "text": "Click to enter Y axis title"
+      },
+      "anchor": "x3",
+      "domain": [
+        0.6,
+        0.95
+      ],
+      "nticks": 0,
+      "showgrid": false,
+      "showline": false,
+      "tickfont": {
+        "size": 12,
+        "color": "#444",
+        "family": "\"Open sans\", verdana, arial, sans-serif"
+      },
+      "tickmode": "auto",
+      "zeroline": true,
+      "autorange": true,
+      "tickangle": "auto",
+      "overlaying": false,
+      "showexponent": "all",
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "yaxis4": {
+      "side": "left",
+      "type": "linear",
+      "dtick": 5,
+      "range": [
+        0,
+        35.12465674315549
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": {
+        "font": {
+          "size": 12,
+          "color": "#444",
+          "family": "\"Open sans\", verdana, arial, sans-serif"
+        },
+        "text": "Click to enter Y axis title"
+      },
+      "anchor": "x4",
+      "domain": [
+        0.6,
+        0.95
+      ],
+      "nticks": 0,
+      "showgrid": false,
+      "showline": false,
+      "tickfont": {
+        "size": 12,
+        "color": "#444",
+        "family": "\"Open sans\", verdana, arial, sans-serif"
+      },
+      "tickmode": "auto",
+      "zeroline": true,
+      "autorange": true,
+      "rangemode": "normal",
+      "tickangle": "auto",
+      "overlaying": false,
+      "showexponent": "all",
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "yaxis5": {
+      "side": "left",
+      "type": "linear",
+      "dtick": 10,
+      "range": [
+        0,
+        43.55540819908725
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": {
+        "font": {
+          "size": 12,
+          "color": "#444",
+          "family": "\"Open sans\", verdana, arial, sans-serif"
+        },
+        "text": "%"
+      },
+      "anchor": "x5",
+      "domain": [
+        0.09,
+        0.47
+      ],
+      "nticks": 0,
+      "showgrid": false,
+      "showline": false,
+      "tickfont": {
+        "size": 12,
+        "color": "#444",
+        "family": "\"Open sans\", verdana, arial, sans-serif"
+      },
+      "tickmode": "auto",
+      "zeroline": true,
+      "autorange": true,
+      "rangemode": "normal",
+      "tickangle": "auto",
+      "overlaying": false,
+      "showexponent": "all",
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "yaxis6": {
+      "side": "left",
+      "type": "linear",
+      "dtick": 0.5,
+      "range": [
+        0,
+        4.301768711020964
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": {
+        "font": {
+          "size": 12,
+          "color": "#444",
+          "family": "\"Open sans\", verdana, arial, sans-serif"
+        },
+        "text": "Click to enter Y axis title"
+      },
+      "anchor": "x6",
+      "domain": [
+        0.09,
+        0.47
+      ],
+      "nticks": 0,
+      "showgrid": false,
+      "showline": false,
+      "tickfont": {
+        "size": 12,
+        "color": "#444",
+        "family": "\"Open sans\", verdana, arial, sans-serif"
+      },
+      "tickmode": "auto",
+      "zeroline": true,
+      "autorange": true,
+      "rangemode": "normal",
+      "tickangle": "auto",
+      "overlaying": false,
+      "showexponent": "all",
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "yaxis7": {
+      "side": "left",
+      "type": "linear",
+      "dtick": 5,
+      "range": [
+        0,
+        11.399687084205553
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": {
+        "font": {
+          "size": 12,
+          "color": "#444",
+          "family": "\"Open sans\", verdana, arial, sans-serif"
+        },
+        "text": "Click to enter Y axis title"
+      },
+      "anchor": "x7",
+      "domain": [
+        0.09,
+        0.47
+      ],
+      "nticks": 0,
+      "showgrid": false,
+      "showline": false,
+      "tickfont": {
+        "size": 12,
+        "color": "#444",
+        "family": "\"Open sans\", verdana, arial, sans-serif"
+      },
+      "tickmode": "auto",
+      "zeroline": true,
+      "autorange": true,
+      "rangemode": "normal",
+      "tickangle": "auto",
+      "overlaying": false,
+      "showexponent": "all",
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "yaxis8": {
+      "side": "left",
+      "type": "linear",
+      "dtick": 5,
+      "range": [
+        0,
+        46.31578947368421
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": {
+        "font": {
+          "size": 12,
+          "color": "#444",
+          "family": "\"Open sans\", verdana, arial, sans-serif"
+        },
+        "text": "Click to enter Y axis title"
+      },
+      "anchor": "free",
+      "domain": [
+        0.09,
+        0.47
+      ],
+      "nticks": 0,
+      "showgrid": false,
+      "showline": false,
+      "tickfont": {
+        "size": 12,
+        "color": "#444",
+        "family": "\"Open sans\", verdana, arial, sans-serif"
+      },
+      "tickmode": "auto",
+      "zeroline": true,
+      "autorange": true,
+      "rangemode": "normal",
+      "tickangle": "auto",
+      "overlaying": false,
+      "showexponent": "all",
+      "exponentformat": "B",
+      "showticklabels": false
+    },
+    "barmode": "group",
+    "barnorm": "",
+    "autosize": false,
+    "dragmode": "zoom",
+    "hovermode": "x",
+    "separators": ".,",
+    "showlegend": true,
+    "annotations": [
+      {
+        "x": 1.0371471774193548,
+        "y": 0.8473392036753445,
+        "font": {
+          "size": 24,
+          "color": "rgb(214, 39, 40)",
+          "family": "\"Open sans\", verdana, arial, sans-serif"
+        },
+        "text": "",
+        "xref": "paper",
+        "yref": "paper",
+        "align": "center",
+        "bgcolor": "rgba(0, 0, 0, 0)",
+        "opacity": 1,
+        "xanchor": "right",
+        "yanchor": "bottom",
+        "borderpad": 1,
+        "showarrow": false,
+        "textangle": 0,
+        "bordercolor": "rgba(0, 0, 0, 0)",
+        "borderwidth": 1
+      },
+      {
+        "x": 1.0132686491935483,
+        "y": 0.8130503445635529,
+        "font": {
+          "size": 14,
+          "color": "#444",
+          "family": "\"Open sans\", verdana, arial, sans-serif"
+        },
+        "text": "",
+        "xref": "paper",
+        "yref": "paper",
+        "align": "left",
+        "bgcolor": "rgba(0, 0, 0, 0)",
+        "opacity": 1,
+        "xanchor": "right",
+        "yanchor": "bottom",
+        "borderpad": 1,
+        "showarrow": false,
+        "textangle": 0,
+        "bordercolor": "rgba(0, 0, 0, 0)",
+        "borderwidth": 1
+      },
+      {
+        "x": 0.9854586693548386,
+        "y": 0.7793596860643185,
+        "font": {
+          "size": 14,
+          "color": "#444",
+          "family": "\"Open sans\", verdana, arial, sans-serif"
+        },
+        "text": "",
+        "xref": "paper",
+        "yref": "paper",
+        "align": "center",
+        "bgcolor": "rgba(0, 0, 0, 0)",
+        "opacity": 1,
+        "xanchor": "right",
+        "yanchor": "bottom",
+        "borderpad": 1,
+        "showarrow": false,
+        "textangle": 0,
+        "bordercolor": "rgba(0, 0, 0, 0)",
+        "borderwidth": 1
+      }
+    ],
+    "bargroupgap": 0,
+    "hidesources": false,
+    "plot_bgcolor": "#fff",
+    "paper_bgcolor": "#fff"
+  }
+}

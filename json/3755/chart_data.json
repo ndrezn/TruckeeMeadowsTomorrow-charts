@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "uid": "3af33d",
+      "name": "Yes",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3977:61516c",
+      "x": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3977:ac1cba",
+      "y": [
+        "18.3%",
+        "18.8%",
+        "15.9%",
+        "16.4%",
+        "16.7%",
+        "15.4%",
+        "19.5%"
+      ],
+      "marker": {
+        "color": "rgb(31, 119, 180)"
+      }
+    },
+    {
+      "uid": "613fab",
+      "name": "No",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3977:61516c",
+      "x": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3977:e774b7",
+      "y": [
+        "81.7%",
+        "81.2%",
+        "84.1%",
+        "83.6%",
+        "83.3%",
+        "84.6%",
+        "80.5%"
+      ],
+      "marker": {
+        "color": "rgb(44, 160, 44)"
+      }
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "Reno MSA adults reporting they have ever been told they have \u00a0form of depression \u2013 Behavioral Risk Factor Surveillance System",
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2010.5,
+        2017.5
+      ],
+      "title": "Survey year",
+      "showline": true,
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "-",
+      "range": [
+        0,
+        105.26315789473684
+      ],
+      "title": "% reporting",
+      "autorange": true
+    },
+    "legend": {
+      "x": 0.483,
+      "y": 0.873546511627907,
+      "xanchor": "auto"
+    },
+    "barmode": "stack",
+    "autosize": true,
+    "titlefont": {
+      "size": 14,
+      "color": "rgb(152, 0, 0)"
+    }
+  }
+}

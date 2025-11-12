@@ -1,0 +1,452 @@
+{
+  "data": [
+    {
+      "uid": "a2dfcd",
+      "meta": {
+        "columnNames": {
+          "x": "Tax year",
+          "y": "AAGI"
+        }
+      },
+      "name": "AAGI",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3791:f4a3bd",
+      "x": [
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3791:acfae8",
+      "y": [
+        "\u00a0$\t37,366\u00a0",
+        "\u00a0$\t40,492\u00a0",
+        "\u00a0$\t42,659\u00a0",
+        "\u00a0$\t46,215\u00a0",
+        "\u00a0$\t48,168\u00a0",
+        "\u00a0$\t51,220\u00a0",
+        "\u00a0$\t48,674\u00a0",
+        "\u00a0$\t48,025\u00a0",
+        "\u00a0$\t50,101\u00a0",
+        "\u00a0$\t57,684\u00a0",
+        "\u00a0$\t62,780\u00a0",
+        "\u00a0$\t63,770\u00a0",
+        "\u00a0$\t59,850\u00a0",
+        "\u00a0$\t55,838\u00a0",
+        "\u00a0$\t54,319\u00a0",
+        "\u00a0$\t52,829\u00a0",
+        "\u00a0$\t51,635\u00a0",
+        "\u00a0$\t60,667\u00a0",
+        "\u00a0$\t58,179\u00a0",
+        "\u00a0$\t61,978\u00a0",
+        "\u00a0$\t64,382\u00a0",
+        "\u00a0$\t65,983\u00a0",
+        "\u00a0$\t69,975\u00a0",
+        "\u00a0$\t76,557\u00a0",
+        "\u00a0$\t68,823\u00a0"
+      ],
+      "marker": {
+        "color": "rgb(188, 189, 34)"
+      },
+      "opacity": 1
+    },
+    {
+      "uid": "c90ba6",
+      "meta": {
+        "columnNames": {
+          "x": "Tax year",
+          "y": "AICC"
+        }
+      },
+      "name": "AICC",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3791:f4a3bd",
+      "x": [
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3791:8f6d18",
+      "y": [
+        "\u00a0$\t2,325\u00a0",
+        "\u00a0$\t2,784\u00a0",
+        "\u00a0$\t2,777\u00a0",
+        "\u00a0$\t3,281\u00a0",
+        "\u00a0$\t3,342\u00a0",
+        "\u00a0$\t3,346\u00a0",
+        "\u00a0$\t3,080\u00a0",
+        "\u00a0$\t3,106\u00a0",
+        "\u00a0$\t3,668\u00a0",
+        "\u00a0$\t4,328\u00a0",
+        "\u00a0$\t4,846\u00a0",
+        "\u00a0$\t4,021\u00a0",
+        "\u00a0$\t3,861\u00a0",
+        "\u00a0$\t3,699\u00a0",
+        "\u00a0$\t3,551\u00a0",
+        "\u00a0$\t3,983\u00a0",
+        "\u00a0$\t4,661\u00a0",
+        "\u00a0$\t5,457\u00a0",
+        "\u00a0$\t5,455\u00a0",
+        "\u00a0$\t5,834\u00a0",
+        "\u00a0$\t5,753\u00a0",
+        "\u00a0$\t6,049\u00a0",
+        "\u00a0$\t6,661\u00a0",
+        "\u00a0$\t13,291\u00a0"
+      ],
+      "marker": {
+        "color": "rgb(80, 117, 219)"
+      }
+    },
+    {
+      "uid": "b2737a",
+      "fill": "none",
+      "line": {
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Tax year",
+          "y": "Income rank"
+        }
+      },
+      "mode": "lines",
+      "name": "Income Rank",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3791:f4a3bd",
+      "x": [
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3791:ec4763",
+      "y": [
+        "8",
+        "7",
+        "10",
+        "10",
+        "12",
+        "12",
+        "13",
+        "14",
+        "13",
+        "6",
+        "7",
+        "9",
+        "13",
+        "18",
+        "18",
+        "23",
+        "23",
+        "22",
+        "22",
+        "28",
+        "29",
+        "27",
+        "22",
+        "21"
+      ],
+      "yaxis": "y2"
+    },
+    {
+      "uid": "8aba57",
+      "fill": "none",
+      "line": {
+        "color": "rgb(56, 99, 217)",
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Tax year",
+          "y": "Giving Rank"
+        }
+      },
+      "mode": "lines",
+      "name": "Giving Rank",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3791:f4a3bd",
+      "x": [
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3791:95cc79",
+      "y": [
+        "29",
+        "19",
+        "28",
+        "19",
+        "23",
+        "29",
+        "35",
+        "33",
+        "22",
+        "15",
+        "13",
+        "31",
+        "38",
+        "37",
+        "37",
+        "35",
+        "21",
+        "20",
+        "19",
+        "21",
+        "24",
+        "24",
+        "21",
+        "24"
+      ],
+      "yaxis": "y2"
+    },
+    {
+      "uid": "e337a5",
+      "fill": "none",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(117, 117, 116)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Tax year",
+          "y": "GI Rank"
+        }
+      },
+      "mode": "lines",
+      "name": "Generosity Index Rank",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3791:f4a3bd",
+      "x": [
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3791:73cfe4",
+      "y": [
+        "39",
+        "29",
+        "39",
+        "27",
+        "30",
+        "40",
+        "44",
+        "40",
+        "28",
+        "28",
+        "10",
+        "26",
+        "32",
+        "35",
+        "37",
+        "37",
+        "32",
+        "29",
+        "34",
+        "34",
+        "33",
+        "31",
+        "30",
+        "33"
+      ],
+      "yaxis": "y2",
+      "error_y": {
+        "visible": false
+      },
+      "connectgaps": false
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 12,
+        "color": "rgb(68, 68, 68)"
+      },
+      "text": "<b>Nevada private monetary generosity rank \u2013 average adjusted gross income (AAGI)<br>&amp; average &nbsp;itemized charitable contributions (AICC)</b><br>\n<br>\n<b>Source:</b> &nbsp;The Frasier Institute, Research Bullets, <a href=\"https://www.fraserinstitute.org/sites/default/files/generosity-index-2020.pdf\">Generosity Index</a>; AGGI from the <a href=\"https://fred.stlouisfed.org/series/MEANAGINV32A052NCEN\">Federal Reserve Bank</a><br>"
+    },
+    "width": 996,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        1994.5,
+        2019.5
+      ],
+      "title": {
+        "text": "Tax year"
+      },
+      "showgrid": false,
+      "showline": false,
+      "zeroline": false,
+      "autorange": true
+    },
+    "yaxis": {
+      "range": [
+        0,
+        80586.31578947368
+      ],
+      "title": {
+        "font": {
+          "color": "rgb(44, 160, 44)"
+        },
+        "text": "Income/contributions $"
+      },
+      "showgrid": false,
+      "showline": false,
+      "tickfont": {
+        "color": "rgb(44, 160, 44)"
+      },
+      "zeroline": false,
+      "autorange": true
+    },
+    "height": 669,
+    "legend": {
+      "x": 0.10912771439087235,
+      "y": 0.2753442712144237
+    },
+    "yaxis2": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        0,
+        50
+      ],
+      "title": {
+        "text": "Nevada rank"
+      },
+      "anchor": "x",
+      "showgrid": false,
+      "showline": false,
+      "zeroline": false,
+      "autorange": false,
+      "overlaying": "y"
+    },
+    "barmode": "overlay",
+    "autosize": true,
+    "showlegend": true,
+    "annotations": [
+      {
+        "x": 2006.7607655502395,
+        "y": 77043.15466580562,
+        "font": {
+          "size": 11,
+          "color": "rgb(152, 0, 0)"
+        },
+        "text": "<i>Generosity Index recognizes the magnitude of charitable donations eligible for deduction based on the percentage of tax filers<br>donating to 501(c)3 nonprofits and percentage of aggregate income donated (non-itemized filers can not claim charitable contributions)</i>",
+        "showarrow": false
+      }
+    ],
+    "hidesources": true
+  }
+}

@@ -1,0 +1,754 @@
+{
+  "data": [
+    {
+      "uid": "174d15",
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Natural resources &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; mining"
+        }
+      },
+      "name": "Natural resources &amp; mining",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3802:a8b4dd",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3802:5a3760",
+      "y": [
+        "\u00a0\t500\u00a0",
+        "\u00a0\t510\u00a0",
+        "\u00a0\t410\u00a0",
+        "\u00a0\t360\u00a0",
+        "\u00a0\t390\u00a0",
+        "\u00a0\t360\u00a0",
+        "\u00a0\t334\u00a0",
+        "\u00a0\t307\u00a0",
+        "\u00a0\t276\u00a0",
+        "\u00a0\t313\u00a0",
+        "\u00a0\t451\u00a0",
+        "\u00a0\t550\u00a0",
+        "\u00a0\t688\u00a0",
+        "\u00a0\t754\u00a0",
+        "\u00a0\t736\u00a0",
+        "\u00a0\t863\u00a0",
+        "\u00a0\t1,062\u00a0",
+        "\u00a0\t1,019\u00a0",
+        "\u00a0\t1,071\u00a0"
+      ],
+      "marker": {
+        "color": "rgb(0, 6, 10)"
+      }
+    },
+    {
+      "uid": "5cd835",
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Construction"
+        }
+      },
+      "name": "Construction",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3802:a8b4dd",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3802:4e10d7",
+      "y": [
+        "\u00a0\t23,370\u00a0",
+        "\u00a0\t20,450\u00a0",
+        "\u00a0\t16,100\u00a0",
+        "\u00a0\t10,990\u00a0",
+        "\u00a0\t8,960\u00a0",
+        "\u00a0\t8,590\u00a0",
+        "\u00a0\t8,968\u00a0",
+        "\u00a0\t9,799\u00a0",
+        "\u00a0\t11,300\u00a0",
+        "\u00a0\t9,736\u00a0",
+        "\u00a0\t13,909\u00a0",
+        "\u00a0\t15,240\u00a0",
+        "\u00a0\t16,765\u00a0",
+        "\u00a0\t17,296\u00a0",
+        "\u00a0\t17,416\u00a0",
+        "\u00a0\t18,666\u00a0",
+        "\u00a0\t20,286\u00a0",
+        "\u00a0\t21,110\u00a0",
+        "\u00a0\t21,970\u00a0"
+      ]
+    },
+    {
+      "uid": "1e9890",
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Manufacturing"
+        }
+      },
+      "name": "Manufacturing",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3802:a8b4dd",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3802:97519a",
+      "y": [
+        "\u00a0\t14,080\u00a0",
+        "\u00a0\t14,330\u00a0",
+        "\u00a0\t13,700\u00a0",
+        "\u00a0\t11,260\u00a0",
+        "\u00a0\t10,810\u00a0",
+        "\u00a0\t10,760\u00a0",
+        "\u00a0\t10,965\u00a0",
+        "\u00a0\t11,692\u00a0",
+        "\u00a0\t12,111\u00a0",
+        "\u00a0\t12,117\u00a0",
+        "\u00a0\t12,715\u00a0",
+        "\u00a0\t13,200\u00a0",
+        "\u00a0\t13,816\u00a0",
+        "\u00a0\t14,222\u00a0",
+        "\u00a0\t13,333\u00a0",
+        "\u00a0\t14,221\u00a0",
+        "\u00a0\t14,859\u00a0",
+        "\u00a0\t14,514\u00a0",
+        "\u00a0\t13,953\u00a0"
+      ]
+    },
+    {
+      "uid": "49da96",
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Trade, transportation &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; utilities"
+        }
+      },
+      "name": "Trade, transportation &amp; utilities",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3802:a8b4dd",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3802:67cef9",
+      "y": [
+        "\u00a0\t46,110\u00a0",
+        "\u00a0\t46,870\u00a0",
+        "\u00a0\t45,840\u00a0",
+        "\u00a0\t41,880\u00a0",
+        "\u00a0\t40,500\u00a0",
+        "\u00a0\t40,210\u00a0",
+        "\u00a0\t40,569\u00a0",
+        "\u00a0\t40,984\u00a0",
+        "\u00a0\t41,906\u00a0",
+        "\u00a0\t44,410\u00a0",
+        "\u00a0\t46,291\u00a0",
+        "\u00a0\t47,690\u00a0",
+        "\u00a0\t49,797\u00a0",
+        "\u00a0\t51,281\u00a0",
+        "\u00a0\t49,042\u00a0",
+        "\u00a0\t52,330\u00a0",
+        "\u00a0\t54,049\u00a0",
+        "\u00a0\t55,602\u00a0",
+        "55,171"
+      ]
+    },
+    {
+      "uid": "9790fc",
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Information"
+        }
+      },
+      "name": "Information",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3802:a8b4dd",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3802:fcfa96",
+      "y": [
+        "\u00a0\t2,760\u00a0",
+        "\u00a0\t2,840\u00a0",
+        "\u00a0\t2,820\u00a0",
+        "\u00a0\t2,460\u00a0",
+        "\u00a0\t2,350\u00a0",
+        "\u00a0\t2,220\u00a0",
+        "\u00a0\t2,023\u00a0",
+        "\u00a0\t1,946\u00a0",
+        "\u00a0\t2,010\u00a0",
+        "\u00a0\t1,536\u00a0",
+        "\u00a0\t2,082\u00a0",
+        "\u00a0\t2,070\u00a0",
+        "\u00a0\t2,635\u00a0",
+        "\u00a0\t2,826\u00a0",
+        "\u00a0\t2,574\u00a0",
+        "\u00a0\t2,716\u00a0",
+        "\u00a0\t3,039\u00a0",
+        "\u00a0\t3,492\u00a0",
+        "\u00a0\t3,419\u00a0"
+      ]
+    },
+    {
+      "uid": "46e494",
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Financial activities"
+        }
+      },
+      "name": "Financial activities",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3802:a8b4dd",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3802:a16174",
+      "y": [
+        "\u00a0\t10,650\u00a0",
+        "\u00a0\t10,160\u00a0",
+        "\u00a0\t9,730\u00a0",
+        "\u00a0\t9,000\u00a0",
+        "\u00a0\t8,850\u00a0",
+        "\u00a0\t8,760\u00a0",
+        "\u00a0\t8,701\u00a0",
+        "\u00a0\t8,982\u00a0",
+        "\u00a0\t9,129\u00a0",
+        "\u00a0\t9,613\u00a0",
+        "\u00a0\t9,866\u00a0",
+        "\u00a0\t9,950\u00a0",
+        "\u00a0\t10,150\u00a0",
+        "\u00a0\t10,249\u00a0",
+        "\u00a0\t10,158\u00a0",
+        "\u00a0\t10,418\u00a0",
+        "\u00a0\t10,862\u00a0",
+        "\u00a0\t10,356\u00a0",
+        "\u00a0\t10,505\u00a0"
+      ]
+    },
+    {
+      "uid": "7012ba",
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Professional &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; business service"
+        }
+      },
+      "name": "Professional &amp; business services",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3802:a8b4dd",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3802:2ed144",
+      "y": [
+        "\u00a0\t28,710\u00a0",
+        "\u00a0\t28,890\u00a0",
+        "\u00a0\t26,940\u00a0",
+        "\u00a0\t24,340\u00a0",
+        "\u00a0\t24,070\u00a0",
+        "\u00a0\t24,110\u00a0",
+        "\u00a0\t25,514\u00a0",
+        "\u00a0\t26,313\u00a0",
+        "\u00a0\t26,899\u00a0",
+        "\u00a0\t28,346\u00a0",
+        "\u00a0\t30,013\u00a0",
+        "\u00a0\t30,590\u00a0",
+        "\u00a0\t31,319\u00a0",
+        "\u00a0\t31,635\u00a0",
+        "\u00a0\t31,556\u00a0",
+        "\u00a0\t31,892\u00a0",
+        "\u00a0\t33,058\u00a0",
+        "\u00a0\t33,231\u00a0",
+        "\u00a0\t33,170\u00a0"
+      ]
+    },
+    {
+      "uid": "2dbe6e",
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Education &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;  health services"
+        }
+      },
+      "name": "Educational &amp; health services",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3802:a8b4dd",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3802:2dc409",
+      "y": [
+        "\u00a0\t19,840\u00a0",
+        "\u00a0\t20,670\u00a0",
+        "\u00a0\t21,080\u00a0",
+        "\u00a0\t21,510\u00a0",
+        "\u00a0\t21,910\u00a0",
+        "\u00a0\t21,840\u00a0",
+        "\u00a0\t21,696\u00a0",
+        "\u00a0\t22,100\u00a0",
+        "\u00a0\t23,444\u00a0",
+        "\u00a0\t23,917\u00a0",
+        "\u00a0\t24,957\u00a0",
+        "\u00a0\t25,690\u00a0",
+        "\u00a0\t43,064\u00a0",
+        "\u00a0\t43,965\u00a0",
+        "\u00a0\t42,705\u00a0",
+        "\u00a0\t42,709\u00a0",
+        "\u00a0\t42,761\u00a0",
+        "\u00a0\t44,790\u00a0",
+        "\u00a0\t48,195\u00a0"
+      ]
+    },
+    {
+      "uid": "73b549",
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Leisure &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; hospitality,"
+        }
+      },
+      "name": "Leisure &amp; hospitality",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3802:a8b4dd",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3802:cac363",
+      "y": [
+        "\u00a0\t39,230\u00a0",
+        "\u00a0\t39,950\u00a0",
+        "\u00a0\t37,870\u00a0",
+        "\u00a0\t34,020\u00a0",
+        "\u00a0\t33,540\u00a0",
+        "\u00a0\t34,270\u00a0",
+        "\u00a0\t33,789\u00a0",
+        "\u00a0\t34,378\u00a0",
+        "\u00a0\t35,095\u00a0",
+        "\u00a0\t35,906\u00a0",
+        "\u00a0\t36,914\u00a0",
+        "\u00a0\t37,500\u00a0",
+        "\u00a0\t38,560\u00a0",
+        "\u00a0\t39,037\u00a0",
+        "\u00a0\t30,309\u00a0",
+        "\u00a0\t32,618\u00a0",
+        "\u00a0\t35,964\u00a0",
+        "\u00a0\t37,639\u00a0",
+        "\u00a0\t37,770\u00a0"
+      ]
+    },
+    {
+      "uid": "c229b8",
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Other services"
+        }
+      },
+      "name": "Other services",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3802:a8b4dd",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3802:f4a969",
+      "y": [
+        "\u00a0\t5,280\u00a0",
+        "\u00a0\t5,330\u00a0",
+        "\u00a0\t5,250\u00a0",
+        "\u00a0\t5,180\u00a0",
+        "\u00a0\t5,240\u00a0",
+        "\u00a0\t5,410\u00a0",
+        "\u00a0\t5,475\u00a0",
+        "\u00a0\t5,338\u00a0",
+        "\u00a0\t5,380\u00a0",
+        "\u00a0\t4,033\u00a0",
+        "\u00a0\t5,461\u00a0",
+        "\u00a0\t5,770\u00a0",
+        "\u00a0\t5,951\u00a0",
+        "\u00a0\t5,994\u00a0",
+        "\u00a0\t5,483\u00a0",
+        "\u00a0\t5,870\u00a0",
+        "\u00a0\t6,139\u00a0",
+        "\u00a0\t6,580\u00a0",
+        "\u00a0\t6,637\u00a0"
+      ]
+    },
+    {
+      "uid": "34c5ce",
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Government"
+        }
+      },
+      "name": "Government",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3802:a8b4dd",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3802:cebb9c",
+      "y": [
+        "\u00a0\t9,836\u00a0",
+        "\u00a0\t10,150\u00a0",
+        "\u00a0\t10,106\u00a0",
+        "\u00a0\t9,589\u00a0",
+        "\u00a0\t9,362\u00a0",
+        "\u00a0\t8,768\u00a0",
+        "\u00a0\t8,607\u00a0",
+        "\u00a0\t8,546\u00a0",
+        "\u00a0\t8,440\u00a0",
+        "\u00a0\t8,450\u00a0",
+        "\u00a0\t8,552\u00a0",
+        "\u00a0\t8,748\u00a0",
+        "\u00a0\t8,825\u00a0",
+        "\u00a0\t8,846\u00a0",
+        "\u00a0\t8,712\u00a0",
+        "\u00a0\t8,336\u00a0",
+        "\u00a0\t9,011\u00a0",
+        "\u00a0\t9,751\u00a0",
+        "\u00a0\t10,011\u00a0"
+      ]
+    },
+    {
+      "uid": "8e0548",
+      "line": {
+        "dash": "solid",
+        "color": "rgb(94, 92, 92)",
+        "shape": "spline",
+        "width": 3
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Total all industries"
+        }
+      },
+      "mode": "lines",
+      "name": "Total all industries",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3802:a8b4dd",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3802:a4d4af",
+      "y": [
+        "\u00a0\t218,046\u00a0",
+        "\u00a0\t218,123\u00a0",
+        "\u00a0\t208,295\u00a0",
+        "\u00a0\t188,761\u00a0",
+        "\u00a0\t183,851\u00a0",
+        "\u00a0\t183,770\u00a0",
+        "\u00a0\t183,854\u00a0",
+        "\u00a0\t188,324\u00a0",
+        "\u00a0\t194,179\u00a0",
+        "\u00a0\t201,601\u00a0",
+        "\u00a0\t210,251\u00a0",
+        "\u00a0\t216,511\u00a0",
+        "\u00a0\t221,777\u00a0",
+        "\u00a0\t226,420\u00a0",
+        "\u00a0\t212,606\u00a0",
+        "\u00a0\t221,791\u00a0",
+        "\u00a0\t231,652\u00a0",
+        "238190",
+        "\u00a0\t241,930\u00a0"
+      ]
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(68, 68, 68)"
+      },
+      "text": "<b>Washoe County covered employment by industry</b><br><br>\n<b>Source: </b>&nbsp;Nevada Department of Employment, Training &amp; Rehabilitation (<a href=\"http://nevadaworkforce.com/Home/DS-Results-QCEW2\">DETR</a>)"
+    },
+    "width": 935,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2005.5,
+        2024.5
+      ],
+      "title": {
+        "font": {
+          "size": 13
+        },
+        "text": "2024 = Q4"
+      },
+      "showgrid": false,
+      "showline": false,
+      "tickmode": "linear",
+      "zeroline": false,
+      "autorange": true,
+      "linewidth": 0,
+      "showspikes": false,
+      "rangeslider": {
+        "range": [
+          2005.5,
+          2020.5
+        ],
+        "yaxis": {},
+        "visible": false,
+        "autorange": true
+      },
+      "zerolinewidth": 0
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        254663.15789473685
+      ],
+      "title": {
+        "font": {
+          "size": 13
+        },
+        "text": "Covered employment #"
+      },
+      "zeroline": false,
+      "autorange": true,
+      "showspikes": false
+    },
+    "height": 611,
+    "legend": {
+      "x": 0.9922779922779923,
+      "y": 0.925,
+      "font": {
+        "size": 10
+      }
+    },
+    "barmode": "stack",
+    "autosize": true,
+    "showlegend": true,
+    "annotations": [
+      {
+        "x": 2012.6717791411043,
+        "y": 233083.47783612163,
+        "font": {
+          "color": "rgb(152, 0, 0)"
+        },
+        "text": "<i>[Total does not include unclassified employees]</i>",
+        "showarrow": false
+      }
+    ]
+  }
+}

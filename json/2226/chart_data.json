@@ -1,0 +1,163 @@
+{
+  "data": [
+    {
+      "uid": "094807",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Less than 18 years of age",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3836:29adb3",
+      "x": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3836:e6e49e",
+      "y": [
+        " 97,000 ",
+        " 96,000 ",
+        " 94,000 ",
+        " 104,000 ",
+        " 118,000 ",
+        " 134,000 ",
+        " 142,000 ",
+        " 161,000 ",
+        " 164,000 ",
+        " 173,000 ",
+        " 165,000 ",
+        " 162,000 ",
+        " 156,000 ",
+        " 149,000 ",
+        "\u00a0141,000\u00a0"
+      ]
+    },
+    {
+      "uid": "19b9d1",
+      "line": {
+        "shape": "hvh",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "% less than 18 years",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3836:29adb3",
+      "x": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3836:fe749c",
+      "y": [
+        "17%",
+        "16%",
+        "16%",
+        "16%",
+        "19%",
+        "20%",
+        "22%",
+        "24%",
+        "25%",
+        "26%",
+        "25%",
+        "25%",
+        "24%",
+        "22%",
+        "21%"
+      ],
+      "yaxis": "y2"
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "Nevada children in households that were food insecure at some point during the year (Kids Count)"
+    },
+    "width": 986,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2002.1429542057344,
+        2017.8570457942656
+      ],
+      "title": {
+        "text": "3-year average year-ending"
+      },
+      "showline": true,
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "-",
+      "range": [
+        88755.91062613665,
+        178244.08937386333
+      ],
+      "title": {
+        "font": {
+          "color": "rgb(31, 119, 180)"
+        },
+        "text": "Population < 18 years of age"
+      },
+      "tickfont": {
+        "color": "rgb(31, 119, 180)"
+      },
+      "autorange": true
+    },
+    "height": 616,
+    "legend": {
+      "x": 0.10646900269541779,
+      "y": 1
+    },
+    "yaxis2": {
+      "side": "right",
+      "range": [
+        15.33619121849831,
+        26.66380878150169
+      ],
+      "title": {
+        "font": {
+          "color": "rgb(255, 127, 14)"
+        },
+        "text": "%"
+      },
+      "anchor": "x",
+      "tickfont": {
+        "color": "rgb(255, 127, 14)"
+      },
+      "autorange": true,
+      "overlaying": "y"
+    },
+    "autosize": true,
+    "showlegend": true
+  }
+}

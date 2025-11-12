@@ -1,0 +1,411 @@
+{
+  "data": [
+    {
+      "uid": "e15552",
+      "line": {
+        "dash": "dot",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "School year-ending June",
+          "y": "Students to new computers* "
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Students to new computers* ",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3523:311570",
+      "x": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3523:28c000",
+      "y": [
+        "7.91",
+        "7.91",
+        "5.67",
+        "6.55",
+        "4.55",
+        "4.01",
+        "3.14",
+        "4.16",
+        "3.65"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 7
+      }
+    },
+    {
+      "uid": "45ff57",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "School year-ending June",
+          "y": "Students to old computers**"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Students to old computers**",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3523:311570",
+      "x": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3523:c18ee6",
+      "y": [
+        "17.54",
+        "18.42",
+        "25.18",
+        "12.60",
+        "10.71",
+        "14.14",
+        "7.14",
+        "6.78",
+        "6.03"
+      ],
+      "marker": {
+        "line": {
+          "width": 1
+        },
+        "size": 7
+      }
+    },
+    {
+      "uid": "fd4dc4",
+      "meta": {
+        "columnNames": {
+          "x": "School year-ending June",
+          "y": "Techs per computer"
+        }
+      },
+      "name": "Techs per computer",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3523:311570",
+      "x": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3523:848fbd",
+      "y": [
+        "0.0031",
+        "0.0003",
+        "0.0018",
+        "0.0011",
+        "0.0009",
+        "0.0008",
+        "0.0006",
+        "0.0008",
+        "0.0009"
+      ],
+      "yaxis": "y2",
+      "opacity": 0.8
+    },
+    {
+      "uid": "8b413b",
+      "meta": {
+        "columnNames": {
+          "x": "School year-ending June",
+          "y": "Tech coaches per student"
+        }
+      },
+      "name": "Tech coaches per student",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3523:311570",
+      "x": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3523:85219a",
+      "y": [
+        "0.0006",
+        "0.0006",
+        "0.0005",
+        "0.0006",
+        "0.0005",
+        "0.0005",
+        "0.0005",
+        "0.0006",
+        "0.0005"
+      ],
+      "yaxis": "y2",
+      "opacity": 0.8
+    },
+    {
+      "uid": "5411fb",
+      "line": {
+        "dash": "solid",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "School year-ending June",
+          "y": "Classrooms with interactive projection system"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Classrooms with interactive projection system",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3523:311570",
+      "x": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3523:1895a0",
+      "y": [
+        "45%",
+        "44%",
+        "74%",
+        "70%",
+        "71%",
+        "84%",
+        "74%",
+        "74%",
+        "71%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y3"
+    },
+    {
+      "uid": "3ac715",
+      "line": {
+        "dash": "dot",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "School year-ending June",
+          "y": "Commuters less than 5 years old"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Computers less than 5 years old",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3523:311570",
+      "x": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3523:38332c",
+      "y": [
+        "",
+        "69%",
+        "81%",
+        "65%",
+        "70%",
+        "77%",
+        "69%",
+        "61%",
+        "62%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y3"
+    },
+    {
+      "uid": "46bf19",
+      "line": {
+        "dash": "solid",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "School year-ending June",
+          "y": "Mobile learning devices"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Mobile learning devices",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3523:311570",
+      "x": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3523:22dad1",
+      "y": [],
+      "marker": {
+        "size": 7,
+        "color": "rgb(10, 10, 10)",
+        "symbol": "square",
+        "opacity": 1
+      }
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "WCSD educational technology"
+    },
+    "width": 871,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2010.4162711985816,
+        2019.5837288014184
+      ],
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": "School year-ending"
+      },
+      "domain": [
+        0,
+        0.45
+      ],
+      "showline": true,
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        -1.7099110659382546,
+        26.889911065938254
+      ],
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": "Student ratios"
+      },
+      "autorange": true
+    },
+    "height": 627,
+    "legend": {
+      "x": 0.20118617530039107,
+      "y": 1.0793084115231766,
+      "font": {
+        "size": 10
+      }
+    },
+    "margin": {
+      "pad": 1
+    },
+    "xaxis2": {
+      "type": "linear",
+      "range": [
+        2010.4367010750389,
+        2019.5632989249611
+      ],
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": "Click to enter X axis title"
+      },
+      "anchor": "y3",
+      "domain": [
+        0.55,
+        1
+      ],
+      "showline": true,
+      "autorange": true,
+      "linewidth": 2,
+      "zerolinewidth": 1
+    },
+    "yaxis2": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        0,
+        0.003263157894736842
+      ],
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": "Tech ratios"
+      },
+      "anchor": "x",
+      "zeroline": false,
+      "autorange": true,
+      "overlaying": "y"
+    },
+    "yaxis3": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        41.35562310030395,
+        86.64437689969606
+      ],
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": "%"
+      },
+      "anchor": "x2",
+      "domain": [
+        0,
+        1
+      ],
+      "autorange": true
+    },
+    "autosize": true,
+    "showlegend": true
+  }
+}

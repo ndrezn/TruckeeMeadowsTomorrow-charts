@@ -1,0 +1,215 @@
+{
+  "data": [
+    {
+      "uid": "bd26ad",
+      "name": "Startup Index\u2013Nevada",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3823:22ef97",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3823:9ccacc",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "0.95",
+        "2.28"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "079ac7",
+      "name": "Startup Index\u2013US",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3823:22ef97",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3823:ae224e",
+      "y": [
+        "-0.26",
+        "0.28",
+        "0.29",
+        "0.69",
+        "0.08",
+        "-0.08",
+        "-0.75",
+        "-0.71",
+        "-0.92",
+        "-0.32",
+        "0.37"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "500136",
+      "line": {
+        "dash": "solid",
+        "color": "rgb(0, 0, 255)",
+        "shape": "hvh",
+        "width": 6
+      },
+      "name": "Rate of business owners/100,000 adults\u2013Nevada",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3823:22ef97",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3823:fe5c0e",
+      "y": [
+        "6.66%",
+        "6.28%",
+        "6.26%",
+        "6.21%",
+        "6.25%",
+        "5.78%",
+        "5.25%",
+        "4.94%",
+        "4.89%",
+        "4.86%"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "39ddbd",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(255, 153, 0)",
+        "shape": "hvh",
+        "width": 6
+      },
+      "name": "Rate of business owners/100,000 adults\u2013US",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3823:22ef97",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3823:70dda8",
+      "y": [
+        "0.30%",
+        "0.30%",
+        "0.32%",
+        "0.34%",
+        "0.34%",
+        "0.32%",
+        "0.30%",
+        "0.28%",
+        "0.31%",
+        "0.33%"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "Kauffman Index of Entrepreneurial Activity",
+    "width": 846,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2005.3619143343126,
+        2016.5
+      ],
+      "title": "Index year",
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        -1.0977777777777777,
+        2.4577777777777774
+      ],
+      "title": "Startup Index %",
+      "autorange": true
+    },
+    "height": 553,
+    "legend": {
+      "x": 0.08752025931928688,
+      "y": 1.061662198391421
+    },
+    "yaxis2": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        -0.18326988025790597,
+        7.123269880257906
+      ],
+      "title": "Business owners per 100,000 adults",
+      "anchor": "x",
+      "autorange": true,
+      "overlaying": "y"
+    },
+    "autosize": true,
+    "titlefont": {
+      "size": 14,
+      "color": "rgb(152, 0, 0)"
+    },
+    "showlegend": true,
+    "breakpoints": []
+  }
+}

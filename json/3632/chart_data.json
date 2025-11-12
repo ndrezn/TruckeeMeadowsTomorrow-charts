@@ -1,0 +1,297 @@
+{
+  "data": [
+    {
+      "uid": "720d39",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Dentists\u2013Washoe"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Dentists\u2013Washoe",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3631:1fd780",
+      "x": [
+        "2004",
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3631:2435dc",
+      "y": [
+        " 58.4 ",
+        " 56.6 ",
+        " 58.1 ",
+        " 59.7 ",
+        " 61.5 ",
+        " 62.8 ",
+        " 61.2 ",
+        "\u00a070.6\u00a0"
+      ]
+    },
+    {
+      "uid": "a6081b",
+      "line": {
+        "color": "rgb(44, 160, 44)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Dentists \u2013Carson"
+        }
+      },
+      "mode": "lines+markers",
+      "name": " Dentists \u2013Carson",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3631:1fd780",
+      "x": [
+        "2004",
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3631:187d09",
+      "y": [
+        " 44.5 ",
+        " 61.8 ",
+        " 62.4 ",
+        " 61.6 ",
+        " 70.3 ",
+        " 63.9 ",
+        " 67.1 ",
+        "\u00a073.4\u00a0"
+      ]
+    },
+    {
+      "uid": "2987fc",
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Dentists \u2013Nevada"
+        }
+      },
+      "name": " Dentists \u2013Nevada",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3631:1fd780",
+      "x": [
+        "2004",
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3631:e1750b",
+      "y": [
+        " 45.3 ",
+        " 47.4 ",
+        " 52.7 ",
+        " 51.0 ",
+        " 54.6 ",
+        " 54.9 ",
+        " 54.1 ",
+        "\u00a055.5\u00a0"
+      ],
+      "marker": {
+        "color": "rgb(204, 204, 204)"
+      }
+    },
+    {
+      "uid": "e35b95",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(31, 119, 180)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Registered dental hygienists\u2013Washoe"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Registered dental hygienists\u2013Washoe",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3631:1fd780",
+      "x": [
+        "2004",
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3631:7f272e",
+      "y": [
+        " 62.8 ",
+        " 57.4 ",
+        " 58.6 ",
+        " 57.0 ",
+        " 57.7 ",
+        " 59.0 ",
+        " 56.4 ",
+        "\u00a061.9\u00a0"
+      ],
+      "yaxis": "y2"
+    },
+    {
+      "uid": "ced6da",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(44, 160, 44)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Registered dental hygienists\u2013Carson"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Registered dental hygienists\u2013Carson",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3631:1fd780",
+      "x": [
+        "2004",
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3631:8d5f12",
+      "y": [
+        " 55.2 ",
+        " 44.6 ",
+        " 69.3 ",
+        " 68.9 ",
+        " 75.7 ",
+        " 69.4 ",
+        " 61.6 ",
+        "\u00a046.5\u00a0"
+      ],
+      "yaxis": "y2"
+    },
+    {
+      "uid": "61cbb5",
+      "line": {
+        "dash": "solid",
+        "color": "rgb(127, 127, 127)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Registered dental hygienists\u2013Nevada"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Registered dental hygienists\u2013Nevada",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3631:1fd780",
+      "x": [
+        "2004",
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3631:6d4a69",
+      "y": [
+        " 41.1 ",
+        " 36.8 ",
+        " 36.5 ",
+        " 35.7 ",
+        " 37.2 ",
+        " 37.0 ",
+        " 35.9 ",
+        "\u00a032.7\u00a0"
+      ],
+      "yaxis": "y2"
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "Licensed oral health professionals per 100,000 population"
+    },
+    "width": 1099,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2003,
+        2019
+      ],
+      "domain": [
+        0,
+        0.95
+      ],
+      "showline": true,
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        77.89192708333334
+      ],
+      "title": {
+        "text": "Dentists"
+      },
+      "autorange": true
+    },
+    "height": 669,
+    "legend": {
+      "font": {
+        "size": 10,
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    "yaxis2": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        29.896948682385577,
+        78.50305131761442
+      ],
+      "title": {
+        "text": "Dental Hygienists"
+      },
+      "anchor": "x",
+      "autorange": true,
+      "overlaying": "y"
+    },
+    "autosize": true
+  }
+}

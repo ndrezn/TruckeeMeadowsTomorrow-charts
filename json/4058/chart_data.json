@@ -1,0 +1,1247 @@
+{
+  "data": [
+    {
+      "line": {
+        "shape": "spline",
+        "width": 5
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Reno Composite"
+        }
+      },
+      "mode": "lines",
+      "name": "Reno-Sparks MSA Composite",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3774:53680d",
+      "x": [
+        "1989",
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3774:751778",
+      "y": [
+        "102.1",
+        "103.0",
+        "105.3",
+        "108.2",
+        "109.3",
+        "112.3",
+        "112.2",
+        "113.5",
+        "112.5",
+        "113.7",
+        "109.8",
+        "110.4",
+        "107.5",
+        "106.0",
+        "103.3",
+        "105.3",
+        "111.7",
+        "107.2",
+        "108.1",
+        "110.5",
+        "106.0",
+        "101.0",
+        "94.0",
+        "92.3",
+        "90.1",
+        "97.2",
+        "104.8",
+        "104.6",
+        "110.4",
+        "111.0",
+        "113.7",
+        "113.1",
+        "104.1",
+        "105.4",
+        "103.5",
+        "104.0"
+      ]
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Grocery"
+        }
+      },
+      "mode": "markers",
+      "name": "Grocery",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3774:53680d",
+      "x": [
+        "1989",
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3774:b14655",
+      "y": [
+        "97.0",
+        "98.3",
+        "99.6",
+        "102.6",
+        "104.6",
+        "107.6",
+        "103.5",
+        "105.5",
+        "105.8",
+        "110.7",
+        "109.6",
+        "114.7",
+        "113.3",
+        "104.4",
+        "101.8",
+        "101.5",
+        "108.5",
+        "111.7",
+        "104.4",
+        "110.0",
+        "107.4",
+        "105.4",
+        "100.6",
+        "101.5",
+        "90.3",
+        "106.1",
+        "105.9",
+        "102.3",
+        "107.2",
+        "121.7",
+        "118.3",
+        "113.7",
+        "100.5",
+        "105.5",
+        "102.5",
+        "102.8"
+      ],
+      "marker": {
+        "line": {
+          "width": 1
+        },
+        "size": 8,
+        "color": "rgb(2, 225, 2)"
+      }
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Housing"
+        }
+      },
+      "mode": "markers",
+      "name": "Housing",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3774:53680d",
+      "x": [
+        "1989",
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3774:41959e",
+      "y": [
+        "112.6",
+        "115.8",
+        "122.6",
+        "126.7",
+        "125.7",
+        "124.8",
+        "125.6",
+        "129.4",
+        "129.8",
+        "126.4",
+        "117.5",
+        "115.2",
+        "107.3",
+        "101.3",
+        "100.5",
+        "102.9",
+        "121.1",
+        "113.0",
+        "114.5",
+        "123.5",
+        "112.3",
+        "101.3",
+        "87.1",
+        "85.9",
+        "88.7",
+        "86.3",
+        "94.6",
+        "97.8",
+        "108.5",
+        "115.4",
+        "124.6",
+        "126.0",
+        "120.1",
+        "120.9",
+        "109.0",
+        "110.9"
+      ],
+      "marker": {
+        "line": {
+          "width": 1
+        },
+        "size": 9,
+        "color": "rgb(52, 52, 51)"
+      },
+      "stackgroup": null
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Utilities"
+        }
+      },
+      "mode": "markers",
+      "name": "Utilities",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3774:53680d",
+      "x": [
+        "1989",
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3774:57a9f7",
+      "y": [
+        "91.3",
+        "83.4",
+        "81.9",
+        "81.9",
+        "79.7",
+        "89.1",
+        "95.2",
+        "94.0",
+        "90.6",
+        "93.9",
+        "95.0",
+        "93.2",
+        "96.6",
+        "131.4",
+        "104.3",
+        "107.1",
+        "105.2",
+        "90.4",
+        "86.6",
+        "94.3",
+        "97.0",
+        "91.4",
+        "87.4",
+        "76.4",
+        "73.0",
+        "81.5",
+        "96.9",
+        "91.3",
+        "83.1",
+        "82.5",
+        "85.7",
+        "83.7",
+        "84.2",
+        "87.3",
+        "88.6",
+        "93.6"
+      ],
+      "marker": {
+        "color": "rgb(133, 24, 253)"
+      },
+      "stackgroup": null
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Healthcare"
+        }
+      },
+      "mode": "markers",
+      "name": "Healthcare",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3774:53680d",
+      "x": [
+        "1989",
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3774:bd1497",
+      "y": [
+        "111.2",
+        "112.2",
+        "119.5",
+        "119.5",
+        "123.2",
+        "132.2",
+        "121.8",
+        "117.6",
+        "110.9",
+        "122.4",
+        "121.0",
+        "126.3",
+        "123.5",
+        "103.1",
+        "101.5",
+        "101.8",
+        "111.6",
+        "115.5",
+        "109.1",
+        "109.8",
+        "105.9",
+        "101.6",
+        "102.7",
+        "99.2",
+        "93.5",
+        "94.7",
+        "101.3",
+        "106.7",
+        "111.7",
+        "112.0",
+        "112.9",
+        "113.4",
+        "103.1",
+        "99.7",
+        "91.7",
+        "88.7"
+      ],
+      "marker": {
+        "size": 6,
+        "color": "rgb(4, 214, 251)"
+      },
+      "stackgroup": null
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Transportation"
+        }
+      },
+      "mode": "markers",
+      "name": "Transportation",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3774:53680d",
+      "x": [
+        "1989",
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3774:2b82c1",
+      "y": [
+        "97.6",
+        "101.9",
+        "101.3",
+        "102.8",
+        "102.3",
+        "107.4",
+        "109.3",
+        "113.5",
+        "114.2",
+        "109.5",
+        "120.7",
+        "118.8",
+        "116.2",
+        "110.5",
+        "116.7",
+        "120.7",
+        "106.8",
+        "104.1",
+        "111.7",
+        "102.2",
+        "108.8",
+        "107.3",
+        "103.9",
+        "109.3",
+        "103.3",
+        "107.4",
+        "117.9",
+        "116.4",
+        "119.8",
+        "114.6",
+        "124.3",
+        "128.3",
+        "123.6",
+        "116.9",
+        "122.8",
+        "123.2"
+      ],
+      "marker": {
+        "size": 7,
+        "color": "rgb(245, 3, 18)"
+      },
+      "stackgroup": null
+    },
+    {
+      "line": {
+        "color": "rgb(194, 193, 192)"
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "I"
+        }
+      },
+      "mode": "lines",
+      "name": "Index",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3774:53680d",
+      "x": [
+        "1989",
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3774:8ae768",
+      "y": [
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100",
+        "100"
+      ],
+      "showlegend": false
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "x": 0.5,
+      "font": {
+        "size": 13
+      },
+      "text": "<b>Cost of Living Component \u2013 Reno-Sparks MSA (100 = typical middle-class family)</b><br><br>\n<i><b>Source:</b></i><i> American Chamber of Commerce Research Association;<br>\nCouncil for Community and Economic Research, starting 2019, compiled by NV Energy, Economic Development</i>"
+    },
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        1986.663214061519,
+        2026.336785938481
+      ],
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": "2021 &amp; 2023 = Q3"
+      },
+      "autorange": true,
+      "gridwidth": 2
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        68.84287222808871,
+        136.35712777191128
+      ],
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": "COL components"
+      },
+      "autorange": true,
+      "gridwidth": 1
+    },
+    "legend": {
+      "font": {
+        "size": 11
+      }
+    },
+    "autosize": true,
+    "template": {
+      "data": {
+        "bar": [
+          {
+            "type": "bar",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "table": [
+          {
+            "type": "table",
+            "cells": {
+              "fill": {
+                "color": "#EBF0F8"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "header": {
+              "fill": {
+                "color": "#C8D4E3"
+              },
+              "line": {
+                "color": "white"
+              }
+            }
+          }
+        ],
+        "carpet": [
+          {
+            "type": "carpet",
+            "aaxis": {
+              "gridcolor": "#C8D4E3",
+              "linecolor": "#C8D4E3",
+              "endlinecolor": "#2a3f5f",
+              "minorgridcolor": "#C8D4E3",
+              "startlinecolor": "#2a3f5f"
+            },
+            "baxis": {
+              "gridcolor": "#C8D4E3",
+              "linecolor": "#C8D4E3",
+              "endlinecolor": "#2a3f5f",
+              "minorgridcolor": "#C8D4E3",
+              "startlinecolor": "#2a3f5f"
+            }
+          }
+        ],
+        "mesh3d": [
+          {
+            "type": "mesh3d",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "contour": [
+          {
+            "type": "contour",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ],
+        "heatmap": [
+          {
+            "type": "heatmap",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ],
+        "scatter": [
+          {
+            "type": "scatter",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "surface": [
+          {
+            "type": "surface",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "heatmapgl": [
+          {
+            "type": "heatmapgl",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "histogram": [
+          {
+            "type": "histogram",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "parcoords": [
+          {
+            "line": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            },
+            "type": "parcoords"
+          }
+        ],
+        "scatter3d": [
+          {
+            "type": "scatter3d",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scattergl": [
+          {
+            "type": "scattergl",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "choropleth": [
+          {
+            "type": "choropleth",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "scattergeo": [
+          {
+            "type": "scattergeo",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "histogram2d": [
+          {
+            "type": "histogram2d",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ],
+        "scatterpolar": [
+          {
+            "type": "scatterpolar",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "contourcarpet": [
+          {
+            "type": "contourcarpet",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "scattercarpet": [
+          {
+            "type": "scattercarpet",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scattermapbox": [
+          {
+            "type": "scattermapbox",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scatterpolargl": [
+          {
+            "type": "scatterpolargl",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scatterternary": [
+          {
+            "type": "scatterternary",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "histogram2dcontour": [
+          {
+            "type": "histogram2dcontour",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ]
+      },
+      "layout": {
+        "geo": {
+          "bgcolor": "white",
+          "showland": true,
+          "lakecolor": "white",
+          "landcolor": "white",
+          "showlakes": true,
+          "subunitcolor": "#C8D4E3"
+        },
+        "font": {
+          "color": "#2a3f5f"
+        },
+        "polar": {
+          "bgcolor": "white",
+          "radialaxis": {
+            "ticks": "",
+            "gridcolor": "#EBF0F8",
+            "linecolor": "#EBF0F8"
+          },
+          "angularaxis": {
+            "ticks": "",
+            "gridcolor": "#EBF0F8",
+            "linecolor": "#EBF0F8"
+          }
+        },
+        "scene": {
+          "xaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
+            "showbackground": true,
+            "backgroundcolor": "white"
+          },
+          "yaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
+            "showbackground": true,
+            "backgroundcolor": "white"
+          },
+          "zaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
+            "showbackground": true,
+            "backgroundcolor": "white"
+          }
+        },
+        "title": {
+          "x": 0.05
+        },
+        "xaxis": {
+          "ticks": "",
+          "gridcolor": "#EBF0F8",
+          "linecolor": "#EBF0F8",
+          "automargin": true,
+          "zerolinecolor": "#EBF0F8",
+          "zerolinewidth": 2
+        },
+        "yaxis": {
+          "ticks": "",
+          "gridcolor": "#EBF0F8",
+          "linecolor": "#EBF0F8",
+          "automargin": true,
+          "zerolinecolor": "#EBF0F8",
+          "zerolinewidth": 2
+        },
+        "ternary": {
+          "aaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
+          },
+          "baxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
+          },
+          "caxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
+          },
+          "bgcolor": "white"
+        },
+        "colorway": [
+          "#636efa",
+          "#EF553B",
+          "#00cc96",
+          "#ab63fa",
+          "#19d3f3",
+          "#e763fa",
+          "#fecb52",
+          "#ffa15a",
+          "#ff6692",
+          "#b6e880"
+        ],
+        "hovermode": "closest",
+        "colorscale": {
+          "diverging": [
+            [
+              0,
+              "#8e0152"
+            ],
+            [
+              0.1,
+              "#c51b7d"
+            ],
+            [
+              0.2,
+              "#de77ae"
+            ],
+            [
+              0.3,
+              "#f1b6da"
+            ],
+            [
+              0.4,
+              "#fde0ef"
+            ],
+            [
+              0.5,
+              "#f7f7f7"
+            ],
+            [
+              0.6,
+              "#e6f5d0"
+            ],
+            [
+              0.7,
+              "#b8e186"
+            ],
+            [
+              0.8,
+              "#7fbc41"
+            ],
+            [
+              0.9,
+              "#4d9221"
+            ],
+            [
+              1,
+              "#276419"
+            ]
+          ],
+          "sequential": [
+            [
+              0,
+              "#0508b8"
+            ],
+            [
+              0.0893854748603352,
+              "#1910d8"
+            ],
+            [
+              0.1787709497206704,
+              "#3c19f0"
+            ],
+            [
+              0.2681564245810056,
+              "#6b1cfb"
+            ],
+            [
+              0.3575418994413408,
+              "#981cfd"
+            ],
+            [
+              0.44692737430167595,
+              "#bf1cfd"
+            ],
+            [
+              0.5363128491620112,
+              "#dd2bfd"
+            ],
+            [
+              0.6256983240223464,
+              "#f246fe"
+            ],
+            [
+              0.7150837988826816,
+              "#fc67fd"
+            ],
+            [
+              0.8044692737430168,
+              "#fe88fc"
+            ],
+            [
+              0.8938547486033519,
+              "#fea5fd"
+            ],
+            [
+              0.9832402234636871,
+              "#febefe"
+            ],
+            [
+              1,
+              "#fec3fe"
+            ]
+          ],
+          "sequentialminus": [
+            [
+              0,
+              "#0508b8"
+            ],
+            [
+              0.0893854748603352,
+              "#1910d8"
+            ],
+            [
+              0.1787709497206704,
+              "#3c19f0"
+            ],
+            [
+              0.2681564245810056,
+              "#6b1cfb"
+            ],
+            [
+              0.3575418994413408,
+              "#981cfd"
+            ],
+            [
+              0.44692737430167595,
+              "#bf1cfd"
+            ],
+            [
+              0.5363128491620112,
+              "#dd2bfd"
+            ],
+            [
+              0.6256983240223464,
+              "#f246fe"
+            ],
+            [
+              0.7150837988826816,
+              "#fc67fd"
+            ],
+            [
+              0.8044692737430168,
+              "#fe88fc"
+            ],
+            [
+              0.8938547486033519,
+              "#fea5fd"
+            ],
+            [
+              0.9832402234636871,
+              "#febefe"
+            ],
+            [
+              1,
+              "#fec3fe"
+            ]
+          ]
+        },
+        "plot_bgcolor": "white",
+        "paper_bgcolor": "white",
+        "shapedefaults": {
+          "line": {
+            "width": 0
+          },
+          "opacity": 0.4,
+          "fillcolor": "#506784"
+        },
+        "annotationdefaults": {
+          "arrowhead": 0,
+          "arrowcolor": "#506784",
+          "arrowwidth": 1
+        }
+      },
+      "themeRef": "PLOTLY_WHITE"
+    }
+  }
+}

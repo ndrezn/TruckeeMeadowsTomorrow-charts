@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "uid": "30a4a4",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Meals provided",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3837:4d3c3a",
+      "x": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3837:d170bf",
+      "y": [
+        "8,100,000",
+        "12,800,000",
+        "15,421,754",
+        "14,467,189",
+        "15,150,560",
+        "13,962,781",
+        "14,135,466"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 8,
+        "color": "rgb(56, 210, 56)"
+      },
+      "opacity": 1,
+      "orientation": "v"
+    },
+    {
+      "uid": "875493",
+      "line": {
+        "dash": "dot",
+        "shape": "spline",
+        "width": 8
+      },
+      "mode": "lines+markers",
+      "name": "%\u2206",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3837:4d3c3a",
+      "x": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3837:d544ac",
+      "y": [
+        "",
+        "58.02%",
+        "20.48%",
+        "-6.19%",
+        "4.72%",
+        "-7.84%",
+        "1.24%"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "size": 7
+      }
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "\n\n\n\n\n\n\n\nFood distributed by the Food Bank of Northern Nevada"
+    },
+    "width": 1099,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2010.5,
+        2017.5
+      ],
+      "tick0": 1,
+      "title": {
+        "text": "FY-ending"
+      },
+      "anchor": "y",
+      "showgrid": true,
+      "showline": true,
+      "tickmode": "linear",
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        16233425.263157895
+      ],
+      "title": {
+        "font": {
+          "color": "rgb(68, 68, 68)"
+        },
+        "text": "Meals provided"
+      },
+      "anchor": "free",
+      "domain": [
+        0,
+        1
+      ],
+      "nticks": 0,
+      "showgrid": false,
+      "tickfont": {
+        "color": "rgb(68, 68, 68)"
+      },
+      "autorange": true,
+      "gridcolor": "rgb(201, 218, 248)",
+      "gridwidth": 0.5,
+      "zerolinewidth": 0.5
+    },
+    "height": 623,
+    "legend": {
+      "x": 0.12933333333333333,
+      "y": 0.9556195249238926
+    },
+    "yaxis2": {
+      "side": "right",
+      "range": [
+        -12.319898704962174,
+        62.49989870496218
+      ],
+      "title": {
+        "font": {
+          "color": "rgb(255, 127, 14)"
+        },
+        "text": "%\u2206"
+      },
+      "anchor": "x",
+      "domain": [
+        0,
+        1
+      ],
+      "showgrid": false,
+      "showline": false,
+      "tickfont": {
+        "color": "rgb(255, 127, 14)"
+      },
+      "autorange": true,
+      "gridcolor": "rgb(249, 203, 156)",
+      "gridwidth": 0,
+      "overlaying": "y",
+      "zerolinecolor": "rgb(255, 127, 14)",
+      "zerolinewidth": 3
+    },
+    "autosize": true,
+    "showlegend": true
+  }
+}

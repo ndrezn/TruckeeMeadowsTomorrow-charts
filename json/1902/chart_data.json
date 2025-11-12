@@ -1,0 +1,828 @@
+{
+  "data": [
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Fiscal year",
+          "y": "Churchill Arts Council*"
+        }
+      },
+      "mode": "markers+lines",
+      "name": "Churchill Arts Council*",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3829:bf423b",
+      "x": [
+        "\n",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3829:f0a108",
+      "y": [
+        "Churchill Arts Council*",
+        "$35,000",
+        "$40,000",
+        "$45,000",
+        "$50,000",
+        "$50,000",
+        "$10,000",
+        "$30,000",
+        "$40,000",
+        "$35,000",
+        "$35,000",
+        "$15,000",
+        "$10,000",
+        "$50,000",
+        "\n",
+        "\n"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "opacity": 1
+      },
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Fiscal year",
+          "y": "Artown"
+        }
+      },
+      "mode": "markers+lines",
+      "name": "Artown",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3829:bf423b",
+      "x": [
+        "\n",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3829:a10a84",
+      "y": [
+        "Artown",
+        "$20,000",
+        "$30,000",
+        "$10,000",
+        "\n",
+        "$30,000",
+        "$10,000",
+        "\n",
+        "$25,000",
+        "$15,000",
+        "$10,000",
+        "$25,000",
+        "\n",
+        "$25,000",
+        "$10,000",
+        "$35,000"
+      ],
+      "marker": {
+        "opacity": 1
+      },
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Fiscal year",
+          "y": "Nevada Museum of Art, Inc."
+        }
+      },
+      "mode": "markers+lines",
+      "name": "Nevada Museum of Art, Inc.",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3829:bf423b",
+      "x": [
+        "\n",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3829:6bf584",
+      "y": [
+        "Nevada Museum of Art, Inc.",
+        "$25,000",
+        "$20,000",
+        "$10,000",
+        "\n",
+        "\n",
+        "$60,000",
+        "\n",
+        "\n",
+        "\n",
+        "$60,000",
+        "\n",
+        "\n",
+        "\n",
+        "$40,000",
+        "\n"
+      ],
+      "marker": {
+        "opacity": 1
+      },
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Fiscal year",
+          "y": "Capital City Arts Initiative"
+        }
+      },
+      "mode": "markers+lines",
+      "name": "Capital City Arts Initiative",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3829:bf423b",
+      "x": [
+        "\n",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3829:0140c8",
+      "y": [
+        "Capital City Arts Initiative",
+        "\n",
+        "\n",
+        "$10,000",
+        "$10,000",
+        "\n",
+        "$10,000",
+        "\n",
+        "\n",
+        "$10,000",
+        "$10,000",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "$10,000"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "opacity": 1
+      },
+      "orientation": "v"
+    },
+    {
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Fiscal year",
+          "y": "Carson Valley Arts Council"
+        }
+      },
+      "mode": "markers+lines",
+      "name": "Carson Valley Arts Council",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3829:bf423b",
+      "x": [
+        "\n",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3829:03e16b",
+      "y": [
+        "Carson Valley Arts Council",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "$10,000",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "$20,000",
+        "\n"
+      ],
+      "yaxis": "y",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "opacity": 1
+      },
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Fiscal year",
+          "y": "Sierra Nevada Ballet"
+        }
+      },
+      "mode": "markers+lines",
+      "name": "Sierra Nevada Ballet",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3829:bf423b",
+      "x": [
+        "\n",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3829:501eb0",
+      "y": [
+        "Sierra Nevada Ballet",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "$10,000",
+        "\n",
+        "$10,000",
+        "\n",
+        "$10,000",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ],
+      "marker": {
+        "opacity": 1
+      },
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Fiscal year",
+          "y": "County of Washoe, Nevada"
+        }
+      },
+      "mode": "markers+lines",
+      "name": "County of Washoe, Nevada",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3829:bf423b",
+      "x": [
+        "\n",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3829:0a9aba",
+      "y": [
+        "County of Washoe, Nevada",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "$75,000",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ],
+      "marker": {
+        "opacity": 1
+      },
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Fiscal year",
+          "y": "City of Sparks, Nevada"
+        }
+      },
+      "mode": "markers+lines",
+      "name": "City of Sparks, Nevada",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3829:bf423b",
+      "x": [
+        "\n",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3829:7640ba",
+      "y": [
+        "City of Sparks, Nevada",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "$47,718",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "$18,750",
+        "\n"
+      ],
+      "marker": {
+        "opacity": 1
+      },
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Fiscal year",
+          "y": "City of Reno, Nevada*"
+        }
+      },
+      "mode": "markers+lines",
+      "name": "City of Reno, Nevada*",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3829:bf423b",
+      "x": [
+        "\n",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3829:993d6b",
+      "y": [
+        "City of Reno, Nevada*",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "$130,000",
+        "$315,590",
+        "$15,000",
+        "$511,262",
+        "$35,000",
+        "\n"
+      ],
+      "marker": {
+        "opacity": 1
+      },
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Fiscal year",
+          "y": "Carson City Symphony Association, Inc."
+        }
+      },
+      "mode": "markers+lines",
+      "name": "Carson City Symphony Association, Inc.",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3829:bf423b",
+      "x": [
+        "\n",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3829:2daee2",
+      "y": [
+        "Carson City Symphony Association, Inc.",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "$10,000",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ],
+      "marker": {
+        "opacity": 1
+      },
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Fiscal year",
+          "y": "Reno Chamber Orchestra, Inc.*"
+        }
+      },
+      "mode": "markers+lines",
+      "name": "Reno Chamber Orchestra, Inc.*",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3829:bf423b",
+      "x": [
+        "\n",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3829:bcf6c7",
+      "y": [
+        "Reno Chamber Orchestra, Inc.*",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "$50,000",
+        "\n"
+      ],
+      "yaxis": "y",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "opacity": 1
+      },
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Fiscal year",
+          "y": "Truckee Meadows Parks Foundation"
+        }
+      },
+      "name": "Truckee Meadows Parks Foundation",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3829:bf423b",
+      "x": [
+        "\n",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3829:56f07a",
+      "y": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "\n",
+        "$10,000"
+      ],
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Fiscal year",
+          "y": "UNR,  Board of Regents NV System of Higher Educ."
+        }
+      },
+      "name": "UNR, &nbsp;Board of Regents NV System of Higher Educ.",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3829:bf423b",
+      "x": [
+        "\n",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3829:c67fe7",
+      "y": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "$9,982",
+        "$10,000"
+      ],
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Fiscal year",
+          "y": "Fallon Paiute Shoshone Tribe"
+        }
+      },
+      "name": "Fallon Paiute Shoshone Tribe",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3829:bf423b",
+      "x": [
+        "\n",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3829:978973",
+      "y": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "$10,000"
+      ],
+      "marker": {
+        "line": {
+          "width": 1
+        }
+      },
+      "orientation": "v"
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "family": "Arial"
+      },
+      "text": "<b>National Endowment for the Arts grants in northern Nevada</b><br><br>\n<b>Source:</b> <a href=\"http://nvculture.org/nevadaartscouncil/grants/past-grantees/\"><b>National Endowment for the Arts</b></a>"
+    },
+    "width": 782,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2009,
+        2024
+      ],
+      "title": {
+        "text": "Fiscal year"
+      },
+      "anchor": "y",
+      "showgrid": true,
+      "showline": false,
+      "zeroline": false,
+      "autorange": false,
+      "linewidth": 0,
+      "showspikes": false
+    },
+    "yaxis": {
+      "range": [
+        0,
+        680256.8421052631
+      ],
+      "title": {
+        "text": "Grant award dolllars"
+      },
+      "anchor": "free",
+      "autorange": true,
+      "showspikes": false
+    },
+    "height": 570,
+    "legend": {
+      "x": 1.0158807826220102,
+      "y": 0.9758126388047648,
+      "font": {
+        "size": 9
+      },
+      "traceorder": "normal"
+    },
+    "barmode": "stack",
+    "autosize": true,
+    "showlegend": true,
+    "annotations": [
+      {
+        "x": 2015.0117783731278,
+        "y": 642388.6639676113,
+        "font": {
+          "size": 11,
+          "color": "rgb(152, 0, 0)"
+        },
+        "text": "<i>*Beginning 2019, grants included Coronavirus Aid Relief, Economic Security (CARES) Act,<br>and American Rescue Plan support for local arts agencies</i>",
+        "showarrow": false
+      },
+      {
+        "x": 2015.7014829966556,
+        "y": 534453.4412955465,
+        "font": {
+          "size": 11,
+          "color": "rgb(152, 0, 0)"
+        },
+        "text": "Northern Nevada includes congressional district 2,<br>excluding Nevada Arts Council &amp; awards in Elko",
+        "showarrow": false
+      }
+    ]
+  }
+}

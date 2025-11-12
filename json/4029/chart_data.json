@@ -1,0 +1,292 @@
+{
+  "data": [
+    {
+      "uid": "8af627",
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "# Adoptions completed"
+        }
+      },
+      "name": "# Adoptions completed",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:4028:64cdb6",
+      "x": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4028:1f17ca",
+      "y": [
+        "",
+        "",
+        "43",
+        "75",
+        "107",
+        "100",
+        "136",
+        "119",
+        "120",
+        "138",
+        "141",
+        "184",
+        "110",
+        "117",
+        "156",
+        "116",
+        "136",
+        "159",
+        "200"
+      ],
+      "marker": {
+        "color": "rgb(188, 189, 34)"
+      }
+    },
+    {
+      "uid": "dd05ed",
+      "line": {
+        "color": "rgb(44, 160, 44)",
+        "shape": "spline",
+        "width": 5
+      },
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "# Children in legal custody"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "# Children in legal custody",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4028:64cdb6",
+      "x": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4028:694e37",
+      "y": [
+        "\u00a0\t284\u00a0",
+        "\u00a0\t553\u00a0",
+        "\u00a0\t870\u00a0",
+        "\u00a0\t921\u00a0",
+        "\u00a0\t955\u00a0",
+        "\u00a0\t987\u00a0",
+        "\u00a0\t991\u00a0",
+        "\u00a0\t973\u00a0",
+        "\u00a0\t831\u00a0",
+        "\u00a0\t771\u00a0",
+        "\u00a0\t718\u00a0",
+        "\u00a0\t612\u00a0",
+        "\u00a0\t811\u00a0",
+        "\u00a0\t928\u00a0",
+        "\u00a0\t1,002\u00a0",
+        "\u00a0\t1,582\u00a0",
+        "\u00a0\t1,480\u00a0",
+        "\u00a0\t901\u00a0",
+        "\u00a0\t822\u00a0"
+      ],
+      "marker": {
+        "size": 9,
+        "color": "rgb(127, 127, 127)"
+      }
+    },
+    {
+      "uid": "86ce56",
+      "line": {
+        "color": "rgb(31, 119, 180)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Average # days in paid foster care"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Average # days in paid foster care",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4028:64cdb6",
+      "x": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4028:ef5886",
+      "y": [
+        "\u00a0\t52\u00a0",
+        "\u00a0\t58\u00a0",
+        "\u00a0\t195\u00a0",
+        "\u00a0\t225\u00a0",
+        "\u00a0\t277\u00a0",
+        "\u00a0\t278\u00a0",
+        "\u00a0\t483\u00a0",
+        "\u00a0\t468\u00a0",
+        "\u00a0\t544\u00a0",
+        "\u00a0\t452\u00a0",
+        "\u00a0\t458\u00a0",
+        "\u00a0\t422\u00a0",
+        "\u00a0\t388\u00a0",
+        "\u00a0\t356\u00a0",
+        "\u00a0\t383\u00a0",
+        "\u00a0\t390\u00a0",
+        "\u00a0\t420\u00a0",
+        "\u00a0\t510\u00a0",
+        "\u00a0\t510\u00a0"
+      ],
+      "marker": {
+        "size": 10,
+        "color": "rgb(127, 127, 127)",
+        "symbol": "square"
+      }
+    },
+    {
+      "uid": "d58fae",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(148, 103, 189)",
+        "shape": "spline",
+        "width": 7
+      },
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Foster care out-of-home placements"
+        }
+      },
+      "mode": "lines",
+      "name": "Foster care out-of-home placements",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4028:64cdb6",
+      "x": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4028:a10077",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "\u00a01,019\u00a0",
+        "\u00a0918\u00a0",
+        "\u00a0787\u00a0",
+        "\u00a0754\u00a0",
+        "\u00a0716\u00a0",
+        "\u00a0757\u00a0",
+        "\u00a0886\u00a0",
+        "\u00a0951\u00a0",
+        "\u00a0954\u00a0",
+        "\u00a0888\u00a0",
+        "\u00a0911\u00a0"
+      ]
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "Washoe County Children's Services placements"
+    },
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        1999.7654344154626,
+        2020.2345655845374
+      ],
+      "title": {
+        "text": "Fiscal year-ending June 30th"
+      },
+      "zeroline": true,
+      "autorange": true,
+      "zerolinewidth": 2
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        -56.455266515059066,
+        1688.3336846192246
+      ],
+      "title": {
+        "text": "Child welfare numbers"
+      },
+      "autorange": true,
+      "gridwidth": 2
+    },
+    "autosize": true,
+    "hovermode": "closest",
+    "showlegend": true
+  }
+}

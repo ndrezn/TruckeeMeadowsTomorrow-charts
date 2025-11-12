@@ -1,0 +1,362 @@
+{
+  "data": [
+    {
+      "uid": "d219f6",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Past 30-day use of cigarettes, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3940:eb117b",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3940:cade13",
+      "y": [
+        "9.6",
+        "11.0",
+        "9.1",
+        "10.9",
+        "11.0",
+        "7.4",
+        "3.7",
+        "2.1"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "b9f7ea",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Had first whole cigarette for the first time before age 13, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3940:eb117b",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3940:8af82b",
+      "y": [
+        "15.6",
+        "17.3",
+        "12.9",
+        "15.7",
+        "13.1",
+        "10.7"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "f40e79",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Had first cigarette for the first time before age 11***, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3940:eb117b",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3940:35acdd",
+      "y": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "2.1",
+        "4.5"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "68e97b",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Past 30-day use of chewing tobacco, snuff or dip, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3940:eb117b",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3940:85da98",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "3.0",
+        "2.0",
+        "1.7"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "832fd6",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Past 30-day use of cigars, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3940:eb117b",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3940:1cb13e",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "3.1",
+        "1.8"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "dc9fe5",
+      "name": "Currently use electronic vapor products (past 30 days), y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3940:eb117b",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3940:46dfb0",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "12.3",
+        "7.8"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "f3c52f",
+      "name": "Ever used electronic vapor products , y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3940:eb117b",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3940:dae30f",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "28.6",
+        "18.2"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "name": "First tried vaping before age 11",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3940:eb117b",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3940:ae17de",
+      "y": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "4.8"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "line": {
+        "shape": "spline"
+      },
+      "mode": "lines",
+      "name": "Had first cigarette for the first time before age 11***, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3940:eb117b",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3940:35acdd",
+      "y": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "2.1",
+        "4.5"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "WCSD middle school YRBS tobacco & electronic vape behaviors",
+    "width": 1444,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2000,
+        2018
+      ],
+      "tick0": 1,
+      "showline": true,
+      "tickmode": "linear",
+      "zeroline": true,
+      "autorange": true,
+      "linewidth": 1
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        -0.04426359317262052,
+        30.1075928206933
+      ],
+      "title": "YRBS %",
+      "showline": false,
+      "zeroline": false,
+      "autorange": true
+    },
+    "height": 817,
+    "legend": {
+      "x": 0.07554517133956386,
+      "y": 0.9638932496075353,
+      "font": {
+        "size": 10,
+        "color": "rgb(0, 0, 0)"
+      },
+      "xanchor": "auto"
+    },
+    "autosize": true,
+    "titlefont": {
+      "size": 14,
+      "color": "rgb(152, 0, 0)"
+    },
+    "showlegend": true,
+    "breakpoints": []
+  }
+}

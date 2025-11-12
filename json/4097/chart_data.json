@@ -1,0 +1,360 @@
+{
+  "data": [
+    {
+      "mode": "lines",
+      "name": "Nevada",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:4059:9fa0b0",
+      "x": [
+        "",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4059:6a3aae",
+      "y": [
+        "Nevada",
+        "12.5",
+        "12.5",
+        "5.9",
+        "5.9",
+        "6.5",
+        "20",
+        "19",
+        "19",
+        "19",
+        "19",
+        "15"
+      ],
+      "header": {
+        "valuessrc": "TruckeeMeadowsTomorrow:4059:9fa0b0",
+        "values": [
+          "",
+          "2015",
+          "2016",
+          "2017",
+          "2018",
+          "2019",
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ]
+      },
+      "marker": {
+        "color": "rgb(173, 179, 183)"
+      },
+      "orientation": "v"
+    },
+    {
+      "line": {
+        "dash": "dash",
+        "shape": "spline",
+        "width": 8
+      },
+      "mode": "lines",
+      "name": "Clark",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4059:9fa0b0",
+      "x": [
+        "",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4059:7286c0",
+      "y": [
+        "Clark",
+        "12.0",
+        "12.0",
+        "8.9",
+        "8.9",
+        "9.4",
+        "20",
+        "20",
+        "20",
+        "20",
+        "20",
+        "17"
+      ],
+      "connectgaps": true,
+      "orientation": "v"
+    },
+    {
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines",
+      "name": "Douglas",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4059:9fa0b0",
+      "x": [
+        "",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4059:350e19",
+      "y": [
+        "Douglas",
+        "10.6",
+        "10.6",
+        "6.0",
+        "6.0",
+        "7.5",
+        "16",
+        "15",
+        "16",
+        "15",
+        "15",
+        "13"
+      ],
+      "stackgroup": null
+    },
+    {
+      "line": {
+        "dash": "longdash",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines",
+      "name": "Storey",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4059:9fa0b0",
+      "x": [
+        "",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4059:4405a1",
+      "y": [
+        "Storey",
+        "11.3",
+        "11.3",
+        "6.3",
+        "6.3",
+        "7.5",
+        "9",
+        "7",
+        "8",
+        "7",
+        "10",
+        "14"
+      ],
+      "stackgroup": null
+    },
+    {
+      "line": {
+        "color": "rgb(23, 96, 196)",
+        "shape": "spline",
+        "width": 5
+      },
+      "mode": "markers+lines",
+      "name": "Washoe",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:4059:9fa0b0",
+      "x": [
+        "",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4059:33df5a",
+      "y": [
+        "Washoe",
+        "11.6",
+        "11.6",
+        "7.0",
+        "7.0",
+        "8.4",
+        "20",
+        "19",
+        "18",
+        "17",
+        "17",
+        "13"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "color": "rgb(43, 92, 211)",
+        "maxdisplayed": 0
+      },
+      "stackgroup": null,
+      "orientation": "v"
+    },
+    {
+      "line": {
+        "dash": "dot",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines",
+      "name": "Carson City",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4059:9fa0b0",
+      "x": [
+        "",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4059:81d045",
+      "y": [
+        "Carson City",
+        "10.6",
+        "10.6",
+        "6.1",
+        "6.1",
+        "7.2",
+        "18",
+        "18",
+        "17",
+        "18",
+        "17",
+        "12"
+      ],
+      "stackgroup": null
+    },
+    {
+      "line": {
+        "color": "rgb(95, 91, 46)",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines",
+      "name": "Churchill",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4059:9fa0b0",
+      "x": [
+        "",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4059:fe496b",
+      "y": [
+        "Churchill",
+        "12.7",
+        "12.7",
+        "6.1",
+        "6.1",
+        "7.4",
+        "18",
+        "16",
+        "14",
+        "14",
+        "14",
+        "11"
+      ],
+      "showlegend": true,
+      "stackgroup": null
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "Average daily density of fine particulate matter\u2013PM2.5 (County Health Rankings)*"
+    },
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2014.5,
+        2019.5
+      ],
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": "CHR report year"
+      },
+      "nticks": 5,
+      "tickmode": "linear",
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        13.368421052631579
+      ],
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": "PM2.5 (micrograms per cubic meter)"
+      },
+      "autorange": true
+    },
+    "bargap": 0.4,
+    "images": [],
+    "shapes": [],
+    "autosize": true,
+    "annotations": []
+  }
+}

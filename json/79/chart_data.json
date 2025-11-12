@@ -1,0 +1,353 @@
+{
+  "data": [
+    {
+      "uid": "c1359b",
+      "meta": {
+        "columnNames": {
+          "x": "Jobs, x; Square Feet, x; Economic Impact, x",
+          "y": "Jobs, y"
+        }
+      },
+      "name": "Jobs",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3768:f31754",
+      "x": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3768:35cc6e",
+      "y": [
+        " 1,474 ",
+        " 2,022 ",
+        " 1,885 ",
+        " 1,657 ",
+        " 659 ",
+        " 743 ",
+        " 513 ",
+        " 670 ",
+        " 873 "
+      ],
+      "yaxis": "y3"
+    },
+    {
+      "uid": "e6542b",
+      "line": {
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Jobs, x; Square Feet, x; Economic Impact, x",
+          "y": "Square Feet, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Square Feet",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3768:f31754",
+      "x": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3768:a4e1a8",
+      "y": [
+        " 1,802,180 ",
+        " 2,928,120 ",
+        " 2,274,694 ",
+        " 3,067,756 ",
+        " 867,000 ",
+        " 411,509 ",
+        " 1,238,583 ",
+        " 1,503,149 ",
+        " 1,091,843 "
+      ]
+    },
+    {
+      "uid": "d3e320",
+      "line": {
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Jobs, x; Square Feet, x; Economic Impact, x",
+          "y": "Economic Impact, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Economic Impact",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3768:f31754",
+      "x": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3768:7f56a7",
+      "y": [
+        " $240,732,670 ",
+        " $266,525,104 ",
+        " $329,734,271 ",
+        " $402,073,371 ",
+        " $161,894,787 ",
+        " $111,972,364 ",
+        " $77,575,203 ",
+        " $133,977,107 ",
+        " $150,550,875 "
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "size": 8
+      }
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "font": {
+      "size": 12,
+      "color": "rgb(0, 0, 0)",
+      "family": "\"Open sans\", verdana, arial, sans-serif"
+    },
+    "smith": false,
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(255, 0, 0)",
+        "family": "\"Open sans\", verdana, arial, sans-serif"
+      },
+      "text": "EDAWN Assisted Companies"
+    },
+    "width": 855,
+    "xaxis": {
+      "side": "bottom",
+      "type": "linear",
+      "dtick": 1,
+      "range": [
+        2002.4788610871442,
+        2011.5211389128558
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": {
+        "font": {
+          "size": 14,
+          "color": "rgb(0, 0, 0)",
+          "family": "\"Open sans\", verdana, arial, sans-serif"
+        },
+        "text": "Fiscal year beginning"
+      },
+      "anchor": "y",
+      "domain": [
+        0,
+        1
+      ],
+      "nticks": 0,
+      "showgrid": false,
+      "showline": true,
+      "tickfont": {
+        "size": 12,
+        "color": "rgb(0, 0, 0)",
+        "family": "\"Open sans\", verdana, arial, sans-serif"
+      },
+      "tickmode": "auto",
+      "zeroline": false,
+      "autorange": true,
+      "rangemode": "normal",
+      "tickangle": "auto",
+      "showexponent": "all",
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "yaxis": {
+      "side": "left",
+      "type": "linear",
+      "dtick": 1,
+      "range": [
+        263939.72222222225,
+        3215325.277777778
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": {
+        "font": {
+          "size": 14,
+          "color": "rgb(0, 0, 0)",
+          "family": "\"Open sans\", verdana, arial, sans-serif"
+        },
+        "text": "Square feet of space"
+      },
+      "anchor": "x",
+      "domain": [
+        0,
+        0.45
+      ],
+      "nticks": 0,
+      "showgrid": true,
+      "showline": false,
+      "tickfont": {
+        "size": 12,
+        "color": "rgb(0, 0, 0)",
+        "family": "\"Open sans\", verdana, arial, sans-serif"
+      },
+      "tickmode": "auto",
+      "zeroline": true,
+      "autorange": true,
+      "gridcolor": "#eee",
+      "gridwidth": 1,
+      "rangemode": "normal",
+      "tickangle": "auto",
+      "overlaying": false,
+      "showexponent": "all",
+      "zerolinecolor": "#444",
+      "zerolinewidth": 1,
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "bargap": 0.2,
+    "height": 607,
+    "legend": {
+      "x": 0.624868282402529,
+      "y": 0.9608843537414966,
+      "font": {
+        "size": 12,
+        "color": "rgb(0, 0, 0)",
+        "family": "\"Open sans\", verdana, arial, sans-serif"
+      },
+      "bgcolor": "rgba(0, 0, 0, 0)",
+      "xanchor": "left",
+      "yanchor": "auto",
+      "traceorder": "normal",
+      "bordercolor": "#444",
+      "borderwidth": 0
+    },
+    "margin": {
+      "b": 100,
+      "l": 100,
+      "r": 100,
+      "t": 100,
+      "pad": 0,
+      "autoexpand": true
+    },
+    "yaxis2": {
+      "side": "right",
+      "type": "linear",
+      "dtick": 1,
+      "range": [
+        57795906.71239799,
+        421852667.287602
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": {
+        "font": {
+          "size": 14,
+          "color": "rgb(44, 160, 44)",
+          "family": "\"Open sans\", verdana, arial, sans-serif"
+        },
+        "text": "Dollars"
+      },
+      "anchor": "x",
+      "domain": [
+        0,
+        0.45
+      ],
+      "nticks": 0,
+      "showgrid": true,
+      "showline": false,
+      "tickfont": {
+        "size": 12,
+        "color": "rgb(44, 160, 44)",
+        "family": "\"Open sans\", verdana, arial, sans-serif"
+      },
+      "tickmode": "auto",
+      "zeroline": true,
+      "autorange": false,
+      "gridcolor": "#eee",
+      "gridwidth": 1,
+      "tickangle": "auto",
+      "overlaying": "y",
+      "showexponent": "all",
+      "zerolinecolor": "#444",
+      "zerolinewidth": 1,
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "yaxis3": {
+      "side": "left",
+      "type": "linear",
+      "dtick": 1,
+      "range": [
+        0,
+        2128.4210526315787
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": {
+        "font": {
+          "size": 14,
+          "color": "rgb(0, 0, 0)",
+          "family": "\"Open sans\", verdana, arial, sans-serif"
+        },
+        "text": "Jobs"
+      },
+      "anchor": "x",
+      "domain": [
+        0.55,
+        1
+      ],
+      "nticks": 0,
+      "showgrid": true,
+      "showline": false,
+      "tickfont": {
+        "size": 12,
+        "color": "rgb(0, 0, 0)",
+        "family": "\"Open sans\", verdana, arial, sans-serif"
+      },
+      "tickmode": "auto",
+      "zeroline": true,
+      "autorange": true,
+      "gridcolor": "#eee",
+      "gridwidth": 1,
+      "rangemode": "normal",
+      "tickangle": "auto",
+      "overlaying": false,
+      "showexponent": "all",
+      "zerolinecolor": "#444",
+      "zerolinewidth": 1,
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "barmode": "group",
+    "barnorm": "",
+    "autosize": false,
+    "dragmode": "zoom",
+    "hovermode": "x",
+    "separators": ".,",
+    "showlegend": true,
+    "annotations": [],
+    "bargroupgap": 0,
+    "hidesources": false,
+    "plot_bgcolor": "#fff",
+    "paper_bgcolor": "#fff"
+  }
+}

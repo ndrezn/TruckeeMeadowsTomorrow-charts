@@ -1,0 +1,605 @@
+{
+  "data": [
+    {
+      "uid": "071352",
+      "line": {
+        "shape": "hvh",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Fiscal year",
+          "y": "Reno"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Reno",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3831:687fdb",
+      "x": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3831:7801e6",
+      "y": [
+        "72",
+        "72",
+        "72",
+        "73",
+        "75",
+        "82",
+        "83",
+        "83",
+        "83",
+        "85",
+        "85",
+        "85",
+        "85",
+        "85",
+        "85",
+        "85",
+        "85",
+        "85",
+        "86"
+      ],
+      "showlegend": true
+    },
+    {
+      "uid": "a86efe",
+      "line": {
+        "shape": "hvh",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Fiscal year",
+          "y": "Sparks"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Sparks",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3831:687fdb",
+      "x": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3831:9757b5",
+      "y": [
+        "45",
+        "50",
+        "51",
+        "52",
+        "52",
+        "53",
+        "53",
+        "55",
+        "55",
+        "56",
+        "55",
+        "56",
+        "56",
+        "56",
+        "56",
+        "52",
+        "50",
+        "50",
+        "50"
+      ],
+      "marker": {
+        "color": "rgb(214, 39, 40)"
+      },
+      "showlegend": true
+    },
+    {
+      "uid": "a92df7",
+      "line": {
+        "shape": "hvh",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Fiscal year",
+          "y": "Washoe"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Washoe",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3831:687fdb",
+      "x": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3831:1a892b",
+      "y": [
+        "27",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "35",
+        "36",
+        "37",
+        "36",
+        "33",
+        "36",
+        "33",
+        "33",
+        "33",
+        "32",
+        "32",
+        "32",
+        "39"
+      ],
+      "marker": {
+        "color": "rgb(188, 189, 34)"
+      },
+      "showlegend": true
+    },
+    {
+      "uid": "25dcc3",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Fiscal year",
+          "y": "Reno playgrounds"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Reno playgrounds",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3831:687fdb",
+      "x": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3831:1eac98",
+      "y": [
+        "48",
+        "48",
+        "48",
+        "51",
+        "51",
+        "51",
+        "52",
+        "52",
+        "52",
+        "51",
+        "51",
+        "51",
+        "51",
+        "51",
+        "51",
+        "51",
+        "51",
+        "51",
+        "51"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(31, 119, 180)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "6f12da",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Fiscal year",
+          "y": "Washoe playgrounds"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Washoe playgrounds",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3831:687fdb",
+      "x": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3831:84843d",
+      "y": [
+        "37",
+        "42",
+        "42",
+        "43",
+        "43",
+        "44",
+        "48",
+        "50",
+        "51",
+        "50",
+        "47",
+        "46",
+        "46",
+        "46",
+        "46",
+        "45",
+        "45",
+        "45",
+        "45"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(188, 189, 34)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "8b2293",
+      "meta": {
+        "columnNames": {
+          "x": "Fiscal year",
+          "y": "Reno_Major/regional parks, Sparks_Major/regional parks, y; Reno_Major/regional parks, Sparks_Major/regional parks (1), y"
+        }
+      },
+      "name": "Reno_Major/regional parks, Sparks_Major/regional parks, y; Reno_Major/regional parks, Sparks_Major/regional parks (1), y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3831:687fdb",
+      "x": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3831:3320a1",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "1"
+      ],
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "marker": {
+        "color": "rgb(31, 119, 180)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "78c2d6",
+      "meta": {
+        "columnNames": {
+          "x": "Fiscal year",
+          "y": "Reno_Major/regional parks, Sparks_Major/regional parks, y; Reno_Major/regional parks, Sparks_Major/regional parks (1), y"
+        }
+      },
+      "name": "Reno_Major/regional parks, Sparks_Major/regional parks, y; Reno_Major/regional parks, Sparks_Major/regional parks (1), y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3831:687fdb",
+      "x": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3831:3320a1",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "1"
+      ],
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "marker": {
+        "color": "rgb(214, 39, 40)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "e39818",
+      "meta": {
+        "columnNames": {
+          "x": "Fiscal year",
+          "y": "Washoe regional"
+        }
+      },
+      "name": "Washoe regional",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3831:687fdb",
+      "x": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3831:2fbb1b",
+      "y": [
+        "13",
+        "13",
+        "13",
+        "13",
+        "13",
+        "13",
+        "13",
+        "13",
+        "13",
+        "13",
+        "13",
+        "13",
+        "13",
+        "13",
+        "13",
+        "13",
+        "13",
+        "13",
+        "10"
+      ],
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "marker": {
+        "color": "rgb(188, 189, 34)"
+      },
+      "showlegend": false
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "Parks and playgrounds"
+    },
+    "width": 893,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        1999.405183233305,
+        2020.594816766695
+      ],
+      "title": {
+        "text": "Fiscal year"
+      },
+      "domain": [
+        0,
+        0.2025
+      ],
+      "showline": true,
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        23.083528189140036,
+        89.91647181085996
+      ],
+      "title": {
+        "text": "Community/neighborhood"
+      },
+      "autorange": true
+    },
+    "bargap": 0.42000000000000004,
+    "height": 616,
+    "legend": {
+      "x": 0.2677142809020935,
+      "y": 0.765807962529274
+    },
+    "xaxis2": {
+      "type": "linear",
+      "range": [
+        1999.7408117775128,
+        2020.2591882224872
+      ],
+      "title": {
+        "text": ""
+      },
+      "anchor": "y2",
+      "domain": [
+        0.55,
+        1
+      ],
+      "showline": true,
+      "autorange": true,
+      "showticklabels": true
+    },
+    "xaxis3": {
+      "type": "linear",
+      "range": [
+        2000.5,
+        2019.5
+      ],
+      "title": {
+        "text": ""
+      },
+      "anchor": "y3",
+      "domain": [
+        0.24750000000000003,
+        0.45
+      ],
+      "autorange": true,
+      "tickangle": 90,
+      "showticklabels": true
+    },
+    "yaxis2": {
+      "type": "linear",
+      "range": [
+        36.004286827747464,
+        52.995713172252536
+      ],
+      "title": {
+        "text": "Playgrounds"
+      },
+      "anchor": "x2",
+      "domain": [
+        0,
+        1
+      ],
+      "autorange": true
+    },
+    "yaxis3": {
+      "type": "linear",
+      "range": [
+        0,
+        15.789473684210526
+      ],
+      "title": {
+        "text": "Major/regional parks"
+      },
+      "anchor": "x3",
+      "domain": [
+        0,
+        1
+      ],
+      "autorange": true
+    },
+    "barmode": "stack",
+    "autosize": true,
+    "showlegend": true
+  }
+}

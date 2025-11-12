@@ -1,0 +1,841 @@
+{
+  "data": [
+    {
+      "uid": "131cbe",
+      "line": {
+        "color": "rgb(102, 102, 102)",
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Natural resources &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; mining"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Natural resources &amp; mining",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3664:f196c3",
+      "x": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3664:c0388a",
+      "y": [
+        "\u00a0$\t1,349\u00a0",
+        "\u00a0$\t1,109\u00a0",
+        "\u00a0$\t985\u00a0",
+        "\u00a0$\t1,087\u00a0",
+        "\u00a0$\t1,742\u00a0",
+        "\u00a0$\t2,927\u00a0",
+        "\u00a0$\t1,194\u00a0",
+        "\u00a0$\t1,385\u00a0",
+        "\u00a0$\t2,122\u00a0",
+        "\u00a0$\t2,428\u00a0",
+        "\u00a0$\t1,501\u00a0",
+        "\u00a0$\t1,282\u00a0",
+        "\u00a0$\t1,170\u00a0",
+        "\u00a0$\t1,077\u00a0",
+        "\u00a0$\t988\u00a0",
+        "\u00a0$\t1,013\u00a0",
+        "\u00a0$\t991\u00a0",
+        "\u00a0$\t1,047\u00a0",
+        "\u00a0$\t1,120\u00a0",
+        "\u00a0$\t1,098\u00a0",
+        "\u00a0$\t1,283\u00a0",
+        "\u00a0$\t1,344\u00a0",
+        "\u00a0$\t1,574\u00a0"
+      ],
+      "marker": {
+        "size": 2
+      }
+    },
+    {
+      "uid": "064b1f",
+      "line": {
+        "dash": "dot",
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Construction"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Construction",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3664:f196c3",
+      "x": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3664:92c81c",
+      "y": [
+        " $755 ",
+        " $753 ",
+        " $777 ",
+        " $806 ",
+        " $853 ",
+        " $929 ",
+        " $955 ",
+        " $949 ",
+        " $925 ",
+        " $936 ",
+        " $953 ",
+        " $937 ",
+        " $940 ",
+        " $1,015 ",
+        " $1,034 ",
+        "\u00a0$1,090\u00a0",
+        "\u00a0$\t1,174\u00a0",
+        "\u00a0$\t1,236\u00a0",
+        "\u00a0$\t1,257\u00a0",
+        "\u00a0$\t1,316\u00a0",
+        "\u00a0$\t1,363\u00a0",
+        "\u00a0$\t1,443\u00a0",
+        "\u00a0$\t1,705\u00a0"
+      ],
+      "marker": {
+        "size": 2
+      }
+    },
+    {
+      "uid": "bae4ab",
+      "line": {
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Manufacturing"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Manufacturing",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3664:f196c3",
+      "x": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3664:52fc70",
+      "y": [
+        " $781 ",
+        " $865 ",
+        " $866 ",
+        " $879 ",
+        " $912 ",
+        " $988 ",
+        " $1,037 ",
+        " $1,018 ",
+        " $998 ",
+        " $1,030 ",
+        " $1,025 ",
+        " $1,038 ",
+        " $1,035 ",
+        " $1,076 ",
+        " $1,063 ",
+        "\u00a0$1,099\u00a0",
+        "\u00a0$\t1,125\u00a0",
+        "\u00a0$\t1,143\u00a0",
+        "\u00a0$\t1,241\u00a0",
+        "\u00a0$\t1,249\u00a0",
+        "\u00a0$\t1,306\u00a0",
+        "\u00a0$\t1,366\u00a0",
+        "\u00a0$\t1,508\u00a0"
+      ],
+      "marker": {
+        "size": 2
+      }
+    },
+    {
+      "uid": "cef5f5",
+      "line": {
+        "color": "rgb(140, 86, 75)",
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Trade, transportation &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; utilities"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Trade, transportation &amp; utilities",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3664:f196c3",
+      "x": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3664:7ad5c3",
+      "y": [
+        " $651 ",
+        " $661 ",
+        " $685 ",
+        " $700 ",
+        " $710 ",
+        " $711 ",
+        " $707 ",
+        " $712 ",
+        " $721 ",
+        " $732 ",
+        " $744 ",
+        " $756 ",
+        " $768 ",
+        " $790 ",
+        " $809 ",
+        "\u00a0$854\u00a0",
+        "\u00a0$\t859\u00a0",
+        "\u00a0$\t881\u00a0",
+        "\u00a0$\t972\u00a0",
+        "\u00a0$\t1,062\u00a0",
+        "\u00a0$\t1,074\u00a0",
+        "\u00a0$\t1,102\u00a0",
+        "\u00a0$\t1,177\u00a0"
+      ],
+      "marker": {
+        "size": 2
+      }
+    },
+    {
+      "uid": "d0f094",
+      "line": {
+        "color": "rgb(214, 39, 40)",
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Information"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Information",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3664:f196c3",
+      "x": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3664:d057df",
+      "y": [
+        " $810 ",
+        " $818 ",
+        " $816 ",
+        " $857 ",
+        " $918 ",
+        " $946 ",
+        " $973 ",
+        " $991 ",
+        " $1,039 ",
+        " $1,117 ",
+        " $1,151 ",
+        " $1,125 ",
+        " $1,133 ",
+        " $1,136 ",
+        " $1,204 ",
+        "\u00a0$1,315\u00a0",
+        "\u00a0$\t1,321\u00a0",
+        "\u00a0$\t1,371\u00a0",
+        "\u00a0$\t1,690\u00a0",
+        "\u00a0$\t1,996\u00a0",
+        "\u00a0$\t1,987\u00a0",
+        "\u00a0$\t2,112\u00a0",
+        "\u00a0$\t2,226\u00a0"
+      ],
+      "marker": {
+        "size": 2
+      }
+    },
+    {
+      "uid": "82e0da",
+      "line": {
+        "color": "rgb(0, 255, 0)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Financial activities"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Financial activities",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3664:f196c3",
+      "x": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3664:e8050e",
+      "y": [
+        " $842 ",
+        " $924 ",
+        " $917 ",
+        " $958 ",
+        " $980 ",
+        " $1,014 ",
+        " $1,007 ",
+        " $986 ",
+        " $1,016 ",
+        " $1,057 ",
+        " $1,124 ",
+        " $1,171 ",
+        " $1,208 ",
+        " $1,300 ",
+        " $1,339 ",
+        "\u00a0$1,406\u00a0",
+        "\u00a0$\t1,281\u00a0",
+        "\u00a0$\t1,349\u00a0",
+        "\u00a0$\t1,783\u00a0",
+        "\u00a0$\t2,006\u00a0",
+        "\u00a0$\t2,036\u00a0",
+        "\u00a0$\t2,010\u00a0",
+        "\u00a0$\t2,328\u00a0"
+      ],
+      "marker": {
+        "size": 2
+      }
+    },
+    {
+      "uid": "77ae01",
+      "line": {
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Professional &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; business services"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Professional &amp; business services",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3664:f196c3",
+      "x": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3664:6cc0e2",
+      "y": [
+        " $757 ",
+        " $788 ",
+        " $809 ",
+        " $845 ",
+        " $817 ",
+        " $892 ",
+        " $964 ",
+        " $970 ",
+        " $978 ",
+        " $1,021 ",
+        " $1,048 ",
+        " $1,042 ",
+        " $1,090 ",
+        " $1,061 ",
+        " $1,065 ",
+        "\u00a0$1,099\u00a0",
+        "\u00a0$\t1,189\u00a0",
+        "\u00a0$\t1,192\u00a0",
+        "\u00a0$\t1,310\u00a0",
+        "\u00a0$\t1,519\u00a0",
+        "\u00a0$\t1,504\u00a0",
+        "\u00a0$\t1,654\u00a0",
+        "\u00a0$\t1,933\u00a0"
+      ],
+      "marker": {
+        "size": 2
+      }
+    },
+    {
+      "uid": "5782c4",
+      "line": {
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Education &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; health services"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Education &amp; health services",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3664:f196c3",
+      "x": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3664:ed450a",
+      "y": [
+        " $764 ",
+        " $796 ",
+        " $820 ",
+        " $870 ",
+        " $896 ",
+        " $932 ",
+        " $938 ",
+        " $939 ",
+        " $936 ",
+        " $941 ",
+        " $964 ",
+        " $971 ",
+        " $981 ",
+        " $1,005 ",
+        " $1,008 ",
+        "\u00a0$1,014\u00a0",
+        "\u00a0$\t1,023\u00a0",
+        "\u00a0$\t1,042\u00a0",
+        "\u00a0$\t1,149\u00a0",
+        "\u00a0$\t1,190\u00a0",
+        "\u00a0$\t1,243\u00a0",
+        "\u00a0$\t1,307\u00a0",
+        "\u00a0$\t1,411\u00a0"
+      ],
+      "marker": {
+        "size": 2
+      }
+    },
+    {
+      "uid": "c19d5a",
+      "line": {
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Leisure &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; hospitality"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Leisure &amp; hospitality",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3664:f196c3",
+      "x": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3664:2338dc",
+      "y": [
+        " $384 ",
+        " $392 ",
+        " $404 ",
+        " $407 ",
+        " $419 ",
+        " $428 ",
+        " $428 ",
+        " $420 ",
+        " $419 ",
+        " $426 ",
+        " $422 ",
+        " $428 ",
+        " $440 ",
+        " $448 ",
+        " $455 ",
+        "\u00a0$465\u00a0",
+        "\u00a0$\t648\u00a0",
+        "\u00a0$\t662\u00a0",
+        "\u00a0$\t502\u00a0",
+        "\u00a0$\t563\u00a0",
+        "\u00a0$\t608\u00a0",
+        "\u00a0$\t631\u00a0",
+        "\u00a0$\t677\u00a0"
+      ],
+      "marker": {
+        "size": 2
+      }
+    },
+    {
+      "uid": "914977",
+      "line": {
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Other services"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Other services",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3664:f196c3",
+      "x": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3664:393933",
+      "y": [
+        " $489 ",
+        " $495 ",
+        " $516 ",
+        " $547 ",
+        " $569 ",
+        " $588 ",
+        " $599 ",
+        " $636 ",
+        " $652 ",
+        " $667 ",
+        " $697 ",
+        " $705 ",
+        " $724 ",
+        " $737 ",
+        " $708 ",
+        "\u00a0$735\u00a0",
+        "\u00a0$\t721\u00a0",
+        "\u00a0$\t739\u00a0",
+        "\u00a0$\t879\u00a0",
+        "\u00a0$\t928\u00a0",
+        "\u00a0$\t956\u00a0",
+        "\u00a0$\t1,024\u00a0",
+        "\u00a0$\t1,096\u00a0"
+      ],
+      "marker": {
+        "size": 2
+      }
+    },
+    {
+      "uid": "badd33",
+      "line": {
+        "dash": "dash",
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Col1",
+          "y": "Public administration/gov&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#39;t."
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Public administration",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3664:f196c3",
+      "x": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3664:b4e30e",
+      "y": [
+        " $963 ",
+        " $977 ",
+        " $1,041 ",
+        " $884 ",
+        " $935 ",
+        " $965 ",
+        " $1,009 ",
+        " $1,023 ",
+        " $1,021 ",
+        " $1,004 ",
+        " $990 ",
+        " $1,009 ",
+        " $1,032 ",
+        " $1,064 ",
+        " $1,094 ",
+        "\u00a0$1,287\u00a0",
+        "\u00a0$\t1,320\u00a0",
+        "\u00a0$\t1,359\u00a0",
+        "\u00a0$\t1,451\u00a0",
+        "\u00a0$\t1,482\u00a0",
+        "\u00a0$\t1,561\u00a0",
+        "\u00a0$\t1,584\u00a0",
+        "\u00a0$\t1,838\u00a0"
+      ],
+      "marker": {
+        "size": 2
+      }
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(79, 79, 79)"
+      },
+      "text": "<b>Washoe County average weekly employment wages by industry</b><br><br>\n<b>Source:</b> &nbsp;Nevada Department of Employment, Training &amp; Rehabilitation (DETR),<br>\nNevada Labor Marker Information, <a href=\"https://nevadaworkforce.com/Home/DS-Results-QCEW2\">Employment and Wages \u2013 QCEW</a>"
+    },
+    "width": 1051,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2000.6856388993592,
+        2025.3143611006408
+      ],
+      "tick0": 0,
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": "2024 = Q4"
+      },
+      "showline": true,
+      "tickmode": "linear",
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "-",
+      "range": [
+        223.19523151347616,
+        3087.8047684865237
+      ],
+      "title": {
+        "text": "Average weekly wage $"
+      },
+      "autorange": true
+    },
+    "height": 669,
+    "legend": {
+      "x": 0.4785371679505377,
+      "y": 0.9591002044989775,
+      "font": {
+        "size": 11,
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    "autosize": true
+  }
+}

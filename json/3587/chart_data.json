@@ -1,0 +1,420 @@
+{
+  "data": [
+    {
+      "uid": "4fca26",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Alcohol, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3938:5be278",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3938:30bab2",
+      "y": [
+        "46.4",
+        "52.8",
+        "53.7",
+        "44.5",
+        "46.1",
+        "39.0",
+        "28.1",
+        "23.7"
+      ],
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "696c35",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Marijuana, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3938:5be278",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3938:2c045a",
+      "y": [
+        "13.5",
+        "17.9",
+        "15.2",
+        "17.0",
+        "17.2",
+        "17.9",
+        "12.0",
+        "10.7"
+      ],
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "5ff8b0",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Cocaine, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3938:5be278",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3938:29054a",
+      "y": [
+        "5.4",
+        "6.9",
+        "5.6",
+        "5.4",
+        "4.9",
+        "5.2",
+        "2.9",
+        "3.6"
+      ],
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "02a6c8",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Methamphetamines, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3938:5be278",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3938:21caed",
+      "y": [
+        "5.6",
+        "5.5",
+        "5.0",
+        "3.6",
+        "2.6",
+        "2.6",
+        "2.1",
+        "2.0"
+      ],
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "541f2f",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Inhalants, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3938:5be278",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3938:73e896",
+      "y": [
+        "",
+        "",
+        "",
+        "12.3",
+        "13.8",
+        "10.4",
+        "6.6",
+        "6.3"
+      ],
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "9b2b53",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Cigarettes, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3938:5be278",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3938:4f2bca",
+      "y": [
+        "30.4",
+        "34.7",
+        "30.4",
+        "28.9",
+        "27.2",
+        "23.3",
+        "14.4",
+        "12.7"
+      ],
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "88d190",
+      "name": "Steroids without prescription from a doctor, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3938:5be278",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3938:1049c8",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "2.7"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "d30fd9",
+      "name": "Prescription pain meds without a prescription from a doctor***, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3938:5be278",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3938:70749f",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "6.2",
+        "3.8",
+        "5.0"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "b97f72",
+      "name": "Currently take prescription drugs without prescription from a doctor, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3938:5be278",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3938:b09b70",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "2.8"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "15a6b2",
+      "name": "OTC drugs, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3938:5be278",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3938:395192",
+      "y": [
+        "4.8",
+        "7.3",
+        "6.6",
+        "6.0",
+        "5.6",
+        "4.7"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "name": "Synthetic marijuana",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3938:5be278",
+      "x": [
+        "2001",
+        "2003",
+        "2005",
+        "2007",
+        "2009",
+        "2011",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3938:dab7a7",
+      "y": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "4.4",
+        "3.4"
+      ],
+      "marker": {
+        "color": "rgb(214, 39, 40)"
+      },
+      "autobinx": true,
+      "autobiny": true
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "WCSD middle school YRBS substance abuse usage (one or more times during lifetime)",
+    "width": 1444,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2000,
+        2018
+      ],
+      "tick0": 1,
+      "tickmode": "linear",
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        -1.3821143262914974,
+        57.0821143262915
+      ],
+      "autorange": true
+    },
+    "height": 817,
+    "legend": {
+      "font": {
+        "size": 10,
+        "color": "rgb(0, 0, 0)"
+      },
+      "xanchor": "right"
+    },
+    "autosize": true,
+    "titlefont": {
+      "size": 14,
+      "color": "rgb(152, 0, 0)"
+    },
+    "showlegend": true,
+    "breakpoints": []
+  }
+}

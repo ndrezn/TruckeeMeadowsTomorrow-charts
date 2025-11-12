@@ -1,0 +1,341 @@
+{
+  "data": [
+    {
+      "uid": "f3a693",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Visited the dentist or clinic within past year\u2013Washoe",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3975:0d15e2",
+      "x": [
+        "1999",
+        "2002",
+        "2004",
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "",
+        "2014",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3975:c65ce4",
+      "y": [
+        "",
+        "72.6%",
+        "67.1%",
+        "65.6%",
+        "65.5%",
+        "72.3%",
+        "65.0%",
+        "",
+        "64.1%",
+        "65.3%"
+      ]
+    },
+    {
+      "uid": "607bc0",
+      "line": {
+        "color": "rgb(204, 204, 204)",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Visited the dentist or clinic within past year\u2013NV",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3975:0d15e2",
+      "x": [
+        "1999",
+        "2002",
+        "2004",
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "",
+        "2014",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3975:51d704",
+      "y": [
+        "59.1%",
+        "65.4%",
+        "64.5%",
+        "66.2%",
+        "63.7%",
+        "67.2%",
+        "60.8%",
+        "",
+        "59.9%",
+        "60.4%"
+      ]
+    },
+    {
+      "uid": "48104c",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Visited the dentist or clinic within past year\u2013US",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3975:0d15e2",
+      "x": [
+        "1999",
+        "2002",
+        "2004",
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "",
+        "2014",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3975:06d7ec",
+      "y": [
+        "69.8%",
+        "70.9%",
+        "70.8%",
+        "70.3%",
+        "71.3%",
+        "69.7%",
+        "67.2%",
+        "",
+        "65.3%",
+        "66.3%"
+      ]
+    },
+    {
+      "uid": "1b22c3",
+      "line": {
+        "color": "rgb(74, 134, 232)",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Youth visited a dentist prior 12 months\u2013WCSD YRBS",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3975:0d15e2",
+      "x": [
+        "1999",
+        "2002",
+        "2004",
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "",
+        "2014",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3975:f7dee8",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "69.3%"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 10,
+        "symbol": "square"
+      }
+    },
+    {
+      "uid": "7d73b8",
+      "line": {
+        "color": "rgb(217, 217, 217)",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "Youth visited a dentist prior 12 months\u2013NV YRBS",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3975:0d15e2",
+      "x": [
+        "1999",
+        "2002",
+        "2004",
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "",
+        "2014",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3975:4b851d",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "68.1%"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 10,
+        "symbol": "square"
+      }
+    },
+    {
+      "uid": "7602b3",
+      "name": "Adults \u226565 with all their teeth extracted\u2013Washoe",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3975:0d15e2",
+      "x": [
+        "1999",
+        "2002",
+        "2004",
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "",
+        "2014",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3975:5a775c",
+      "y": [
+        "",
+        "12.2%",
+        "10.9%",
+        "16.0%",
+        "15.2%",
+        "16.2%",
+        "15.0%",
+        "",
+        "12.7%",
+        "14.4%"
+      ],
+      "marker": {
+        "color": "rgb(31, 119, 180)"
+      }
+    },
+    {
+      "uid": "d15778",
+      "name": "Adults \u226565 with all their teeth extracted\u2013NV",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3975:0d15e2",
+      "x": [
+        "1999",
+        "2002",
+        "2004",
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "",
+        "2014",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3975:a0601d",
+      "y": [
+        "",
+        "20.5%",
+        "16.5%",
+        "18.4%",
+        "17.7%",
+        "17.2%",
+        "15.1%",
+        "",
+        "12.7%",
+        "12.8%"
+      ],
+      "marker": {
+        "color": "rgb(204, 204, 204)"
+      }
+    },
+    {
+      "uid": "0165ef",
+      "name": "Adults \u226565 with all their teeth extracted\u2013US",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3975:0d15e2",
+      "x": [
+        "1999",
+        "2002",
+        "2004",
+        "2006",
+        "2008",
+        "2010",
+        "2012",
+        "",
+        "2014",
+        "2016"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3975:379c5e",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "16.9%",
+        "16.1%",
+        "",
+        "15.1%",
+        "14.1%"
+      ],
+      "marker": {
+        "color": "rgb(44, 160, 44)"
+      }
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "Oral health prevalence (Reno MSA) \u2013 Behavioral Risk Factor Surveillance System"
+    },
+    "xaxis": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        1997.8772348951911,
+        2017.0572595561036
+      ],
+      "tick0": 0,
+      "title": {
+        "text": "Survey year (Prior to 2014 = Washoe County)"
+      },
+      "showgrid": true,
+      "showline": true,
+      "tickmode": "linear",
+      "autorange": true,
+      "gridwidth": 1
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        77.07962771458118
+      ],
+      "title": {
+        "text": "% reporting"
+      },
+      "autorange": true
+    },
+    "legend": {
+      "font": {
+        "size": 11
+      }
+    },
+    "autosize": true
+  }
+}

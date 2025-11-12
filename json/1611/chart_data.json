@@ -1,0 +1,481 @@
+{
+  "data": [
+    {
+      "uid": "fa6498",
+      "meta": {
+        "columnNames": {
+          "x": "Math, x; Reading, x; Col4, x; Col5, x",
+          "y": "Math"
+        }
+      },
+      "name": "Math",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3818:84716d",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3818:339a92",
+      "y": [
+        "53%",
+        "56%",
+        "59%",
+        "61%",
+        "72%",
+        "73%",
+        "78%",
+        "76%",
+        "70%",
+        null,
+        "75.9%",
+        "74.1%",
+        "73.8%",
+        "72.8%"
+      ],
+      "marker": {
+        "color": "rgb(188, 189, 34)"
+      }
+    },
+    {
+      "uid": "90c023",
+      "meta": {
+        "columnNames": {
+          "x": "Math, x; Reading, x; Col4, x; Col5, x",
+          "y": "Reading"
+        }
+      },
+      "name": "Reading",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3818:84716d",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3818:f3835e",
+      "y": [
+        "54%",
+        "61%",
+        "58%",
+        "59%",
+        "64%",
+        "62%",
+        "67%",
+        "65%",
+        "63%",
+        null,
+        "73.2%",
+        "70.1%",
+        "71.5%",
+        "72.4%"
+      ],
+      "marker": {
+        "color": "rgb(23, 190, 207)"
+      }
+    },
+    {
+      "uid": "0b19aa",
+      "meta": {
+        "columnNames": {
+          "x": "Math, x; Reading, x; Col4, x; Col5, x",
+          "y": "Col4, y"
+        }
+      },
+      "name": "Col4, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3818:84716d",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3818:d55677",
+      "y": [
+        "20%",
+        "23%",
+        "25%",
+        "28%",
+        "36%",
+        "43%",
+        "45%",
+        "42%",
+        "43%",
+        null,
+        "18.7%",
+        "18.7%",
+        "19.0%",
+        "18.9%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(188, 189, 34)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "349b52",
+      "meta": {
+        "columnNames": {
+          "x": "Math, x; Reading, x; Col4, x; Col5, x",
+          "y": "Col5, y"
+        }
+      },
+      "name": "Col5, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3818:84716d",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3818:8e4047",
+      "y": [
+        "25%",
+        "19%",
+        "25%",
+        "23%",
+        "30%",
+        "29%",
+        "36%",
+        "33%",
+        "26%",
+        null,
+        "23.8%",
+        "20.3%",
+        "20.6%",
+        "22.9%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(23, 190, 207)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "5084d5",
+      "line": {
+        "color": "rgb(188, 189, 34)",
+        "shape": "hvh",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Target-math, x; Target-reading, x; Col8, x; Col9, x",
+          "y": "Target-math"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Target-math",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3818:de92cf",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3818:ace1d9",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "74%",
+        "76%",
+        "78%",
+        "80%",
+        "82%"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        }
+      }
+    },
+    {
+      "uid": "a7e966",
+      "line": {
+        "color": "rgb(23, 190, 207)",
+        "shape": "hvh",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Target-math, x; Target-reading, x; Col8, x; Col9, x",
+          "y": "Target-reading"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Target-reading",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3818:de92cf",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3818:6b90ad",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "67%",
+        "70%",
+        "73%",
+        "76%",
+        "81%"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        }
+      }
+    },
+    {
+      "uid": "9865a0",
+      "line": {
+        "color": "rgb(188, 189, 34)",
+        "shape": "hvh",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Target-math, x; Target-reading, x; Col8, x; Col9, x",
+          "y": "Col8, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Col8, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3818:de92cf",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3818:10f1e7",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "38%",
+        "40%",
+        "41%",
+        "43%",
+        "45%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 3
+        }
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "fe52a3",
+      "line": {
+        "color": "rgb(23, 190, 207)",
+        "shape": "hvh",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Target-math, x; Target-reading, x; Col8, x; Col9, x",
+          "y": "Col9, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Col9, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3818:de92cf",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3818:706b1f",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "32%",
+        "34%",
+        "36%",
+        "38%",
+        "40%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 3
+        }
+      },
+      "showlegend": false
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "\n\n\n\n\n\n\n\nWCSD grade 3 performance measures"
+    },
+    "width": 926,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2005.1248551967008,
+        2019.5
+      ],
+      "tick0": 0,
+      "title": {
+        "text": "New CRT beginning 2015"
+      },
+      "domain": [
+        0,
+        0.45
+      ],
+      "tickmode": "linear",
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "-",
+      "range": [
+        0,
+        87.17825739408474
+      ],
+      "title": {
+        "text": "% \u2265 proficiency"
+      },
+      "autorange": true
+    },
+    "height": 579,
+    "legend": {
+      "x": 0.07361111111111111,
+      "y": 1.1194379391100702
+    },
+    "xaxis2": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2005.1248551967008,
+        2019.5
+      ],
+      "tick0": 0,
+      "title": {
+        "text": "New CRT beginning 2015"
+      },
+      "anchor": "y2",
+      "domain": [
+        0.55,
+        1
+      ],
+      "tickmode": "linear",
+      "autorange": true
+    },
+    "yaxis2": {
+      "range": [
+        0,
+        47.84172661870504
+      ],
+      "title": {
+        "text": "% \u2265 exceeds standard"
+      },
+      "anchor": "x2",
+      "domain": [
+        0,
+        1
+      ],
+      "autorange": true
+    },
+    "autosize": true,
+    "showlegend": true
+  }
+}

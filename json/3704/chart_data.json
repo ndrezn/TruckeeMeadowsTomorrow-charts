@@ -1,0 +1,307 @@
+{
+  "data": [
+    {
+      "uid": "72ff44",
+      "name": "Washoe expenditures",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3913:ed97ed",
+      "x": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3913:b7bd62",
+      "y": [
+        " $58.84 ",
+        " $62.57 ",
+        "",
+        " $64.94 "
+      ]
+    },
+    {
+      "uid": "3ff54c",
+      "name": "Average county value",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3913:ed97ed",
+      "x": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3913:6ca548",
+      "y": [
+        " $57.44 ",
+        " $58.18 ",
+        "",
+        " $59.18 "
+      ],
+      "marker": {
+        "color": "rgb(188, 189, 34)"
+      }
+    },
+    {
+      "uid": "a0de25",
+      "name": "Median county value",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3913:ed97ed",
+      "x": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3913:2f7a65",
+      "y": [
+        " $16.55 ",
+        "16.93",
+        "",
+        "17.05"
+      ]
+    },
+    {
+      "uid": "1ad7e6",
+      "line": {
+        "color": "rgb(31, 119, 180)",
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Washoe revenues",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3913:304342",
+      "x": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3913:938404",
+      "y": [
+        " $67.33 ",
+        " $83.20 ",
+        "",
+        " $79.58 "
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "connectgaps": true
+    },
+    {
+      "uid": "2137cb",
+      "line": {
+        "color": "rgb(188, 189, 34)",
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Average county value",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3913:304342",
+      "x": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3913:d38e38",
+      "y": [
+        " $62.28 ",
+        " $63.94 ",
+        "",
+        " $68.20 "
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "connectgaps": true
+    },
+    {
+      "uid": "87a2a4",
+      "line": {
+        "color": "rgb(44, 160, 44)",
+        "shape": "spline",
+        "width": 6
+      },
+      "name": "Median county value",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3913:304342",
+      "x": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3913:074463",
+      "y": [
+        " $18.55 ",
+        " $18.80 ",
+        "",
+        " $20.26 "
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "connectgaps": true
+    },
+    {
+      "uid": "326267",
+      "name": "Washoe-arts resources",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3913:ed97ed",
+      "x": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3913:3717ef",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        " $384.81 "
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "color": "rgb(31, 119, 180)"
+      }
+    },
+    {
+      "uid": "28c4be",
+      "name": "Average county-resources",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3913:ed97ed",
+      "x": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3913:cd62b7",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        " $345.93 "
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "color": "rgb(188, 189, 34)"
+      }
+    },
+    {
+      "uid": "d55265",
+      "name": "Median county-resources",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3913:ed97ed",
+      "x": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3913:45606d",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        " $343.05 "
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "color": "rgb(44, 160, 44)"
+      }
+    }
+  ],
+  "layout": {
+    "title": "Nonprofit arts expenditures per capita by Washoe County residents & nonprofit revenues*",
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2008.5,
+        2015.5
+      ],
+      "showline": false,
+      "tickmode": "linear",
+      "autorange": true
+    },
+    "yaxis": {
+      "range": [
+        -5.204614028903766,
+        405.3370849488897
+      ],
+      "title": "Per capita dollars",
+      "autorange": true
+    },
+    "legend": {
+      "x": 0.3646357118600094,
+      "y": 0.9084507042253521
+    },
+    "autosize": true,
+    "titlefont": {
+      "size": 14,
+      "color": "rgb(152, 0, 0)"
+    },
+    "annotations": [
+      {
+        "x": 2011.6799990889492,
+        "y": 167.14543884384915,
+        "font": {
+          "size": 12
+        },
+        "text": "Arts & cultural spending \u00a0for resources include admission, media, books & photography products & services",
+        "align": "left",
+        "bgcolor": "rgb(217, 217, 217)",
+        "xanchor": "center",
+        "yanchor": "top",
+        "showarrow": false
+      }
+    ]
+  }
+}

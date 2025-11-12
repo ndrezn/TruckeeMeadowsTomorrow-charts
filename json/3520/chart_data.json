@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "uid": "2c2c3c",
+      "name": "Count",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3519:169827",
+      "x": [
+        "Of definite interest",
+        "Possible interest",
+        "Not interested"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3519:1b43fd",
+      "y": [
+        "27",
+        "21",
+        "18"
+      ],
+      "textsrc": "TruckeeMeadowsTomorrow:3519:169827",
+      "text": [
+        "Of definite interest",
+        "Possible interest",
+        "Not interested"
+      ]
+    }
+  ],
+  "layout": {
+    "width": 1065,
+    "xaxis": {
+      "type": "category",
+      "range": [
+        -0.5,
+        2.5
+      ],
+      "title": "Finding a good volunteer opportunity for me",
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        28.42105263157895
+      ],
+      "title": "Count",
+      "autorange": true
+    },
+    "height": 629,
+    "autosize": true
+  }
+}

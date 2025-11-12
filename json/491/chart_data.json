@@ -1,0 +1,365 @@
+{
+  "data": [
+    {
+      "uid": "cc3e40",
+      "line": {
+        "shape": "hv",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "# Open space acres available to users, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Acres open space available to users",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3782:9233a9",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3782:902454",
+      "y": [
+        "",
+        "",
+        "",
+        " 8,000 ",
+        " 9,627 ",
+        " 10,535 "
+      ]
+    },
+    {
+      "uid": "69d1b0",
+      "line": {
+        "shape": "vhv",
+        "width": 10
+      },
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "# Acres acquired for regional parks or open space, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Regional parks or open space acres acquired",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3782:9233a9",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3782:5064fc",
+      "y": [
+        "",
+        "",
+        "",
+        "100",
+        "100"
+      ]
+    },
+    {
+      "uid": "ba9236",
+      "line": {
+        "shape": "vhv",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "# Park acres maintained, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Acres parks maintained",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3782:9233a9",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3782:cf0ea9",
+      "y": [
+        "",
+        "975",
+        "983.5",
+        "1,030",
+        "1,400",
+        "",
+        "",
+        " 1,532 "
+      ]
+    },
+    {
+      "uid": "3ea3c8",
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Undeveloped park acreage, y"
+        }
+      },
+      "name": "Undeveloped park acreage",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3782:9233a9",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3782:141dab",
+      "y": [
+        "5,942",
+        "5,943",
+        "6,377",
+        " 7,854 ",
+        " 7,380 ",
+        " 7,367 ",
+        " 10,017 ",
+        " 10,017 ",
+        " 10,017 ",
+        "10,017",
+        "10,034",
+        "10,034",
+        "10,039",
+        "10,253"
+      ]
+    },
+    {
+      "uid": "410255",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(18, 18, 18)",
+        "shape": "spline",
+        "width": 9
+      },
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Miles hiking trails, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Miles hiking trails",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3782:9233a9",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3782:369afd",
+      "y": [
+        "36",
+        "37",
+        "41",
+        "45",
+        "45",
+        "45",
+        "158",
+        "158",
+        "158",
+        "158",
+        "161",
+        "161",
+        "161",
+        "166"
+      ],
+      "yaxis": "y2"
+    },
+    {
+      "uid": "435099",
+      "line": {
+        "dash": "dash",
+        "color": "rgb(159, 163, 79)",
+        "shape": "spline",
+        "width": 7
+      },
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Miles established bike paths, y"
+        }
+      },
+      "mode": "markers",
+      "name": "Miles established bike paths",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3782:9233a9",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3782:d68670",
+      "y": [
+        "20",
+        "20",
+        "20",
+        "20",
+        "20",
+        "20",
+        "20",
+        "20",
+        "20",
+        "20",
+        "20",
+        "20",
+        "20",
+        "20"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 1
+        },
+        "size": 8
+      }
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "Washoe County regional park acreage & mileage"
+    },
+    "width": 978,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2004.178325530157,
+        2018.821674469843
+      ],
+      "title": {
+        "font": {
+          "size": 14
+        },
+        "text": "Fiscal year"
+      },
+      "tickfont": {
+        "size": 12
+      },
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "-",
+      "range": [
+        -479.7222222222223,
+        11114.722222222223
+      ],
+      "title": {
+        "font": {
+          "size": 14
+        },
+        "text": "Acres"
+      },
+      "tickfont": {
+        "size": 12
+      },
+      "autorange": true
+    },
+    "height": 606,
+    "legend": {
+      "x": 0.011771300448430493,
+      "y": 1.0351262349066959,
+      "font": {
+        "size": 12
+      },
+      "bgcolor": "rgba(0, 0, 0, 0)"
+    },
+    "yaxis2": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        9.852536997885833,
+        174.21828752642705
+      ],
+      "title": {
+        "font": {
+          "size": 14
+        },
+        "text": "Miles"
+      },
+      "anchor": "x",
+      "tickfont": {
+        "size": 12
+      },
+      "autorange": true,
+      "overlaying": "y"
+    },
+    "autosize": true,
+    "showlegend": true,
+    "hidesources": true
+  }
+}

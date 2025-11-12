@@ -1,0 +1,182 @@
+{
+  "data": [
+    {
+      "uid": "d46a5b",
+      "meta": {
+        "columnNames": {
+          "x": "FY-ending June 30th",
+          "y": "Students receiving Free or reduced priced meals"
+        }
+      },
+      "name": "Students receiving Free or reduced priced meals",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3527:d794fb",
+      "x": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3527:493769",
+      "y": [
+        "28.7%",
+        "32.8%",
+        "36.7%",
+        "28.7%",
+        "39.3%",
+        "34.4%",
+        "36.8%",
+        "33.4%",
+        "34.8%",
+        "43.8%",
+        "42.6%",
+        "39.5%",
+        "43.4%",
+        "42.5%",
+        "46.1%",
+        "48.6%",
+        "47.2%",
+        "45.9%",
+        "46.0%"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(23, 190, 207)"
+      },
+      "opacity": 0.7
+    },
+    {
+      "uid": "088a8d",
+      "line": {
+        "color": "rgb(44, 160, 44)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "FY-ending June 30th",
+          "y": "Primary government funded\u2013pupil:teacher ratio"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Primary government funded\u2013pupil:teacher ratio",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3527:d794fb",
+      "x": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3527:66a8ae",
+      "y": [
+        "",
+        "",
+        "16.9",
+        "17.3",
+        "17.3",
+        "17.1",
+        "16.6",
+        "16.5",
+        "16.8",
+        "17.4",
+        "18.5",
+        "18.1",
+        "17.4",
+        "17.3",
+        "17.1",
+        "15.6",
+        "15.0",
+        "15.4",
+        "16.7"
+      ],
+      "marker": {
+        "line": {
+          "width": 5
+        },
+        "size": 8
+      }
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "width": 993,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        1999.8648100581318,
+        2020.1351899418682
+      ],
+      "title": {
+        "text": "FY-ending June 30th"
+      },
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        14.754345535949433,
+        18.745654464050567
+      ],
+      "title": {
+        "font": {
+          "color": "rgb(44, 160, 44)"
+        },
+        "text": "Government funding pupil:teacher ratio"
+      },
+      "tickfont": {
+        "color": "rgb(44, 160, 44)"
+      },
+      "autorange": true
+    },
+    "height": 613,
+    "legend": {
+      "x": 0.04792321116928453,
+      "y": 1.061576354679803
+    },
+    "yaxis2": {
+      "side": "right",
+      "range": [
+        0,
+        51.15789473684211
+      ],
+      "title": {
+        "text": "% students"
+      },
+      "anchor": "x",
+      "autorange": true,
+      "overlaying": "y"
+    },
+    "autosize": true
+  }
+}

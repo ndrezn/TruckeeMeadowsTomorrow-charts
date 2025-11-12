@@ -1,0 +1,882 @@
+{
+  "data": [
+    {
+      "uid": "3343d6",
+      "line": {
+        "color": "rgb(0, 0, 255)",
+        "shape": "hvh",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "School year",
+          "y": "Total graduates"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Total graduates",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:1666:9ff6c0",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:1666:b00632",
+      "y": [
+        "57%",
+        "55%",
+        "56%",
+        "56%",
+        "63%",
+        "70%",
+        "70%",
+        "73%",
+        "73%",
+        "75%",
+        "77%",
+        "84%",
+        "84%"
+      ],
+      "marker": {
+        "line": {
+          "color": "rgb(0, 0, 0)",
+          "width": 3
+        }
+      }
+    },
+    {
+      "uid": "957ea9",
+      "meta": {
+        "columnNames": {
+          "x": "School year",
+          "y": "Honors grad"
+        }
+      },
+      "name": "Honors grad",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:1666:9ff6c0",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:1666:e55988",
+      "y": [
+        "14%",
+        "15%",
+        "16%",
+        "16%",
+        "19%",
+        "\u00a0",
+        "\u00a0",
+        "\u00a0",
+        "\u00a0",
+        "\u00a0",
+        "\u00a0",
+        "\u00a0"
+      ]
+    },
+    {
+      "uid": "763dba",
+      "meta": {
+        "columnNames": {
+          "x": "School year",
+          "y": "Advanced grad"
+        }
+      },
+      "name": "Advanced grad [7]",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:1666:9ff6c0",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:1666:5fb008",
+      "y": [
+        "11%",
+        "11%",
+        "10%",
+        "12%",
+        "10%",
+        "42%",
+        "42%",
+        "46%",
+        "46%",
+        "49%",
+        "51%",
+        "47%",
+        "48%"
+      ]
+    },
+    {
+      "uid": "3cac70",
+      "meta": {
+        "columnNames": {
+          "x": "School year",
+          "y": "Standard grad"
+        }
+      },
+      "name": "Standard grad",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:1666:9ff6c0",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:1666:4af85e",
+      "y": [
+        "31%",
+        "28%",
+        "29%",
+        "27%",
+        "33%",
+        "48%",
+        "45%",
+        "48%",
+        "48%",
+        "51%",
+        "48%",
+        "53%",
+        "51%"
+      ]
+    },
+    {
+      "uid": "a4be8b",
+      "meta": {
+        "columnNames": {
+          "x": "School year",
+          "y": "Adult grad"
+        }
+      },
+      "name": "Adult grad",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:1666:9ff6c0",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:1666:bc90e5",
+      "y": [
+        "1%",
+        "0%",
+        "1%",
+        "0%",
+        "0%",
+        "1%",
+        "2%",
+        "1%",
+        "0%",
+        "0%",
+        "1%",
+        "0%"
+      ]
+    },
+    {
+      "uid": "65abf0",
+      "meta": {
+        "columnNames": {
+          "x": "School year",
+          "y": "Adjusted diploma [1]"
+        }
+      },
+      "name": "Adjusted diploma [1]",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:1666:9ff6c0",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:1666:f7bd44",
+      "y": [
+        "4%",
+        "4%",
+        "3%",
+        "3%",
+        "3%",
+        "5%",
+        "4%",
+        "5%",
+        "6%",
+        "\u00a0",
+        "\u00a0",
+        "\u00a0",
+        "1%"
+      ]
+    },
+    {
+      "uid": "b74d0d",
+      "meta": {
+        "columnNames": {
+          "x": "School year",
+          "y": "Certificate of Attendance (6)"
+        }
+      },
+      "name": "Certificate of Attendance (6)",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:1666:9ff6c0",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:1666:5e5ae3",
+      "y": [
+        "2%",
+        "3%",
+        "2%",
+        "2%",
+        "2%",
+        "4%",
+        "7%"
+      ]
+    },
+    {
+      "uid": "6711b2",
+      "meta": {
+        "columnNames": {
+          "x": "School year",
+          "y": "Credit deficient/failed HSPE (5,6)"
+        }
+      },
+      "name": "Credit deficient/failed HSPE (5,6)",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:1666:9ff6c0",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:1666:da1090",
+      "y": [
+        "7%",
+        "6%",
+        "7%",
+        "7%",
+        "13%"
+      ]
+    },
+    {
+      "uid": "22eafc",
+      "meta": {
+        "columnNames": {
+          "x": "School year",
+          "y": "Dropout [2,5]"
+        }
+      },
+      "name": "Dropout [2,5]",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:1666:9ff6c0",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:1666:0cd8b5",
+      "y": [
+        "13%",
+        "15%",
+        "15%",
+        "15%",
+        "11%"
+      ]
+    },
+    {
+      "uid": "7a2220",
+      "meta": {
+        "columnNames": {
+          "x": "School year",
+          "y": "Vanished [3,5]"
+        }
+      },
+      "name": "Vanished [3,5]",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:1666:9ff6c0",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:1666:c1d689",
+      "y": [
+        "17%",
+        "16%",
+        "16%",
+        "17%",
+        "7%"
+      ]
+    },
+    {
+      "uid": "af4fdc",
+      "line": {
+        "color": "rgb(74, 134, 232)",
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Graduation school year",
+          "y": "American Indian"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "American Indian",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:2864:be2ed6",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:2864:b42849",
+      "y": [
+        "37%",
+        "33%",
+        "47%",
+        "44%",
+        "50%",
+        "50.7%",
+        "51%",
+        "60%",
+        "48%",
+        "52%",
+        "66%",
+        "71.2%",
+        "80%"
+      ],
+      "marker": {
+        "line": {
+          "width": 1
+        }
+      }
+    },
+    {
+      "uid": "6b9ae8",
+      "line": {
+        "color": "rgb(255, 0, 0)",
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Graduation school year",
+          "y": "Asian/Pacific Islander"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Asian/Pacific Islander",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:2864:be2ed6",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:2864:209bba",
+      "y": [
+        "66%",
+        "62%",
+        "67%",
+        "65%",
+        "68%"
+      ],
+      "marker": {
+        "line": {
+          "width": 1
+        }
+      }
+    },
+    {
+      "uid": "f408ad",
+      "line": {
+        "color": "rgb(0, 255, 0)",
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Graduation school year",
+          "y": "Asian"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Asian",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:2864:be2ed6",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:2864:332a3a",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "76.9%",
+        "82%",
+        "84%",
+        "86%",
+        "86%",
+        "88%",
+        "96.4%",
+        "94%"
+      ],
+      "marker": {
+        "line": {
+          "width": 1
+        }
+      }
+    },
+    {
+      "uid": "935c9f",
+      "line": {
+        "color": "rgb(255, 217, 102)",
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Graduation school year",
+          "y": "Hispanic"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Hispanic",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:2864:be2ed6",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:2864:edb5eb",
+      "y": [
+        "37%",
+        "35%",
+        "38%",
+        "40%",
+        "45%",
+        "57.3%",
+        "53%",
+        "62%",
+        "61%",
+        "67%",
+        "68%",
+        "79.7%",
+        "81%"
+      ],
+      "marker": {
+        "line": {
+          "width": 1
+        }
+      }
+    },
+    {
+      "uid": "8f0544",
+      "line": {
+        "color": "rgb(153, 0, 255)",
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Graduation school year",
+          "y": "Black"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Black",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:2864:be2ed6",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:2864:e0b8da",
+      "y": [
+        "46%",
+        "44%",
+        "35%",
+        "42%",
+        "50%",
+        "55%",
+        "42%",
+        "54%",
+        "60%",
+        "66%",
+        "57%",
+        "76.0%",
+        "69%"
+      ],
+      "marker": {
+        "line": {
+          "width": 1
+        }
+      }
+    },
+    {
+      "uid": "79514b",
+      "line": {
+        "color": "rgb(255, 153, 0)",
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Graduation school year",
+          "y": "White"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "White",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:2864:be2ed6",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:2864:f877dd",
+      "y": [
+        "64%",
+        "63%",
+        "64%",
+        "63%",
+        "72%",
+        "78%",
+        "76%",
+        "79%",
+        "80%",
+        "81%",
+        "83%",
+        "86.6%",
+        "87%"
+      ],
+      "marker": {
+        "line": {
+          "width": 1
+        }
+      }
+    },
+    {
+      "uid": "a0cf1b",
+      "line": {
+        "color": "rgb(255, 0, 255)",
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Graduation school year",
+          "y": "Pacific Islander"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Pacific Islander",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:2864:be2ed6",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:2864:379a79",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "74%",
+        "50%",
+        "56%",
+        "69%",
+        "62%",
+        "76%",
+        "81.6%",
+        "82%"
+      ],
+      "marker": {
+        "line": {
+          "width": 1
+        }
+      }
+    },
+    {
+      "uid": "ad5a96",
+      "line": {
+        "color": "rgb(0, 255, 255)",
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Graduation school year",
+          "y": "Multiracial"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Multiracial",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:2864:be2ed6",
+      "x": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:2864:ef6200",
+      "y": [
+        "53.0%",
+        "",
+        "",
+        "",
+        "",
+        "78%",
+        "73%",
+        "73%",
+        "80%",
+        "81%",
+        "81%",
+        "87.7%",
+        "82%"
+      ],
+      "marker": {
+        "line": {
+          "width": 1
+        }
+      }
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "WCSD high school cohort graduation rates"
+    },
+    "width": 1006,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2005.255705635771,
+        2018.744294364229
+      ],
+      "title": {
+        "text": "Graduation school year"
+      },
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "-",
+      "range": [
+        0,
+        105.26315789473685
+      ],
+      "title": {
+        "text": "% Final student status"
+      },
+      "autorange": true
+    },
+    "height": 632,
+    "legend": {
+      "x": 0.9935064935064936,
+      "y": 0.9230769230769231,
+      "font": {
+        "size": 10
+      }
+    },
+    "barmode": "stack",
+    "autosize": true,
+    "showlegend": true
+  }
+}

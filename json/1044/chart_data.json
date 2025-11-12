@@ -1,0 +1,808 @@
+{
+  "data": [
+    {
+      "uid": "2b6240",
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Design Arts, y"
+        }
+      },
+      "name": "Design Arts",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3795:a018d4",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3795:c00c2c",
+      "y": [
+        "$5,976",
+        "Suspended"
+      ]
+    },
+    {
+      "uid": "928df3",
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Project, y"
+        }
+      },
+      "name": "Project",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3795:a018d4",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3795:77d1ce",
+      "y": [
+        "$45,402",
+        "$41,018",
+        "$31,082",
+        "$27,751",
+        "$22,651",
+        "$24,258",
+        "$40,401",
+        "$32,964",
+        "$69,424"
+      ]
+    },
+    {
+      "uid": "0ea2be",
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Developmental, y"
+        }
+      },
+      "name": "Developmental",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3795:a018d4",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3795:5be339",
+      "y": [
+        "",
+        "$24,366",
+        "$12,296",
+        "Merged"
+      ]
+    },
+    {
+      "uid": "df9b1e",
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Partners in Excellence (PIE)"
+        }
+      },
+      "name": "Partners in Excellence (PIE)",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3795:a018d4",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3795:12739b",
+      "y": [
+        "$128,952",
+        "$185,441",
+        "$198,859",
+        "$218,673",
+        "$216,452",
+        "$239,061",
+        "$399,124",
+        "$402,794"
+      ],
+      "marker": {
+        "line": {
+          "width": 1
+        },
+        "color": "rgb(203, 155, 247)"
+      }
+    },
+    {
+      "uid": "d99853",
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Artist Fellowship-related, y"
+        }
+      },
+      "name": "Artist Fellowship-related",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3795:a018d4",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3795:b68d9a",
+      "y": [
+        "$5,500",
+        "$12,500",
+        "$18,000",
+        "$18,000",
+        "$13,000",
+        "$23,000",
+        "$15,000",
+        "$26,000",
+        "$22,000"
+      ]
+    },
+    {
+      "uid": "3ff479",
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Jackpot, y"
+        }
+      },
+      "name": "Jackpot",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3795:a018d4",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3795:8b7cda",
+      "y": [
+        "$9,485",
+        "$13,837",
+        "$10,748",
+        "$13,301",
+        "$15,666",
+        "$5,217",
+        "$15,605"
+      ]
+    },
+    {
+      "uid": "73f3be",
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Partnership/NEA, y"
+        }
+      },
+      "name": "Partnership/NEA",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3795:a018d4",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3795:f2c6ab",
+      "y": [
+        "$54,521",
+        "",
+        "$30,000",
+        "",
+        "",
+        "",
+        "$42,500"
+      ],
+      "marker": {
+        "color": "rgb(168, 163, 163)"
+      }
+    },
+    {
+      "uid": "6b9243",
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Sustaining Nevada&amp;amp;#39;s Arts Program"
+        }
+      },
+      "name": "Sustaining Nevada's Arts Program",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3795:a018d4",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3795:ccde34",
+      "y": [
+        "$93,086"
+      ]
+    },
+    {
+      "uid": "5abd6b",
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Arts Learning-related, y"
+        }
+      },
+      "name": "Arts Learning-related",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3795:a018d4",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3795:cfd9b8",
+      "y": [
+        "$38,004",
+        "$52,999",
+        "$16,277",
+        "$53,575",
+        "$66,433",
+        "$77,394",
+        "$9,422",
+        "$8,831",
+        "$92,850"
+      ],
+      "marker": {
+        "opacity": 0.5
+      }
+    },
+    {
+      "uid": "416ad1",
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Professional Development, y"
+        }
+      },
+      "name": "Professional Development",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3795:a018d4",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3795:8dc26d",
+      "y": [
+        "$39,561",
+        "$4,550",
+        "$15600",
+        "$10,400",
+        "$16,900",
+        "$7,018",
+        "$29,847"
+      ]
+    },
+    {
+      "uid": "553ae8",
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Artist Residency Express Awards"
+        }
+      },
+      "name": "Artist Residency Express Awards",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3795:a018d4",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3795:5fa1ac",
+      "y": [
+        "",
+        "",
+        "",
+        "$4,800",
+        "$4,100",
+        "$9,309",
+        "$30,947"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "color": "rgb(234, 153, 153)",
+        "opacity": 0.5
+      }
+    },
+    {
+      "uid": "ca5465",
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Folklife-related, y"
+        }
+      },
+      "name": "Folklife-related",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3795:a018d4",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3795:a82683",
+      "y": [
+        "$4,500",
+        "$10,500",
+        "$6,000",
+        "",
+        "$2,200",
+        "$1,500"
+      ],
+      "marker": {
+        "color": "rgb(0, 255, 0)"
+      }
+    },
+    {
+      "uid": "297b75",
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Governor&amp;amp;#39;s Arts Awards"
+        }
+      },
+      "name": "Governor's Arts Awards",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3795:a018d4",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3795:394950",
+      "y": [
+        "$4,000"
+      ],
+      "marker": {
+        "color": "rgb(255, 255, 0)"
+      }
+    },
+    {
+      "uid": "17f8ad",
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Nevada Circuit Riders, y"
+        }
+      },
+      "name": "Nevada Circuit Riders",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3795:a018d4",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3795:dbbec4",
+      "y": [
+        "",
+        "$10,500",
+        "",
+        "",
+        "$7,000",
+        "$7,000",
+        "$4,000"
+      ],
+      "marker": {
+        "color": "rgb(255, 0, 255)"
+      }
+    },
+    {
+      "uid": "066f18",
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Living Traditions, y"
+        }
+      },
+      "name": "Living Traditions",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3795:a018d4",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3795:c6911e",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "$2,500"
+      ]
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Operating support"
+        }
+      },
+      "name": "Operating support",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3795:a018d4",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3795:eedd3b",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "$327,968",
+        "$380,968"
+      ],
+      "marker": {
+        "line": {
+          "width": 1
+        },
+        "opacity": 1
+      },
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "Community impact"
+        }
+      },
+      "name": "Community impact",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3795:a018d4",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3795:3105f0",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "$7,500",
+        "$15,000"
+      ],
+      "marker": {
+        "line": {
+          "width": 1
+        }
+      },
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "CARES Act"
+        }
+      },
+      "name": "CARES Act",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3795:a018d4",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3795:5a6482",
+      "y": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "$235,740"
+      ],
+      "marker": {
+        "line": {
+          "width": 2
+        }
+      },
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "FY",
+          "y": "American Rescue Plan"
+        }
+      },
+      "name": "American Rescue Plan",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3795:a018d4",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3795:d29107",
+      "y": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "$346,800"
+      ],
+      "marker": {
+        "line": {
+          "width": 1
+        }
+      },
+      "orientation": "v"
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(68, 68, 68)"
+      },
+      "text": "<b>Nevada Art Council program &nbsp;grant award dollars in northern Nevada</b><br><br>\n<b>Source:</b> &nbsp;<a href=\"https://www.nvartscouncil.org/grants/past-grantees/\">Nevada Arts Council</a>"
+    },
+    "width": 990,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 0,
+      "range": [
+        2009.5,
+        2022.5
+      ],
+      "tick0": 2,
+      "title": {
+        "text": "Fiscal year"
+      },
+      "showline": false,
+      "tickmode": "auto",
+      "zeroline": false,
+      "autorange": false,
+      "linewidth": 0.5,
+      "showspikes": false,
+      "rangeslider": {
+        "range": [
+          2008.8827891248536,
+          2021.698698683785
+        ],
+        "yaxis": {},
+        "visible": false,
+        "autorange": true
+      }
+    },
+    "yaxis": {
+      "range": [
+        0,
+        1088867.0328955227
+      ],
+      "title": {
+        "font": {
+          "color": "rgb(68, 68, 68)"
+        },
+        "text": "Grant award dollars"
+      },
+      "tickfont": {
+        "color": "rgb(68, 68, 68)"
+      },
+      "autorange": true
+    },
+    "bargap": 0.4,
+    "height": 648,
+    "legend": {
+      "x": 0.01746987951807229,
+      "y": 0.7839743589743592,
+      "font": {
+        "size": 8
+      },
+      "valign": "bottom",
+      "xanchor": "auto",
+      "yanchor": "auto",
+      "orientation": "h"
+    },
+    "barmode": "stack",
+    "autosize": "initial",
+    "showlegend": true,
+    "annotations": [
+      {
+        "x": 2015.4770240963855,
+        "y": 1046987.5316303101,
+        "font": {
+          "color": "rgb(152, 0, 0)"
+        },
+        "text": "<i>Not all grant awardees reported FY2017-19 (not comparable to prior years);</i><br><i>2021-22 awards support COVID pandemic recovery; program award dollars unavailable after FY-2022</i>",
+        "showarrow": false
+      },
+      {
+        "x": 2016.187951807229,
+        "y": 926002.30575303,
+        "font": {
+          "size": 11,
+          "color": "rgb(152, 0, 0)"
+        },
+        "text": "Northern Nevada = Washoe County, Carson City, Douglas County, Virginia City, Fallon and Fernley",
+        "showarrow": false
+      }
+    ]
+  }
+}

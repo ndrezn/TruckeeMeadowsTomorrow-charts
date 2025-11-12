@@ -1,0 +1,671 @@
+{
+  "data": [
+    {
+      "uid": "f21113",
+      "line": {
+        "shape": "spline",
+        "width": 4
+      },
+      "mode": "lines+markers",
+      "name": "Carson City",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3950:603d2e",
+      "x": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3950:378b2b",
+      "y": [
+        " 8,681 ",
+        " 8,129 ",
+        " 7,390 ",
+        "",
+        " 7,511 ",
+        " 8,100 ",
+        " 8,130 ",
+        " 9,300 ",
+        "10,424"
+      ],
+      "marker": {
+        "size": 4
+      }
+    },
+    {
+      "uid": "d21283",
+      "line": {
+        "shape": "spline",
+        "width": 4
+      },
+      "mode": "lines+markers",
+      "name": "Churchill",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3950:603d2e",
+      "x": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3950:8b54db",
+      "y": [
+        " 9,529 ",
+        " 9,645 ",
+        " 8,757 ",
+        "",
+        " 8,979 ",
+        " 8,200 ",
+        " 7,710 ",
+        " 7,300 ",
+        "8007"
+      ],
+      "marker": {
+        "size": 4
+      }
+    },
+    {
+      "uid": "faaa25",
+      "line": {
+        "shape": "spline",
+        "width": 4
+      },
+      "mode": "lines+markers",
+      "name": "Clark",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3950:603d2e",
+      "x": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3950:2c5cf7",
+      "y": [
+        " 8,315 ",
+        " 7,941 ",
+        " 7,168 ",
+        "",
+        " 6,933 ",
+        " 6,900 ",
+        " 6,825 ",
+        " 6,900 ",
+        "7145"
+      ],
+      "marker": {
+        "size": 4
+      }
+    },
+    {
+      "uid": "139475",
+      "line": {
+        "shape": "spline",
+        "width": 4
+      },
+      "mode": "lines+markers",
+      "name": "Douglas",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3950:603d2e",
+      "x": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3950:89ed4b",
+      "y": [
+        " 5,846 ",
+        " 5,958 ",
+        " 6,125 ",
+        "",
+        " 5,176 ",
+        " 5,700 ",
+        " 6,265 ",
+        " 6,400 ",
+        "5889"
+      ],
+      "marker": {
+        "size": 4
+      }
+    },
+    {
+      "uid": "c94d34",
+      "line": {
+        "shape": "spline",
+        "width": 4
+      },
+      "mode": "lines+markers",
+      "name": "Elko",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3950:603d2e",
+      "x": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3950:c21340",
+      "y": [
+        " 7,783 ",
+        " 7,993 ",
+        " 7,291 ",
+        "",
+        " 7,175 ",
+        " 7,600 ",
+        " 6,970 ",
+        " 7,100 ",
+        "7290"
+      ],
+      "marker": {
+        "size": 4
+      }
+    },
+    {
+      "uid": "a94ef4",
+      "line": {
+        "shape": "spline",
+        "width": 4
+      },
+      "mode": "lines+markers",
+      "name": "Humboldt",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3950:603d2e",
+      "x": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3950:3048b7",
+      "y": [
+        " 8,845 ",
+        " 8,520 ",
+        " 8,758 ",
+        "",
+        " 9,383 ",
+        " 8,900 ",
+        " 8,517 ",
+        " 7,900 ",
+        "8844"
+      ],
+      "marker": {
+        "size": 4
+      }
+    },
+    {
+      "uid": "93376b",
+      "line": {
+        "shape": "spline",
+        "width": 4
+      },
+      "mode": "lines+markers",
+      "name": "Lande",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3950:603d2e",
+      "x": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3950:26997c",
+      "y": [
+        " 13,623 ",
+        " 11,467 ",
+        " 9,695 ",
+        "",
+        " 9,522 ",
+        " 7,800 ",
+        " 7,955 ",
+        " 8,700 ",
+        "8785"
+      ],
+      "marker": {
+        "size": 4
+      }
+    },
+    {
+      "uid": "d8fe19",
+      "line": {
+        "shape": "spline",
+        "width": 4
+      },
+      "mode": "lines+markers",
+      "name": "Lincoln",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3950:603d2e",
+      "x": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3950:982235",
+      "y": [
+        " 12,723 ",
+        " 10,141 ",
+        " 5,317 ",
+        "",
+        " 5,942 ",
+        " 6,800 ",
+        " 6,808 ",
+        " 7,000 ",
+        "6152"
+      ],
+      "marker": {
+        "size": 4
+      }
+    },
+    {
+      "uid": "5af310",
+      "line": {
+        "shape": "spline",
+        "width": 4
+      },
+      "mode": "lines+markers",
+      "name": "Lyon",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3950:603d2e",
+      "x": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3950:3569fa",
+      "y": [
+        " 7,907 ",
+        " 7,434 ",
+        " 7,103 ",
+        "",
+        " 7,949 ",
+        " 8,500 ",
+        " 8,307 ",
+        " 8,900 ",
+        "8347"
+      ],
+      "marker": {
+        "size": 4
+      }
+    },
+    {
+      "uid": "bdf3aa",
+      "line": {
+        "shape": "spline",
+        "width": 4
+      },
+      "mode": "lines+markers",
+      "name": "Mineral",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3950:603d2e",
+      "x": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3950:edb85a",
+      "y": [
+        " 14,537 ",
+        " 15,655 ",
+        " 10,373 ",
+        "",
+        " 12,736 ",
+        " 14,700 ",
+        " 12,016 ",
+        " 10,700 ",
+        "10934"
+      ],
+      "marker": {
+        "size": 4
+      }
+    },
+    {
+      "uid": "73cf2a",
+      "line": {
+        "color": "rgb(0, 0, 255)",
+        "shape": "spline",
+        "width": 4
+      },
+      "mode": "lines+markers",
+      "name": "Nye , y, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3950:603d2e",
+      "x": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3950:a7fc1b",
+      "y": [
+        " 12,777 ",
+        " 12,512 ",
+        " 12,332 ",
+        "",
+        " 12,023 ",
+        " 11,200 ",
+        " 10,984 ",
+        " 11,500 ",
+        "11691"
+      ],
+      "marker": {
+        "size": 4
+      }
+    },
+    {
+      "uid": "267e9b",
+      "line": {
+        "color": "rgb(246, 178, 107)",
+        "shape": "spline",
+        "width": 4
+      },
+      "mode": "lines+markers",
+      "name": "Pershing",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3950:603d2e",
+      "x": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3950:f543bc",
+      "y": [
+        " 5,433 ",
+        " 6,657 ",
+        " 7,720 ",
+        "",
+        " 7,061 ",
+        " 5,900 ",
+        " 5,306 ",
+        " 5,200 ",
+        "5872"
+      ],
+      "marker": {
+        "size": 4
+      }
+    },
+    {
+      "uid": "1a6c9a",
+      "line": {
+        "color": "rgb(0, 255, 0)",
+        "shape": "spline",
+        "width": 4
+      },
+      "mode": "lines+markers",
+      "name": "Storey",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3950:603d2e",
+      "x": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3950:cb2e73",
+      "y": [
+        "",
+        "",
+        " 4,299 ",
+        "",
+        " 5,891 ",
+        " 7,100 "
+      ],
+      "marker": {
+        "size": 4
+      }
+    },
+    {
+      "uid": "ba77ef",
+      "line": {
+        "dash": "dot",
+        "shape": "spline",
+        "width": 7
+      },
+      "mode": "lines+markers",
+      "name": "Washoe",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3950:603d2e",
+      "x": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3950:377260",
+      "y": [
+        " 7,500 ",
+        " 7,377 ",
+        " 7,100 ",
+        "",
+        " 6,962 ",
+        " 7,100 ",
+        " 6,959 ",
+        " 7,000 ",
+        "7089"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 9
+      }
+    },
+    {
+      "uid": "c78e82",
+      "line": {
+        "shape": "spline",
+        "width": 4
+      },
+      "mode": "lines+markers",
+      "name": "White Pine , y, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3950:603d2e",
+      "x": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3950:c2c4d4",
+      "y": [
+        " 10,388 ",
+        " 10,468 ",
+        " 9,773 ",
+        "",
+        " 10,954 ",
+        " 9,500 ",
+        " 9,418 ",
+        " 9,300 ",
+        "8,319"
+      ],
+      "marker": {
+        "size": 4
+      }
+    },
+    {
+      "uid": "f10486",
+      "name": "Nevada",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3950:603d2e",
+      "x": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3950:ba04c3",
+      "y": [
+        " 8,332 ",
+        " 7,927 ",
+        " 7,252 ",
+        "",
+        " 7,065 ",
+        " 7,000 ",
+        "6971",
+        "7100",
+        "7276"
+      ],
+      "marker": {
+        "color": "rgb(127, 127, 127)"
+      },
+      "opacity": 0.75
+    },
+    {
+      "uid": "ddbea8",
+      "name": "Top US performers (10th percentile)",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3950:603d2e",
+      "x": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3950:224b22",
+      "y": [
+        " 5,564 ",
+        " 5,466 ",
+        " 5,317 ",
+        "",
+        " 5,200 ",
+        " 5,200 ",
+        " 5,200 ",
+        " 5,300 ",
+        "5,400"
+      ],
+      "marker": {
+        "color": "rgb(44, 160, 44)"
+      },
+      "opacity": 0.85
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "Premature death (years of potential life lost before age 75 per 100,000 population, age-adjusted)*"
+    },
+    "width": 1099,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2010.4821179408093,
+        2019.5178820591907
+      ],
+      "title": {
+        "text": "County Health Ranking year"
+      },
+      "zeroline": true,
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        16586.057848553784
+      ],
+      "title": {
+        "text": "Years of potential life lost rate"
+      },
+      "autorange": true
+    },
+    "height": 669,
+    "legend": {
+      "font": {
+        "size": 11,
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    "autosize": true
+  }
+}

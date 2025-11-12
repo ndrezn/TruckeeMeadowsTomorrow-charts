@@ -1,0 +1,823 @@
+{
+  "data": [
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Fall semester",
+          "y": "New freshmen"
+        }
+      },
+      "mode": "markers",
+      "name": "New freshmen",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:4103:ff5cbf",
+      "x": [
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4103:5d65bf",
+      "y": [
+        "1,990",
+        "2,044",
+        "2,185",
+        "2,159",
+        "2,180",
+        "2,432",
+        "2,357",
+        "2,278",
+        "2,296",
+        "2,171",
+        "2,764",
+        "2,770",
+        "2,840",
+        "2,951",
+        "3,046",
+        "3,707",
+        "3,320",
+        "3,320",
+        "3,330",
+        "3,105",
+        "2,982",
+        "3,026",
+        "2,915",
+        "3,007",
+        "2,935"
+      ],
+      "marker": {
+        "color": "rgb(152, 159, 255)"
+      },
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Fall semester",
+          "y": "Not returning"
+        }
+      },
+      "name": "Not returning",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:4103:ff5cbf",
+      "x": [
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4103:aa8aa5",
+      "y": [
+        "\u00a0\t474\u00a0",
+        "\u00a0\t529\u00a0",
+        "\u00a0\t534\u00a0",
+        "\u00a0\t533\u00a0",
+        "\u00a0\t550\u00a0",
+        "\u00a0\t564\u00a0",
+        "\u00a0\t507\u00a0",
+        "\u00a0\t510\u00a0",
+        "\u00a0\t514\u00a0",
+        "\u00a0\t486\u00a0",
+        "\u00a0\t456\u00a0",
+        "\u00a0\t608\u00a0",
+        "\u00a0\t582\u00a0",
+        "\u00a0\t568\u00a0",
+        "\u00a0\t531\u00a0",
+        "\u00a0\t579\u00a0",
+        "\u00a0\t704\u00a0",
+        "\u00a0\t631\u00a0",
+        "\u00a0\t631\u00a0",
+        "\u00a0\t633\u00a0",
+        "\u00a0\t621\u00a0",
+        "\u00a0\t626\u00a0",
+        "\u00a0\t602\u00a0",
+        "\u00a0\t583\u00a0",
+        "601"
+      ],
+      "marker": {
+        "color": "rgb(252, 112, 88)"
+      },
+      "orientation": "v"
+    },
+    {
+      "line": {
+        "color": "rgb(1, 245, 180)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Fall semester",
+          "y": "Attrition rate"
+        }
+      },
+      "mode": "lines",
+      "name": "Attrition rate",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4103:ff5cbf",
+      "x": [
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4103:be24e6",
+      "y": [
+        "23.8%",
+        "25.9%",
+        "24.4%",
+        "24.7%",
+        "25.2%",
+        "23.2%",
+        "21.5%",
+        "22.4%",
+        "22.6%",
+        "20.0%",
+        "21.0%",
+        "22.0%",
+        "21.0%",
+        "20.0%",
+        "18.0%",
+        "19.0%",
+        "19.0%",
+        "19.0%",
+        "19.0%",
+        "19.0%",
+        "20.0%",
+        "21.0%",
+        "19.9%",
+        "20.0%",
+        "20.0%"
+      ],
+      "yaxis": "y2",
+      "orientation": "v"
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "x": 0.5,
+      "font": {
+        "size": 14,
+        "color": "rgb(68, 68, 68)"
+      },
+      "text": "<b>University of Nevada Reno (UNR) freshmen attrition rate&nbsp;</b><br><br>\n<b>Source:</b> &nbsp;UNR, Office of Institutional Analysis, <a href=\"https://dataden.unr.edu/CommonDataSet\">Common Data Set</a>"
+    },
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        1999.5,
+        2024.5
+      ],
+      "title": {
+        "text": "Fall semester"
+      },
+      "showline": true,
+      "autorange": true,
+      "linecolor": "rgb(68, 68, 68)"
+    },
+    "yaxis": {
+      "range": [
+        0,
+        4028.794054429458
+      ],
+      "title": {
+        "text": "# Freshmen"
+      },
+      "showgrid": false,
+      "autorange": true,
+      "separatethousands": true
+    },
+    "legend": {
+      "x": 0.32065359477124183,
+      "y": 0.9632034632034632
+    },
+    "yaxis2": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        17.56111111111111,
+        26.33888888888889
+      ],
+      "title": {
+        "text": "Attrition rate %"
+      },
+      "autorange": true,
+      "overlaying": "y"
+    },
+    "barmode": "group",
+    "autosize": true,
+    "template": {
+      "data": {
+        "bar": [
+          {
+            "type": "bar",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "table": [
+          {
+            "type": "table",
+            "cells": {
+              "fill": {
+                "color": "#EBF0F8"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "header": {
+              "fill": {
+                "color": "#C8D4E3"
+              },
+              "line": {
+                "color": "white"
+              }
+            }
+          }
+        ],
+        "carpet": [
+          {
+            "type": "carpet",
+            "aaxis": {
+              "gridcolor": "#C8D4E3",
+              "linecolor": "#C8D4E3",
+              "endlinecolor": "#2a3f5f",
+              "minorgridcolor": "#C8D4E3",
+              "startlinecolor": "#2a3f5f"
+            },
+            "baxis": {
+              "gridcolor": "#C8D4E3",
+              "linecolor": "#C8D4E3",
+              "endlinecolor": "#2a3f5f",
+              "minorgridcolor": "#C8D4E3",
+              "startlinecolor": "#2a3f5f"
+            }
+          }
+        ],
+        "mesh3d": [
+          {
+            "type": "mesh3d",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "contour": [
+          {
+            "type": "contour",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ],
+        "heatmap": [
+          {
+            "type": "heatmap",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ],
+        "scatter": [
+          {
+            "type": "scatter",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "surface": [
+          {
+            "type": "surface",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "heatmapgl": [
+          {
+            "type": "heatmapgl",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "histogram": [
+          {
+            "type": "histogram",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "parcoords": [
+          {
+            "line": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            },
+            "type": "parcoords"
+          }
+        ],
+        "scatter3d": [
+          {
+            "type": "scatter3d",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scattergl": [
+          {
+            "type": "scattergl",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "choropleth": [
+          {
+            "type": "choropleth",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "scattergeo": [
+          {
+            "type": "scattergeo",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "histogram2d": [
+          {
+            "type": "histogram2d",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ],
+        "scatterpolar": [
+          {
+            "type": "scatterpolar",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "contourcarpet": [
+          {
+            "type": "contourcarpet",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "scattercarpet": [
+          {
+            "type": "scattercarpet",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scattermapbox": [
+          {
+            "type": "scattermapbox",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scatterpolargl": [
+          {
+            "type": "scatterpolargl",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scatterternary": [
+          {
+            "type": "scatterternary",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "histogram2dcontour": [
+          {
+            "type": "histogram2dcontour",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ]
+      },
+      "layout": {
+        "geo": {
+          "bgcolor": "white",
+          "showland": true,
+          "lakecolor": "white",
+          "landcolor": "white",
+          "showlakes": true,
+          "subunitcolor": "#C8D4E3"
+        },
+        "font": {
+          "color": "#2a3f5f"
+        },
+        "polar": {
+          "bgcolor": "white",
+          "radialaxis": {
+            "ticks": "",
+            "gridcolor": "#EBF0F8",
+            "linecolor": "#EBF0F8"
+          },
+          "angularaxis": {
+            "ticks": "",
+            "gridcolor": "#EBF0F8",
+            "linecolor": "#EBF0F8"
+          }
+        },
+        "scene": {
+          "xaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
+            "showbackground": true,
+            "backgroundcolor": "white"
+          },
+          "yaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
+            "showbackground": true,
+            "backgroundcolor": "white"
+          },
+          "zaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
+            "showbackground": true,
+            "backgroundcolor": "white"
+          }
+        },
+        "title": {
+          "x": 0.05
+        },
+        "xaxis": {
+          "ticks": "",
+          "gridcolor": "#EBF0F8",
+          "linecolor": "#EBF0F8",
+          "automargin": true,
+          "zerolinecolor": "#EBF0F8",
+          "zerolinewidth": 2
+        },
+        "yaxis": {
+          "ticks": "",
+          "gridcolor": "#EBF0F8",
+          "linecolor": "#EBF0F8",
+          "automargin": true,
+          "zerolinecolor": "#EBF0F8",
+          "zerolinewidth": 2
+        },
+        "ternary": {
+          "aaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
+          },
+          "baxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
+          },
+          "caxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
+          },
+          "bgcolor": "white"
+        },
+        "colorway": [
+          "#636efa",
+          "#EF553B",
+          "#00cc96",
+          "#ab63fa",
+          "#19d3f3",
+          "#e763fa",
+          "#fecb52",
+          "#ffa15a",
+          "#ff6692",
+          "#b6e880"
+        ],
+        "hovermode": "closest",
+        "colorscale": {
+          "diverging": [
+            [
+              0,
+              "#8e0152"
+            ],
+            [
+              0.1,
+              "#c51b7d"
+            ],
+            [
+              0.2,
+              "#de77ae"
+            ],
+            [
+              0.3,
+              "#f1b6da"
+            ],
+            [
+              0.4,
+              "#fde0ef"
+            ],
+            [
+              0.5,
+              "#f7f7f7"
+            ],
+            [
+              0.6,
+              "#e6f5d0"
+            ],
+            [
+              0.7,
+              "#b8e186"
+            ],
+            [
+              0.8,
+              "#7fbc41"
+            ],
+            [
+              0.9,
+              "#4d9221"
+            ],
+            [
+              1,
+              "#276419"
+            ]
+          ],
+          "sequential": [
+            [
+              0,
+              "#0508b8"
+            ],
+            [
+              0.0893854748603352,
+              "#1910d8"
+            ],
+            [
+              0.1787709497206704,
+              "#3c19f0"
+            ],
+            [
+              0.2681564245810056,
+              "#6b1cfb"
+            ],
+            [
+              0.3575418994413408,
+              "#981cfd"
+            ],
+            [
+              0.44692737430167595,
+              "#bf1cfd"
+            ],
+            [
+              0.5363128491620112,
+              "#dd2bfd"
+            ],
+            [
+              0.6256983240223464,
+              "#f246fe"
+            ],
+            [
+              0.7150837988826816,
+              "#fc67fd"
+            ],
+            [
+              0.8044692737430168,
+              "#fe88fc"
+            ],
+            [
+              0.8938547486033519,
+              "#fea5fd"
+            ],
+            [
+              0.9832402234636871,
+              "#febefe"
+            ],
+            [
+              1,
+              "#fec3fe"
+            ]
+          ],
+          "sequentialminus": [
+            [
+              0,
+              "#0508b8"
+            ],
+            [
+              0.0893854748603352,
+              "#1910d8"
+            ],
+            [
+              0.1787709497206704,
+              "#3c19f0"
+            ],
+            [
+              0.2681564245810056,
+              "#6b1cfb"
+            ],
+            [
+              0.3575418994413408,
+              "#981cfd"
+            ],
+            [
+              0.44692737430167595,
+              "#bf1cfd"
+            ],
+            [
+              0.5363128491620112,
+              "#dd2bfd"
+            ],
+            [
+              0.6256983240223464,
+              "#f246fe"
+            ],
+            [
+              0.7150837988826816,
+              "#fc67fd"
+            ],
+            [
+              0.8044692737430168,
+              "#fe88fc"
+            ],
+            [
+              0.8938547486033519,
+              "#fea5fd"
+            ],
+            [
+              0.9832402234636871,
+              "#febefe"
+            ],
+            [
+              1,
+              "#fec3fe"
+            ]
+          ]
+        },
+        "plot_bgcolor": "white",
+        "paper_bgcolor": "white",
+        "shapedefaults": {
+          "line": {
+            "width": 0
+          },
+          "opacity": 0.4,
+          "fillcolor": "#506784"
+        },
+        "annotationdefaults": {
+          "arrowhead": 0,
+          "arrowcolor": "#506784",
+          "arrowwidth": 1
+        }
+      },
+      "themeRef": "PLOTLY_WHITE"
+    },
+    "annotations": [
+      {
+        "x": 2016.6409836065575,
+        "y": 3847.4028529267093,
+        "font": {
+          "size": 11,
+          "color": "rgb(156, 2, 21)"
+        },
+        "text": "<i>[Attrition rate estimated using the retiontion rate for cohort students enrolled the prior fall]</i>",
+        "showarrow": false
+      }
+    ]
+  }
+}

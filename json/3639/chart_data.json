@@ -1,0 +1,261 @@
+{
+  "data": [
+    {
+      "uid": "b3df3e",
+      "meta": {
+        "columnNames": {
+          "x": "Report ranking year",
+          "y": "Nevada"
+        }
+      },
+      "name": "Nevada",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3955:1a1193",
+      "x": [
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3955:406cb2",
+      "y": [
+        "$36",
+        "$37",
+        "$39",
+        "$41",
+        "$39",
+        "$37",
+        "$39",
+        "$33",
+        "$34",
+        "$41",
+        "$43",
+        "$48",
+        "$50",
+        "$49",
+        "$72",
+        "$135",
+        "$66"
+      ],
+      "marker": {
+        "color": "rgb(60, 136, 189)"
+      },
+      "opacity": 0.9
+    },
+    {
+      "uid": "5fe8fc",
+      "meta": {
+        "columnNames": {
+          "x": "Report ranking year",
+          "y": "US"
+        }
+      },
+      "name": "US",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3955:1a1193",
+      "x": [
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3955:1c8dc1",
+      "y": [
+        "$88",
+        "$94",
+        "$94",
+        "$95",
+        "$92",
+        "$82",
+        "$90",
+        "$86",
+        "$94",
+        "$86",
+        "$86",
+        "$87",
+        "$91",
+        "$116",
+        "$116",
+        "$183",
+        "$124"
+      ],
+      "marker": {
+        "color": "rgb(88, 166, 88)"
+      },
+      "opacity": 0.8
+    },
+    {
+      "uid": "5db104",
+      "line": {
+        "color": "rgb(60, 136, 189)",
+        "shape": "spline",
+        "width": 2,
+        "smoothing": 1
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Report ranking year",
+          "y": "Nevada ranking"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Nevada ranking",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3955:1a1193",
+      "x": [
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3955:5f6d5b",
+      "y": [
+        "\u00a0\t48\u00a0",
+        "\u00a0\t46\u00a0",
+        "\u00a0\t50\u00a0",
+        "\u00a0\t49\u00a0",
+        "\u00a0\t49\u00a0",
+        "\u00a0\t50\u00a0",
+        "\u00a0\t50\u00a0",
+        "\u00a0\t50\u00a0",
+        "\u00a0\t50\u00a0",
+        "\u00a0\t50\u00a0",
+        "\u00a0\t50\u00a0",
+        "\u00a0\t50\u00a0",
+        "\u00a0\t50\u00a0",
+        "\u00a0\t49\u00a0",
+        "\u00a0\t49\u00a0",
+        "\u00a0\t47\u00a0",
+        "\u00a0\t50\u00a0"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "size": 6
+      }
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(68, 68, 68)"
+      },
+      "text": "<b>Public health spending per person</b><br><br>\n<b>Source:</b> &nbsp;<a href=\"https://www.americashealthrankings.org/explore/annual/measure/PH_funding/state/NV\">American's Health Rankings</a>"
+    },
+    "width": 999,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2007.0219368646335,
+        2024.9780631353665
+      ],
+      "title": {
+        "font": {
+          "size": 13
+        },
+        "text": "Ranking report year"
+      },
+      "showline": true,
+      "autorange": true,
+      "linecolor": "rgb(68, 68, 68)",
+      "linewidth": 1
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        192.6315789473684
+      ],
+      "title": {
+        "font": {
+          "size": 13
+        },
+        "text": "Per capita state funding $"
+      },
+      "autorange": true
+    },
+    "height": 667,
+    "legend": {
+      "x": 0.4950573385573402,
+      "y": 0.8110882956878849,
+      "font": {
+        "size": 11,
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    "yaxis2": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        45.73909006499536,
+        50.26090993500464
+      ],
+      "title": {
+        "font": {
+          "size": 13
+        },
+        "text": "State ranking (50=lowest)"
+      },
+      "anchor": "x",
+      "tickmode": "linear",
+      "autorange": true,
+      "overlaying": "y"
+    },
+    "autosize": true,
+    "annotations": [
+      {
+        "x": 2015.9475655430713,
+        "y": 103.67664541229871,
+        "font": {
+          "size": 11,
+          "color": "rgb(152, 0, 0)"
+        },
+        "text": "<i>[Data are 2-year estimates, lagged 2 years]</i>",
+        "showarrow": false
+      }
+    ]
+  }
+}

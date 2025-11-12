@@ -1,0 +1,351 @@
+{
+  "data": [
+    {
+      "uid": "211b4f",
+      "line": {
+        "width": 6
+      },
+      "name": "Convenience\u2013no gas",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3845:51fc7f",
+      "x": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3845:da88cc",
+      "y": [
+        " 0.10 ",
+        " 0.09 "
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true,
+      "connectgaps": true
+    },
+    {
+      "uid": "6f6e76",
+      "line": {
+        "width": 6
+      },
+      "name": "Convenience-with gas",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3845:51fc7f",
+      "x": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3845:e91ab6",
+      "y": [
+        " 0.27 ",
+        " 0.26 "
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true,
+      "connectgaps": true
+    },
+    {
+      "uid": "4d251a",
+      "line": {
+        "width": 6
+      },
+      "name": "Specialized",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3845:51fc7f",
+      "x": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3845:87d035",
+      "y": [
+        " 0.08 ",
+        " 0.07 ",
+        "",
+        "",
+        " 0.06 "
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true,
+      "connectgaps": true
+    },
+    {
+      "uid": "747a63",
+      "line": {
+        "width": 6
+      },
+      "name": "Farmers markets",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3845:51fc7f",
+      "x": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3845:a8dbe6",
+      "y": [
+        "",
+        "",
+        " 0.02 ",
+        "",
+        "",
+        "",
+        " 0.03 "
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true,
+      "connectgaps": true
+    },
+    {
+      "uid": "8c9497",
+      "line": {
+        "width": 6
+      },
+      "name": "Grocery",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3845:51fc7f",
+      "x": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3845:4869a4",
+      "y": [
+        " 0.14 ",
+        " 0.16 ",
+        "",
+        "",
+        " 0.14 "
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true,
+      "connectgaps": true
+    },
+    {
+      "uid": "7af367",
+      "line": {
+        "width": 6
+      },
+      "name": "Fast-food restaurant",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3845:51fc7f",
+      "x": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3845:b1082d",
+      "y": [
+        " 0.70 ",
+        "",
+        "",
+        "",
+        " 0.81 ",
+        null,
+        null,
+        " 0.75 "
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true,
+      "connectgaps": true
+    },
+    {
+      "uid": "de68d5",
+      "line": {
+        "width": 6
+      },
+      "name": "Full-service restaurant",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3845:51fc7f",
+      "x": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3845:6d931e",
+      "y": [
+        " 0.86 ",
+        " 0.82 ",
+        "",
+        "",
+        " 0.73 ",
+        null,
+        null,
+        " 0.75 "
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "autobinx": true,
+      "autobiny": true,
+      "connectgaps": true
+    },
+    {
+      "uid": "a14bb9",
+      "name": "Obese (BMI\u226530)",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3845:51fc7f",
+      "x": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3845:05068b",
+      "y": [
+        "18.4%",
+        "23.9%",
+        "20.5%",
+        "20.8%",
+        "22.8%",
+        "21.9%",
+        "23.7%",
+        "20.0%",
+        "20.7%"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(221, 126, 107)"
+      },
+      "opacity": 0.5,
+      "autobinx": true,
+      "autobiny": true
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "Washoe County food access\u00a0per 1,000 population",
+    "width": 873,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2006.4860935524653,
+        2015.5
+      ],
+      "showline": false,
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        -0.03910447761194029,
+        0.9191044776119403
+      ],
+      "title": "Access\u00a0per 1,000 population",
+      "autorange": true
+    },
+    "height": 608,
+    "legend": {
+      "x": 0.32398316970546986,
+      "y": 0.5467289719626168,
+      "font": {
+        "size": 11
+      }
+    },
+    "yaxis2": {
+      "side": "right",
+      "range": [
+        0,
+        25.157894736842103
+      ],
+      "title": "% self-reporting obesity (BMI\u226530)",
+      "anchor": "x",
+      "autorange": true,
+      "gridwidth": 1.5,
+      "overlaying": "y"
+    },
+    "autosize": true,
+    "titlefont": {
+      "size": 14,
+      "color": "rgb(152, 0, 0)"
+    },
+    "showlegend": true,
+    "breakpoints": []
+  }
+}

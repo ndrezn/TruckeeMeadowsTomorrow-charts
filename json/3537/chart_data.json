@@ -1,0 +1,478 @@
+{
+  "data": [
+    {
+      "uid": "7e1451",
+      "meta": {
+        "columnNames": {
+          "x": "FY-ending June 30th",
+          "y": "Instruction"
+        }
+      },
+      "name": "Instruction",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3536:afa63a",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3536:ca3d14",
+      "y": [
+        " $5,307 ",
+        " $4,810 ",
+        " $4,852 ",
+        "\u00a0$4,740\u00a0",
+        " $4,740 ",
+        " $4,943 ",
+        "\u00a0$5,117\u00a0",
+        "\u00a0$5,345\u00a0",
+        "\u00a0$5,049\u00a0"
+      ],
+      "marker": {
+        "color": "rgb(127, 127, 127)"
+      }
+    },
+    {
+      "uid": "4cd41a",
+      "meta": {
+        "columnNames": {
+          "x": "FY-ending June 30th",
+          "y": "Instruction support"
+        }
+      },
+      "name": "Instruction support",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3536:afa63a",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3536:f6773d",
+      "y": [
+        " $1,064 ",
+        " $1,194 ",
+        " $1,220 ",
+        "\u00a0$1,254\u00a0",
+        " $1,254 ",
+        " $1,352 ",
+        "\u00a0$1,438\u00a0",
+        "\u00a0$1,486\u00a0",
+        "\u00a0$1,440\u00a0"
+      ],
+      "marker": {
+        "color": "rgb(188, 189, 34)"
+      }
+    },
+    {
+      "uid": "56dff7",
+      "meta": {
+        "columnNames": {
+          "x": "FY-ending June 30th",
+          "y": "Operations"
+        }
+      },
+      "name": "Operations",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3536:afa63a",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3536:e4eee3",
+      "y": [
+        " $1,435.0 ",
+        " $1,454.0 ",
+        " $1,912.0 ",
+        "\u00a0$1,939.0\u00a0",
+        " $1,939.0 ",
+        " $2,002.0 ",
+        "\u00a0$2,005.0\u00a0",
+        "\u00a0$1,991.0\u00a0",
+        "\u00a0$2,023.0\u00a0"
+      ],
+      "marker": {
+        "color": "rgb(140, 86, 75)"
+      }
+    },
+    {
+      "uid": "a610d9",
+      "meta": {
+        "columnNames": {
+          "x": "FY-ending June 30th",
+          "y": "Leadership"
+        }
+      },
+      "name": "Leadership",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3536:afa63a",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3536:5afb39",
+      "y": [
+        " $531 ",
+        " $533 ",
+        " $650 ",
+        "\u00a0$705\u00a0",
+        " $705 ",
+        " $732 ",
+        "\u00a0$748\u00a0",
+        "\u00a0$777\u00a0",
+        "\u00a0$741\u00a0"
+      ],
+      "marker": {
+        "color": "rgb(67, 67, 67)"
+      }
+    },
+    {
+      "uid": "7021e4",
+      "line": {
+        "color": "rgb(0, 255, 0)",
+        "shape": "hvh",
+        "width": 8
+      },
+      "meta": {
+        "columnNames": {
+          "x": "FY-ending June 30th",
+          "y": "Total per-pupil expenditures"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Total per-pupil expenditures",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3536:afa63a",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3536:156556",
+      "y": [
+        " $8,067.0 ",
+        " $7,992.0 ",
+        " $8,635.0 ",
+        "\u00a0$8,638.0\u00a0",
+        " $8,638.0 ",
+        " $9,092.0 ",
+        "\u00a0$9,308.0\u00a0",
+        "\u00a0$9,599.0\u00a0",
+        "\u00a0$9,253.0\u00a0"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "4c24fc",
+      "line": {
+        "color": "rgb(127, 127, 127)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "FY-ending June 30th",
+          "y": "Instruction %"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Instruction %",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3536:afa63a",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3536:c4da0b",
+      "y": [
+        "62.4%",
+        "60.2%",
+        "56.2%",
+        "54.9%",
+        "54.9%",
+        "54.7%",
+        "55.0%",
+        "55.7%",
+        "54.6%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "bfde6a",
+      "line": {
+        "color": "rgb(188, 189, 34)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "FY-ending June 30th",
+          "y": "Instruction support %"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Instruction support %",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3536:afa63a",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3536:5a06be",
+      "y": [
+        "13.2%",
+        "14.9%",
+        "14.1%",
+        "14.5%",
+        "14.5%",
+        "15.0%",
+        "15.4%",
+        "15.5%",
+        "15.6%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "9e4fab",
+      "line": {
+        "color": "rgb(140, 86, 75)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "FY-ending June 30th",
+          "y": "Operations %"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Operations %",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3536:afa63a",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3536:82fc1b",
+      "y": [
+        "17.8%",
+        "18.2%",
+        "22.1%",
+        "22.5%",
+        "22.5%",
+        "22.2%",
+        "21.5%",
+        "20.7%",
+        "21.9%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "02ad7d",
+      "line": {
+        "color": "rgb(67, 67, 67)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "FY-ending June 30th",
+          "y": "Leadership %"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Leadership %",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3536:afa63a",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3536:fe49aa",
+      "y": [
+        "6.6%",
+        "6.7%",
+        "7.5%",
+        "8.2%",
+        "8.2%",
+        "8.1%",
+        "8.0%",
+        "8.1%",
+        "8.0%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "WCSD per-pupil expenditures"
+    },
+    "width": 993,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2009.4197913643793,
+        2018.5802086356207
+      ],
+      "title": {
+        "text": "FY-ending June 30th"
+      },
+      "domain": [
+        0,
+        0.45
+      ],
+      "showline": false,
+      "zeroline": true,
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "-",
+      "range": [
+        0,
+        10228.539436446414
+      ],
+      "title": {
+        "text": "Per-pupil expenditures ($)"
+      },
+      "autorange": true
+    },
+    "height": 613,
+    "legend": {
+      "x": 0.5160167423810147,
+      "y": 0.5554272517321016,
+      "font": {
+        "size": 10
+      }
+    },
+    "xaxis2": {
+      "type": "linear",
+      "range": [
+        2009.4197913643793,
+        2018.5802086356207
+      ],
+      "anchor": "y2",
+      "domain": [
+        0.55,
+        1
+      ],
+      "showline": true,
+      "autorange": true
+    },
+    "yaxis2": {
+      "side": "right",
+      "range": [
+        2.6835659731366874,
+        66.3164340268633
+      ],
+      "title": {
+        "text": "%"
+      },
+      "anchor": "x2",
+      "domain": [
+        0,
+        1
+      ],
+      "autorange": true
+    },
+    "barmode": "stack",
+    "autosize": true
+  }
+}

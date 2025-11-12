@@ -1,0 +1,342 @@
+{
+  "data": [
+    {
+      "uid": "f8aa3c",
+      "line": {
+        "width": 8
+      },
+      "mode": "markers",
+      "name": "Carson City",
+      "type": "scatter",
+      "ysrc": "TruckeeMeadowsTomorrow:3951:1af01e",
+      "y": [
+        "20%"
+      ],
+      "marker": {
+        "size": 8
+      }
+    },
+    {
+      "uid": "5e836c",
+      "line": {
+        "width": 8
+      },
+      "mode": "markers",
+      "name": "Churchill",
+      "type": "scatter",
+      "ysrc": "TruckeeMeadowsTomorrow:3951:7b6cbe",
+      "y": [
+        "-16%"
+      ],
+      "marker": {
+        "size": 8
+      }
+    },
+    {
+      "uid": "6e945b",
+      "line": {
+        "width": 8
+      },
+      "mode": "markers",
+      "name": "Clark",
+      "type": "scatter",
+      "ysrc": "TruckeeMeadowsTomorrow:3951:b42001",
+      "y": [
+        "-14%"
+      ],
+      "marker": {
+        "size": 8
+      }
+    },
+    {
+      "uid": "d13db9",
+      "line": {
+        "width": 8
+      },
+      "mode": "markers",
+      "name": "Douglas",
+      "type": "scatter",
+      "ysrc": "TruckeeMeadowsTomorrow:3951:54e826",
+      "y": [
+        "1%"
+      ],
+      "marker": {
+        "size": 8
+      }
+    },
+    {
+      "uid": "1dec9b",
+      "line": {
+        "width": 8
+      },
+      "mode": "markers",
+      "name": "Elko",
+      "type": "scatter",
+      "ysrc": "TruckeeMeadowsTomorrow:3951:d6675a",
+      "y": [
+        "-6%"
+      ],
+      "marker": {
+        "size": 8
+      }
+    },
+    {
+      "uid": "4bd02f",
+      "line": {
+        "width": 8
+      },
+      "mode": "markers",
+      "name": "Humboldt",
+      "type": "scatter",
+      "ysrc": "TruckeeMeadowsTomorrow:3951:3b21a9",
+      "y": [
+        "0%"
+      ],
+      "marker": {
+        "size": 8
+      }
+    },
+    {
+      "uid": "a569c6",
+      "line": {
+        "width": 8
+      },
+      "mode": "markers",
+      "name": "Lander",
+      "type": "scatter",
+      "ysrc": "TruckeeMeadowsTomorrow:3951:c001af",
+      "y": [
+        "-36%"
+      ],
+      "marker": {
+        "size": 8
+      }
+    },
+    {
+      "uid": "c05be4",
+      "line": {
+        "width": 8
+      },
+      "mode": "markers",
+      "name": "Lincoln",
+      "type": "scatter",
+      "ysrc": "TruckeeMeadowsTomorrow:3951:9de5f5",
+      "y": [
+        "-52%"
+      ],
+      "marker": {
+        "size": 8
+      }
+    },
+    {
+      "uid": "9795db",
+      "line": {
+        "width": 8
+      },
+      "mode": "markers",
+      "name": "Lyon",
+      "type": "scatter",
+      "ysrc": "TruckeeMeadowsTomorrow:3951:558f15",
+      "y": [
+        "6%"
+      ],
+      "marker": {
+        "size": 8
+      }
+    },
+    {
+      "uid": "9d1f2f",
+      "line": {
+        "width": 8
+      },
+      "mode": "markers",
+      "name": "Mineral",
+      "type": "scatter",
+      "ysrc": "TruckeeMeadowsTomorrow:3951:9f8b1f",
+      "y": [
+        "-25%"
+      ],
+      "marker": {
+        "size": 8
+      }
+    },
+    {
+      "uid": "c06c55",
+      "line": {
+        "color": "rgb(0, 0, 255)",
+        "width": 8
+      },
+      "mode": "markers",
+      "name": "Nye",
+      "type": "scatter",
+      "ysrc": "TruckeeMeadowsTomorrow:3951:05b7db",
+      "y": [
+        "-8%"
+      ],
+      "marker": {
+        "size": 8
+      }
+    },
+    {
+      "uid": "3a419c",
+      "line": {
+        "color": "rgb(246, 178, 107)",
+        "width": 8
+      },
+      "mode": "markers",
+      "name": "Pershing",
+      "type": "scatter",
+      "ysrc": "TruckeeMeadowsTomorrow:3951:d8ae91",
+      "y": [
+        "8%"
+      ],
+      "marker": {
+        "size": 8
+      }
+    },
+    {
+      "y": [],
+      "uid": "039044",
+      "line": {
+        "color": "rgb(0, 255, 0)",
+        "width": 8
+      },
+      "mode": "markers",
+      "name": "Storey",
+      "type": "scatter",
+      "marker": {
+        "size": 8
+      }
+    },
+    {
+      "uid": "cad58c",
+      "line": {
+        "width": 20
+      },
+      "mode": "markers",
+      "name": "Washoe",
+      "type": "scatter",
+      "ysrc": "TruckeeMeadowsTomorrow:3951:607df3",
+      "y": [
+        "-5%"
+      ],
+      "marker": {
+        "line": {
+          "color": "rgb(68, 68, 68)",
+          "width": 3
+        },
+        "size": 12
+      }
+    },
+    {
+      "uid": "db2077",
+      "line": {
+        "color": "rgb(103, 78, 167)",
+        "width": 8
+      },
+      "mode": "markers",
+      "name": "White Pine",
+      "type": "scatter",
+      "ysrc": "TruckeeMeadowsTomorrow:3951:3fe370",
+      "y": [
+        "-20%"
+      ],
+      "marker": {
+        "size": 8
+      }
+    },
+    {
+      "dx": 0.75,
+      "x0": 0.75,
+      "uid": "ced47e",
+      "line": {
+        "color": "rgb(127, 127, 127)",
+        "width": 8
+      },
+      "mode": "markers",
+      "name": "Nevada",
+      "type": "scatter",
+      "ysrc": "TruckeeMeadowsTomorrow:3951:5f967c",
+      "y": [
+        "-13%"
+      ],
+      "marker": {
+        "line": {
+          "color": "rgb(0, 0, 0)",
+          "width": 3
+        },
+        "size": 12
+      },
+      "opacity": 0.75
+    },
+    {
+      "dx": 0.75,
+      "x0": 0.75,
+      "uid": "85cbca",
+      "line": {
+        "color": "rgb(44, 160, 44)",
+        "width": 8
+      },
+      "mode": "markers",
+      "name": "Top US performers",
+      "type": "scatter",
+      "ysrc": "TruckeeMeadowsTomorrow:3951:038ba2",
+      "y": [
+        "-3%"
+      ],
+      "marker": {
+        "line": {
+          "color": "rgb(0, 0, 0)",
+          "width": 3
+        },
+        "size": 16
+      },
+      "opacity": 0.85
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "Change (%) in premature death between 2011 and 2019 County Health Rankings*"
+    },
+    "width": 1000,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        -0.0502708192281652,
+        0.802809749492214
+      ],
+      "showgrid": true,
+      "showline": false,
+      "autorange": true,
+      "showticklabels": false
+    },
+    "yaxis": {
+      "type": "-",
+      "range": [
+        -56.80971659919028,
+        24.80971659919028
+      ],
+      "title": {
+        "text": "% \u2206"
+      },
+      "autorange": true
+    },
+    "height": 740,
+    "legend": {
+      "x": 0.3438095238095239,
+      "y": 0.8482142857142857,
+      "font": {
+        "size": 11,
+        "color": "rgb(0, 0, 0)"
+      },
+      "xanchor": "auto"
+    },
+    "boxmode": "group",
+    "autosize": false
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "data": [
+    {
+      "uid": "cd9c62",
+      "meta": {
+        "columnNames": {
+          "x": "Calendar year",
+          "y": "Reno"
+        }
+      },
+      "name": "Reno",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3764:0eb20d",
+      "x": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3764:8a74d6",
+      "y": [
+        " 10,964 ",
+        " 12,457 ",
+        " 12,662 ",
+        " 10,891 ",
+        " 8,240 ",
+        " 5,872 ",
+        " 5,371 ",
+        " 5,149 ",
+        " 5,570 ",
+        " 5,454 ",
+        "6,209",
+        "7,504",
+        "8,859",
+        " 8,837 ",
+        " 9,546 ",
+        "\u00a010,403\u00a0"
+      ]
+    },
+    {
+      "uid": "18c266",
+      "meta": {
+        "columnNames": {
+          "x": "Calendar year",
+          "y": "Sparks"
+        }
+      },
+      "name": "Sparks",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3764:0eb20d",
+      "x": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3764:42f361",
+      "y": [
+        "6,120",
+        "5,278",
+        "6,030",
+        "4,858",
+        "4,322",
+        "2,693",
+        "2,338",
+        "1,946",
+        "1,502",
+        "2,451",
+        "2,451",
+        "2,818",
+        "4,107",
+        "3,536",
+        "3,981",
+        "3,756"
+      ]
+    },
+    {
+      "uid": "4575c9",
+      "meta": {
+        "columnNames": {
+          "x": "Calendar year",
+          "y": "Washoe"
+        }
+      },
+      "name": "Washoe",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3764:0eb20d",
+      "x": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3764:ba0831",
+      "y": [
+        "3,395",
+        "3,591",
+        "3,621",
+        "2,431",
+        "2,549",
+        "1,925",
+        "1,304",
+        "1,259",
+        "2,078",
+        "1,411",
+        "1,411",
+        "1,305",
+        "2,119",
+        "1,890",
+        "3,921",
+        "3,204"
+      ]
+    },
+    {
+      "uid": "edee77",
+      "line": {
+        "dash": "dash",
+        "color": "rgb(31, 119, 180)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Calendar year",
+          "y": "Reno $"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Reno $",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3764:0eb20d",
+      "x": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3764:c223e1",
+      "y": [
+        "$747,393,396 ",
+        "$1,030,876,654 ",
+        "$1,018,619,813 ",
+        "$1,119,320,628 ",
+        "$1,033,932,266 ",
+        "$594,293,069 ",
+        "$303,502,019 ",
+        "$242,203,995 ",
+        "$255,159,549 ",
+        "$279,715,913 ",
+        "$394,565,272 ",
+        "$662,119,999 ",
+        "$683,067,520 ",
+        "$920,191,424 ",
+        "$905,258,264 ",
+        "$1,029,693,905"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 0.5
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "e627c8",
+      "line": {
+        "dash": "solid",
+        "color": "rgb(255, 127, 14)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Calendar year",
+          "y": "Sparks $,"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Sparks $",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3764:0eb20d",
+      "x": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3764:333d40",
+      "y": [
+        "$256,412,869 ",
+        "$218,443,499 ",
+        "$333,849,651 ",
+        "$320,610,805 ",
+        "$270,860,776 ",
+        "$228,426,500 ",
+        "$82,331,804 ",
+        "$52,432,038 ",
+        "$68,416,794 ",
+        "$140,404,211 ",
+        "$140,404,211 ",
+        "$127,404,655 ",
+        "$232,267,603 ",
+        "$205,133,998 ",
+        "$353,323,724 ",
+        "$299,247,850"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 0.5
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "574776",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(44, 160, 44)",
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Calendar year",
+          "y": "Washoe $"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Washoe $",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3764:0eb20d",
+      "x": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3764:f7f941",
+      "y": [
+        "$300,452,630 ",
+        "$359,673,309 ",
+        "$356,524,213 ",
+        "$233,977,719 ",
+        "$221,627,640 ",
+        "$132,054,058 ",
+        "$57,648,626 ",
+        "$70,708,377 ",
+        "$92,320,021 ",
+        "$134,615,512 ",
+        "$134,615,512 ",
+        "$119,088,499 ",
+        "$230,791,324 ",
+        "$266,437,485 ",
+        "$412,841,661 ",
+        "$559,356,164"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 0.5
+        },
+        "size": 8
+      }
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "font": {
+      "size": 12,
+      "color": "#444",
+      "family": "Arial, sans-serif"
+    },
+    "smith": false,
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)",
+        "family": "Arial, sans-serif"
+      },
+      "text": "Building Permits and Valuation in The Truckee Meadows"
+    },
+    "width": 961,
+    "xaxis": {
+      "side": "bottom",
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2002.0494443662963,
+        2018.9505556337037
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": {
+        "font": {
+          "size": 14,
+          "color": "#444",
+          "family": "Arial, sans-serif"
+        },
+        "text": "Click to enter X axis title"
+      },
+      "anchor": "y",
+      "domain": [
+        0,
+        1
+      ],
+      "showgrid": false,
+      "showline": true,
+      "tickfont": {
+        "size": 12,
+        "color": "#444",
+        "family": "Arial, sans-serif"
+      },
+      "tickmode": "linear",
+      "zeroline": false,
+      "autorange": true,
+      "tickangle": "auto",
+      "showexponent": "all",
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "yaxis": {
+      "side": "left",
+      "type": "linear",
+      "dtick": 1,
+      "range": [
+        0,
+        13328.421052631578
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": {
+        "font": {
+          "size": 14,
+          "color": "#444",
+          "family": "Arial, sans-serif"
+        },
+        "text": "Building permits"
+      },
+      "anchor": "x",
+      "domain": [
+        0,
+        1
+      ],
+      "nticks": 0,
+      "showgrid": false,
+      "showline": false,
+      "tickfont": {
+        "size": 12,
+        "color": "#444",
+        "family": "Arial, sans-serif"
+      },
+      "tickmode": "auto",
+      "zeroline": false,
+      "autorange": true,
+      "gridcolor": "#eee",
+      "gridwidth": 1,
+      "tickangle": "auto",
+      "showexponent": "all",
+      "zerolinecolor": "#444",
+      "zerolinewidth": 1,
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "bargap": 0.2,
+    "height": 656,
+    "legend": {
+      "x": 0.5464294631710361,
+      "y": 0.8698315467075037,
+      "font": {
+        "size": 14,
+        "color": "#444",
+        "family": "Arial, sans-serif"
+      },
+      "bgcolor": "#fff",
+      "xanchor": "left",
+      "yanchor": "auto",
+      "traceorder": "normal",
+      "bordercolor": "#444",
+      "borderwidth": 0
+    },
+    "margin": {
+      "b": 80,
+      "l": 80,
+      "r": 80,
+      "t": 100,
+      "pad": 0,
+      "autoexpand": true
+    },
+    "yaxis2": {
+      "side": "right",
+      "type": "linear",
+      "dtick": 1,
+      "range": [
+        -21005799.934990436,
+        1192758465.9349904
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": {
+        "font": {
+          "size": 14,
+          "color": "rgb(44, 160, 44)",
+          "family": "Arial, sans-serif"
+        },
+        "text": "Valuation $"
+      },
+      "anchor": "x",
+      "domain": [
+        0,
+        1
+      ],
+      "nticks": 0,
+      "showgrid": false,
+      "showline": false,
+      "tickfont": {
+        "size": 12,
+        "color": "rgb(44, 160, 44)",
+        "family": "Arial, sans-serif"
+      },
+      "tickmode": "auto",
+      "zeroline": false,
+      "autorange": true,
+      "gridcolor": "#eee",
+      "gridwidth": 1,
+      "tickangle": "auto",
+      "overlaying": "y",
+      "showexponent": "all",
+      "zerolinecolor": "rgb(33, 206, 61)",
+      "zerolinewidth": 1,
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "barmode": "group",
+    "barnorm": "",
+    "autosize": true,
+    "dragmode": "zoom",
+    "hovermode": "x",
+    "separators": ".",
+    "showlegend": true,
+    "annotations": [],
+    "bargroupgap": 0,
+    "hidesources": true,
+    "plot_bgcolor": "rgb(255, 255, 255)",
+    "paper_bgcolor": "#fff"
+  }
+}

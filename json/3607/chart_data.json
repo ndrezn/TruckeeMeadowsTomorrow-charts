@@ -1,0 +1,565 @@
+{
+  "data": [
+    {
+      "uid": "205a3f",
+      "name": "WCSD",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3945:09f099",
+      "x": [
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3945:020f9d",
+      "y": [
+        "",
+        "",
+        "",
+        "28.8%",
+        "36.2%",
+        "46.7%"
+      ]
+    },
+    {
+      "uid": "b731cb",
+      "name": "Nevada",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3945:09f099",
+      "x": [
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3945:085008",
+      "y": [
+        "35.1%",
+        "35.1%",
+        "",
+        "30.2%",
+        "37.9%",
+        "54.9%"
+      ],
+      "marker": {
+        "color": "rgb(127, 127, 127)"
+      }
+    },
+    {
+      "uid": "5199be",
+      "name": "US",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3945:09f099",
+      "x": [
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3945:c2ded7",
+      "y": [
+        "35.4%",
+        "32.8%",
+        "",
+        "32.5%"
+      ]
+    },
+    {
+      "uid": "bf647c",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "NV\u2013males",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3945:09f099",
+      "x": [
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3945:e4097d",
+      "y": [
+        "37.2%",
+        "33.9%",
+        "",
+        "30.7%",
+        "41.4%",
+        "53.5%"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "ad972f",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "NV\u2013females",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3945:09f099",
+      "x": [
+        "2007",
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3945:52c2ca",
+      "y": [
+        "32.9%",
+        "36.4%",
+        "",
+        "29.8%",
+        "34.7%",
+        "56.4%"
+      ],
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "6d82a6",
+      "name": "WCSD",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3945:6e949b",
+      "x": [
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3945:c0c1ce",
+      "y": [
+        "18.8%",
+        "22.5%",
+        "19.6%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(31, 119, 180)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "d0c569",
+      "name": "Nevada",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3945:6e949b",
+      "x": [
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3945:029f2f",
+      "y": [
+        "24.7%",
+        "27.8%",
+        "23.6%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(127, 127, 127)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "a1941f",
+      "name": "US",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3945:6e949b",
+      "x": [
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3945:a0b16c",
+      "y": [
+        "29.4%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(44, 160, 44)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "c0544e",
+      "line": {
+        "color": "rgb(214, 39, 40)",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "NV\u2013males",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3945:6e949b",
+      "x": [
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3945:6104fc",
+      "y": [
+        "25.4%",
+        "30.4%",
+        "25.8%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "1245e4",
+      "line": {
+        "color": "rgb(148, 103, 189)",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "NV\u2013females",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3945:6e949b",
+      "x": [
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3945:ba1c38",
+      "y": [
+        "24.0%",
+        "24.9%",
+        "21.4%"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "313964",
+      "name": "WCSD",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3945:6e949b",
+      "x": [
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3945:1a5917",
+      "y": [
+        "23.9%",
+        "27.0%",
+        "23.3%"
+      ],
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "showlegend": false
+    },
+    {
+      "uid": "fb4fe9",
+      "name": "Nevada",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3945:6e949b",
+      "x": [
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3945:4ece6a",
+      "y": [
+        "23.3%",
+        "27.6%",
+        "23.0%"
+      ],
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "marker": {
+        "color": "rgb(127, 127, 127)"
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "4084d8",
+      "name": "US",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3945:6e949b",
+      "x": [
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3945:0d137f",
+      "y": [
+        "27.1%"
+      ],
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "showlegend": false
+    },
+    {
+      "uid": "14fa2a",
+      "line": {
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "NV\u2013males",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3945:6e949b",
+      "x": [
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3945:3c014a",
+      "y": [
+        "29.3%",
+        "34.2%",
+        "29.0%"
+      ],
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "showlegend": false
+    },
+    {
+      "uid": "fbf1ca",
+      "line": {
+        "width": 6
+      },
+      "mode": "lines+markers",
+      "name": "NV\u2013females",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3945:6e949b",
+      "x": [
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3945:6e4f5b",
+      "y": [
+        "17.7%",
+        "20.6%",
+        "16.5%"
+      ],
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "marker": {
+        "line": {
+          "width": 3
+        },
+        "size": 8
+      },
+      "showlegend": false
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "Youth reported physical activity behaviors"
+    },
+    "width": 1403,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2006,
+        2018
+      ],
+      "tick0": 1,
+      "title": {
+        "font": {
+          "size": 12,
+          "color": "rgb(0, 0, 0)"
+        },
+        "text": ""
+      },
+      "showline": true,
+      "tickmode": "linear",
+      "zeroline": true,
+      "autorange": true
+    },
+    "yaxis": {
+      "range": [
+        0,
+        61.910456899956856
+      ],
+      "title": {
+        "text": "YRBS TV %"
+      },
+      "domain": [
+        0,
+        0.2025
+      ],
+      "autorange": true,
+      "gridwidth": 1.5
+    },
+    "height": 813,
+    "xaxis2": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2012,
+        2018
+      ],
+      "tick0": 1,
+      "title": {
+        "font": {
+          "size": 12,
+          "color": "rgb(0, 0, 0)"
+        },
+        "text": ""
+      },
+      "anchor": "y2",
+      "domain": [
+        0,
+        1
+      ],
+      "tickmode": "linear",
+      "autorange": true
+    },
+    "xaxis3": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2012,
+        2018
+      ],
+      "tick0": 1,
+      "title": {
+        "font": {
+          "size": 12,
+          "color": "rgb(0, 0, 0)"
+        },
+        "text": ""
+      },
+      "anchor": "y3",
+      "domain": [
+        0,
+        1
+      ],
+      "showgrid": false,
+      "showline": true,
+      "tickfont": {
+        "color": "rgb(68, 68, 68)"
+      },
+      "tickmode": "linear",
+      "zeroline": true,
+      "autorange": true,
+      "gridwidth": 1.5
+    },
+    "yaxis2": {
+      "range": [
+        0,
+        32.60239262822021
+      ],
+      "title": {
+        "text": "YRBS PE class\u00a0%"
+      },
+      "anchor": "x2",
+      "domain": [
+        0.55,
+        1
+      ],
+      "autorange": true,
+      "gridwidth": 1.5
+    },
+    "yaxis3": {
+      "range": [
+        0,
+        37.54144726912278
+      ],
+      "title": {
+        "text": "YRBS activity\u00a0%"
+      },
+      "anchor": "x3",
+      "domain": [
+        0.24750000000000003,
+        0.45
+      ],
+      "autorange": true,
+      "gridwidth": 1.5
+    },
+    "autosize": true,
+    "annotations": [
+      {
+        "font": {
+          "size": 12,
+          "color": "rgb(0, 0, 0)"
+        },
+        "text": "Physically active \u226560 minutes/day past 7 days\u00a0",
+        "xref": "x3",
+        "yref": "y3",
+        "bgcolor": "rgb(238, 238, 238)",
+        "arrowhead": 1,
+        "arrowsize": 0.29999999999999993,
+        "showarrow": false
+      },
+      {
+        "font": {
+          "size": 12,
+          "color": "rgb(0, 0, 0)"
+        },
+        "text": "Attended physical education (PE) classes daily",
+        "xref": "x2",
+        "yref": "y2",
+        "bgcolor": "rgb(238, 238, 238)",
+        "showarrow": false
+      },
+      {
+        "x": 2011.2748936170212,
+        "y": 39.16660797035283,
+        "font": {
+          "size": 12,
+          "color": "rgb(0, 0, 0)"
+        },
+        "text": "Screen time \u00a0\u22653 hours/day",
+        "bgcolor": "rgb(238, 238, 238)",
+        "showarrow": false,
+        "bordercolor": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "data": [
+    {
+      "uid": "6f4bd9",
+      "line": {
+        "shape": "spline",
+        "width": 8
+      },
+      "meta": {
+        "columnNames": {
+          "x": "% Household with Cash Public Assistance Income, x; % Household with SNAP/Food Stamp Benefits in past 12-mo., x; Households, x; % households \u2265 2 workers past 12 months, x",
+          "y": "% Household with Cash Public Assistance Income, y"
+        }
+      },
+      "mode": "lines",
+      "name": "% Household with Cash Public Assistance Income",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3788:cca026",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3788:2cbba1",
+      "y": [
+        "2.8%",
+        "1.8%",
+        "1.8%",
+        "1.7%",
+        "2.0%",
+        "2.6%",
+        "2.5%",
+        "2.5%",
+        "2.9%",
+        "3.1%",
+        "2.9%",
+        "4.4%",
+        "3.5%",
+        "2.6%"
+      ],
+      "yaxis": "y2"
+    },
+    {
+      "uid": "028262",
+      "line": {
+        "shape": "hvh",
+        "width": 8
+      },
+      "meta": {
+        "columnNames": {
+          "x": "% Household with Cash Public Assistance Income, x; % Household with SNAP/Food Stamp Benefits in past 12-mo., x; Households, x; % households \u2265 2 workers past 12 months, x",
+          "y": "% Household with SNAP/Food Stamp Benefits in past 12-mo., y"
+        }
+      },
+      "mode": "lines",
+      "name": "% Household with SNAP/Food Stamp Benefits in past 12-mo.",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3788:cca026",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3788:98db3f",
+      "y": [
+        "4.6%",
+        "3.4%",
+        "4.0%",
+        "3.5%",
+        "4.3%",
+        "6.0%",
+        "8.7%",
+        "8.1%",
+        "11.4%",
+        "9.6%",
+        "9.6%",
+        "12.0%",
+        "11.6%",
+        "9.9%"
+      ],
+      "yaxis": "y2"
+    },
+    {
+      "uid": "46b167",
+      "line": {
+        "shape": "spline"
+      },
+      "meta": {
+        "columnNames": {
+          "x": "% Household with Cash Public Assistance Income, x; % Household with SNAP/Food Stamp Benefits in past 12-mo., x; Households, x; % households \u2265 2 workers past 12 months, x",
+          "y": "Households, y"
+        }
+      },
+      "mode": "lines",
+      "name": "Households",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3788:cca026",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3788:10c3a5",
+      "y": [
+        "",
+        " 5,188 ",
+        " 6,227 ",
+        " 5,465 ",
+        " 6,729 ",
+        " 9,469 ",
+        " 14,229 ",
+        " 13,061 ",
+        " 18,753 ",
+        " 15,827 ",
+        "16,000",
+        " 20,768 ",
+        "\u00a020,198\u00a0",
+        "\u00a017,955\u00a0"
+      ],
+      "opacity": 0.75,
+      "stackgroup": 1
+    },
+    {
+      "uid": "0403d3",
+      "line": {
+        "shape": "spline",
+        "width": 6
+      },
+      "meta": {
+        "columnNames": {
+          "x": "% Household with Cash Public Assistance Income, x; % Household with SNAP/Food Stamp Benefits in past 12-mo., x; Households, x; % households \u2265 2 workers past 12 months, x",
+          "y": "% households \u2265 2 workers past 12 months, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "% households \u2265 2 workers past 12 months",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3788:cca026",
+      "x": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3788:bc4579",
+      "y": [
+        "",
+        "12.8%",
+        "21.0%",
+        "26.3%",
+        "27.7%",
+        "22.4%",
+        "31.7%",
+        "25.4%",
+        "20.6%",
+        "30.5%",
+        "37.7%",
+        "34.0%",
+        "36.9%",
+        "38.1%"
+      ],
+      "yaxis": "y2"
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "font": {
+      "size": 12
+    },
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "Washoe County SNAP participants"
+    },
+    "width": 888,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2003.194148525552,
+        2017.805851474448
+      ],
+      "tick0": 1,
+      "title": {
+        "font": {
+          "size": 14
+        },
+        "text": ""
+      },
+      "showgrid": true,
+      "showline": true,
+      "tickfont": {
+        "size": 12
+      },
+      "tickmode": "linear",
+      "zeroline": false,
+      "autorange": true
+    },
+    "yaxis": {
+      "range": [
+        0,
+        21861.052631578947
+      ],
+      "title": {
+        "font": {
+          "size": 14,
+          "color": "rgb(31, 119, 180)"
+        },
+        "text": "Estimated # SNAP households"
+      },
+      "showgrid": true,
+      "showline": false,
+      "tickfont": {
+        "size": 12,
+        "color": "rgb(31, 119, 180)"
+      },
+      "zeroline": false,
+      "autorange": true
+    },
+    "height": 616,
+    "legend": {
+      "x": 0.03350515463917526,
+      "y": 1.0070588235294118,
+      "font": {
+        "size": 12
+      }
+    },
+    "yaxis2": {
+      "side": "right",
+      "range": [
+        -0.3417342081564392,
+        40.49294995497234
+      ],
+      "title": {
+        "font": {
+          "size": 14,
+          "color": "rgb(0, 0, 0)"
+        },
+        "text": "% households"
+      },
+      "anchor": "x",
+      "showgrid": false,
+      "tickfont": {
+        "size": 12,
+        "color": "rgb(0, 0, 0)"
+      },
+      "zeroline": false,
+      "autorange": true,
+      "overlaying": "y"
+    },
+    "barmode": "stack",
+    "autosize": true,
+    "showlegend": true,
+    "hidesources": true
+  }
+}

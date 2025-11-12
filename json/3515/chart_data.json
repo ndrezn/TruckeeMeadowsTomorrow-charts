@@ -1,0 +1,325 @@
+{
+  "data": [
+    {
+      "uid": "c1a166",
+      "meta": {
+        "columnNames": {
+          "x": "School year-ending",
+          "y": "Cyber bullying incidents"
+        }
+      },
+      "mode": "lines",
+      "name": "Cyber bullying incidents",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3920:122396",
+      "x": [
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3920:13ed43",
+      "y": [
+        "0.41",
+        "0.22",
+        "0.41",
+        "0.45",
+        "1.18",
+        "0.82",
+        "0.51",
+        "0.23"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(240, 197, 46)"
+      },
+      "opacity": 0.75
+    },
+    {
+      "uid": "7fac36",
+      "meta": {
+        "columnNames": {
+          "x": "School year-ending",
+          "y": "Cyber bullying substantiated"
+        }
+      },
+      "mode": "lines",
+      "name": "Cyber bulling substantiated",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3920:122396",
+      "x": [
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3920:842b3c",
+      "y": [
+        "0.41",
+        "0.22",
+        "0.41",
+        "0.45",
+        "0.42",
+        "0.43",
+        "0.30",
+        "0.23"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(204, 167, 38)"
+      },
+      "opacity": 0.75
+    },
+    {
+      "uid": "6de458",
+      "meta": {
+        "columnNames": {
+          "x": "School year-ending",
+          "y": "Cyber bullying suspensions/expulsions"
+        }
+      },
+      "mode": "lines",
+      "name": "Cyber bullying suspensions/expulsions",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3920:122396",
+      "x": [
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3920:2816d0",
+      "y": [
+        "0.16",
+        "0.06",
+        "0.19",
+        "0.19",
+        "0.17",
+        "0.27",
+        "0.19",
+        "0.00"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(110, 90, 22)"
+      },
+      "opacity": 0.75
+    },
+    {
+      "uid": "3730d8",
+      "line": {
+        "dash": "dash",
+        "shape": "spline",
+        "width": 5
+      },
+      "meta": {
+        "columnNames": {
+          "x": "School year-ending",
+          "y": "Bullying incidents"
+        }
+      },
+      "mode": "lines",
+      "name": "Bullying incidents reported",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3920:122396",
+      "x": [
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3920:bc0c1e",
+      "y": [
+        "14.27",
+        "10.79",
+        "13.40",
+        "13.61",
+        "15.80",
+        "10.94",
+        "6.67",
+        "4.78"
+      ],
+      "yaxis": "y"
+    },
+    {
+      "uid": "bb86a0",
+      "line": {
+        "dash": "dot",
+        "color": "rgb(214, 39, 40)",
+        "shape": "spline",
+        "width": 5
+      },
+      "meta": {
+        "columnNames": {
+          "x": "School year-ending",
+          "y": "Bullying determined after investigation"
+        }
+      },
+      "mode": "lines",
+      "name": "Bullying substantiated",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3920:122396",
+      "x": [
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3920:ada6a0",
+      "y": [
+        "9.45",
+        "6.91",
+        "7.68",
+        "7.76",
+        "6.83",
+        "4.65",
+        "2.78",
+        "1.70"
+      ],
+      "yaxis": "y"
+    },
+    {
+      "uid": "0353f6",
+      "line": {
+        "color": "rgb(214, 39, 40)",
+        "shape": "spline",
+        "width": 5
+      },
+      "meta": {
+        "columnNames": {
+          "x": "School year-ending",
+          "y": "Bullying suspensions/expulsions"
+        }
+      },
+      "mode": "lines",
+      "name": "Bullying suspensions/expulsions",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3920:122396",
+      "x": [
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3920:ec60aa",
+      "y": [
+        "3.18",
+        "2.33",
+        "2.45",
+        "2.22",
+        "2.12",
+        "1.53",
+        "0.87",
+        "0.24"
+      ],
+      "yaxis": "y",
+      "marker": {
+        "opacity": 1
+      }
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(68, 68, 68)"
+      },
+      "text": "<b>WCSD student discipline \u2013 bullying incidents, subtantiated, discipline<br><br>\nSource:</b>&nbsp;WCSD Accountabilty <a href=\"http://nevadareportcard.nv.gov/di/report/reportcard_1?report=reportcard_1&amp;scope=e10.y17&amp;organization=c2589&amp;fields=309%2C310%2C311%2C313%2C318%2C320&amp;hiddenfieldsid=309%2C310%2C311%2C313%2C318%2C320&amp;scores=671%2C672%2C673%2C674%2C675%2C676%2C677%2C678%2C679%2C1030%2C1031%2C1032%2C1033%2C1034%2C1035&amp;num=160&amp;page=1&amp;pagesize=20&amp;domain=students&amp;\">Report Card</a>"
+    },
+    "width": 1036,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 2,
+      "range": [
+        2013.5,
+        2021.5
+      ],
+      "title": {
+        "font": {
+          "size": 14
+        },
+        "text": "School year-ending"
+      },
+      "showline": false,
+      "tickmode": "linear",
+      "autorange": true,
+      "showticklabels": true
+    },
+    "yaxis": {
+      "side": "left",
+      "type": "linear",
+      "range": [
+        -0.6244444444444446,
+        16.664444444444445
+      ],
+      "title": {
+        "text": "Bullying rate per 1,000 enrollment"
+      },
+      "nticks": 0,
+      "tickson": "boundaries",
+      "showgrid": false,
+      "tickfont": {
+        "family": "Arial"
+      },
+      "zeroline": false,
+      "autorange": true,
+      "gridcolor": "rgb(214, 211, 211)",
+      "gridwidth": 1,
+      "tickangle": "auto",
+      "automargin": false,
+      "showticklabels": true,
+      "separatethousands": false
+    },
+    "height": 604,
+    "legend": {
+      "x": 0.1699758614446926,
+      "y": 0.9922922988960723,
+      "font": {
+        "size": 10
+      }
+    },
+    "yaxis2": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        0,
+        1.863157894736842
+      ],
+      "title": {
+        "text": "Cyber bullying rate per 1,000 enrollment"
+      },
+      "anchor": "x",
+      "showgrid": false,
+      "zeroline": false,
+      "autorange": true,
+      "overlaying": "y"
+    },
+    "barmode": "stack",
+    "autosize": true
+  }
+}

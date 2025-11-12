@@ -1,0 +1,296 @@
+{
+  "data": [
+    {
+      "uid": "55dcfd",
+      "meta": {
+        "columnNames": {
+          "x": "Invention dissclosures, x; Provisional patent applications, x; Patents issued, x; US non-provisionals &amp;amp;amp; PCT patent applications, x; Nationalized PCT/foreign applications, x",
+          "y": "Invention dissclosures, y"
+        }
+      },
+      "name": "Invention dissclosures, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3822:a1f8e4",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3822:6e3d1b",
+      "y": [
+        "28",
+        "30",
+        "27",
+        "37",
+        "29",
+        "33",
+        "25",
+        "30",
+        "23",
+        "19",
+        "42",
+        "17",
+        "21",
+        "23"
+      ]
+    },
+    {
+      "uid": "53bb5a",
+      "meta": {
+        "columnNames": {
+          "x": "Invention dissclosures, x; Provisional patent applications, x; Patents issued, x; US non-provisionals &amp;amp;amp; PCT patent applications, x; Nationalized PCT/foreign applications, x",
+          "y": "Provisional patent applications, y"
+        }
+      },
+      "name": "Provisional patent applications, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3822:a1f8e4",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3822:c98993",
+      "y": [
+        "9",
+        "20",
+        "11",
+        "25",
+        "23",
+        "29",
+        "29",
+        "22",
+        "16",
+        "12",
+        "21",
+        "22",
+        "11",
+        "6"
+      ]
+    },
+    {
+      "uid": "5922d1",
+      "line": {
+        "color": "rgb(153, 0, 255)",
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Invention dissclosures, x; Provisional patent applications, x; Patents issued, x; US non-provisionals &amp;amp;amp; PCT patent applications, x; Nationalized PCT/foreign applications, x",
+          "y": "Patents issued, y"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Patents issued, y",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3822:a1f8e4",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3822:190e8e",
+      "y": [
+        "3",
+        "5",
+        "7",
+        "5",
+        "14",
+        "12",
+        "18",
+        "17",
+        "20",
+        "18",
+        "47",
+        "18",
+        "24",
+        "20"
+      ],
+      "marker": {
+        "line": {
+          "width": 2
+        },
+        "size": 8
+      }
+    },
+    {
+      "uid": "edbb44",
+      "meta": {
+        "columnNames": {
+          "x": "Invention dissclosures, x; Provisional patent applications, x; Patents issued, x; US non-provisionals &amp;amp;amp; PCT patent applications, x; Nationalized PCT/foreign applications, x",
+          "y": "US non-provisionals &amp;amp;amp; PCT patent applications, y"
+        }
+      },
+      "name": "US non-provisionals &amp; PCT patent applications, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3822:a1f8e4",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3822:2d0e1d",
+      "y": [
+        "14",
+        "15",
+        "20",
+        "15",
+        "15",
+        "31",
+        "28",
+        "35",
+        "31",
+        "24",
+        "12",
+        "1",
+        "1",
+        "11"
+      ],
+      "marker": {
+        "color": "rgb(44, 160, 44)"
+      }
+    },
+    {
+      "uid": "f0c995",
+      "meta": {
+        "columnNames": {
+          "x": "Invention dissclosures, x; Provisional patent applications, x; Patents issued, x; US non-provisionals &amp;amp;amp; PCT patent applications, x; Nationalized PCT/foreign applications, x",
+          "y": "Nationalized PCT/foreign applications, y"
+        }
+      },
+      "name": "Nationalized PCT/foreign applications, y",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3822:a1f8e4",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3822:fa013b",
+      "y": [
+        "4",
+        "4",
+        "7",
+        "9",
+        "9",
+        "7",
+        "2",
+        "4",
+        "0",
+        "3",
+        "4",
+        "10",
+        "9",
+        "13"
+      ],
+      "marker": {
+        "color": "rgb(214, 39, 40)"
+      }
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "Patents -- Office of Enterprise and Innovation (UNR and DRI*)"
+    },
+    "width": 1218,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2004.2011250265336,
+        2018.7988749734664
+      ],
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": "Fiscal year-ending June 30th"
+      },
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        49.92832199963242
+      ],
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": "#"
+      },
+      "autorange": true
+    },
+    "height": 758,
+    "legend": {
+      "x": 0.3819241982507289,
+      "y": 1.093833780160858,
+      "font": {
+        "size": 11
+      }
+    },
+    "autosize": true,
+    "showlegend": true
+  }
+}

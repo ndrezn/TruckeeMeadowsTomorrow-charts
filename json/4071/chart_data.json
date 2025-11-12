@@ -1,0 +1,294 @@
+{
+  "data": [
+    {
+      "line": {
+        "color": "rgb(168, 169, 173)"
+      },
+      "mode": "lines",
+      "name": "Nevada",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4070:69270a",
+      "x": [
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4070:3d6820",
+      "y": [
+        "29",
+        "28",
+        "28",
+        "29",
+        "29",
+        "30"
+      ],
+      "fillcolor": "rgba(195, 195, 197, 0.5)",
+      "stackgroup": 1
+    },
+    {
+      "line": {
+        "dash": "dot",
+        "color": "rgb(5, 60, 213)",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines",
+      "name": "Clark",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:4070:69270a",
+      "x": [
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4070:cc4ca2",
+      "y": [
+        "31",
+        "31",
+        "31",
+        "31",
+        "32",
+        "32"
+      ],
+      "orientation": "v"
+    },
+    {
+      "line": {
+        "color": "rgb(182, 223, 2)",
+        "shape": "spline",
+        "width": 4
+      },
+      "mode": "lines",
+      "name": "Douglas",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:4070:69270a",
+      "x": [
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4070:ec308e",
+      "y": [
+        "34",
+        "32",
+        "33",
+        "31",
+        "31",
+        "31"
+      ],
+      "stackgroup": null,
+      "orientation": "v"
+    },
+    {
+      "line": {
+        "dash": "dash",
+        "color": "rgb(230, 3, 26)",
+        "shape": "spline",
+        "width": 4
+      },
+      "mode": "lines",
+      "name": "Storey",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:4070:69270a",
+      "x": [
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4070:3a3f0b",
+      "y": [
+        "48",
+        "47",
+        "50",
+        "57",
+        "59",
+        "49"
+      ],
+      "stackgroup": null,
+      "orientation": "v"
+    },
+    {
+      "line": {
+        "color": "rgb(3, 162, 202)",
+        "shape": "spline",
+        "width": 11
+      },
+      "mode": "lines",
+      "name": "Washoe",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:4070:69270a",
+      "x": [
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4070:a23cc7",
+      "y": [
+        "19",
+        "20",
+        "19",
+        "20",
+        "20",
+        "21"
+      ],
+      "marker": {
+        "color": "rgb(23, 85, 238)"
+      },
+      "stackgroup": null,
+      "orientation": "v"
+    },
+    {
+      "line": {
+        "dash": "longdash",
+        "color": "rgb(246, 140, 9)",
+        "shape": "spline",
+        "width": 7
+      },
+      "mode": "lines",
+      "name": "Carson City",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:4070:69270a",
+      "x": [
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4070:1ba620",
+      "y": [
+        "18",
+        "17",
+        "18",
+        "17",
+        "18",
+        "21"
+      ],
+      "marker": {
+        "color": "rgb(145, 210, 3)"
+      },
+      "stackgroup": null,
+      "orientation": "v"
+    },
+    {
+      "line": {
+        "shape": "spline",
+        "width": 4
+      },
+      "mode": "lines",
+      "name": "US",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4070:69270a",
+      "x": [
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4070:e9c47f",
+      "y": [
+        "34",
+        "33",
+        "31",
+        "34",
+        "35",
+        "35"
+      ],
+      "marker": {
+        "color": "rgb(37, 129, 19)"
+      },
+      "orientation": "v"
+    },
+    {
+      "line": {
+        "dash": "dot",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines",
+      "name": "Top performing",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:4070:69270a",
+      "x": [
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:4070:ca6038",
+      "y": [
+        "15",
+        "15",
+        "15",
+        "15",
+        "15",
+        "15"
+      ],
+      "marker": {
+        "color": "rgb(83, 250, 33)"
+      },
+      "orientation": "v"
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "x": 0.5,
+      "font": {
+        "size": 14,
+        "color": "rgb(152, 0, 0)"
+      },
+      "text": "Percentage of workers driving alone, that commute more than 30 minutes"
+    },
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2013.5,
+        2019.5
+      ],
+      "title": {
+        "text": "County Health Ranking year"
+      },
+      "showline": true,
+      "zeroline": false,
+      "autorange": true,
+      "linecolor": "rgb(96, 96, 97)",
+      "linewidth": 1,
+      "zerolinecolor": "rgb(29, 29, 30)",
+      "zerolinewidth": 2
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        62.10526315789474
+      ],
+      "title": {
+        "text": "Percentage (%)"
+      },
+      "autorange": true
+    },
+    "bargap": 0.4,
+    "autosize": true
+  }
+}

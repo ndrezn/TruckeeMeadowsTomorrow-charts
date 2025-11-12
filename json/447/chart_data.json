@@ -1,0 +1,297 @@
+{
+  "data": [
+    {
+      "uid": "c90297",
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Labor force"
+        }
+      },
+      "mode": "markers+lines",
+      "name": "Labor force",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3780:357143",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3780:7b74a9",
+      "y": [
+        "208,503",
+        "216,723",
+        "222,441",
+        "224,365",
+        "220,834",
+        "220,840",
+        "219,619",
+        "219,463",
+        "219,924",
+        "220,570",
+        "223,392",
+        "227,991",
+        "236,461",
+        "247,905",
+        "255,215",
+        "247,852",
+        "251,733",
+        "256,072",
+        "264,836",
+        "267,591",
+        "270,672"
+      ],
+      "marker": {
+        "color": "rgb(44, 160, 44)"
+      }
+    },
+    {
+      "uid": "1de3fd",
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Employed"
+        }
+      },
+      "mode": "markers+lines",
+      "name": "Employed",
+      "type": "bar",
+      "xsrc": "TruckeeMeadowsTomorrow:3780:357143",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3780:db0a00",
+      "y": [
+        "200,280",
+        "208,382",
+        "212,915",
+        "209,131",
+        "196,311",
+        "191,887",
+        "191,407",
+        "194,330",
+        "198,371",
+        "203,367",
+        "209,279",
+        "216,417",
+        "226,656",
+        "239,242",
+        "246,719",
+        "227,627",
+        "241,420",
+        "247,203",
+        "253,239",
+        "254,932",
+        "259,515"
+      ],
+      "marker": {
+        "color": "rgb(23, 190, 207)"
+      }
+    },
+    {
+      "uid": "ba2658",
+      "line": {
+        "dash": "solid",
+        "color": "rgb(14, 109, 176)",
+        "shape": "spline",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Ratio"
+        }
+      },
+      "mode": "lines",
+      "name": "Ratio",
+      "type": "scatter",
+      "xsrc": "TruckeeMeadowsTomorrow:3780:357143",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "ysrc": "TruckeeMeadowsTomorrow:3780:2f6420",
+      "y": [
+        "\u00a0\t0.9605617\u00a0",
+        "\u00a0\t0.9615131\u00a0",
+        "\u00a0\t0.9571752\u00a0",
+        "\u00a0\t0.9321017\u00a0",
+        "\u00a0\t0.8889528\u00a0",
+        "\u00a0\t0.8688960\u00a0",
+        "\u00a0\t0.8715412\u00a0",
+        "\u00a0\t0.8854796\u00a0",
+        "\u00a0\t0.9019980\u00a0",
+        "\u00a0\t0.9220066\u00a0",
+        "\u00a0\t0.9368241\u00a0",
+        "\u00a0\t0.9492348\u00a0",
+        "\u00a0\t0.9585344\u00a0",
+        "\u00a0\t0.9650552\u00a0",
+        "\u00a0\t0.9667104\u00a0",
+        "0.91839888",
+        "0.95903199",
+        "0.96536521",
+        "0.95621064",
+        "0.95269273",
+        "0.95878037"
+      ],
+      "yaxis": "y2"
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 14,
+        "color": "rgb(68, 68, 68)"
+      },
+      "text": "<b>Washoe County employment-to-population ratio</b><br><br>\n<b>Source:</b> Nevada Department of Employment, Training and Rehabilitation (DETR), &nbsp;<a href=\"https://nevadaworkforce.com\">Labor Market Information</a>"
+    },
+    "width": 1487,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2004.5,
+        2025.5
+      ],
+      "title": {
+        "font": {
+          "size": 14
+        },
+        "text": "2025 = August"
+      },
+      "domain": [
+        0,
+        1
+      ],
+      "showgrid": true,
+      "showline": false,
+      "zeroline": false,
+      "autorange": false,
+      "linewidth": 0,
+      "zerolinewidth": 0.4
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        284917.8947368421
+      ],
+      "title": {
+        "text": "Working-age population"
+      },
+      "showgrid": true,
+      "showline": false,
+      "zeroline": false,
+      "autorange": true,
+      "gridwidth": 1,
+      "zerolinewidth": 1
+    },
+    "bargap": 0.5,
+    "height": 815,
+    "legend": {
+      "x": 0.2263582430557889,
+      "y": 0.3621080259704379,
+      "font": {
+        "size": 14
+      }
+    },
+    "yaxis2": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        0.8634618666666667,
+        0.9721445333333333
+      ],
+      "title": {
+        "font": {
+          "color": "rgb(31, 119, 180)"
+        },
+        "text": "Ratio"
+      },
+      "anchor": "x",
+      "showgrid": false,
+      "tickfont": {
+        "color": "rgb(31, 119, 180)"
+      },
+      "zeroline": true,
+      "autorange": true,
+      "gridwidth": 1.5,
+      "overlaying": "y",
+      "zerolinewidth": 0.2
+    },
+    "barmode": "overlay",
+    "autosize": "initial",
+    "showlegend": true,
+    "annotations": [
+      {
+        "x": 2000.4807686510926,
+        "y": 268262.1676585163,
+        "font": {
+          "color": "rgb(152, 0, 0)"
+        },
+        "text": "<b>Not seasonally adjusted</b>",
+        "showarrow": false
+      }
+    ],
+    "bargroupgap": 0,
+    "hidesources": true,
+    "plot_bgcolor": "rgb(255, 255, 255)"
+  }
+}
