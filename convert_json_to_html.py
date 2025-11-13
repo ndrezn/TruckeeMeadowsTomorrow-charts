@@ -38,7 +38,7 @@ def convert_json_to_html(json_path, output_path):
 
     return output_path
 
-def sanitize_filename(title):
+def sanitize_filename(title, max_length=200):
     """Convert a title to a safe filename"""
     # Remove any characters that aren't alphanumeric, spaces, hyphens, or underscores
     safe_name = re.sub(r'[^\w\s-]', '', title)
@@ -48,6 +48,9 @@ def sanitize_filename(title):
     safe_name = re.sub(r'-+', '-', safe_name)
     # Strip leading/trailing hyphens
     safe_name = safe_name.strip('-')
+    # Truncate to max_length to avoid filesystem limits
+    if len(safe_name) > max_length:
+        safe_name = safe_name[:max_length].rstrip('-')
     return safe_name if safe_name else 'chart'
 
 def main():
